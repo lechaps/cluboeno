@@ -78,7 +78,7 @@ This port is released under the MIT License.
 Thanks to [Steve Francia](https://github.com/spf13) for creating Hugo and the awesome community around the project. And also thanks to [goransv](https://github.com/appernetic) for creating this awesome theme.
 
 ## Sponsors
-mmm, i don't have sponsor. But, Do i need them?
+mmm, i don't have sponsors. But do i need them?
 
 [lechaps](https://github.com/lechaps) 
 
