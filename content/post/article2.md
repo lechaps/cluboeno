@@ -13,7 +13,7 @@ Nous sommes vendredi soir. Un peu las de la semaine et avec une envie irresistib
 
 > Attention, ma compagne de boit pas de l’alcool! Elle boit du vin.
 
-Après les présentations d'usages avec le flacon j'ai le plaisir de nous en servir un bon verre.
+Après les présentations d'usages avec le flacon j'ai le plaisir de nous en servir un verre.
 
 ## La dégustation
 
