@@ -1,0 +1,135 @@
+{{ define "body" }}
+<body class="post-template-default single single-post single-format-standard ct-body singular singular-post not-front standard">
+{{ end }}
+
+
+{{ define "main" }}
+  {{ $scratch := newScratch }}
+  {{ if .Site.Params.writers }}
+    {{ $scratch.Set "writer" (index .Site.Params.writers (lower .Params.writer) | default dict) }}
+  {{ else }}
+    {{ $scratch.Set "writer" .Site.Params.social | default dict }}
+  {{ end }}
+  {{ $writer := $scratch.Get "writer" }}
+  <div id="loop-container" class="loop-container">
+    <div class="post type-post status-publish format-standard has-post-thumbnail hentry entry full-without-featured odd excerpt-1">
+      {{ if and (isset .Params "image") .Params.image }}
+        <div class='featured-image lazy lazy-bg-image' {{ if isset .Site.Params "usepostimgfolder" }} data-background="{{ .Permalink }}{{ .Params.image }}"{{ else }} data-background="{{ .Params.image | absURL }}"{{ end }}></div>
+      {{ end }}
+      <div class="entry-meta">
+        <span class="date">{{ .Date.Format "02 January" }}</span>	<span> / </span>
+        <span class="author"><a href="{{ $writer.link | default "" | absURL}}" title="Posts by {{ .Params.writer | default "" }}" rel="author">{{ .Params.writer | default ""}}</a></span>
+        {{ range .Params.categories }}
+          <span class="category"><span> / </span><a href="/categories{{ . | relURL }}">{{ . }}</a></span>
+        {{ end }}
+      </div>
+      <div class='entry-header'><h1 class='entry-title'> {{ .Title }}</h1></div>
+      <div class="entry-container">
+        <div class="entry-content"><article>{{ .Content }}</article></div>
+        <!--
+        <div class="sidebar sidebar-after-post-content" id="sidebar-after-post-content">
+        <section id="text-2" class="widget widget_text">
+          <h2 class="widget-title">After Post Content Widget</h2>
+          <div class="textwidget"><p>This is a widget in the "After Post Content" widget area. It's a great place to include related posts or an email optin form.</p></div>
+        </section>	</div>-->
+        <div class='entry-meta-bottom'>
+          <!--<nav class="further-reading">
+          <p class="prev"><span>Previous Post</span><a href="https://www.competethemes.com/tracks-live-demo/another-awesome-post/">Another Awesome Post</a></p>
+          <p class="next"><span>No Newer Posts</span><a href="https://www.competethemes.com/tracks-live-demo">Return to Blog</a></p>
+          </nav>-->
+          <div class="entry-categories">
+            <p>
+              <span>Catégories</span>
+              {{ range $index, $name := .Params.categories }}
+                <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}" title="View all posts in {{ $name }}">{{ $name }}</a>
+              {{ end }}
+            </p>
+          </div>
+          <div class="entry-tags">
+            <p>
+                <span>Tags</span>
+                {{ range $index, $name := .Params.tags }}
+                  <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" title="View all posts tagged {{ $name }}">{{ $name }}</a>
+                {{ end }}
+            </p>
+          </div>
+        </div>
+        {{ if and (isset .Site.Params "author") .Site.Params.author }}
+        <div class="author-meta">
+          <div class="author">
+          {{ if and (isset .Params "writer") $writer.email }}
+            <img alt='{{ .Params.writer | default .Site.Params.author }}' src="{{$writer.avatar | default .Site.Params.avatar}}" class='avatar avatar-72 photo' height='72' width='72'>
+          {{ else }}
+            <img alt='{{ .Params.writer | default .Site.Params.author }}' src="{{ .Site.Params.avatar }}" class='avatar avatar-72 photo' height='72' width='72'>
+          {{ end }}
+            <span>Servi par :<a href="{{ $writer.link | default .Site.Params.authorlink | absURL}}" title="Posts by {{ .Params.writer | default .Site.Params.author }}" rel="author">{{ .Params.writer | default .Site.Params.author }}</a> </span>
+          </div>
+          <div class="bio">
+            {{ if and (isset .Params "writer") $writer.bio }}
+              {{ range $writer.bio  }}
+                <p>{{ . | default "" | safeHTML }}</p>
+              {{ end }}
+            {{ else }}
+              {{ range .Site.Params.bio  }}
+                <p>{{ . | default "" | safeHTML }}</p>
+              {{ end }}
+            {{ end }}
+            {{ if isset .Params "writer" }}
+              {{ with $writer.facebook }}
+                <a class="facebook" target="_blank" href="{{ . }}"><i class="fa fa-facebook" title="facebook icon"></i></a>
+              {{end}}
+              {{ with $writer.twitter }}
+                <a class="twitter" target="_blank" href="{{ . }}"><i class="fa fa-twitter-square" title="twitter icon"></i></a>
+              {{end}}
+              {{ with $writer.linkedin }}
+                <a class="linkedin" target="_blank" href="{{ . }}"><i class="fa fa-linkedin-square" title="linkedin icon"></i></a>
+              {{end}}
+              {{ with $writer.email }}
+                <a class="email" target="_blank" href="mailto:{{ . }}"><i class="fa fa-envelope" title="email icon"></i></a>
+              {{end}}
+              {{ with $writer.instagram }}
+                <a class="instagram" target="_blank" href="{{ . }}"><i class="fa fa-instagram" title="instagram icon"></i></a>
+              {{end}}
+              {{ with $writer.stackoverflow }}
+                <a class="stackoverflow" target="_blank" href="{{ . }}"><i class="fa fa-stack-overflow" title="stackoverflow icon"></i></a>
+              {{end}}
+              {{ with $writer.github }}
+                <a class="github" target="_blank" href="{{ . }}"><i class="fa fa-github" title="github icon"></i></a>
+              {{end}}
+              {{ with $writer.pinterest }}
+                <a class="pinterest" target="_blank" href="{{ . }}"><i class="fa fa-pinterest" title="pinterest icon"></i></a>
+              {{end}}
+            {{ else }}
+              {{ with .Site.Params.social.facebook }}
+                <a class="facebook" target="_blank" href="{{ . }}"><i class="fa fa-facebook" title="facebook icon"></i></a>
+              {{end}}
+              {{ with .Site.Params.social.twitter }}
+                <a class="twitter" target="_blank" href="{{ . }}"><i class="fa fa-twitter-square" title="twitter icon"></i></a>
+              {{end}}
+              {{ with .Site.Params.social.linkedin }}
+                <a class="linkedin" target="_blank" href="{{ . }}"><i class="fa fa-linkedin-square" title="linkedin icon"></i></a>
+              {{end}}
+              {{ with .Site.Params.social.email }}
+                <a class="email" target="_blank" href="mailto:{{ . }}"><i class="fa fa-envelope" title="email icon"></i></a>
+              {{end}}
+              {{ with .Site.Params.social.instagram }}
+                <a class="instagram" target="_blank" href="{{ . }}"><i class="fa fa-instagram" title="instagram icon"></i></a>
+              {{end}}
+              {{ with .Site.Params.social.stackoverflow }}
+                <a class="stackoverflow" target="_blank" href="{{ . }}"><i class="fa fa-stack-overflow" title="stackoverflow icon"></i></a>
+              {{end}}
+              {{ with .Site.Params.social.github }}
+                <a class="github" target="_blank" href="{{ . }}"><i class="fa fa-github" title="github icon"></i></a>
+              {{end}}
+              {{ with .Site.Params.social.pinterest }}
+                <a class="pinterest" target="_blank" href="{{ . }}"><i class="fa fa-pinterest" title="pinterest icon"></i></a>
+              {{end}}
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    <section id="comments" class="comments">{{ template "_internal/disqus.html" . }}</section>
+  </div>
+{{ end }}
