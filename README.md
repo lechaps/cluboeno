@@ -7,6 +7,13 @@ It's a static web site made with Hugo v 0.52 (www.gohugo.io)
 - Download sources
 - Run Hugo
 
+### Nearly finished
+In order to see your site in action, run Hugo's built-in local server.
+```
+$ hugo server
+```
+Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your browser.
+
 ## Hugo Theme : NederburgByLechaps
 I use a personnal theme, this was ported from Hugo Nederburg (https://github.com/appernetic/hugo-nederburg-theme)
 Features add/modified : 
@@ -64,27 +71,16 @@ In order to support multiple writers, an extra key, "writers" is added, in **con
 ```
 Now you must have an author in the config for the author bio section to be visible. If you have a writer and set it in the markdown file it will override the author in the config. See the exampleSite folder for a working solution.
 
-### Nearly finished
-In order to see your site in action, run Hugo's built-in local server.
-```
-$ hugo server
-```
-Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your browser.
-
-
 ## License
-
 This port is released under the MIT License.
 
-
 ## Thanks
-
 Thanks to [Steve Francia](https://github.com/spf13) for creating Hugo and the awesome community around the project. And also thanks to @goransv (https://github.com/appernetic) for creating this awesome theme.
 
 ## Sponsors
 mmm, i don't have sponsor. But, Do i need them?
 
-#lechapd (https://github.com/lechaps) 
+@lechaps (https://github.com/lechaps) 
 
 
 
