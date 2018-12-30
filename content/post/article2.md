@@ -1,18 +1,17 @@
 +++
-showonlyimage = true
-draft = false
+categories = ["jura"]
+date = "2018-12-29T16:30:22+00:00"
 image = "img/post/article_2.jpg"
-date = "2018-12-29T22:00:22+05:30"
+showonlyimage = true
+tags = ["Mossu"]
 title = "Prestige de Gaillardon - François Mossu"
-writer = "LeChaps"
-categories = [ "jura"]
-tags = [ "Mossu"]
 weight = 2
+writer = "LeChaps"
+
 +++
+Nous sommes vendredi soir. Un peu las de la semaine et avec une envie irresistible de fêter dignement le week-end qui s’annonce, je propose à ma dulcinée d’accompagner notre descente de stress d’un vin issu de mon escapade jurassienne.
 
-Nous sommes vendredi soir. Un peu lasse de la semaine et envie de fêter dignement le week-end qui s’annonce je propose à ma dulcinée d’accompagner notre descente de stress d’un vin issu de mon escapade jurassienne. 
-
->Attention, ma compagne de boit pas de l’alcool! Elle boit du vin.
+> Attention, ma compagne de boit pas de l’alcool! Elle boit du vin.
 
 Après les présentations d'usages avec le flacon j'ai le plaisir de nous en servir un bon verre.
 
@@ -28,5 +27,5 @@ Je décidais d’accompagner cette jolie bouteille de tranches de poisson cru (s
 
 Cette bouteille vient directement du domaine. Une rencontre avec François Mossu qui méritera un article, voire un reportage complet à lui tout seul.
 
-![photo][1]
-[1]: /img/post/article_2.jpg
+!\[photo\]\[1\]
+\[1\]: /img/post/article_2.jpg
