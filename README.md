@@ -1,7 +1,7 @@
-# cluboeno
+# Cluboeno
 Cluboeno website sources
 
-# Hugo Theme
+## Hugo Theme
 I use a personnal theme, forked on Nederburg (https://github.com/appernetic/hugo-nederburg-theme)
 Feature add/modified : 
  - French tradcution
