@@ -27,5 +27,5 @@ Je décidais d’accompagner cette jolie bouteille de tranches de poisson cru (s
 
 Cette bouteille vient directement du domaine. Une rencontre avec François Mossu qui méritera un article, voire un reportage complet à lui tout seul.
 
-!\[photo\]\[1\]
-\[1\]: /img/post/article_2.jpg
+![photo][1]
+[1]: /img/post/article_2.jpg
