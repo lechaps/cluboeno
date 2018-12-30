@@ -1,0 +1,93 @@
+baseurl = "https://www.cluboeno.com/"
+title = "Cluboeno"
+theme = "NederburgByLechaps"
+languageCode = "fr-FR"
+disqusShortname = "cluboeno" # Enable comments by entering your Disqus shortname
+googleAnalytics = "UA-131487813-1" # Enable Google Analytics by entering your tracking code
+preserveTaxonomyNames = true
+paginate = 50 #frontpage pagination
+
+[params]
+  #usepostimgfolder = true # Unmark to use post folder for images. Default is static folder.
+  slogan = "Des copains &amp; du vin"
+  description = "Votre club oenologie en ligne" # meta description
+  copyright = [
+    "&copy; 2018 www.cluboeno.com",
+    "L'alcool est à consommer avec modération...",
+  ]
+  # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
+  author = "LeChaps"
+  authorLink = "www.lechaps.com"
+  avatar = "/img/lechaps_icone.jpg"
+  bio = [
+    "Amoureux du vin depuis toujours, LeChaps est le concepteur de ce site à destination du plus grand nombre."
+  ]
+
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "contact@cluboeno.com"
+
+  # Nav links in the side bar
+  [[menu.main]]
+  name = "Les articles"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "Le Club"
+  url = "about/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Contact"
+  url = "contact/"
+  weight = 3
+
+# this will also be in author bio if there is no writer.
+  [params.social]
+  facebook      = "https://www.facebook.com/lecluboeno"
+  email         = "contact@cluboeno.com"
+  twitter       = "https://twitter.com/club_oeno"
+  instagram     = "https://www.instagram.com/lechaps03"
+  github        = "https://github.com/lechaps/cluboeno"
+  pinterest     = "https://www.pinterest.fr/lechaps03"
+  rss           = true
+
+# Add a writer, then use it in the markdown front matter like this: writer = "the name of the writer"
+  [params.writers]
+    [params.writers."LeChaps"]
+    link = "https://www.lechaps.com"
+    email = "lechaps@cluboeno.com"
+    avatar = "/img/lechaps_icone.jpg"
+    bio = [
+      "On en boira toujours du plus mauvais!"
+    ]
+    facebook      = "https://www.facebook.com/TheChaps"
+    twitter       = "https://www.twitter.com/lechaps"
+    linkedin      = "https://www.linkedin.com/in/romainchapon"
+    instagram     = "https://www.instagram.com/lechaps03"
+    github        = "https://www.github.com/lechaps"
+    pinterest     = "https://www.pinterest.fr/lechaps03"
+    stackoverflow = ""
+
+#   [params.writers."Phil"]
+#    link = "https://appernetic.io/"
+#    email = "phil@cluboeno.com"
+#    avatar = "https://picsum.photos/72/72/?random"
+#    bio = [
+#      "Il est excellent votre vin, j'en prend 6...On est d'accord, je parle de 6 cartons ?!"
+#    ]
+#    facebook      = "full Göran profile url in facebook"
+#    twitter       = "full profile url in twitter"
+#    linkedin      = "full profile url in linkedin"
+#    instagram     = "full profile url in instagram"
+#    pinterest     = "full profile url in pinterest"
