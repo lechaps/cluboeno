@@ -1,6 +1,6 @@
 +++
 categories = ["jura"]
-date = "2018-12-29T16:30:22+00:00"
+date = "2018-12-29T17:30:22+00:00"
 image = "img/post/article_2.jpg"
 showonlyimage = true
 tags = ["Mossu"]
