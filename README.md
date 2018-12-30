@@ -2,7 +2,7 @@
 Cluboeno is a blog about wines, spirit and some multiple and fun stuff
 
 ## Installation
-It's a static web site made with Hugo v 0.52 (www.gohugo.io)
+It's a static web site made with Hugo v0.53 (www.gohugo.io)
 - Install Hugo
 - Download sources
 - Run Hugo
