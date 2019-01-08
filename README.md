@@ -1,5 +1,5 @@
 # Cluboeno
-Cluboeno is a blog about wines, spirist and other fun stuff
+Cluboeno is a blog about wines, spirits and other fun stuff
 
 ## Installation
 It's a static web site made with Hugo v0.53 (www.gohugo.io)
