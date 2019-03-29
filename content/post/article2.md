@@ -5,7 +5,6 @@ image = "img/post/article_2.jpg"
 showonlyimage = true
 tags = ["Mossu"]
 title = "Prestige de Gaillardon - François Mossu"
-weight = 2
 writer = "LeChaps"
 
 +++
