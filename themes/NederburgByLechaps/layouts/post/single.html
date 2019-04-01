@@ -17,7 +17,7 @@
         <div class='featured-image lazy lazy-bg-image' {{ if isset .Site.Params "usepostimgfolder" }} data-background="{{ .Permalink }}{{ .Params.image }}"{{ else }} data-background="{{ .Params.image | absURL }}"{{ end }}></div>
       {{ end }}
       <div class="entry-meta">
-        <span class="date">{{ .Date.Format "02 January" }}</span>	<span> / </span>
+        <span class="date">{{ .Date.Format "Monday 02 January 2006" }}</span>	<span> / </span>
         <span class="author"><a href="{{ $writer.link | default "" | absURL}}" title="Posts by {{ .Params.writer | default "" }}" rel="author">{{ .Params.writer | default ""}}</a></span>
         {{ range .Params.categories }}
           <span class="category"><span> / </span><a href="/categories{{ . | relURL }}">{{ . }}</a></span>
@@ -33,15 +33,19 @@
           <div class="textwidget"><p>This is a widget in the "After Post Content" widget area. It's a great place to include related posts or an email optin form.</p></div>
         </section>	</div>-->
         <div class='entry-meta-bottom'>
-          <!--<nav class="further-reading">
-          <p class="prev"><span>Previous Post</span><a href="https://www.competethemes.com/tracks-live-demo/another-awesome-post/">Another Awesome Post</a></p>
-          <p class="next"><span>No Newer Posts</span><a href="https://www.competethemes.com/tracks-live-demo">Return to Blog</a></p>
-          </nav>-->
+          <nav class="further-reading">
+          {{ with .PrevInSection }}
+            <p class="prev"><span>Article précédent</span><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+          {{ end }}
+          {{ with .NextInSection }}
+            <p class="prev"><span>Article suivant</span><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+          {{ end }}
+          </nav>
           <div class="entry-categories">
             <p>
               <span>Catégories</span>
               {{ range $index, $name := .Params.categories }}
-                <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}" title="View all posts in {{ $name }}">{{ $name }}</a>
+                <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}" title="Voir tous les articles de la catégorie{{ $name }}">{{ $name }}</a>
               {{ end }}
             </p>
           </div>
@@ -49,7 +53,7 @@
             <p>
                 <span>Tags</span>
                 {{ range $index, $name := .Params.tags }}
-                  <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" title="View all posts tagged {{ $name }}">{{ $name }}</a>
+                  <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" title="Voir tous les articles avec le tag {{ $name }}">{{ $name }}</a>
                 {{ end }}
             </p>
           </div>
