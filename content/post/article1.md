@@ -1,19 +1,18 @@
 +++
-showonlyimage = true
-draft = false
-image = "img/post/article_1.jpg"
+categories = ["Dégustation"]
 date = "2018-12-28T20:25:22+05:30"
+image = "img/post/article_1.jpg"
+showonlyimage = true
+tags = [ "bijito", "junmai", "kizakura"]
 title = "Bijito Junmai - Saké de la brasserie Kizakura"
 writer = "LeChaps"
-categories = [ "saké"]
-tags = [ "bijito", "junmai", "kizakura"]
 +++
 
 Il nous est tous arrivés d'être dans ces instants de funambulismes précaires en fin de repas dans un restaurant asiatique pratiquant le menu unique à volonté. Vous venez de parcourir la carte du restaurant pour la septième fois en faisant complaisamment un signe approbateur au patron qui vous invite à vous resservir encore et Angkor. Votre estomac n'en peut plus, votre foie vient de démissionner et votre bouche est en feu, conséquence immédiate des multiples épices que vous venez d'ingurgiter. Alors que ce calvaire sacerdotale se révèle être en même temps un plaisir gargantuesque,  vous jetez l’éponge dans un sublime geste de défaite en demandant l’addition. Le patron, vainqueur timide de ce combat, rédige la note quand, magnanime et chevaleresque, il s'apprête à vous offrir un digestif histoire d’abréger vos souffrances. Voici donc venu le moment du saké. Je vois d’ici les plus lubriques d’entre vous jetez un oeil dans le verre plein et saluer dans une infatuation risible les photos de ces jeunes demoiselles qui attendent que votre verre soit vide pour éviter de s’enrhumer. A croire que le verre de saké est un remède immédiat à la presbytie.
 
 > Non non et non le saké n’est en rien un alcool grotesque qui sent la rose comme un jeune légionnaire qui va au bordel un week-end de permission. Non non et non le saké n’est pas un alcool de riz obtenu par distillation. Pourquoi pas Maître Gims chanter “Saké comme jamais” pendant que vous y êtes ?
 
-Oui, héééééé oui, le saké fait partie de l'univers de la bière. Rangez vos 33 Export, Bavaria et autres Kronenbourg jeunes gens, le saké est obtenu par fermentation successive de riz poli (car c'est connu les japonais sont bien élevés!). 
+Oui, héééééé oui, le saké fait partie de l'univers de la bière. Rangez vos 33 Export, Bavaria et autres Kronenbourg jeunes gens, le saké est obtenu par fermentation successive de riz poli (car c'est connu les japonais sont bien élevés!).
 
 ## La dégustation
 
