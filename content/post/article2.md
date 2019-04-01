@@ -1,18 +1,18 @@
 +++
-categories = ["jura"]
+categories = ["Dégustation"]
 date = "2018-12-29T17:30:22+00:00"
 image = "img/post/article_2.jpg"
 showonlyimage = true
-tags = ["Mossu"]
+tags = ["Mossu", "Jura"]
 title = "Prestige de Gaillardon - François Mossu"
 writer = "LeChaps"
-
 +++
+
 Nous sommes vendredi soir. Un peu las de la semaine et avec une envie irresistible de fêter dignement le week-end qui s’annonce, je propose à ma dulcinée d’accompagner notre descente de stress d’un vin issu de mon escapade jurassienne.
 
 > Attention, ma compagne de boit pas de l’alcool! Elle boit du vin.
 
-Après les présentations d'usages avec le flacon j'ai le plaisir de nous en servir un verre.
+Après les présentations d'usages avec le flacon j'ai le plaisir de nous en servir un bon verre.
 
 ## La dégustation
 

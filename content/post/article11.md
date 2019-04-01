@@ -1,0 +1,15 @@
++++
+categories = ["Histoire"]
+date = "2019-01-09T17:30:22+00:00"
+showonlyimage = false
+tags = ["viticulture", "vitis vinifera"]
+title = "Les origines de la viticulture"
+writer = "LeChaps"
++++
+
+La primo-domestication de la vigne par l'homme a sans doute eu lieu au cours du néolithique, il y a environ 8 000 ans, dans le croissant fertile, qui s'étendait de l'est de la Méditerranée au golfe Persique. On considère que cet événement découle de la sélection du gène hermaphrodite qui permet un meilleur rendement et une production plus régulière. Aujourd'hui, la vigne domestique correspond à la sous-espèce vinifera de vitis vinifera. Elle offre une grande diversité, avec plus de 6 000 variétés cultivées, qui peuvent donner du vin, du raisin de table ou des raisins secs.  
+Il faut bien faire la distinction entre les origines de la vigne et les origines de la viticulture. Suite aux débuts de la domestication et au cours de l'Antiquité, avec les Phéniciens, les Grecs et les Romains, la viticulture et la viniculture se sont répandues par étapes, tout d'abord, dans les régions voisines, comme le Caucase, puis vers l'est, et vers l'ouest, de l'autre côté de la Méditerranée. En parallèle de cette expansion, on a eu un flux de gènes et de génotypes, et sans doute des foyers secondaires de domestication.  
+
+En France, les tout premiers vignobles furent installés par les Phocéens, aux environs de la ville actuelle de Marseille. C'était aux alentours de 600 avant Jésus-Christ. Le vin de cette période n'a pas grand chose à voir avec notre vin actuel : coupé à l'eau il est par ailleurs parfumé d'herbes et d'aromates divers. À partir de là, la viticulture s'est répandue dans le pays, vers l'ouest et le nord, grâce aux Romains, puis à l'Église catholique. Chaque monastère possède ses vignes et les moines s'attachent à développer les techniques viticoles et vinicoles. Le vin tel que nous le consommons de nos jours apparaît. Grâce à la révolution française, les paysans retrouvent la liberté de culture et bénéficient de la redistribution des terres du clergé. La vigne devient une activité telle qu'elle modèle le paysage. A la fin du XIXème siècle, le phylloxéra donne un coup d'arrêt terrible à cette prospérité viticole. Elle est cependant relancée par de gros investissements et l'apparition d'une science nouvelle : l'oenologie.  
+
+Au cours du Moyen Âge, la culture de vitis vinifera s'est limitée aux pays et régions où le génotype sauvage d'origine sylvestris existait déjà, soit en Asie occidentale, au Moyen-Orient, en Europe et en Afrique du Nord. Les aires géographiques de vitis sylvestris et de la vigne domestique vitis vinifera se superposaient. Ce n'est que depuis le XVIe siècle que la culture de vitis vinifera s'est étendue aux pays du Nouveau Monde, où vitis sylvestris n'existait pas, à commencer par l'Amérique Centrale et du Sud. Puis, aux XVIIe et XVIIIe siècles, elle s'est étendue à l'Amérique du Nord, l'Afrique du Sud, l'Australie, et la Nouvelle-Zélande. Aujourd'hui, on pratique la culture de la vigne dans plus de 60 pays et dans les deux hémisphères, et jusqu'aux régions tropicales, au nord.
