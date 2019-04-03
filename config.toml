@@ -7,6 +7,11 @@ googleAnalytics = "UA-131487813-1" # Enable Google Analytics by entering your tr
 preserveTaxonomyNames = true
 paginate = 50 #frontpage pagination
 
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS", "json"]
+  page = ["HTML"]
+
 [params]
   #usepostimgfolder = true # Unmark to use post folder for images. Default is static folder.
   slogan = "Des copains &amp; du vin"
