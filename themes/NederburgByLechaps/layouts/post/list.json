@@ -1,0 +1,18 @@
+{{ define "response" }}
+{
+  {{ with .Section }}"section" : "{{ . }}", {{ end }}
+  "count" : "{{ len .Data.Pages }}",
+  "items" : [ {{ range $i, $e := .Data.Pages }}{{ if $i }}, {{ end }} 
+  { 
+    "title": "{{ .Title }}",
+    "date": "{{ .Date }}",
+    "permalink" : "{{ .Permalink }}",
+    "fuzzywordcount" : "{{ .FuzzyWordCount }}",
+    "wordcount" : "{{ .WordCount }}",
+    "content" : "{{ .Content }}",
+    "rawcontent" : "{{ .RawContent }}",
+    "tags" : "{{ .Params.tags }}", 
+    "category " : "{{ .Params.categories }}" 
+  }
+  {{ end }} ] }
+{{ end }}
