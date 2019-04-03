@@ -1,5 +1,5 @@
 +++
-categories = ["Vinification & Elevage"]
+categories = ["Cave"]
 date = "2019-01-15T17:30:22+00:00"
 showonlyimage = false
 tags = ["cubitainer", "bag-in-box"]
