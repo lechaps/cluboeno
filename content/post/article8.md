@@ -1,5 +1,5 @@
 +++
-categories = ["Régions & Appellations"]
+categories = ["Vignoble"]
 date = "2019-01-06T17:30:22+00:00"
 showonlyimage = false
 tags = ["Cahors", "malbec", "cot", "auxerrois"]

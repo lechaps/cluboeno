@@ -1,5 +1,5 @@
 +++
-categories = ["Vinification & Elevage"]
+categories = ["Histoire"]
 date = "2019-01-12T17:30:22+00:00"
 showonlyimage = false
 tags = ["consommation", "économie"]

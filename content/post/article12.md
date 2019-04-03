@@ -1,5 +1,5 @@
 +++
-categories = ["Vinification & Elevage"]
+categories = ["Viticulture"]
 date = "2019-01-10T17:30:22+00:00"
 showonlyimage = false
 tags = ["repos hivernal", "débourrement", "croissance de la vigne", "floraison", "nouaison", "maturation"]
