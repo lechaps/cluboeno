@@ -1,5 +1,5 @@
 +++
-categories = ["Régions & Appellations"]
+categories = ["Vignoble"]
 date = "2019-01-14T17:30:22+00:00"
 showonlyimage = false
 tags = ["Saint-Chinian", "rolle", "grenache", "roussane", "mourvèdre", "syrah"]

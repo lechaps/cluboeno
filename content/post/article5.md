@@ -2,7 +2,7 @@
 categories = ["Cépages"]
 date = "2019-01-03T17:30:22+00:00"
 showonlyimage = false
-tags = ["nielluccio, sangiovese"]
+tags = ["nielluccio, sangiovese", "Corse", "Italie", "Toscane"]
 title = "Le nielluccio"
 writer = "LeChaps"
 +++
