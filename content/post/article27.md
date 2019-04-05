@@ -1,5 +1,5 @@
 +++
-categories = ["Vignoble"]
+categories = ["Vignobles"]
 date = "2019-01-25T17:30:22+00:00"
 showonlyimage = false
 tags = ["Jura", "Arbois", "poulsard", "Pupillin", "trousseau", "chardonnay", "pinot blanc", "savagnin", "vin de voile", "vin de paille", "vin jaune", "crémant", "macvin"]
