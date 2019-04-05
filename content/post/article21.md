@@ -1,5 +1,5 @@
 +++
-categories = ["Vignoble"]
+categories = ["Vignobles"]
 date = "2019-01-19T17:30:22+00:00"
 showonlyimage = false
 tags = ["côte vermeille", "Collioure", "Banyuls", "muscat", "Rivesaltes"]
