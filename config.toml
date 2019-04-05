@@ -14,7 +14,7 @@ paginate = 50 #frontpage pagination
 
 [params]
   #usepostimgfolder = true # Unmark to use post folder for images. Default is static folder.
-  slogan = "Des copains &amp; du vin"
+  slogan = "L'oenologie pour tous"
   description = "Votre club oenologie en ligne" # meta description
   copyright = [
     "&copy; 2019 www.cluboeno.com",
@@ -83,16 +83,3 @@ paginate = 50 #frontpage pagination
     github        = "https://github.com/lechaps/cluboeno"
     pinterest     = "https://www.pinterest.fr/lechaps03"
     stackoverflow = ""
-
-#   [params.writers."Phil"]
-#    link = "https://appernetic.io/"
-#    email = "phil@cluboeno.com"
-#    avatar = "https://picsum.photos/72/72/?random"
-#    bio = [
-#      "Il est excellent votre vin, j'en prend 6...On est d'accord, je parle de 6 cartons ?!"
-#    ]
-#    facebook      = "full Göran profile url in facebook"
-#    twitter       = "full profile url in twitter"
-#    linkedin      = "full profile url in linkedin"
-#    instagram     = "full profile url in instagram"
-#    pinterest     = "full profile url in pinterest"
