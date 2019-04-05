@@ -74,7 +74,7 @@ paginate = 50 #frontpage pagination
     email = "lechaps@cluboeno.com"
     avatar = "/img/lechaps_icone.jpg"
     bio = [
-      " Avant de dire qu'un vin est mauvais pensez à ceux qu'ils l'on fait et au prix qu'il vous a couté. Parce qu'au final, \"Quoi qu'il arrive, on en boira toujours du plus mauvais\" "
+      " Avant de dire qu'un vin est mauvais pensez à ceux qui l'ont fait et à ce qu'il vous a couté. Parce qu'au final, \"quoi qu'il arrive, on en boira toujours du plus mauvais\" ! "
     ]
     facebook      = "https://www.facebook.com/TheChaps"
     twitter       = "https://www.twitter.com/lechaps"
