@@ -9,7 +9,6 @@
     "permalink" : "{{ .Permalink }}",
     "fuzzywordcount" : "{{ .FuzzyWordCount }}",
     "wordcount" : "{{ .WordCount }}",
-    "content" : "{{ .Content }}",
     "rawcontent" : "{{ .RawContent }}",
     "tags" : "{{ .Params.tags }}", 
     "category " : "{{ .Params.categories }}" 
