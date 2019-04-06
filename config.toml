@@ -74,7 +74,7 @@ paginate = 50 #frontpage pagination
     email = "lechaps@cluboeno.com"
     avatar = "/img/lechaps_icone.jpg"
     bio = [
-      " Avant de dire qu'un vin est mauvais pensez à ceux qui l'ont fait et à ce qu'il vous a couté. Parce qu'au final, \"quoi qu'il arrive, on en boira toujours du plus mauvais\" ! "
+      "Avant de dire qu'un vin est mauvais pensez à ceux qui l'ont fait et à ce qu'il vous a couté. Parce qu'au final, \"quoi qu'il arrive, on en boira toujours du plus mauvais\" ! "
     ]
     facebook      = "https://www.facebook.com/TheChaps"
     twitter       = "https://www.twitter.com/lechaps"
@@ -82,4 +82,19 @@ paginate = 50 #frontpage pagination
     instagram     = "https://www.instagram.com/club_oeno"
     github        = "https://github.com/lechaps/cluboeno"
     pinterest     = "https://www.pinterest.fr/lechaps03"
+    stackoverflow = ""
+
+    [params.writers."Thomas"]
+    link = ""
+    email = ""
+    avatar = "/img/thomas_icone.jpg"
+    bio = [
+      "Dans la vie, faut être curieux ! Signé un découvreur de belles émotions."
+    ]
+    facebook      = ""
+    twitter       = ""
+    linkedin      = ""
+    instagram     = ""
+    github        = ""
+    pinterest     = ""
     stackoverflow = ""
