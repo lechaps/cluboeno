@@ -61,7 +61,7 @@
         {{ if and (isset .Site.Params "author") .Site.Params.author }}
         <div class="author-meta">
           <div class="author">
-          {{ if and (isset .Params "writer") $writer.email }}
+          {{ if and (isset .Params "writer") $writer.avatar }}
             <img alt='{{ .Params.writer | default .Site.Params.author }}' src="{{$writer.avatar | default .Site.Params.avatar}}" class='avatar avatar-72 photo' height='72' width='72'>
           {{ else }}
             <img alt='{{ .Params.writer | default .Site.Params.author }}' src="{{ .Site.Params.avatar }}" class='avatar avatar-72 photo' height='72' width='72'>
