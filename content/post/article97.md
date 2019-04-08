@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2019-04-04T17:30:22+00:00"
-image = "img/post/article_90.jpg"
+image = "img/post/article_97.jpg"
 showonlyimage = false
 tags = ["Margaux"]
 title = "Coup de poker !"
