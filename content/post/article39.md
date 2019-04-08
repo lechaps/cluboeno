@@ -18,6 +18,6 @@ writer = "LeChaps"
 * 1 oenologue sur 3 en France est une femme
 * Les repères de modérations :  
   * 3 verres maximum par jour pour les hommes
-  * 2 verres maximum par jour pour les hommes
+  * 2 verres maximum par jour pour les femmes
   * 1 jour d'abstinence par semaine
   * 4 verres maximum en une seule occasion...
