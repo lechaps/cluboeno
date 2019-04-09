@@ -1,4 +1,4 @@
-<h1 class="screen-reader-text">Posts</h1>
+<h1 class="screen-reader-text">Articles</h1>
 
 <div id="loop-container" class="loop-container">
 	{{ $paginator := .Paginate (where (where .Site.Pages "Type" "post") "IsPage" true) }}
