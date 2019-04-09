@@ -14,3 +14,7 @@ La source de notre bonne ambiance de soirée tripot avec nos cartes à jouer et 
 C’est le moment de déguster, verdict : tanins arrondis, nez boisé, vanillé, c’est un vin suave. Son périple n’a pas laissé de traces, plutôt une belle aventure partagée entre copains !  
 
 Et pour la petite histoire, j’ai eu plus de chance avec cette bouteille qu’avec mes jetons...
+
+
+![photo][1]
+[1]: /img/post/article_97.jpg
