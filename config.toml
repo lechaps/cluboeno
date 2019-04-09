@@ -2,6 +2,7 @@ baseurl = "https://www.cluboeno.com/"
 title = "Cluboeno"
 theme = "NederburgByLechaps"
 languageCode = "fr-FR"
+defaultContentLanguage = "fr"
 disqusShortname = "cluboeno" # Enable comments by entering your Disqus shortname
 googleAnalytics = "UA-131487813-1" # Enable Google Analytics by entering your tracking code
 preserveTaxonomyNames = true
@@ -15,7 +16,7 @@ paginate = 50 #frontpage pagination
 [params]
   #usepostimgfolder = true # Unmark to use post folder for images. Default is static folder.
   slogan = "L'oenologie pour tous"
-  description = "Votre club oenologie en ligne" # meta description
+  description = "Votre club oenologie en ligne. Des dégustations, des articles, des informations, tout ce que vous devez savoir si vous aimez le vin, les spiritueux et le partage." # meta description
   copyright = [
     "&copy; 2019 www.cluboeno.com",
     "L'alcool est à consommer avec modération...",
@@ -57,6 +58,11 @@ paginate = 50 #frontpage pagination
   url = "contact/"
   weight = 3
 
+  [[menu.main]]
+  name = "Recherche"
+  url = "tags/"
+  weight = 4
+
 # this will also be in author bio if there is no writer.
   [params.social]
   facebook      = "https://www.facebook.com/lecluboeno"
@@ -74,7 +80,7 @@ paginate = 50 #frontpage pagination
     email = "lechaps@cluboeno.com"
     avatar = "/img/lechaps_icone.jpg"
     bio = [
-      "Avant de dire qu'un vin est mauvais pensez à ceux qui l'ont fait et à ce qu'il vous a couté. Parce qu'au final, \"quoi qu'il arrive, on en boira toujours du plus mauvais\" ! "
+      "Avant de dire qu'un vin est mauvais pensez à ceux qui l'ont fait et à ce qu'il vous a couté. Parce qu'au final, « quoi qu'il arrive, on en boira toujours du plus mauvais » ! "
     ]
     facebook      = "https://www.facebook.com/TheChaps"
     twitter       = "https://www.twitter.com/lechaps"

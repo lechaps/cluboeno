@@ -1,0 +1,12 @@
+{{ define "item" }}
+  { 
+    "title": "{{ .Title }}",
+    "date": "{{ .Date }}",
+    "permalink" : "{{ .Permalink }}",
+    "fuzzywordcount" : "{{ .FuzzyWordCount }}",
+    "wordcount" : "{{ .WordCount }}",
+    "rawcontent" : "{{ .RawContent }}",
+    "tags" : "{{ .Params.tags }}", 
+    "category " : "{{ .Params.categories }}" 
+  }
+{{ end }}
