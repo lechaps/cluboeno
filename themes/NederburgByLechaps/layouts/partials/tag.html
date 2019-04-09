@@ -1,6 +1,6 @@
 <div class="archive-header">
 	<h1>
-		Tag: {{ .Title }}
+		Tag : {{ .Title }}
 		{{ if .Site.Params.social.rss }}
 		<a href="{{ .RSSLink }}" data-animate-hover="pulse" class="in-page-rss" target="_blank">
             <i class="fa fa-rss" title="rss"></i>
@@ -10,7 +10,7 @@
 	</h1>
 </div>
 
-<h1 class="screen-reader-text">Posts</h1>
+<h1 class="screen-reader-text">Articles</h1>
 <div id="loop-container" class="loop-container">
   {{ range $index, $element := (where .Data.Pages "Section" "post") }}
 	{{ if and (isset .Params "image") .Params.image }}

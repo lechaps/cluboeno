@@ -9,8 +9,8 @@ preserveTaxonomyNames = true
 paginate = 50 #frontpage pagination
 
 [outputs]
-  home = ["HTML", "RSS"]
-  section = ["HTML", "RSS", "json"]
+  home = ["HTML"]
+  section = ["HTML", "json"]
   page = ["HTML"]
 
 [params]
