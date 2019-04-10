@@ -1,27 +1,19 @@
 <div class='container'>
-
   <div id="menu-secondary" class="menu-container menu-secondary" role="navigation">
     <button id="toggle-secondary-navigation" class="toggle-secondary-navigation"><i class="fa fa-plus"></i></button>
-
     <div class="menu">
-
       <ul id="menu-secondary-items" class="menu-secondary-items">
-        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+      {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
         <li id="menu-item" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item">
           <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
         </li>
-        {{ end }}
-
+      {{ end }}
       </ul>
-
     </div>
-
   </div>
 
 
   <ul class="social-media-icons">
-
-
     {{ with .Site.Params.social.facebook }}
     <li>
       <a href="{{ . }}" data-animate-hover="pulse" class="facebook" target="_blank">
@@ -113,6 +105,5 @@
       </a>
     </li>
     {{end}}
-
 
   </ul></div>

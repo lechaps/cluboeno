@@ -2,7 +2,7 @@
 categories = ["Vignobles"]
 date = "2019-01-26T17:30:22+00:00"
 showonlyimage = false
-tags = ["Bandol", "mourvèdre", "cinsault", "grenache", "ugni"]
+tags = ["AOC", "Bandol", "mourvèdre", "cinsault", "grenache", "ugni"]
 title = "AOC : Bandol"
 writer = "LeChaps"
 +++

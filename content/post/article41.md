@@ -2,12 +2,12 @@
 categories = ["Vignobles"]
 date = "2019-02-07T17:30:22+00:00"
 showonlyimage = false
-tags = ["Vouvray", "Loire", "mousseux", "pétillant", "Touraine", "chenin"]
-title = "Vouvray"
+tags = ["AOC", "Vouvray", "Val de Loire", "mousseux", "pétillant", "Touraine", "chenin"]
+title = "AOC Vouvray"
 writer = "LeChaps"
 +++
 
-Produit à partir du cépage chenin dans la région de Vouvray en Touraine, le vouvray ets un vin blanc élaboré en vin tranquille ou en vin effervescent (mousseux ou pétillant), existant chacun en brut, demi-sec ou moelleux. Cette variété est le reflet des différents microclimats propres à chaque vallée de la Loire.  
+Produit à partir du cépage chenin dans la région de Vouvray en Touraine, le vouvray est un vin blanc élaboré en vin tranquille ou en vin effervescent (mousseux ou pétillant), existant chacun en brut, demi-sec ou moelleux. Cette variété est le reflet des différents microclimats propres à chaque vallée de la Loire.  
 
 Riches en note d'acacia, de rose et d'agrumes dans leur jeunesse, les AOC vouvray révèlent des notres confites de coing et de miel après un long vieillisement en cave. Ils font notamment d'excellent apéritifs.  
 

@@ -1,8 +1,8 @@
 +++
-categories = ["Savoir Boire"]
+categories = ["Savoir boire"]
 date = "2019-02-21T17:30:22+00:00"
 showonlyimage = false
-tags = [""]
+tags = []
 title = "La mention « mis en bouteille à la propriété » garantit-elle la qualité des vins ?"
 writer = "Lechaps"
 +++
