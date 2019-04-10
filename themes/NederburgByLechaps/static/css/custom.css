@@ -12,7 +12,6 @@
 .entry-categories a,
 .entry-tags span,
 .entry-tags a, .author-meta .author span, .comments-number h2, .comment-author div, .design-credit, .singular-attachment .attachment-caption, .widget li, .menu-footer-items a, .menu-secondary-items a {
-  font-size: 0.813em;
   line-height: 1.85;
 }
 

@@ -2,7 +2,7 @@
 categories = ["Cépages"]
 date = "2019-01-24T17:30:22+00:00"
 showonlyimage = false
-tags = ["pinot noir", "Bourgogne", "Alsace", "Loire", "Sancerre", "Champagne", "Allemagne", "Suisse", "Nouvelle-Zélande", "Canada", "Etats-Unis"]
+tags = ["pinot noir", "Bourgogne", "Alsace", "Val de Loire", "Sancerre", "Champagne", "Allemagne", "Suisse", "Nouvelle-Zélande", "Canada", "Etats-Unis"]
 title = "Le pinot noir"
 writer = "LeChaps"
 +++

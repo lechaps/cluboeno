@@ -2,7 +2,7 @@
 categories = ["Vignobles"]
 date = "2019-02-10T17:30:22+00:00"
 showonlyimage = false
-tags = ["Pouilly", "Bourgogne", "Centre-Loire", "pouilly-fuissé", "pouilly-loché", "pouilly-vinzelles", "pouilly-fumé", "pouilly-sur-loire"]
+tags = ["Pouilly", "Bourgogne", "Centre-Loire", "Val de Loire", "pouilly-fuissé", "pouilly-loché", "pouilly-vinzelles", "pouilly-fumé", "pouilly-sur-loire"]
 title = "Les vin de Pouilly viennent-ils tous de la même région ?"
 writer = "LeChaps"
 +++
