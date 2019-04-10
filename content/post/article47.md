@@ -2,7 +2,7 @@
 categories = ["Vignobles"]
 date = "2019-02-13T17:30:22+00:00"
 showonlyimage = false
-tags = ["Côte de Nuit", "Bourgogne", "calcaire"]
+tags = ["AOC", "Côte de Nuit", "Bourgogne", "calcaire"]
 title = "AOC : Marsannay"
 writer = "LeChaps"
 +++
