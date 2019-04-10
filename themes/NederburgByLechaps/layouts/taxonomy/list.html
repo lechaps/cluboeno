@@ -6,14 +6,19 @@
 <div id="main" class="main" role="main">
     <div id="loop-container" class="loop-container">
   	    <div class="entry">
-            <div class="entry-header"><h1 class="entry-title">{{ .Title }}</h1>(recherche par mots-clés)</div>
+            <div class="entry-header"><h1 class="entry-title">{{ .Title }}</h1>(recherche par mots-clés et leur nombre d'apparition)</div>
             <div class="entry-container">
                 <div class="entry-content">
                     <div class="entry-tags">
                             {{ $data := .Data }}
+                            {{ $flag := 0 }}
                             {{ range $key, $value := $data.Terms.ByCount }}
-                            {{ $weight := $value.Count }} 
-                            <a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}/">{{ $value.Name }}</a>
+                                {{ $weight := $value.Count }} 
+                                {{if ne $weight $flag}}
+                                    <hr>({{ $weight}})
+                                {{end}}
+                                <a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}/">{{ $value.Name }}</a>
+                                {{ $flag = $weight }}
                             {{ end }}
                     </div>
                 </div>
