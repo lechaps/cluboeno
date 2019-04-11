@@ -4,7 +4,7 @@ date = "2019-02-28T17:30:22+00:00"
 showonlyimage = false
 tags = ["Alsace", "Jura", "flute", "clavelin", "Bordeaux", "Sud-Ouest", "Languedoc", "Rousillon", "Bourgogne", "Vallée du Rhônes", "Val de Loire", "Beaujolais", "Sancerre", "vin jaune"]
 title = "La forme des bouteilles"
-writer = "Lechaps"
+writer = "LeChaps"
 +++
 
 Certaines sont réglementées, comme la flûte réservée aux vins d'Alsace, ou le clavelin pour les vins jaunes jurassiens.  
