@@ -4,7 +4,7 @@ date = "2019-02-26T17:30:22+00:00"
 showonlyimage = false
 tags = ["ennemis du vin"]
 title = "Les ennemis du vin : certains aliments"
-writer = "Lechaps"
+writer = "LeChaps"
 +++
 
 * **L'asperge** : très parfumée et riche en acide sulfureux, elle dénature la plupart du temps le goût du vin. On peut éventuellement la faire griller pour en adoucir le goût, auquel cas elle s'accord raisonnablement avec un blanc, fruité et acide.
