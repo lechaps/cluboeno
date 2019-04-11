@@ -4,7 +4,7 @@ date = "2019-02-21T17:30:22+00:00"
 showonlyimage = false
 tags = []
 title = "La mention « mis en bouteille à la propriété » garantit-elle la qualité des vins ?"
-writer = "Lechaps"
+writer = "LeChaps"
 +++
 
 Non : cette mention signifie que le vin a été mis en bouteille sur la propriété où est porduit le vin. Elle garantit la provenance mais pas la qualité, même si l'on peut estimer qu'elle en est un indice.  

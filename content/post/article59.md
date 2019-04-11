@@ -4,7 +4,7 @@ date = "2019-02-25T17:30:22+00:00"
 showonlyimage = false
 tags = ["Alsace", "Haut-Koenigsbourg", "Colmar", "pinot noir", "effervescent", "moelleux"]
 title = "La route des vins d'Alsace : du Haut-Koenigsbourg à Colmar"
-writer = "Lechaps"
+writer = "LeChaps"
 +++
 
 La route des vins d'Alsace ? Un long ruban de vignes au pied des Vosges, 170 km jalonnées de villages pittoresques. Si le moindre d'entre eux offre un résumé du vignoble, le tronçon central, autour de Colmarn est le plus visité. Dans ce pays de petites propriétés familiales, les producteurs sont souvent enracinés sur leurs terres depuis des siècles.  

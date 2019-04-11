@@ -13,6 +13,11 @@ paginate = 50 #frontpage pagination
   section = ["HTML", "json"]
   page = ["HTML"]
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  writer = "writer"
+
 [params]
   #usepostimgfolder = true # Unmark to use post folder for images. Default is static folder.
   slogan = "L'oenologie pour tous"
@@ -23,7 +28,7 @@ paginate = 50 #frontpage pagination
   ]
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = "LeChaps"
-  authorLink = "www.lechaps.com"
+  authorLink = "."
   avatar = "/img/lechaps_icone.jpg"
   bio = [
     "Amoureux du vin depuis toujours, LeChaps est le concepteur de ce site à destination du plus grand nombre."
