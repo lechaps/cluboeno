@@ -11,7 +11,7 @@ Durant le repos hivernal , la plupart des cépages ont perdu leurs feuilles. La 
 Au début de l'été , la floraison et la nouaison sont des étapes importantes dont dépendra la charge fruitière de la vigne. Après quoi, on a la véraison , un terme d'ancien français désignant le début de la maturation. Pour certains cépages noirs, c'est à ce moment que les baies passent du vert au violet.  
 Enfin, de la fin de l'été au début de l'automne , les baies mûrissent jusqu'aux vendanges.  
 
-Les étapes du cycle de croissance en détail : 
+Les étapes du cycle de croissance en détail :
 
 * **Le repos hivernal**  
 Au cours de cette période, la vigne et les bourgeons doivent résister au gel. Les cépages traditionnels, vitis vinifera, peuvent résister à -15 degrés pendant quelques heures, en moyenne, car cela varie d'un cépage à l'autre. Mais certains hybrides et cépages spécifiques peuvent résister à -20 degrés pendant quelques heures. C'est aussi durant cette période que la sève circule peu dans la vigne. Cela peut donc être la bonne période pour tailler la vigne. Dans certains cas, il vaut cependant mieux attendre le début de la montée de sève.  
