@@ -2,7 +2,7 @@
 categories = ["Histoire", "Viticulture"]
 date = "2019-02-06T17:30:22+00:00"
 showonlyimage = false
-tags = ["Turquie", "Géorgie", "Arménie", "Azerbaïdjan", "Jordanie", "Israël", "Egypte", "Grèce"]
+tags = ["turquie", "géorgie", "arménie", "azerbaïdjan", "jordanie", "israël", "égypte", "grèce"]
 title = "L'invention de la viticulture"
 writer = "LeChaps"
 +++

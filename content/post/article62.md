@@ -1,8 +1,8 @@
 +++
-categories = ["Savoir boire"]
+categories = ["Cave"]
 date = "2019-02-28T17:30:22+00:00"
 showonlyimage = false
-tags = ["Alsace", "Jura", "flute", "clavelin", "Bordeaux", "Sud-Ouest", "Languedoc", "Rousillon", "Bourgogne", "Vallée du Rhônes", "Val de Loire", "Beaujolais", "Sancerre", "vin jaune"]
+tags = ["alsace", "jura", "flute", "clavelin", "bordeaux", "sud-ouest", "languedoc", "rousillon", "bourgogne", "vallée du rhônes", "val de Loire", "beaujolais", "sancerre", "vin jaune"]
 title = "La forme des bouteilles"
 writer = "LeChaps"
 +++
