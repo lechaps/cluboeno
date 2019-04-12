@@ -2,7 +2,7 @@
 categories = ["Cépages"]
 date = "2019-02-02T17:30:22+00:00"
 showonlyimage = false
-tags = ["Merlot", "Bordeaux", "Pomerol", "Graves", "Médoc", "Italie", "Frioul", "Ombrie", "Californie"]
+tags = ["merlot", "bordeaux", "pomerol", "graves", "médoc", "italie", "frioul", "ombrie", "californie"]
 title = "Le merlot"
 writer = "LeChaps"
 +++
