@@ -2,7 +2,7 @@
 categories = ["Vignobles"]
 date = "2019-02-27T17:30:22+00:00"
 showonlyimage = false
-tags = ["AOC", "Corse", "Ajaccio", "sol granitique", "sciaccarellu", "vermentinu"]
+tags = ["aoc", "corse", "ajaccio", "sol granitique", "sciaccarellu", "vermentinu"]
 title = "AOC Ajaccio"
 writer = "LeChaps"
 +++

@@ -3,7 +3,7 @@
     <button id="toggle-secondary-navigation" class="toggle-secondary-navigation"><i class="fa fa-plus"></i></button>
     <div class="menu">
       <ul id="menu-secondary-items" class="menu-secondary-items">
-      {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
         <li id="menu-item" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item">
           <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
         </li>
