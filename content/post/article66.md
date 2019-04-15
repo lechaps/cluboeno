@@ -2,7 +2,7 @@
 categories = ["Savoir boire"]
 date = "2019-03-04T17:30:22+00:00"
 showonlyimage = false
-tags = ["accord mets-vins", "dessert", "muscat", "gaillac", "moelleux", "pacherenc-du-vic-bilh", "riesling", "gewurztraminer", "vendanges tardives", "vin doux naturel", "vin de liqueur", "pineau-des-charentes", "floc-de-gascogne", "val de loire", "sud-ouest", "alsace", "bordeaux", "banuyls"]
+tags = ["accords mets-vins", "dessert", "muscat", "gaillac", "moelleux", "pacherenc-du-vic-bilh", "riesling", "gewurztraminer", "vendanges tardives", "vin doux naturel", "vin de liqueur", "pineau-des-charentes", "floc-de-gascogne", "val de loire", "sud-ouest", "alsace", "bordeaux", "banuyls"]
 title = "Accords met-vins : les dessert à base de fruits"
 writer = "LeChaps"
 +++
