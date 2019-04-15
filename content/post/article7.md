@@ -2,7 +2,7 @@
 categories = ["Savoir boire"]
 date = "2019-01-05T17:30:22+00:00"
 showonlyimage = false
-tags = ["volailles", "accord mets-vins", "poulet", "pinot noir", "bourgogne", "alsace", "val de loire", "beaujolais", "tannins séveux", "volnay"]
+tags = ["volailles", "accords mets-vins", "poulet", "pinot noir", "bourgogne", "alsace", "val de loire", "beaujolais", "tannins séveux", "volnay"]
 title = "Les accords mets-vins : les volailles rôties et mijotées"
 writer = "LeChaps"
 +++
