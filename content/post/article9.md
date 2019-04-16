@@ -1,7 +1,6 @@
 +++
 categories = ["Histoire"]
 date = "2019-01-07T17:30:22+00:00"
-showonlyimage = false
 tags = ["ampélographie"]
 title = "Qu'est ce que l'ampélographie ?"
 writer = "LeChaps"

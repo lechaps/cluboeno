@@ -1,7 +1,6 @@
 +++
 categories = ["Vignobles"]
 date = "2019-02-20T17:30:22+00:00"
-showonlyimage = false
 tags = ["verticales"]
 title = "Verticales"
 writer = "Thomas"

@@ -1,7 +1,6 @@
 +++
 categories = ["Histoire"]
 date = "2019-01-12T17:30:22+00:00"
-showonlyimage = false
 tags = ["consommation", "économie", "états-unis", "france", "italie", "allemagne", "chine", "royaume-unis", "espagne", "argentine", "russie", "australi", "afrique du sud", "chili" ]
 title = "La consommation, la production et les échanges de vins dans le monde"
 writer = "LeChaps"

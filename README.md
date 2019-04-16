@@ -93,7 +93,7 @@ This port is released under the MIT License.
 
 ## Thanks
 
-Thanks to [Steve Francia](https://github.com/spf13) for creating Hugo and the awesome community around the project. And also thanks to [goransv](https://github.com/appernetic) for creating this awesome theme.
+Thanks to [Steve Francia](https://github.com/spf13) for creating Hugo and the awesome community around the project. And also thanks to [goransv](https://github.com/appernetic) for creating this nice theme.
 
 ## Sponsors
 

@@ -1,7 +1,6 @@
 +++
 categories = ["Histoire"]
 date = "2019-01-09T17:30:22+00:00"
-showonlyimage = false
 tags = ["viticulture", "vitis vinifera"]
 title = "Les origines de la viticulture"
 writer = "LeChaps"

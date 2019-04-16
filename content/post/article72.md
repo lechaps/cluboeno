@@ -1,7 +1,6 @@
 +++
 categories = ["Histoire"]
 date = "2019-03-10T17:30:22+00:00"
-showonlyimage = false
 tags = ["aoc", "vallée du rhône", "saint-joseph", "ardèche", "sols granitiques", "syrah", "framboise", "poivre", "cassis", "roussanne", "marsanne", "volailles", "fleur", "fruit", "miel", "hermitages"]
 title = "AOC : Saint-Joseph"
 writer = "LeChaps"
