@@ -1,7 +1,6 @@
 +++
 categories = ["Cépages"]
 date = "2019-02-17T17:30:22+00:00"
-showonlyimage = false
 tags = ["beurot", "pinot gris", "bourgogne", "bourgogne côte saint-jacques", "marsannay rosé"]
 title = "Le Beurot"
 writer = "Thomas"

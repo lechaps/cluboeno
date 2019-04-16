@@ -1,7 +1,6 @@
 +++
 categories = ["Cave"]
 date = "2019-03-03T17:30:22+00:00"
-showonlyimage = false
 tags = ["club oenologie", "foire aux vins", "salon"]
 title = "Acheter son vin : dans les clubs, les foires, les salon"
 writer = "LeChaps"

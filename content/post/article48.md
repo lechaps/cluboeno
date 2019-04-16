@@ -1,7 +1,6 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-02-14T17:30:22+00:00"
-showonlyimage = false
 tags = ["dégustation"]
 title = "Le cadre de dégustation"
 writer = "LeChaps"

@@ -2,7 +2,6 @@
 categories = ["Dégustations"]
 date = "2019-04-04T17:30:22+00:00"
 image = "img/post/article_97.jpg"
-showonlyimage = false
 tags = ["margaux", "tannins arrondis", "boisé", "suave"]
 title = "Coup de poker !"
 writer = "Thomas"

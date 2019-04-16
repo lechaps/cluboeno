@@ -1,7 +1,6 @@
 +++
 categories = ["Cave"]
 date = "2019-01-21T17:30:22+00:00"
-showonlyimage = false
 tags = ["ennemis du vin", "lumière", "oxydation"]
 title = "Les ennemis du vin : la lumière"
 writer = "LeChaps"

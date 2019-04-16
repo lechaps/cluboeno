@@ -1,7 +1,6 @@
 +++
 categories = ["Vignobles"]
 date = "2019-02-04T17:30:22+00:00"
-showonlyimage = false
 tags = ["aoc", "ava", "american viticulture areas", "napa valley", "états-unis", "certified appellation wines", "barossa valley", "australie", "wines of origin", "stellenbosch", "afrique du sud", "denominación de origén controlada luján de cuyo", "argentine", "europe"]
 title = "Trouve-t-on des appellations partout dans le monde"
 writer = "LeChaps"

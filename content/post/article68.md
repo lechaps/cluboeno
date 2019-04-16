@@ -1,7 +1,6 @@
 +++
 categories = ["Cépages"]
 date = "2019-03-06T17:30:22+00:00"
-showonlyimage = false
 tags = ["jura", "chardonnay", "pinot noir", "marneux", "savagnin", "château-chalon", "vin de paille", "vins liquoreux", "poulsard", "crémant-du-jura", "effervescent", "méthode traditionnelle"]
 title = "Quels sont les cépages blancs du Jura"
 writer = "LeChaps"

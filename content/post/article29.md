@@ -1,7 +1,6 @@
 +++
 categories = ["Histoire"]
 date = "2019-01-27T17:30:22+00:00"
-showonlyimage = false
 tags = ["grèce", "virgile", "romains"]
 title = "Le vin chez les grecs anciens"
 writer = "LeChaps"
