@@ -1,7 +1,6 @@
 +++
 categories = ["Histoire"]
 date = "2019-01-08T17:30:22+00:00"
-showonlyimage = false
 tags = ["vitis vinifera"]
 title = "Les origines de la vigne"
 writer = "LeChaps"

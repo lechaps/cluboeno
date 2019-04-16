@@ -1,8 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-01-16T17:30:22+00:00"
-showonlyimage = false
-tags = ["calcaro-marneux", "sol"]
+tags = ["calcaro-marneux"]
 title = "Les sols favorables à la vigne : les terroirs calcaro-marneux"
 writer = "LeChaps"
 +++

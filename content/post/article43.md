@@ -1,7 +1,6 @@
 +++
 categories = ["Cépages"]
 date = "2019-02-09T17:30:22+00:00"
-showonlyimage = false
 tags = ["bourgogne", "espagne", "italie", "californie", "états-unis", "chili", "argentine", "crémant", "languedoc", "limoux"]
 title = "Le chardonnay"
 writer = "LeChaps"

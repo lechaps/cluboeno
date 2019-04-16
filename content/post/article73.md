@@ -1,7 +1,6 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-03-11T17:30:22+00:00"
-showonlyimage = false
 tags = ["accords mets-vins", "cuisine chinoise", "sancerre", "chablis", "vallée du rhône", "crozes-hermitage", "saint-joseph", "bourgogne", "rully", "montagny", "mercurey", "givry", "pinot noir", "alsace", "beaujolais", "côtes-du-rhônes villages", "cairanne", "rasteau"]
 title = "Accord mets-vins : la cuisine chinoise"
 writer = "LeChaps"

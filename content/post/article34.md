@@ -1,7 +1,6 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-01-31T17:30:22+00:00"
-showonlyimage = false
 tags = ["nez", "arômes primaires", "arômes secondaires", "arômes tertiaire", "florale", "fruitée", "végétale", "animale", "empyreumatique", "banane", "beurre", "vin ouvert"]
 title = "Le nez"
 writer = "LeChaps"

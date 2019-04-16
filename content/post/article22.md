@@ -1,7 +1,6 @@
 +++
 categories = ["Viticulture"]
 date = "2019-01-20T17:30:22+00:00"
-showonlyimage = false
 tags = ["ouvrier viticole", "labourage", "relevage", "palissage", "ébourgeonnage", "chef de culture"]
 title = "Les métiers du vin : dans la vigne"
 writer = "LeChaps"
