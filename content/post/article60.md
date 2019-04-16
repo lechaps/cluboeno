@@ -1,7 +1,6 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-02-26T17:30:22+00:00"
-showonlyimage = false
 tags = ["ennemis du vin"]
 title = "Les ennemis du vin : certains aliments"
 writer = "LeChaps"

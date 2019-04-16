@@ -1,7 +1,6 @@
 +++
 categories = ["Vinification"]
 date = "2019-02-24T17:30:22+00:00"
-showonlyimage = false
 tags = ["vendanges tardives", "pourriture noble", "botrytis cinerea", "alsace", "bordeaux", "sauternes"]
 title = "La couleur des vins : vendanges tardives"
 writer = "LeChaps"

@@ -1,7 +1,6 @@
 +++
 categories = ["Vignobles"]
 date = "2019-03-02T17:30:22+00:00"
-showonlyimage = false
 tags = ["aoc", "irouléguy", "pays basque", "pyrénées", "chacouli", "espagne", "cabernet sauvignon", "cabernet franc", "tannat", "courbu", "gros manseng", "petit manseng", "saint-étienne-de-baïgorry", "Anlhaux"]
 title = "AOC : Irouléguy"
 writer = "LeChaps"

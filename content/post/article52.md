@@ -1,7 +1,6 @@
 +++
 categories = ["Cave"]
 date = "2019-02-18T17:30:22+00:00"
-showonlyimage = false
 tags = ["carnet de dégustation", "livre de cave"]
 title = "Carnet de dégustation"
 writer = "Thomas"

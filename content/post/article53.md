@@ -1,7 +1,6 @@
 +++
 categories = ["Vignobles"]
 date = "2019-02-19T17:30:22+00:00"
-showonlyimage = false
 tags = ["ile de la réunion", "pinot noir", "malbec", "chenin"]
 title = "Le Cilaos"
 writer = "Thomas"

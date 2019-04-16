@@ -1,7 +1,6 @@
 +++
 categories = ["Vignobles"]
 date = "2019-02-25T17:30:22+00:00"
-showonlyimage = false
 tags = ["alsace", "haut-koenigsbourg", "colmar", "pinot noir", "effervescent", "moelleux"]
 title = "La route des vins d'Alsace : du Haut-Koenigsbourg à Colmar"
 writer = "LeChaps"

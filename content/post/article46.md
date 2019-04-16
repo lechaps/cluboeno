@@ -1,7 +1,6 @@
 +++
 categories = ["Cave"]
 date = "2019-02-12T17:30:22+00:00"
-showonlyimage = false
 tags = ["caisse", "garde", "casiers", "carton", "livre de cave"]
 title = "La conservation : ranger ses bouteilles"
 writer = "LeChaps"
