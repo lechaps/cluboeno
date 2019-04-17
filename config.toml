@@ -21,7 +21,7 @@ paginate = 50 #frontpage pagination
 [params]
   #usepostimgfolder = true # Unmark to use post folder for images. Default is static folder.
   slogan = "L'oenologie pour tous"
-  description = "Votre club oenologie en ligne. Des dégustations, des articles, des informations, tout ce que vous devez savoir si vous aimez le vin, les spiritueux et le partage." # meta description
+  description = "Cluboeno, votre club oenologie en ligne. Des dégustations, des articles, des informations, tout ce que vous devez savoir si vous aimez l'univer du vin et des spiritueux." # meta description
   copyright = [
     "&copy; 2019 www.cluboeno.com",
     "L'alcool est à consommer avec modération...",
