@@ -1,6 +1,6 @@
 <div class="archive-header">
 	<h1>
-		Categorie : {{ .Title }}
+		{{ .Section }} : {{ .Title }}
 		{{ if .Site.Params.social.rss }}
 		<a href="{{ .RSSLink }}" data-animate-hover="pulse" class="in-page-rss" target="_blank">
             <i class="fa fa-rss" title="rss"></i>
@@ -9,4 +9,4 @@
 		{{ end }}
 	</h1>
 </div>
-{{ partial "postslist.html" . }}
+{{ partial "list.html" . }}

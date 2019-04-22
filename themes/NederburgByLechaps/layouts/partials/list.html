@@ -1,7 +1,7 @@
 <h1 class="screen-reader-text">Articles</h1>
 <div id="loop-container" class="loop-container">
-	{{ $paginator := .Paginate (where (where .Site.Pages "Type" "post") "IsPage" true) }}
-	{{ range $index, $element := .Paginator.Pages }}
+  
+	{{ range $index, $element := .Pages }}
 		{{ $scratch := newScratch }}
 		{{ if .Site.Params.writers }}
 			{{ $scratch.Set "writer" (index .Site.Params.writers (lower .Params.writer) | default dict) }}

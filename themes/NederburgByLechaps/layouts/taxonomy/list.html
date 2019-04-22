@@ -10,16 +10,16 @@
             <div class="entry-container">
                 <div class="entry-content">
                     <div class="entry-tags">
-                            {{ $data := .Data }}
-                            {{ $flag := 0 }}
-                            {{ range $key, $value := $data.Terms.ByCount }}
-                                {{ $weight := $value.Count }} 
-                                {{if ne $weight $flag}}
-                                    <hr>({{ $weight}})
-                                {{end}}
-                                <a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}/">{{ $value.Name }}</a>
-                                {{ $flag = $weight }}
-                            {{ end }}
+                        {{ $data := .Data }}
+                        {{ $flag := 0 }}
+                        {{ range $key, $value := $data.Terms.ByCount }}
+                            {{ $weight := $value.Count }} 
+                            {{if ne $weight $flag}}
+                                <hr>({{ $weight}})
+                            {{end}}
+                            <a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}/">{{ $value.Name }}</a>
+                            {{ $flag = $weight }}
+                        {{ end }}
                     </div>
                 </div>
             </div>

@@ -2,12 +2,12 @@
 categories = ["Dégustations"]
 date = "2019-04-05T17:30:22+00:00"
 image = "img/post/article_98.jpg"
-tags = ["château-neuf du pape", "clos de l'oratoire", "poussiéreux", "puissant", "menthol", "réglisse"]
+tags = ["châteauneuf-du-pape", "clos de l'oratoire", "poussiéreux", "puissant", "menthol", "réglisse"]
 title = "Le mystère de la fermeture"
 writer = "Thomas"
 +++
 
-En dégustant un nectar de Chateauneuf du pape hier soir, je me suis posé quelques questions.  
+En dégustant un nectar de Châteauneuf du pape hier soir, je me suis posé quelques questions.  
 La bouteille dégustée était un Clos de l’Oratoire des Papes de 2014 : j’ai trouvé le nez poussiéreux mais la bouche est encore puissante, sur des notes mentholées et réglissées.
 Suite à cette dégustation, je me suis dit que la fermeture de ce vin était proche. Les Chateauneuf sont connus pour se fermer plusieurs années après leur jeunesse pour revenir sublimé en fin de vie, mais quel est ce grand mystère de l’évolution des arômes ?  
 
