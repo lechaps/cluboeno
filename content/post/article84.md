@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-03-23T17:30:22+00:00"
-tags = ["aoc", "cornas", "syrah", "charpenté", "vallée du rhones"]
+tags = ["aoc", "cornas", "syrah", "charpenté", "vallée du rhône"]
 title = "AOC : Cornas"
 writer = "LeChaps"
 +++
