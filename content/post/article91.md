@@ -1,19 +1,16 @@
 +++
-categories = ["Savoir boire"]
-date = "2019-03-30T17:30:22+00:00"
-tags = ["accords mets-vins", "poisson", "val de loire", "bourgogne", "languedoc", "muscadet", "chablis", "minvervois", "vallée du rhône", "châteauneuf-du-pape" ]
-title = "Les accords mets-vins : les poissons cuisinés"
+categories = ["Cépages"]
+date = "2019-03-29T17:30:22+00:00"
+tags = ["bordeaux", "sémillon", "sauvignon", "muscadelle", "ugni blanc", "colombard", "merlot blanc", "sauternes", "entre-deux-mers", "charentes", "cognac"]
+title = "Les cépages blancs du Bordelais"
 writer = "LeChaps"
 +++
 
-* **poissons grillés et fritures**  
-Vins blancs jeunes, vifs et fruités. La fraîcheur d'un muscadet ou d'un petit-chablis compense le gras du poisson, et la rondeur d'un minervois souligne le fondant d'une daurade. A l'opposé, acvec un rouget, servir un rouge tendre frais ou un rosé vineux et épicé.
+Les vins du Bordelais sont des vins d'assemblage : les aléas climatiques de cette région au climat océanique et la diversité des terroirs de son vaste vignoble ont poussé à cultiver et assembler plusieurs cépages aux aptitudes complémentaires.  
 
-* **poissons au four et poêlés**  
-Loup, pavé de cabillaud poêlé ou daurade royale nécessitent un vin blanc onctueux et expressif. La sole se marie avec un vin blanc frais, tendre et finement aromatique.
+Les cépages blancs les plus présents dans le vignoble bordelais sont le sémillon (60%), le sauvignon (20%), la muscadelle (10%) ainsi que l'ugnin blanc, le colombard et le merlot blanc.
 
-* **poissons cuisinés**
-Lotte à la crème avec un bourgogne à maturité ou un châteauneuf-du-pape blanc ; brandade de morue avec un blanc méridional ; poissons d'eau douce avec des blancs fins et frais
-
-* **poissons et vins rouges**
-pour les rougets grillés à la tapenade, thons grillés et ratatouille, servir frais des vins rouges méridonaux légers.
+* Le sémillon est présent dans tous les vins blancs de Bordeaux et particulièrement dans les vins liquoreux (sauternes). Son vin est élégant et racé, alcoolisé, d'un beau jaune doré, brillant. On l'associe très souvent au sauvignon.
+* Le sauvignon produit d'excellents vins blancs liquoreux. Dans l'entre-deux-mers, il donne un vin blanc sec, très aromatique et parfumé, élégant , très fin, équilibré, musqué, riche en alcool.
+* L'ugnin blanc : utilisé dans les Charentes pour la production de cognac, ce cépage donne un vin jaune pâle, sec, assez fin et nerveux, toujours acide et peu aromatique.
+* Le muscadelle est présent en appoint dans tous les assemblages des vins blancs, secs ou liquoreux auxquels il apporte une touche florale muscatée.

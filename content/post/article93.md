@@ -1,17 +1,16 @@
 +++
-categories = ["Vignobles"]
-date = "2019-04-01T17:30:22+00:00"
-tags = ["aoc", "provence", "phocéens", "romains", "phylloxera", "cinsault", "mourvèdre", "grenache", "carignan", "cabernet sauvignon", "syrah", "ugni blanc", "sauvignon"," bourboulenc"," rolle", "sémillon", "clairette", "côtes-de-provence", "bellet"," bandol", "cassis", "palette", "coteaux-d'aix-en-provence", "charpenté"]
-title = "La provence"
+categories = ["Savoir boire"]
+date = "2019-03-31T17:30:22+00:00"
+tags = ["acidité", "amertume", "astringence" ]
+title = "Glossaire du vin : acidité, amertume et astringence"
 writer = "LeChaps"
 +++
 
-Sur un terroir de près de 30 00 ha aux reliefs eet sols très variés, la Provence bénéficie d'un climat particulièrement favorable à la vigne.  
+Voici trois éléments qui participent à l'équilibre gustatif du vin.  
 
-Les Phocéens, débarqués à Marseille en 600 av. J-C, puis les Romains, les moines et les nobles ont poursuivi et ennobli la production viticole jusqu'à nos jours, au-delà de la crise dévastatrice du phylloxera.  
-
-Les cépages produits sont : cinsault, mourvèdre, grenache, carignan, cabernet sauvignon ou encore syrah (pour les vins rouges et rosés), ugni blanc, sauvignon, bourboulenc, rolle, sémillon ou clairette (pour les blancs).  
-
-La région abrite neufs appellations AOC parmi lesquelles : côtes-de-provence, bellet, bandol, cassis, palette et coteaux-d'aix-en-provence, pour la plupart en rouge, rosé et blanc.  
-
-Les rouges sont puissants et charpentés, les rosés frais, vifs et savoureux et les blancs francs et équilibrés.
+* **l'acicité**
+En dégustation, l'acidité d'un vin est détecté par les bords et la face inférieure de la langue. Si l'acidité du vin est forte, le vin semblera « mordant», vif, alors que si elle est faible, le vin paraîtra souple, voire mou.
+* **l'amertume**
+Elle est perçue par les papilles gustatives présentes sur la partie postérieure, au fond de la langue. Elle est attendue quand on a affaire à un vin rouge jeune. EN dehors de ce cas, en excès, elle devient astringente, considérée comme un défaut du vin ou résultant d'une maladie bactérienne.
+* **l'astringence**
+Elle est produite par l'effet des tannins un peu âpres qui déssèchent les gencives et donnent un sentiment de rugosité en bouche. Acceptable pour de jeunes vins rouges riches en tannins et des vins élevés sous bois, ce terme s'applique négativement aux millésimes trop sévères ou à des vins qui possèdent une forte quantité de tanins non parvenus à maturité. L'astringence d'un bon vin diminue au fil du temps car ses tannins s'assouplissent.

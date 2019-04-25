@@ -1,16 +1,19 @@
 +++
 categories = ["Savoir boire"]
-date = "2019-03-31T17:30:22+00:00"
-tags = ["acidité", "amertume", "astringence" ]
-title = "Glossaire du vin : acidité, amertume et astringence"
+date = "2019-03-30T17:30:22+00:00"
+tags = ["accords mets-vins", "poisson", "val de loire", "bourgogne", "languedoc", "muscadet", "chablis", "minvervois", "vallée du rhône", "châteauneuf-du-pape" ]
+title = "Les accords mets-vins : les poissons cuisinés"
 writer = "LeChaps"
 +++
 
-Voici trois éléments qui participent à l'équilibre gustatif du vin.  
+* **poissons grillés et fritures**  
+Vins blancs jeunes, vifs et fruités. La fraîcheur d'un muscadet ou d'un petit-chablis compense le gras du poisson, et la rondeur d'un minervois souligne le fondant d'une daurade. A l'opposé, acvec un rouget, servir un rouge tendre frais ou un rosé vineux et épicé.
 
-* **l'acicité**
-En dégustation, l'acidité d'un vin est détecté par les bords et la face inférieure de la langue. Si l'acidité du vin est forte, le vin semblera « mordant», vif, alors que si elle est faible, le vin paraîtra souple, voire mou.
-* **l'amertume**
-Elle est perçue par les papilles gustatives présentes sur la partie postérieure, au fond de la langue. Elle est attendue quand on a affaire à un vin rouge jeune. EN dehors de ce cas, en excès, elle devient astringente, considérée comme un défaut du vin ou résultant d'une maladie bactérienne.
-* **l'astringence**
-Elle est produite par l'effet des tannins un peu âpres qui déssèchent les gencives et donnent un sentiment de rugosité en bouche. Acceptable pour de jeunes vins rouges riches en tannins et des vins élevés sous bois, ce terme s'applique négativement aux millésimes trop sévères ou à des vins qui possèdent une forte quantité de tanins non parvenus à maturité. L'astringence d'un bon vin diminue au fil du temps car ses tannins s'assouplissent.
+* **poissons au four et poêlés**  
+Loup, pavé de cabillaud poêlé ou daurade royale nécessitent un vin blanc onctueux et expressif. La sole se marie avec un vin blanc frais, tendre et finement aromatique.
+
+* **poissons cuisinés**
+Lotte à la crème avec un bourgogne à maturité ou un châteauneuf-du-pape blanc ; brandade de morue avec un blanc méridional ; poissons d'eau douce avec des blancs fins et frais
+
+* **poissons et vins rouges**
+pour les rougets grillés à la tapenade, thons grillés et ratatouille, servir frais des vins rouges méridonaux légers.
