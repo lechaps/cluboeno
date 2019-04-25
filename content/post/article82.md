@@ -1,13 +1,13 @@
 +++
-categories = ["Viticulture"]
-date = "2019-03-21T17:30:22+00:00"
-tags = ["phylloxéra", "vitis vinifera", "mildiou", "cicadelle", "flavescence", "Louis Pasteur", "oenologie"]
-title = "Le phylloxéra"
+categories = ["Vinification"]
+date = "2019-03-20T17:30:22+00:00"
+tags = ["moût", "fermentation", "champagne", "chardonnay", "bourgogne", "alsace", "pinot blanc", "vendange tardive" ]
+title = "La couleur des vins : vins blancs"
 writer = "LeChaps"
 +++
 
-A la fin du XIXème siècle, un puceron, le phylloxéra, fut introduit en France par importation de plants de vignes américaines infestées. Il fut responsable de terribles dévastations en Europe puis dans le monde entier, en s'attaquant aux racines de Vitis vinifera. Cette crise, sans précédent, dura plus de trente ans dans tous les vignobles. Les nombreuses tentatives de protection par des méthodes chimiques se soldèrent par un échec ; le fléau ne put être combattu sans une révolution des modes de culture.  
+Les vins blancs ne sont pas toujours issus de raisins blancs : ils peuvent provenir aussi de raisins rouges à jus blanc. Mais pour conserver cette couleur blanche du jus, il faut intervenir dès les vendanges en séparant immédiatement le moût (le jus) de la peau du raisin qui a un fort pouvoir pigmentant.  
 
-Toutes les vignes durent être greffées sur un porre-greffe de vigne américaine résistant au phylloxéra. Dans la foulée de cette démarche, le savant Louis Pasteur se passionna pour l'étude du vin, ouvrant ainsi la voie à l'oenologie moderne.  
+Pour obtenir un vin blanc sec, on laisse la fermentation aller jusqu'au bout et transformer tous les sucres. Pour fabriquer un vin blanc doux, on conserve une part de sucre en stoppant cette fermentation avant sa fin.  
 
-Vitis vinifera est aussi sensible à d'autres parasites : par exemple, un champignon, le mildiou, et la cicadelle qui inocule la flavescence, maladie qui détruit la vigne.
+Qu'appelle-t-on les vins blancs de blancs ? Ce sont les vins en provenance exclusive de raisins blancs. Exemples parmi les plus connus : les champagnes, le chardonnay, les bourgognes blancs et en alsace, le pinot blanc, très proche du chardonnay, qui produit les vins de vendange tardive.

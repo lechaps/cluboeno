@@ -1,12 +1,13 @@
 +++
-categories = ["Cépages"]
-date = "2019-03-25T17:30:22+00:00"
-tags = ["sauvignon blanc", "val de loire", "sancerre", "pouilly-fumé", "menetou-salon", "coteaux du giennois", "quincy", "reuilly", "bourgogne", "bordeaux", "graves", "sauternes", "syrie", "états-unis", "afrique du sud", "australie", "nouvelle-zélande", "pessac-léognan", "sémillon", "liquoreux", "vifs", "genêt", "buis", "bourgeon de cassis", "pamplemousse", "fruit de la passion", "fumée", "viande rôtie", "pierre à fusil" ]
-title = "Le sauvignon blanc"
+categories = ["Savoir boire"]
+date = "2019-03-24T17:30:22+00:00"
+tags = ["alsace", "bordeaux", "bourgogne", "champagne", "provence", "médoc", "pessac-léognan", "saint-émilion grand cru"]
+title = "Grands crus et crus classés : les Bordeaux"
 writer = "LeChaps"
 +++
 
-Le sauvignon blanc est cultivé dans la vallée et le centre de la Loire, à Sancerre, Pouilly-Fumé, Menetou-Salon, Coteaux du Giennois, Quincy, Reuilly, etc.. On le trouve aussi en Bourgogne, dans le Bordelais, région de Grave et de Sauternes mais aussi en Syrie, aux Etat-Unis, en Afrique du Sud, en Australie et en Nouvelle-Zélande.  
+Dans certains région (Alsace, Bordelaise, Bourgogne, Champagne, Provence), la notion de cru s'ajoute aux appellations d'origine contrôlée. Les « crus » renvoient à un terroir défini par ses qualités. Ce terroir peut être un lieu-dit, une commune, un domaine viticole...Dans le cas du Bordelais, le cru désigne une propriété.  
 
-Le sauvignon blanc est la plupart du temps vinifié seul. Il rentre cependant dans l'assemblage de vins de Bordeaux blancs, graves ou pessac-léognan, mais aussi dans certains sauternes. Assemblé avec le sémillon, il permet l'élaboration de grands vins liquoreux.  
-Il produit des vins blancs sec caractérisés vifs et à la puissance aromatique distinctive qui évoque le genêt, le buis, le bourgeon de cassis, le pamplemousse, le fruit de la passion et, dans certains cas, la fumée, la viande rôtie ou encore la pierre à fusil.
+Le classement des crus du Médoc a été réalisé en 1855, sur demande de Napoléon III à l'occasion de l'exposition universelle cette année-là. Il classe en cinq catégories 60 crus du Médoc (et un cru de Pessac-Léognan). Il n'a été remis en question qu'une seule fois : pour la promotion du mouton rothschild au rang de 1er cru en 1973.  
+
+Les saint-émilion grand crus sont classés quant à eux depuis 1955 et ce classement est révisable en théorie tous les dix ans. Il distingue les premiers grands crus (dévisés en catégoerie A et B) et les grands crus classés.
