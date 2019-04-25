@@ -1,11 +1,14 @@
 +++
-categories = ["Vignobles"]
-date = "2019-03-23T17:30:22+00:00"
-tags = ["aoc", "cornas", "syrah", "charpenté", "vallée du rhône"]
-title = "AOC : Cornas"
+categories = ["Cépages"]
+date = "2019-03-22T17:30:22+00:00"
+tags = ["pinot blanc", "alsace", "bourgogne", "champagne", "jura", "pinot gris", "beurre", "noisette", "charcuterie", "fruit de mer", "poisson", "chardonnay", "crémant", "souple", "fruité"]
+title = "Le pinot blanc"
 writer = "LeChaps"
 +++
 
-L'AOC Cornas est un vin rouge produit dans la commune de Cornas, en face de la ville de Valence, sur des coteaux abrupts, orientés plein sud et formant un amphithéâtre naturel et protecteur. Des sources archéologiques sûres attestent que Charlemagne, Saint-Louis et Louis XV connaissaient et appréciaient ce vin.  
+Cépage blanc.  
+Cépage d'Alsace, de Bourgogne, de Champagne et du Jura, le pinot blanc est un mutation du pinot gris qui n'est cultivé aujourd'hui qu'en Alsace.  
 
-Issu de la syrah, seul cépage autorisé sur toute l'appellation, le cornas est un vin rouge très foncé, presque noir, parmi les plus charpentés de France. Il gagne à vieillir - au moins trois années, voire beaucoup plus - pour exprimer ses arômes fruités et épicés.
+Souple et fruité avec des arômes de beurre et de noisette, il trouve sa place dans un repas léger, un buffet froid ou tout simplement sur une terrasse entre amis. C'est également un vin agréable pour boire tous les jours sur une charcuterie ou quelques entrées, fruits de mer, poisson grillée ou en sauce.  
+
+Il est généralement assemblé au chardonnay pour l'élaboration du crémant d'Alsace. Il occupe un peu plus de 20% de la superficie du vignoble alsacien.
