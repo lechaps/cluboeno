@@ -1,14 +1,13 @@
 +++
-categories = ["Cépages"]
-date = "2019-03-22T17:30:22+00:00"
-tags = ["pinot blanc", "alsace", "bourgogne", "champagne", "jura", "pinot gris", "beurre", "noisette", "charcuterie", "fruit de mer", "poisson", "chardonnay", "crémant", "souple", "fruité"]
-title = "Le pinot blanc"
+categories = ["Viticulture"]
+date = "2019-03-21T17:30:22+00:00"
+tags = ["phylloxéra", "vitis vinifera", "mildiou", "cicadelle", "flavescence", "Louis Pasteur", "oenologie"]
+title = "Le phylloxéra"
 writer = "LeChaps"
 +++
 
-Cépage blanc.  
-Cépage d'Alsace, de Bourgogne, de Champagne et du Jura, le pinot blanc est un mutation du pinot gris qui n'est cultivé aujourd'hui qu'en Alsace.  
+A la fin du XIXème siècle, un puceron, le phylloxéra, fut introduit en France par importation de plants de vignes américaines infestées. Il fut responsable de terribles dévastations en Europe puis dans le monde entier, en s'attaquant aux racines de Vitis vinifera. Cette crise, sans précédent, dura plus de trente ans dans tous les vignobles. Les nombreuses tentatives de protection par des méthodes chimiques se soldèrent par un échec ; le fléau ne put être combattu sans une révolution des modes de culture.  
 
-Souple et fruité avec des arômes de beurre et de noisette, il trouve sa place dans un repas léger, un buffet froid ou tout simplement sur une terrasse entre amis. C'est également un vin agréable pour boire tous les jours sur une charcuterie ou quelques entrées, fruits de mer, poisson grillée ou en sauce.  
+Toutes les vignes durent être greffées sur un porre-greffe de vigne américaine résistant au phylloxéra. Dans la foulée de cette démarche, le savant Louis Pasteur se passionna pour l'étude du vin, ouvrant ainsi la voie à l'oenologie moderne.  
 
-Il est généralement assemblé au chardonnay pour l'élaboration du crémant d'Alsace. Il occupe un peu plus de 20% de la superficie du vignoble alsacien.
+Vitis vinifera est aussi sensible à d'autres parasites : par exemple, un champignon, le mildiou, et la cicadelle qui inocule la flavescence, maladie qui détruit la vigne.

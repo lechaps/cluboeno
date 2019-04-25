@@ -1,11 +1,11 @@
 +++
-categories = ["Vignobles"]
-date = "2019-03-27T17:30:22+00:00"
-tags = ["aoc", "banyuls", "pyrénées", "collioure", "schiste", "grenache", "méditerranée" ]
-title = "AOC : Banyuls"
+categories = ["Cave"]
+date = "2019-03-26T17:30:22+00:00"
+tags = ["négociant", "bordeaux", "éleveur" ]
+title = "Acheter son vin : chez le négociant"
 writer = "LeChaps"
 +++
 
-Voici un terroir exceptionnel : à l'extrémité orientale des Pyrénées, des coteaux en pente abrupte sur la Méditerranée. Seules quatres communes de Collioure, Port-Vendres, Banyuls-sur-mer et Cerbère bénéficient de l'appellation. Le vignoble s'accroche le long de terrasses installées sur des schostes, un sol pauvre, souvent acide, n'autorisant que des cépages très rustiques, comme le grenache aux rendements extrêmement faibles, souvent moins d'une vingtaine d'hectolitre à l'hectare.  
+Le négociant, par définition, achète des vins pour le revendre, mais il est souvent lui-même propriétaire de vignobles : il peut donc agir en producteur et commercialiser sa production, ou bien vendre le vin de producteurs indépendants sans autre intervention que le transfert (cas des négociants bordelais qui ont leur catalogue des vins en bouteille au château), ou encore signer un contrat de monopole de vente avec une unité de production.  
 
-En revanche, l'ensoleillement optimisé par la culture en errasses et le microclimat qui bénéficie de la proximité de la Méditerranée sont sans doute à l'origine de la richesse des raisins gorgés de sucre et d'éléments aromatiques.
+Le négociant-éleveur assemble des vins de même appellation fournis par divers producteurs et les élève dans ses chais. Il est ainsi le créateur de produit à double titre : par le choix de ses achats et par l'assemblage qu'il exécute. Le propre d'un négociant est de diffuser, donc d'alimenter les réseaux de vente qu'il ne doit pas concurrencer en vendant chez lui ses vins à des prix très inférieurs.
