@@ -1,6 +1,6 @@
 +++
 categories = ["Cépages"]
-date = "2019-04-26T17:30:22+00:00"
+date = "2019-04-25T17:30:22+00:00"
 tags = ["sémillon", "bordeaux", "sud-ouest", "sauvignon", "australie", "états-unis", "californie", "afrique du sud", "miel", "fruits secs", "beurre", "fleur d'acacia", "figues", "agrume", "pessac-léognan", "sauternes"]
 title = "Le sémillon"
 writer = "LeChaps"
