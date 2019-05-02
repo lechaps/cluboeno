@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-02-23T17:30:22+00:00"
-tags = ["bordeaux", "val de Loire", "pyrénées", "pays basque", "bourgueil",  "saint-nicolas-de-bourgueil", "chinon", "saumur", "saumur-champigny", "anjou-villages", "ouraine", "breton", "bouchet", "acheria", "noir de fontarrabie", "noir dur", "cacao", "cassis", "coing", "épices", "feuille de lierre", "fougère", "fruits rouges", "notes mentholées", "poivre sec", "poivron vert", "sous-bois", "tabac", "violette"]
+tags = ["bordeaux", "val de Loire", "pyrénées", "pays basque", "bourgueil",  "saint-nicolas-de-bourgueil", "chinon", "saumur", "saumur-champigny", "anjou-villages", "ouraine", "breton", "bouchet", "acheria", "noir de fontarrabie", "noir dur", "cacao", "cassis", "coing", "épice", "feuille de lierre", "fougère", "fruits rouges", "notes mentholées", "poivre sec", "poivron vert", "sous-bois", "tabac", "violette"]
 title = "Le cabernet"
 writer = "LeChaps"
 +++
