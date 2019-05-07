@@ -1,5 +1,5 @@
 +++
-categories = ["Vignification"]
+categories = ["Vinification"]
 date = "2019-04-02T17:30:22+00:00"
 tags = ["provence", "champagne, bouzy", "moût"]
 title = "La couleur des vins : les vins rosés"
