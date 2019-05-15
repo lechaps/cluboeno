@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-05T17:30:22+00:00"
-tags = ["aoc", "gevrey-chambertin", "fixin", "cotes-de-nuits-villages", "bourgogne"]
+tags = ["aoc", "gevrey-chambertin", "fixin", "côtes-de-nuits-villages", "bourgogne"]
 title = "AOC : Gevrey-Chambertin"
 writer = "LeChaps"
 +++
