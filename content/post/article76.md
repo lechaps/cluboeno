@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-03-14T17:30:22+00:00"
-tags = ["champagne", "pinot noir", "pinot meunier", "chardonnay", "rosé des riceys", "côteaux champenois", "souple"]
+tags = ["champagne", "pinot noir", "pinot meunier", "chardonnay", "rosé des riceys", "coteaux-champenois", "souple"]
 title = "La champagne"
 writer = "LeChaps"
 +++
