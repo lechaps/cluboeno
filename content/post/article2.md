@@ -2,7 +2,7 @@
 categories = ["Dégustations"]
 date = "2018-12-29T17:30:22+00:00"
 image = "img/post/article_2.jpg"
-tags = ["mossu", "jura"]
+tags = ["françois mossu", "jura"]
 title = "Prestige de Gaillardon - François Mossu"
 writer = "LeChaps"
 +++
