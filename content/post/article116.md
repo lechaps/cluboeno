@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-05-11T17:30:22+00:00"
-tags = ["vallée du rhône", "languedoc", "complexité", "poire", "pêche", "abricot", "coing", "violette", "iris", "acacia", "musc", "épice", "amande", "noisette", "condrieu", "côtes-du-rhone", "côte-rôtie"]
+tags = ["vallée du rhône", "languedoc", "complexité", "poire", "pêche", "abricot", "coing", "violette", "iris", "acacia", "musc", "épice", "amande", "noisette", "condrieu", "côtes-du-rhône", "côte-rôtie"]
 title = "Le viognier"
 writer = "LeChaps"
 +++
