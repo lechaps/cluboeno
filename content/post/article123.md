@@ -2,7 +2,7 @@
 categories = ["Vinification"]
 date = "2019-05-18T17:30:22+00:00"
 tags = ["fermentation", "muscat de rivesaltes", "muscat de frontignan", "banyuls", "maury", "rasteau", "muscat de beaumes-de-venise", "ratafia", "pineau", "vin doux naturel", "vin de liqueur"]
-title = "La couleur des vins : vins dous naturels"
+title = "La couleur des vins : vins doux naturels"
 writer = "LeChaps"
 +++
 
