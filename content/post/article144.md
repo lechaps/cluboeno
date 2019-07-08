@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-06-08T17:30:22+00:00"
-tags = ["syrah", "savoie", "ardèche", "vallée du rhône", "charpenté", "tannins", "fruits rouges et noirs", "florale", "épice", "musc", "truffe", "poivre", "réglisse", "côtes-du-rhône", "cornas", "croze-hermitage", "saint-joseph", "côte-rotie", "afrique du sud", "australie", "états-unis", "californie"]
+tags = ["syrah", "savoie", "ardèche", "vallée du rhône", "charpenté", "tannins", "fruits rouges et noirs", "florale", "épice", "musc", "truffe", "poivre", "réglisse", "côtes-du-rhône", "cornas", "crozes-hermitage", "saint-joseph", "côte-rotie", "afrique du sud", "australie", "états-unis", "californie"]
 title = "La syrah"
 writer = "LeChaps"
 +++
