@@ -2,7 +2,7 @@
 categories = ["Dégustations"]
 date = "2019-06-09T17:30:22+00:00"
 image = "img/post/article_145_2.jpg"
-tags = ["languedoc", "la clape", "pech redon", "corbière", "château champs des soeurs", "terrasse du larzac", "joncas", "château la négly", "domaine mire l'étang", "muscat", "bourboulenc", "roussane", "amertume", "rosé", "grenadine", "tavel", "carthagène", "mistel", "miel", "sirop d'orgeat", "vin de voile", "chardonnay", "viognier", "écorces d’orange", "épice", "carignan", "syrah", "grenache", "mourvèdre", "alicante", "tannins", "cuir", "animal", "bordeaux", "château giscours", "cazes" ]
+tags = ["languedoc", "la clape", "pech redon", "corbières", "château champs des soeurs", "terrasse du larzac", "joncas", "château la négly", "domaine mire l'étang", "muscat", "bourboulenc", "roussane", "amertume", "rosé", "grenadine", "tavel", "carthagène", "mistel", "miel", "sirop d'orgeat", "vin de voile", "chardonnay", "viognier", "écorces d’orange", "épice", "carignan", "syrah", "grenache", "mourvèdre", "alicante", "tannins", "cuir", "animal", "bordeaux", "château giscours", "cazes" ]
 title = "Découverte de la Clape"
 writer = "Thomas"
 +++
