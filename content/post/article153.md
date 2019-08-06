@@ -6,7 +6,7 @@ title = "Le cariñena"
 writer = "LeChaps"
 +++
 
-Cépage rouge. 
+Cépage rouge.  
 
 Très commun en Catalogne et en Aragon mais également dans la Rioja, il est très apprécié pour ses rendements élevés, sa couleur et son abondance intense de tannins.  
 
