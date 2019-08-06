@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-04-30T17:30:22+00:00"
-tags = ["dégustation", "dégustation de reconnaissance", "dégustation horizontale", "dégustation verticale"]
+tags = ["dégustation", "dégustation à l'aveugle", "dégustation de reconnaissance", "dégustation horizontale", "dégustation verticale"]
 title = "La dégustation à l'aveugle"
 writer = "LeChaps"
 +++

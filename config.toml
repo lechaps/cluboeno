@@ -54,12 +54,12 @@ paginate = 50 #frontpage pagination
   weight = 1
 
   [[menu.main]]
-  name = "Les séances"
+  name = "Le club"
   url = "club/"
   weight = 2
 
   [[menu.main]]
-  name = "Le Club"
+  name = "Présentation"
   url = "about/"
   weight = 3
 
