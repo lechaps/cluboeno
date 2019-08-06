@@ -81,7 +81,6 @@ paginate = 50 #frontpage pagination
   instagram     = "https://www.instagram.com/cluboeno"
   github        = "https://github.com/lechaps/cluboeno"
   pinterest     = "https://www.pinterest.fr/lechaps03"
-  rss           = true
 
 # Add a writer, then use it in the markdown front matter like this: writer = "the name of the writer"
   [params.writers]
