@@ -8,8 +8,8 @@ writer = "LeChaps"
 
 Emblème du casse-croûte, le saucisson sec se marie aux vins rouges tendres et fruités (beaujolais, touraine, irancy).  
 
-Les jambons crus de qualités s'accordent aussi bien avec un blanc méridional (collioure, patrimonio), qui souligne la délicatesse du gras, qu'avec un rouge charnu (gigondas, irouléguy) qui flatte la parrtie maigre au arômes de viande séchée.  
+Les jambons crus de qualités s'accordent aussi bien avec un blanc méridional (collioure, patrimonio), qui souligne la délicatesse du gras, qu'avec un rouge charnu (gigondas, irouléguy) qui flatte la partie maigre au arômes de viande séchée.  
 
-RIlettes et andouilles font bon ménage avec les blancs vifs à la minéralité tendue (bergerac, jasnières, quincy), tandis que pâtés et terrines apellent des rouges fruités aux tannins aimables (côtes-de-boug, marcillac, lirac).  
+Rillettes et andouilles font bon ménage avec les blancs vifs à la minéralité tendue (bergerac, jasnières, quincy), tandis que pâtés et terrines apellent des rouges fruités aux tannins aimables (côtes-de-bourg, marcillac, lirac).  
 
 On réservera les visn rouges plus puissants à la rusticité du boudin noir (cornas, saint-émilion)

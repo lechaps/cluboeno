@@ -2,7 +2,7 @@
 categories = ["Cépages"]
 date = "2019-04-29T17:30:22+00:00"
 tags = ["aoc", "côte-rôtie", "vallée du rhône", "syrah", "viognier", "framboise", "épice", "violette", "tannins fins", "potentiel de garde"]
-title = "AOC : Côte-Rôtie"
+title = "AOC : côte-rôtie"
 writer = "LeChaps"
 +++
 

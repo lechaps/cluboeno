@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-06-03T17:30:22+00:00"
-tags = ["aoc", "bourgogne", "volnay", "côte de beaune", "pommard", "pinot noir", "violette", "groseille", "cerise", "gibier", "pruneau", "charnu"]
+tags = ["aoc", "bourgogne", "volnay", "côte-de-beaune", "pommard", "pinot noir", "violette", "groseille", "cerise", "gibier", "pruneau", "charnu"]
 title = "AOC : Volnay"
 writer = "LeChaps"
 +++
