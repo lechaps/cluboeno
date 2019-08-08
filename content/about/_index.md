@@ -7,7 +7,7 @@ Ce paragraphe est **en cours d'écriture**.
 
 ![cluboeno][1]
 
-à réflechir
+ce texte est en cours d'écriture.
 
 #### Les règles d'or
 
