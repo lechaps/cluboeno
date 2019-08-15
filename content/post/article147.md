@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-06-11T17:30:22+00:00"
-tags = ["cinsaut", "cinsault", "chenin noir", "méditerranée", "val de loire", "anjou", "mahgreb", "vivacité", "rondeur", "bandol", "cassis", "châteauneuf-du-pape", "costière de nîmes", "coteaux-varois", "vacqueyras"]
+tags = ["cinsaut", "cinsault", "chenin noir", "méditerranée", "val de loire", "anjou", "mahgreb", "vivacité", "rondeur", "bandol", "cassis", "châteauneuf-du-pape", "costières-de-nîmes", "coteaux-varois", "vacqueyras"]
 title = "La cinsaut, cinsault ou chenin noir"
 writer = "LeChaps"
 +++
