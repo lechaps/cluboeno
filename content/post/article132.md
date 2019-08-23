@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-05-27T17:30:22+00:00"
-tags = ["accords mets-vins", "coquillage", "coquille saint-jacques", "moules", "muscadet", "entre-deux-mers", "alsace", "sylvaner", "riesling", "chablis", "picpoul-de-pinet", "val de la loire", "palette", "montlouis", "bourgogne", "mâcon", "provence"]
+tags = ["accords mets-vins", "coquillage", "coquille saint-jacques", "moules", "muscadet", "entre-deux-mers", "alsace", "sylvaner", "riesling", "chablis", "picpoul-de-pinet", "val de la loire", "palette", "montlouis-sur-loire", "bourgogne", "mâcon", "provence"]
 title = "Les accords mets-vins : les coquillages"
 writer = "LeChaps"
 +++
