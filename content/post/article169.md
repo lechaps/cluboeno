@@ -1,8 +1,8 @@
 +++
-categories = ["Le lyonnais"]
+categories = ["Vignobles"]
 date = "2019-07-03T17:30:22+00:00"
 tags = ["beaujolais", "coteaux du lyonnais", "pinot blanc", "chardonnay", "aligoté"]
-title = "La mythologie grècque"
+title = "Le lyonnais"
 writer = "LeChaps"
 +++
 
