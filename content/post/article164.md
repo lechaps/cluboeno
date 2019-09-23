@@ -1,6 +1,6 @@
 +++
 categories = ["Vignobles"]
-date = "2019-06-26T17:30:22+00:00"
+date = "2019-06-28T17:30:22+00:00"
 tags = ["aoc", "fitou", "corbières", "riveslates", "vin doux naturel", "muscat-de-rivesaltes", "grenache", "mourvèdre", "syrah", "carignan", "puissant", "charpenté"]
 title = "AOC : Fitou"
 writer = "LeChaps"
