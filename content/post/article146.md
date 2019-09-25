@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-06-10T17:30:22+00:00"
-tags = ["vallée du rhône", "aoc", "côtes-du-rhône", "côte-rôtie", "condrieu", "château-grillet", "saint-joseph", "crozes-hermitage", "cornas", "saint-péray", "gigondas", "châteauneuf-du-pape", "vacqueyras", "syrah", "grenache", "mourvèdre", "viognier", "bourboulenc", "carignant", "clairette", "terret" ]
+tags = ["aoc", "bourboulenc", "carignant", "château-grillet", "châteauneuf-du-pape", "clairette", "condrieu", "cornas", "crozes-hermitage", "côte-rôtie", "côtes-du-rhône", "gigondas", "grenache", "mourvèdre", "saint-joseph", "saint-péray", "syrah", "terret", "vacqueyras", "vallée du rhône", "viognier"] 
 title = "La vallée du Rhône"
 writer = "LeChaps"
 +++

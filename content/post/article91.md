@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-03-29T17:30:22+00:00"
-tags = ["bordeaux", "sémillon", "sauvignon", "muscadelle", "ugni blanc", "colombard", "merlot blanc", "sauternes", "entre-deux-mers", "charentes", "cognac"]
+tags = ["bordeaux", "charentes", "cognac", "colombard", "entre-deux-mers", "merlot blanc", "muscadelle", "sauternes", "sauvignon", "sémillon", "ugni blanc"] 
 title = "Les cépages blancs du Bordelais"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-06-23T17:30:22+00:00"
-tags = ["gewurztraminer", "charpenté", "alsace", "italie", "litchi", "violette", "rose", "acacia", "épice", "espagne", "grains nobles", "vendanges tardives", "savagnin", "jura"]
+tags = ["acacia", "alsace", "charpenté", "espagne", "gewurztraminer", "grains nobles", "italie", "jura", "litchi", "rose", "savagnin", "vendanges tardives", "violette", "épice"] 
 title = "Le gewurztraminer"
 writer = "LeChaps"
 +++
@@ -11,4 +11,4 @@ Le gewurztraminer, corsé et bien charpenté, est probablement le plus célèbre
 
 Ce cépage occupe environ 3 000 ha en alsace (17,8% de la surface plantée). Il est apparenté au savagnin du Jura, ou au traminer tyrolien. Il est l'un des qautre cépages plantés dans les grands crus alsaciens. En espagne, on retrouve cette variété de raisin dans les régions de Penedés et de Somontano.  
 
-Le gewurztraminer est également utilisé pour al production de sélections de grains nobles ou en vendanges tardives.
+Le gewurztraminer est également utilisé pour la production de sélections de grains nobles ou en vendanges tardives.

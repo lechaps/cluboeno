@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-31T17:30:22+00:00"
-tags = ["aoc", "châteauneuf-du-pape", "terroir de galets roulés", "grenache", "syrah", "mourvèdre", "cinsault", "charpenté"]
+tags = ["aoc", "charpenté", "châteauneuf-du-pape", "cinsault", "grenache", "mourvèdre", "syrah", "terroir de galets roulés"] 
 title = "AOC : Châteauneuf-du-pape"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-03-15T17:30:22+00:00"
-tags = ["argilo-calcaire", "merlot", "Bordeaux", "saint-émilion", "fronsac", "côtes-de-castillon", "tempranillo", "rioja", "espagne"]
+tags = ["Bordeaux", "argilo-calcaire", "côtes-de-castillon", "espagne", "fronsac", "merlot", "rioja", "saint-émilion", "tempranillo"] 
 title = "Les sols favorables à la vigne : les terroirs argilo-calcaire"
 writer = "LeChaps"
 +++

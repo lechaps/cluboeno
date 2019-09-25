@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-04-01T17:30:22+00:00"
-tags = ["aoc", "provence", "phocéens", "romains", "phylloxera", "cinsault", "mourvèdre", "grenache", "carignan", "cabernet sauvignon", "syrah", "ugni blanc", "sauvignon"," bourboulenc"," rolle", "sémillon", "clairette", "côtes-de-provence", "bellet"," bandol", "cassis", "palette", "coteaux-d'aix-en-provence", "charpenté", "braquet", "tibouren", "barbaroux", "calitor", "brun fourca", "castet", "durif", "muscat à petits grains", "muscat de hambourg", "petit brun", "téoulier", "terret gris", "rolle", "vermentino", "grenache blanc", "furmint", "piquepoul", "panse du roy rené", "picardan", "coteaux varois en provence", "les baux de provence", "pierrevert"]
+tags = [" bandol", " bourboulenc", " rolle", "aoc", "barbaroux", "bellet", "braquet", "brun fourca", "cabernet sauvignon", "calitor", "carignan", "cassis", "castet", "charpenté", "cinsault", "clairette", "coteaux varois en provence", "coteaux-d'aix-en-provence", "côtes-de-provence", "durif", "furmint", "grenache blanc", "grenache", "les baux de provence", "mourvèdre", "muscat de hambourg", "muscat à petits grains", "palette", "panse du roy rené", "petit brun", "phocéens", "phylloxera", "picardan", "pierrevert", "piquepoul", "provence", "rolle", "romains", "sauvignon", "syrah", "sémillon", "terret gris", "tibouren", "téoulier", "ugni blanc", "vermentino"] 
 title = "La provence"
 writer = "LeChaps"
 +++

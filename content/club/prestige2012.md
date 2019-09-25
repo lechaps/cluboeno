@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2012-10-13T17:30:22+00:00"
-tags = ["bourgogne", "meursault", "meursault premier cru", "domaine bernard bonin", "chardonnay", "val de loire", "pouilly-fumé", "domaine didier daguenau", "sauvignon", "floral", "aubépine", "végétale", "amertume", "gras", "tension", "clos-saint-denis grand cru", "domaine pierre amiot", "pinot noir", "languedoc", "vin de pays de l'hérault", "la grange des pères", "syrah", "mourvèdre", "cabernet sauvignon", "counoise", "bordeaux", "péssac-léognan", "misson haut-brion", "merlot", "cabernet franc", "sud-ouest", "jurançon", "domaine cauhapé", "petit manseng", "fruits confits", "amande", "miel", "agrume", "épice", "eau de vie", "pommes", "truffee", "orange", "complexité"] 
+tags = ["agrume", "amande", "amertume", "aubépine", "bordeaux", "bourgogne", "cabernet franc", "cabernet sauvignon", "chardonnay", "clos-saint-denis grand cru", "complexité", "counoise", "domaine bernard bonin", "domaine cauhapé", "domaine didier daguenau", "domaine pierre amiot", "eau de vie", "floral", "fruits confits", "gras", "jurançon", "la grange des pères", "languedoc", "merlot", "meursault premier cru", "meursault", "miel", "misson haut-brion", "mourvèdre", "orange", "petit manseng", "pinot noir", "pommes", "pouilly-fumé", "péssac-léognan", "sauvignon", "sud-ouest", "syrah", "tension", "truffee", "val de loire", "vin de pays de l'hérault", "végétale", "épice"] 
 title = "Dégustation prestige"
 writer = "LeChaps"
 +++

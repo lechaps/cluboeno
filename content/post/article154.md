@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-06-18T17:30:22+00:00"
-tags = ["champagne"]
+tags = ["champagne"] 
 title = "Les idées reçues sur le vin"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-05-28T17:30:22+00:00"
-tags = ["bourgogne"]
+tags = ["bourgogne"] 
 title = "Les millésimes par appellation : La Bourgogne"
 writer = "LeChaps"
 +++

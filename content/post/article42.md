@@ -1,7 +1,7 @@
 +++
 categories = ["Histoire"]
 date = "2019-02-08T17:30:22+00:00"
-tags = ["gaulois", "provence", "languedoc", "normandie", "grèce",  "italie", "tonneau"]
+tags = ["gaulois", "grèce", "italie", "languedoc", "normandie", "provence", "tonneau"] 
 title = "Le vin chez les gaulois"
 writer = "LeChaps"
 +++

@@ -2,7 +2,7 @@
 categories = ["Dégustations"]
 date = "2019-04-05T17:30:22+00:00"
 image = "img/post/article_98.jpg"
-tags = ["châteauneuf-du-pape", "clos de l'oratoire", "poussiéreux", "puissant", "menthol", "réglisse"]
+tags = ["châteauneuf-du-pape", "clos de l'oratoire", "menthol", "poussiéreux", "puissant", "réglisse"] 
 title = "Le mystère de la fermeture"
 writer = "Thomas"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-04-02T17:30:22+00:00"
-tags = ["provence", "champagne, bouzy", "moût"]
+tags = ["bouzy", "champagne", "moût", "provence"] 
 title = "La couleur des vins : les vins rosés"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-06-20T17:30:22+00:00"
-tags = ["enzymage", "levurage", "tannins", "débourbage", "fermentation"]
+tags = ["débourbage", "enzymage", "fermentation", "levurage", "tannins"] 
 title = "Enzymage-Levurage"
 writer = "LeChaps"
 +++

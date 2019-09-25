@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-06-30T17:30:22+00:00"
-tags = ["sylvaner", "autriche", "alsace", "allemagne", "mildiou", "oïdium", "hongrie", "californie", "australie", "tchéquie", "italie", "nouvelle-zélande", "afrique du sud", "argentine", "luxembourg"]
+tags = ["afrique du sud", "allemagne", "alsace", "argentine", "australie", "autriche", "californie", "hongrie", "italie", "luxembourg", "mildiou", "nouvelle-zélande", "oïdium", "sylvaner", "tchéquie"] 
 title = "Le sylvaner"
 writer = "LeChaps"
 +++

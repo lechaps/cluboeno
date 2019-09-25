@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-03-17T17:30:22+00:00"
-tags = ["alsace", "bordeaux", "médoc", "saint-estèphe", "sauternes", "vallée du rhône", "pomerol", "margaux"]
+tags = ["alsace", "bordeaux", "margaux", "médoc", "pomerol", "saint-estèphe", "sauternes", "vallée du rhône"] 
 title = "Les millésimes par appellation"
 writer = "LeChaps"
 +++

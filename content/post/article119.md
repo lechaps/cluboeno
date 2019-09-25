@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-05-14T17:30:22+00:00"
-tags = ["terroir granitique", "beaujolais", "vallée du rhône", "gamay", "syrah", "hermitage", "saint-joseph", "cornas", "viognier", "condrieu", "alsace", "schlossberg", "brand", "eichberg"]
+tags = ["alsace", "beaujolais", "brand", "condrieu", "cornas", "eichberg", "gamay", "hermitage", "saint-joseph", "schlossberg", "syrah", "terroir granitique", "vallée du rhône", "viognier"] 
 title = "La fabrication des vins : les sols favorables à la vigne : les terroirs granitiques"
 writer = "LeChaps"
 +++

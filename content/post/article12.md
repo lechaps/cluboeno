@@ -1,7 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-01-10T17:30:22+00:00"
-tags = ["repos hivernal", "débourrement", "croissance de la vigne", "floraison", "nouaison", "maturation"]
+tags = ["croissance de la vigne", "débourrement", "floraison", "maturation", "nouaison", "repos hivernal"] 
 title = "Le cycle annuel de la vigne"
 writer = "LeChaps"
 +++

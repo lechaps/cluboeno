@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-03-16T17:30:22+00:00"
-tags = ["foulage", "moût", "éraflage", "égrappage", "champagne", "effervescent", "rafle"]
+tags = ["champagne", "effervescent", "foulage", "moût", "rafle", "égrappage", "éraflage"] 
 title = "Foulage - éraflage"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-12T17:30:22+00:00"
-tags = ["aoc", "vosne-romanée", "bourgogne", "gevrey-chambertin"]
+tags = ["aoc", "bourgogne", "gevrey-chambertin", "vosne-romanée"] 
 title = "AOC : Vosne-Romanée"
 writer = "LeChaps"
 +++

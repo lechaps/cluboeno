@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-05-09T17:30:22+00:00"
-tags = ["beaujolais"]
+tags = ["beaujolais"] 
 title = "Les millésimes par appellation : Beaujolais"
 writer = "LeChaps"
 +++

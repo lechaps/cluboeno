@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-03-05T17:30:22+00:00"
-tags = ["aoc", "montrachet", "bourgogne", "beaune", "puligny-montrachet", "chassagne-montrachet", "chevalier-montrachet", "bâtard-montrachet", "criot-bâtard-montrachet", "bienvenues-batârd-montrachet", "calcaire"]
+tags = ["aoc", "beaune", "bienvenues-batârd-montrachet", "bourgogne", "bâtard-montrachet", "calcaire", "chassagne-montrachet", "chevalier-montrachet", "criot-bâtard-montrachet", "montrachet", "puligny-montrachet"] 
 title = "AOC : Montrachet"
 writer = "LeChaps"
 +++

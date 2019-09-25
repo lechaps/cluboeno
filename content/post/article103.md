@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-04-28T17:30:22+00:00"
-tags = ["rolle", "vermentino", "italie", "corse", "provence", "languedoc", "vallée du rhône", "lubéron", "ajaccio", "corbières", "méditerranée", "ugni blanc", "cinsault", "grenache", "aubépine", "poire mûre", "ananas"]
+tags = ["ajaccio", "ananas", "aubépine", "cinsault", "corbières", "corse", "grenache", "italie", "languedoc", "lubéron", "méditerranée", "poire mûre", "provence", "rolle", "ugni blanc", "vallée du rhône", "vermentino"] 
 title = "Le rolle ou vermentino"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-06-19T17:30:22+00:00"
-tags = ["bourgogne", "climat", "saint-aubin", "meursault", "chambolle-musigny"]
+tags = ["bourgogne", "chambolle-musigny", "climat", "meursault", "saint-aubin"] 
 title = "Qu'est-ce qu'un climat bourguignon"
 writer = "LeChaps"
 +++

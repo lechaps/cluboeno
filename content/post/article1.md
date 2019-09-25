@@ -2,7 +2,7 @@
 categories = ["Dégustations"]
 date = "2018-12-28T20:25:22+05:30"
 image = "img/post/article_1.jpg"
-tags = [ "bijito", "junmai", "kizakura"]
+tags = ["bijito", "junmai", "kizakura"] 
 title = "Bijito Junmai - Saké de la brasserie Kizakura"
 writer = "LeChaps"
 +++

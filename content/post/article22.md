@@ -1,7 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-01-20T17:30:22+00:00"
-tags = ["ouvrier viticole", "labourage", "relevage", "palissage", "ébourgeonnage", "chef de culture"]
+tags = ["chef de culture", "labourage", "ouvrier viticole", "palissage", "relevage", "ébourgeonnage"] 
 title = "Les métiers du vin : dans la vigne"
 writer = "LeChaps"
 +++

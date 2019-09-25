@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-01-06T17:30:22+00:00"
-tags = ["cahors", "malbec", "cot", "auxerrois", "calcaire", "phylloxéra", "merlot", "tannat"]
+tags = ["auxerrois", "cahors", "calcaire", "cot", "malbec", "merlot", "phylloxéra", "tannat"] 
 title = "Autour de Cahors"
 writer = "LeChaps"
 +++

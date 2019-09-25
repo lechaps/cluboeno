@@ -1,7 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-02-11T17:30:22+00:00"
-tags = ["labourage", "bourgeon", "sarment", "viticulteur"]
+tags = ["bourgeon", "labourage", "sarment", "viticulteur"] 
 title = "Le calendrier du viticulteur : les labeurs de l'hiver"
 writer = "LeChaps"
 +++

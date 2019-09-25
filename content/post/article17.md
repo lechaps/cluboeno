@@ -1,7 +1,7 @@
 +++
 categories = ["Cave"]
 date = "2019-01-15T17:30:22+00:00"
-tags = ["cubitainer", "bag-in-box"]
+tags = ["bag-in-box", "cubitainer"] 
 title = "Quelle différence entre le cubitainer et le bag-in-box"
 writer = "LeChaps"
 +++

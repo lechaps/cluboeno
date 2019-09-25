@@ -1,7 +1,7 @@
 +++
 categories = ["Histoire"]
 date = "2019-02-05T17:30:22+00:00"
-tags = ["consommation", "economie", "chiffres business", "languedoc", "aquitaine", "paca", "champagne"]
+tags = ["aquitaine", "champagne", "chiffres business", "consommation", "economie", "languedoc", "paca"] 
 title = "Le business du vin"
 writer = "LeChaps"
 +++

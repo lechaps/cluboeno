@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-06-13T17:30:22+00:00"
-tags = ["ennemis du vin"]
+tags = ["ennemis du vin"] 
 title = "Les ennemis du vin : les vibrations"
 writer = "LeChaps"
 +++

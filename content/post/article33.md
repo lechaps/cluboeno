@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-01-30T17:30:22+00:00"
-tags = ["vin naturel", "sulfites", "vin biologique", "vin biodynamique"]
+tags = ["sulfites", "vin biodynamique", "vin biologique", "vin naturel"] 
 title = "Qu'est-ce qu'un vin naturel"
 writer = "LeChaps"
 +++

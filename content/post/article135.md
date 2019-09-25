@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-05-30T17:30:22+00:00"
-tags = ["champagne", "méthode champenoise", "méthode de la cuve close", "effervescent", "fermentation", "fermentation alcoolique", "perlant", "pétillant", "mousseux" ]
+tags = ["champagne", "effervescent", "fermentation alcoolique", "fermentation", "mousseux", "méthode champenoise", "méthode de la cuve close", "perlant", "pétillant"] 
 title = "Techniques spécifiques : les vins effervescents"
 writer = "LeChaps"
 +++

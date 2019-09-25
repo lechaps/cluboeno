@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-06-27T17:30:22+00:00"
-tags = ["accords mets-vins", "foie gras", "moelleux", "liquoreux", "sauternes", "vouvray", "vendanges tardives", "alsace", "saussignac", "champagne", "bourgogne", "meursault", "pouilly", "sud-ouest", "bordeaux", "buzet", "côtes-de-bergerac", "lalande-de-pomerol"]
+tags = ["accords mets-vins", "alsace", "bordeaux", "bourgogne", "buzet", "champagne", "côtes-de-bergerac", "foie gras", "lalande-de-pomerol", "liquoreux", "meursault", "moelleux", "pouilly", "saussignac", "sauternes", "sud-ouest", "vendanges tardives", "vouvray"] 
 title = "Les accords mets-vins : le foie gras"
 writer = "LeChaps"
 +++

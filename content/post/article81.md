@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-03-19T17:30:22+00:00"
-tags = ["accords mets-vins", "fromage", "camembert", "brie", "beaujolais", "touraine", "anjou", "bourgogne", "munster", "pont-l'évêque", "livarot", "époisses", "langres", "maroilles", "mont d'or", "alsace", "gewurztraminer", "jura", "savagnin", "marc de bourgogne", "armagnac", "souple" ]
+tags = ["accords mets-vins", "alsace", "anjou", "armagnac", "beaujolais", "bourgogne", "brie", "camembert", "fromage", "gewurztraminer", "jura", "langres", "livarot", "marc de bourgogne", "maroilles", "mont d'or", "munster", "pont-l'évêque", "savagnin", "souple", "touraine", "époisses"] 
 title = "Les accords mets-vins : les fromages à pâte molle"
 writer = "LeChaps"
 +++

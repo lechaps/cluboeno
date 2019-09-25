@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-03-07T17:30:22+00:00"
-tags = ["panier verseur", "oxydation"]
+tags = ["oxydation", "panier verseur"] 
 title = "Les règles  du service"
 writer = "LeChaps"
 +++

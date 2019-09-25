@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-03-25T17:30:22+00:00"
-tags = ["sauvignon blanc", "val de loire", "sancerre", "pouilly-fumé", "menetou-salon", "coteaux-du-giennois", "quincy", "reuilly", "bourgogne", "bordeaux", "graves", "sauternes", "syrie", "états-unis", "afrique du sud", "australie", "nouvelle-zélande", "pessac-léognan", "sémillon", "liquoreux", "vifs", "genêt", "buis", "bourgeon de cassis", "pamplemousse", "fruit de la passion", "viande rôtie", "pierre à fusil" ]
+tags = ["afrique du sud", "australie", "bordeaux", "bourgeon de cassis", "bourgogne", "buis", "coteaux-du-giennois", "fruit de la passion", "genêt", "graves", "liquoreux", "menetou-salon", "nouvelle-zélande", "pamplemousse", "pessac-léognan", "pierre à fusil", "pouilly-fumé", "quincy", "reuilly", "sancerre", "sauternes", "sauvignon blanc", "syrie", "sémillon", "val de loire", "viande rôtie", "vifs", "états-unis"] 
 title = "Le sauvignon blanc"
 writer = "LeChaps"
 +++

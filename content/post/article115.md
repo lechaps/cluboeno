@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-05-10T17:30:22+00:00"
-tags = ["accords mets-vins", "crème caramel", "crème brulée", "monbazillac", "jurançon", "alsace", "vendanges tardives"]
+tags = ["accords mets-vins", "alsace", "crème brulée", "crème caramel", "jurançon", "monbazillac", "vendanges tardives"] 
 title = "Les accords mets-vins : les crèmes caramel et crèmes brulées"
 writer = "LeChaps"
 +++

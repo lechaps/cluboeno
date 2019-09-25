@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-01-14T17:30:22+00:00"
-tags = ["aoc", "saint-chinian", "rolle", "grenache", "roussanne", "mourvèdre", "syrah", "hérault", "tannins fins", "complexité", "finale élancée", "potentiel de garde"]
+tags = ["aoc", "complexité", "finale élancée", "grenache", "hérault", "mourvèdre", "potentiel de garde", "rolle", "roussanne", "saint-chinian", "syrah", "tannins fins"] 
 title = "AOC : Saint-Chinian"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Cave"]
 date = "2019-03-12T17:30:22+00:00"
-tags = ["cave coopérative", "pressurage", "vinification", "élevage"]
+tags = ["cave coopérative", "pressurage", "vinification", "élevage"] 
 title = "Acheter son vin : en cave coopérative"
 writer = "LeChaps"
 +++

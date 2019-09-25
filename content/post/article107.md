@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-02T17:30:22+00:00"
-tags = ["provence", "phocéens", "romains", "côtes-de-provence"]
+tags = ["côtes-de-provence", "phocéens", "provence", "romains"] 
 title = "La provence : des arcs-sur-argens à la presqu'île de Saint-Tropez"
 writer = "LeChaps"
 +++
