@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-01-13T17:30:22+00:00"
-tags = ["aligoté", "bouzeron", "crémant", "bourgogne", "apéritif", "ukraine", "roumanie", "états-unis", "californie", "canada", "chili", "crème de cassis", "apéritif"]
+tags = ["aligoté", "apéritif", "bourgogne", "bouzeron", "californie", "canada", "chili", "crème de cassis", "crémant", "roumanie", "ukraine", "états-unis"] 
 title = "L'aligoté"
 writer = "LeChaps"
 +++

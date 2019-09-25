@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-05-25T17:30:22+00:00"
-tags = ["provence", "cinsault", "grenache", "syrah", "tibouren", "mourvèdre", "carignan", "cabernet sauvignon"]
+tags = ["cabernet sauvignon", "carignan", "cinsault", "grenache", "mourvèdre", "provence", "syrah", "tibouren"] 
 title = "Les cépages rouges de la Provence"
 writer = "LeChaps"
 +++

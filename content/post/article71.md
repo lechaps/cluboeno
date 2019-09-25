@@ -1,7 +1,7 @@
 +++
 categories = ["Histoire"]
 date = "2019-03-09T17:30:22+00:00"
-tags = ["argus", "consommation", "economie", "chiffres business"]
+tags = ["argus", "chiffres business", "consommation", "economie"] 
 title = "L'argus du vin"
 writer = "LeChaps"
 +++

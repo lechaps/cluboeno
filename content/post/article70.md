@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-03-08T17:30:22+00:00"
-tags = ["beaujolais", "val de loire", "touraine", "ardèche", "gaillac", "bonbon anglais", "fruits rouges"]
+tags = ["ardèche", "beaujolais", "bonbon anglais", "fruits rouges", "gaillac", "touraine", "val de loire"] 
 title = "Le gamay"
 writer = "LeChaps"
 +++

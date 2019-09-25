@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-13T17:30:22+00:00"
-tags = ["corse", "nielluccio", "sciaccarello", "vermentino", "aleatico", "barbarossa", "bianco gentile", "ajaccio", "patrimonio"]
+tags = ["ajaccio", "aleatico", "barbarossa", "bianco gentile", "corse", "nielluccio", "patrimonio", "sciaccarello", "vermentino"] 
 title = "La Corse"
 writer = "LeChaps"
 +++

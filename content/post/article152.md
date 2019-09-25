@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-06-16T17:30:22+00:00"
-tags = ["aoc", "alsace", "riesling", "poisson", "fruits de mer", "fromage de chèvre", "choucroute"]
+tags = ["alsace", "aoc", "choucroute", "fromage de chèvre", "fruits de mer", "poisson", "riesling"] 
 title = "AOC : Riesling"
 writer = "LeChaps"
 +++

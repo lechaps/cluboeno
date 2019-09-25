@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-01-04T17:30:22+00:00"
-tags = ["vin de glace", "baviere", ]
+tags = ["baviere", "vin de glace"] 
 title = "Vins de glace"
 writer = "LeChaps"
 +++

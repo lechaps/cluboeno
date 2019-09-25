@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-05-19T17:30:22+00:00"
-tags = ["vin de table", "vin de france", "les grands chais de france", "grand sud", "jp chenet", "groupe castel", "cambras", "vieux papes", "la villageoise", "champlure"]
+tags = ["cambras", "champlure", "grand sud", "groupe castel", "jp chenet", "la villageoise", "les grands chais de france", "vieux papes", "vin de france", "vin de table"] 
 title = "Les catégories règlementaires : les vins de France"
 writer = "LeChaps"
 +++

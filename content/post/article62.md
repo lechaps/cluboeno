@@ -1,7 +1,7 @@
 +++
 categories = ["Cave"]
 date = "2019-02-28T17:30:22+00:00"
-tags = ["alsace", "jura", "flute", "clavelin", "bordeaux", "sud-ouest", "languedoc", "bourgogne", "vallée du rhône", "val de Loire", "beaujolais", "sancerre", "vin jaune"]
+tags = ["alsace", "beaujolais", "bordeaux", "bourgogne", "clavelin", "flute", "jura", "languedoc", "sancerre", "sud-ouest", "val de Loire", "vallée du rhône", "vin jaune"] 
 title = "La forme des bouteilles"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-05-21T17:30:22+00:00"
-tags = ["terroir de galets roulés", "vallée du rhône", "châteauneuf-du-pape", "grenache", "puissant", "chaleureux"]
+tags = ["chaleureux", "châteauneuf-du-pape", "grenache", "puissant", "terroir de galets roulés", "vallée du rhône"] 
 title = "Les sols favorables à la vigne : les terroirs de galets roulés"
 writer = "LeChaps"
 +++

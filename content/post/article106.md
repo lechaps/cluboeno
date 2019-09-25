@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-05-01T17:30:22+00:00"
-tags = ["vin bio"]
+tags = ["vin bio"] 
 title = "Les vins bio sont-ils meilleurs que les autres vins ?"
 writer = "LeChaps"
 +++

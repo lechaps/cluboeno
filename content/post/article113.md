@@ -1,7 +1,7 @@
 +++
 categories = ["Cave"]
 date = "2019-05-08T17:30:22+00:00"
-tags = ["cave à vin", "bouchon"]
+tags = ["bouchon", "cave à vin"] 
 title = "La cave à vin"
 writer = "LeChaps"
 +++

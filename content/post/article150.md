@@ -1,7 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-06-14T17:30:22+00:00"
-tags = ["terroir crayeux", "chardonnay", "champagne", "chenin", "val de loire"]
+tags = ["champagne", "chardonnay", "chenin", "terroir crayeux", "val de loire"] 
 title = "Les sols favorables à la vigne : les terroirs crayeux"
 writer = "LeChaps"
 +++

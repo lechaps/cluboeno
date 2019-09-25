@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-17T17:30:22+00:00"
-tags = ["aoc", "bourgogne", "meursault", "chardonnay", "volnay" ]
+tags = ["aoc", "bourgogne", "chardonnay", "meursault", "volnay"] 
 title = "AOC : Meursault"
 writer = "LeChaps"
 +++

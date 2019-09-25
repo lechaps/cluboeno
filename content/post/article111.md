@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-05-06T17:30:22+00:00"
-tags = ["fermentation", "fermentation alcoolique", "fermentation malolactique"]
+tags = ["fermentation alcoolique", "fermentation malolactique", "fermentation"] 
 title = "La fermentation malolactique"
 writer = "LeChaps"
 +++

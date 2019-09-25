@@ -1,7 +1,7 @@
 +++
 categories = ["Histoire"]
 date = "2019-01-23T17:30:22+00:00"
-tags = ["grèce", "dionysos", "romains", "bacchus"]
+tags = ["bacchus", "dionysos", "grèce", "romains"] 
 title = "La figure de Dionysos"
 writer = "LeChaps"
 +++

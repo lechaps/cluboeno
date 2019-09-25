@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-06-02T17:30:22+00:00"
-tags = ["accords mets-vins", "porc", "bordeaux", "graves", "vallée du rhône", "côtes-du-rhône", "val de loire", "bourgueil", "givry", "minervois", "languedoc", "pic-saint-loup", "tannins souples", "tannins soyeux"]
+tags = ["accords mets-vins", "bordeaux", "bourgueil", "côtes-du-rhône", "givry", "graves", "languedoc", "minervois", "pic-saint-loup", "porc", "tannins souples", "tannins soyeux", "val de loire", "vallée du rhône"] 
 title = "Les accords mets-vins : le porc"
 writer = "LeChaps"
 +++

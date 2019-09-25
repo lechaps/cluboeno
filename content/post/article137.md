@@ -1,7 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-06-01T17:30:22+00:00"
-tags = ["terroir argilo-graveleux", "merlot", "cabernet franc", "pomerol", "puissant"]
+tags = ["cabernet franc", "merlot", "pomerol", "puissant", "terroir argilo-graveleux"] 
 title = "Les sols favorables à la vigne : les terroirs argilo-graveleux"
 writer = "LeChaps"
 +++

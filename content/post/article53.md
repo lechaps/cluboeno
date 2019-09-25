@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-02-19T17:30:22+00:00"
-tags = ["île de la réunion", "pinot noir", "malbec", "chenin"]
+tags = ["chenin", "malbec", "pinot noir", "île de la réunion"] 
 title = "Le Cilaos"
 writer = "Thomas"
 +++

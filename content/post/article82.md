@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-03-20T17:30:22+00:00"
-tags = ["moût", "fermentation", "champagne", "chardonnay", "bourgogne", "alsace", "pinot blanc", "vendanges tardives" ]
+tags = ["alsace", "bourgogne", "champagne", "chardonnay", "fermentation", "moût", "pinot blanc", "vendanges tardives"] 
 title = "La couleur des vins : vins blancs"
 writer = "LeChaps"
 +++

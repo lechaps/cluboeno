@@ -2,7 +2,7 @@
 categories = ["Dégustations"]
 date = "2019-04-21T17:30:22+00:00"
 image = "img/post/article_99_1.jpg"
-tags = ["italie", "chianti", "toscane", "sangiovese", "malvasia bianca lunga", "trebbiano", "mammolo", "canaiolo", "merlot", "vernaccia di san gimignano", "chardonnay", "casasilia", "ciliegiolo", "passerillé"]
+tags = ["canaiolo", "casasilia", "chardonnay", "chianti", "ciliegiolo", "italie", "malvasia bianca lunga", "mammolo", "merlot", "passerillé", "sangiovese", "toscane", "trebbiano", "vernaccia di san gimignano"] 
 title = "Découverte de la Toscane et du Chianti"
 writer = "Thomas"
 +++

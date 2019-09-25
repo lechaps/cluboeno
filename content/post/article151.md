@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-06-15T17:30:22+00:00"
-tags = ["accords mets-vins", "abats", "rognons", "foie de veau", "pieds de porc", "tripes", "tête de veau", "tannins souples", "jura", "côtes-du-jura", "sud-ouest", "marcillac", "vallée du rhône", "crozes-hermitage", "cervelle d'agneau", "andouillette", "ris de veau"]
+tags = ["abats", "accords mets-vins", "andouillette", "cervelle d'agneau", "crozes-hermitage", "côtes-du-jura", "foie de veau", "jura", "marcillac", "pieds de porc", "ris de veau", "rognons", "sud-ouest", "tannins souples", "tripes", "tête de veau", "vallée du rhône"] 
 title = "Les accords mets-vins : les abats"
 writer = "LeChaps"
 +++

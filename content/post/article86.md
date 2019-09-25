@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-03-24T17:30:22+00:00"
-tags = ["alsace", "bordeaux", "bourgogne", "champagne", "provence", "médoc", "pessac-léognan", "saint-émilion grand cru"]
+tags = ["alsace", "bordeaux", "bourgogne", "champagne", "médoc", "pessac-léognan", "provence", "saint-émilion grand cru"] 
 title = "Grands crus et crus classés : les Bordeaux"
 writer = "LeChaps"
 +++

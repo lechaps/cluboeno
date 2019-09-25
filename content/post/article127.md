@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-22T17:30:22+00:00"
-tags = ["alsace", "gewurztraminer", "muscat", "riesling", "tokay", "pinot gris", "crémant d'alsace", "eau-de-vie", "marc d'alsace", "pourriture noble", "sélection grains nobles"]
+tags = ["alsace", "crémant d'alsace", "eau-de-vie", "gewurztraminer", "marc d'alsace", "muscat", "pinot gris", "pourriture noble", "riesling", "sélection grains nobles", "tokay"] 
 title = "L'Alsace"
 writer = "LeChaps"
 +++

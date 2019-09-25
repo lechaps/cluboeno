@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-05-20T17:30:22+00:00"
-tags = ["malbec", "cot", "cahors", "sud-ouest", "auxerrois", "bordeaux", "argentine", "grifforin", "vesparol", "gros noir", "pressac", "prolongeau", "chili"]
+tags = ["argentine", "auxerrois", "bordeaux", "cahors", "chili", "cot", "grifforin", "gros noir", "malbec", "pressac", "prolongeau", "sud-ouest", "vesparol"] 
 title = "Le Malbec"
 writer = "LeChaps"
 +++

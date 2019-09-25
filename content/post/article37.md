@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-02-03T17:30:22+00:00"
-tags = ["beaujolais", "villefranche-sur-saône", "gamay", "beaujolais-villages", "brouilly", "chenas", "chiroubles", "fleurie"]
+tags = ["beaujolais", "beaujolais-villages", "brouilly", "chenas", "chiroubles", "fleurie", "gamay", "villefranche-sur-saône"] 
 title = "Le Beaujolais"
 writer = "LeChaps"
 +++

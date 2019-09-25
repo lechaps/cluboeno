@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2011-05-11T17:30:22+00:00"
-tags = ["bourgogne", "volnay", "volnay premier cru", "vosne-romanée", "vosne-romanée premier cru", "domaine gras", "bordeaux", "saint-estèphe", "saint-estèphe troisième grand cru classé", "château calon ségur", "saint-émilion", "saint-émilion premier grand cru classé", "château pavie", "languedoc", "coteaux du languedoc", "domaine peyre rose", "châteauneuf-du-pape", "château de beaucastel", "vallée du rhône", "côte-rotie", "jean-michel stephan", "meursault", "meursault premier cru", "domaine faiveley", "sauternes", "sauternes premier cru supérieur", "château d’yquem", "pinot noir", "cabernet sauvignon", "merlot", "cabernet franc", "syrah", "chardonnay", "grenache", "cinsault", "syrah", "mourvèdre", "counoise", "sémillon", "sauvignon"] 
+tags = ["bordeaux", "bourgogne", "cabernet franc", "cabernet sauvignon", "chardonnay", "château calon ségur", "château de beaucastel", "château d’yquem", "château pavie", "châteauneuf-du-pape", "cinsault", "coteaux du languedoc", "counoise", "côte-rotie", "domaine faiveley", "domaine gras", "domaine peyre rose", "grenache", "jean-michel stephan", "languedoc", "merlot", "meursault premier cru", "meursault", "mourvèdre", "pinot noir", "saint-estèphe troisième grand cru classé", "saint-estèphe", "saint-émilion premier grand cru classé", "saint-émilion", "sauternes premier cru supérieur", "sauternes", "sauvignon", "syrah", "sémillon", "vallée du rhône", "volnay premier cru", "volnay", "vosne-romanée premier cru", "vosne-romanée"] 
 title = "Dégustation prestige"
 writer = "LeChaps"
 +++

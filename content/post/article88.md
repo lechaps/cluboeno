@@ -1,7 +1,7 @@
 +++
 categories = ["Cave"]
 date = "2019-03-26T17:30:22+00:00"
-tags = ["négociant", "bordeaux", "éleveur" ]
+tags = ["bordeaux", "négociant", "éleveur"] 
 title = "Acheter son vin : chez le négociant"
 writer = "LeChaps"
 +++

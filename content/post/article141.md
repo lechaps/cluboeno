@@ -1,7 +1,7 @@
 +++
 categories = ["Cave"]
 date = "2019-06-05T17:30:22+00:00"
-tags = ["producteur" ]
+tags = ["producteur"] 
 title = "Acheter son vin : chez le producteur"
 writer = "LeChaps"
 +++
