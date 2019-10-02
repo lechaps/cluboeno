@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2014-01-24T17:30:22+00:00"
-tags = ["agrume", "boisé", "bordeaux", "bourgogne", "cabernet franc", "cabernet sauvignon", "cerise", "champagne", "chardonnay", "chenin", "château pichon longueville", "cire", "clos de la coulée de serrant", "coing", "domaine desaunay", "domaine huet", "domaine paul jaboulet ainé", "fruits blancs", "fruits confits", "fumé", "grand échézeaux", "grillote", "hermitage", "menthe", "merlot", "moelleux", "noisette", "noix", "oxydation", "paillac", "petit verdot", "pinot noir", "poire", "poivre", "pomme", "pruneau", "pétrol", "roederer", "résine", "salin", "savennières", "surreau", "syrah", "tabac", "tannins fondu", "tannins", "val de loire", "vallée du rhône", "violette", "vouvray", "épice"] 
+tags = ["agrume", "boisé", "bordeaux", "bourgogne", "cabernet franc", "cabernet sauvignon", "cerise", "champagne", "chardonnay", "chenin", "château pichon longueville", "cire", "clos de la coulée de serrant", "coing", "domaine desaunay", "domaine huet", "domaine paul jaboulet ainé", "fruits blancs", "fruits confits", "fumé", "grand échézeaux", "grillote", "hermitage", "menthe", "merlot", "moelleux", "noisette", "noix", "oxydation", "paillac", "petit verdot", "pinot noir", "poire", "poivre", "pomme", "pruneau", "pétrol", "roederer", "résine", "salin", "savennières", "surreau", "syrah", "tabac", "tannins fondus", "tannins", "val de loire", "vallée du rhône", "violette", "vouvray", "épice"] 
 title = "Dégustation prestige"
 writer = "LeChaps"
 +++
