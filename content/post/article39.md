@@ -1,5 +1,5 @@
 +++
-categories = ["Histoire"]
+categories = ["Cave"]
 date = "2019-02-05T17:30:22+00:00"
 tags = ["aquitaine", "champagne", "chiffres business", "consommation", "economie", "languedoc", "paca"] 
 title = "Le business du vin"
@@ -26,3 +26,4 @@ En France :
   * 2 verres maximum par jour pour les femmes
   * 1 jour d'abstinence par semaine
   * 4 verres maximum en une seule occasion...
+  
