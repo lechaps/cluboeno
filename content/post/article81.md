@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-03-19T17:30:22+00:00"
-tags = ["accords mets-vins", "alsace", "anjou", "armagnac", "banyuls", "beaujolais", "bourgogne", "brie", "camembert", "fromage", "gewurztraminer", "jura", "langres", "liquoreux", "livarot", "madiran", "marc de bourgogne", "maroilles", "maury", "mont d'or", "munster", "pont-l'évêque", "riveslates", "savagnin", "souple", "touraine", "vin doux naturel", "époisses"] 
+tags = ["accords mets-vins", "alsace", "anjou", "armagnac", "banyuls", "beaujolais", "bourgogne", "brie", "camembert", "chardonnay", "fromage", "gewurztraminer", "jura", "langres", "liquoreux", "livarot", "macon", "madiran", "marc de bourgogne", "maroilles", "maury", "mont d'or", "montlouis-sur-loire", "munster", "pont-l'évêque", "pouilly-fumé", "rivesaltes", "riveslates", "sancerre", "sauvignon", "savagnin", "souple", "touraine", "val de loire", "vin doux naturel", "époisses"] 
 title = "Les accords mets-vins : les fromages"
 writer = "LeChaps"
 +++
@@ -15,3 +15,8 @@ Camembert ou brie s'associent aux vins rouges légers et souples, voire gouleyan
 
 * **les pâtes molles à croûte lavée**  
 Munster, pont-l'évêque, livarot, époisses, langres, maroilles, mont d'or demandent des blancs puissants, aromatiques et vifs comme un alsace gewurztraminer. Ce dernier équilibre la force du fromage dont la puissance aromatique fait écho au caractère épicé du vin. Goûtez aussi un côte-du-jura savagnin avec un pont-l'évêque ou un livarot et un marc de bourgogne ou un armagnac blanc avec époisses.
+
+* **les fromages de chèvre**
+Les fromages de chèvre sont des fromages de caractère qui demandent des vins blancs vifs et fruités comme ceux issus du cépage sauvignon que produisent le centre Loire ou la Touraine.  
+Les vins de chardonnay élevé en cuves sont possibles, par exemple un mâcon.  Le valençay accompagnera un vin de sancerre, ou de pouilly-fumé et un crottin de chavignol, un sancerre blanc de chavignol.  
+Lorsque le fromage est très affiné, un rivesaltes ambré ou à montlouis-sur-loire demi-sec adoucissent l'accord.

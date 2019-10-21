@@ -39,3 +39,14 @@ Les terroirs de galets roulés se composent de pierres oblongues, énormes, liss
 
 Les terroirs granitiques se caractérisent pas des sols peu profond, sablonneux, issus de la décomposition du socle cristallin. Ils se rencontre au nord du Morvan, dans le Beaujolais et au nord de la vallée du Rhône. En Beaujolais, le gamay s'exprime avec distinction. Dans la vallée du Rhône septentrionale, la syrah (hermitage, saint-joseph, cornas) et le viognier (condrieu) s'associent au granite. L'Alsace possède également des terroirs granitiques de qualité classés en grand cru (Schlossberg, Brand, Eichberg).
 Dans le verre, les vins sont expressifs, fins, élégants, volontiers minéraux.
+
+## Les terroirs de grave
+
+La vigne se complaît dans les sols pauvres, parfois aride. Très développé, son système racinaires peut plonger jusqu'à une dizaine de mètres à la recherche de l'eau. Les terroirs favorables sont multiples, variable selon les cépages. Les meilleurs sont ce qui permettent un bon drainage et une alimentation en eau régulière.  
+Les fameux terroir de graves sont des sols constitués de graviers et de cailloux, souvent mélangés à du sable riche enfer, du limon et de l'argile. Organisées en terrasse, ces graves bénéficient d'un bon drainage dans la vigne tire parti. Les sables et les argiles forment un sol chaud propice à une bonne maturation du raisin.
+C'est terroirs sont localisés de la rive gauche de la Garonne jusqu'à l'océan atlantique et sont à l'origine des crus les plus prestigieux du médoc ou des graves.
+
+## Les terroirs schisteux
+
+Les terroirs schisteux sont composés de roches feuilletées, plus ou moins sombres et brillantes, sédimentaires ou métamorphiques (micaschistes). Planter sur ces derniers, la syrah engendre les grands côte-rôtie de la vallée septentrionale du Rhône. Dans le Languedoc-Roussillon, des cépages méridionaux comme le grenache ou le carignan se plaisent sur les schistes autour de Faugères, de Banyuls et de Maury. Ce sont encore des schistes qui donnent les vins liquoreux d'Anjou à base de chenin comme les coteaux-du-layon, les grands rieslings allemands de Moselle ou les Portos de la vallée du Douro.  
+Dans le verre, les sols schisteux permettent de conserver, voire d'optimiser, l'authenticité des cépages.
