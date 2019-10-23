@@ -25,4 +25,3 @@ Riche de 2 600 ans de tradition viticole, la Provence bénéficie, grâce à la 
 * **la clairette** produit des vins aromatiques, aux notes de fruits à chair blanche;
 * **le sémillon** une faible proportion de ce cépage permet aux vins de gagner en puissance aromatique, en rondeur et en élégance, et d'afficher des nuances de fleurs blanches et de miel;
 * **le bourboulenc blanc** ou **doillon** apporte aux vins finesse et rondeurs.
-
