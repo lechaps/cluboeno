@@ -1,10 +1,20 @@
 +++
 categories = ["Viticulture"]
 date = "2019-02-11T17:30:22+00:00"
-tags = ["bourgeon", "labourage", "sarment", "vendange", "viticulteur"] 
+tags = ["bourgeon", "coulure", "débourrement", "floraison", "inflorescence", "labourage", "millerandage", "sarment", "vendange", "viticulteur", "véraison"] 
 title = "Le calendrier du viticulteur"
 writer = "LeChaps"
 +++
+
+## Les dangers du printemps
+
+Vers mars ou avril, à la faveur du radoucissement, les bourgeons de la vigne se développent, éclatent et rejettent leur bourre : c'est le débourrement. Ces jeunes pousses évoluent en inflorescences puis en grappes. Elles sont très fragiles et les gelées de printemps représentent une vraie menace. À -2 ou -3 °C, elles sont détruites et la récolte compromise.  
+Les fleurs apparaissent en mai ou juin, quand la température avoisine les 20 °C. C'est la floraison, un moment-clé : de l'importance de cette floraison dépend le nombre de baies (les grains) par grappe. Si le froid et la pluie, fréquentes en juin, contrarient la fécondation, on parle de « coulures » ;  Si les grains ne se développent pas normalement, c'est le « millerandage ». L'un et l'autre provoquent une baisse importante de la production.
+
+## Le raison prend des couleurs
+
+Fin juillet-début août dans l'hémisphère nord, les raisins change de couleur : c'est la véraison. Les futures baies à vin rouge passent de la couleur verte à la couleur rouge. Les baies destinées à la fabrication du vin blanc passent d'un vert opaque un vert translucide voire jaune doré.  
+À partir de ce moment, le vigneron surveille de près son raisin car la quantité de sucre augmente et l'acidité diminue. Le raisin est proche de la maturité.
 
 ## Automne
 
