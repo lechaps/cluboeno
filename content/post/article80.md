@@ -2,7 +2,7 @@
 categories = ["Cépages"]
 date = "2019-03-18T17:30:22+00:00"
 tags = ["aleatico", "barbarossa", "boisé", "charpenté", "corse", "fleur", "maquis", "merlot", "nielluccio", "sciaccarello", "souple", "tannins", "violette", "épice"] 
-title = "Quels sont les cépages rouges Corse ?"
+title = "Les cépages rouges Corse "
 writer = "LeChaps"
 +++
 

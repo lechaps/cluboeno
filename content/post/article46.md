@@ -39,3 +39,19 @@ Dans la mesure du possible, il convient de respecter les principes suivants :
 Si les bouteilles achetées en carton ne doivent pas demeurer dans leur emballage, celles livrées en caisse de bois peuvent y être un temps conservées, notamment si vous envisagez de revendre le vin.  
 
 Néanmoins, les caisses prennent beaucoup de place, elles sont une proies aisée des pilleurs de caves et il faut surveiller régulièrement leur état. Vous repérerez casiers et bouteilles par un système de notation (alphanumérique par exemple), à reporter sur votre livre de cave.
+
+## Bien choisir ses casiers
+
+Une cave étant toujours trop petite, le rangement des bouteilles doit donc être rationnel.  
+Le casier à bouteilles, à un ou deux rangs, offre bien des avantages : peu coûteux, il donne accès aisément à l'ensemble des flacons. Mais il est trop volumineux pour le nombre de bouteilles logées.  
+Si votre cave est importante, empilez vos bouteilles. Pour accéder aux différents vins, montez des casiers en parpaings pouvant contenir 24,36 ou 48 bouteilles en pile, sur deux rangs. Si la cave n'est pas trop humide, il est possible d'élever des casiers en planches. Mais attention aux insectes qui peuvent s'y installer et attaquer les bouchons et rendre les bouteilles couleuses.  
+Les constructeurs proposent aujourd'hui de nombreux modèles de casiers à compartiment, fixes, empilables et modulables, dans les matériaux les plus divers.  
+
+## Entreposer ses bouteilles
+
+Comment ranger et classer ses bouteilles ? Même si votre rangement et votre classement vont directement dépendre des bouteilles que vous possédez, certaines pratiques sont à observer :
+
+* Placer les bouteilles en position horizontale, goulot vers l'intérieur. Cette position permet de mettre le vin au contact du bouchon de liège et évite à celui-ci de se dessécher et de laisser entrer l'air ;
+* Sortez les bouteilles de leur carton ou ouvrez les caisses en bois pour permettre la circulation de l'air. Si les caisses en carton prennent l'humidité, elles risquent d'altérer considérablement votre vin, sensible aux odeurs fortes ;
+* Placez les vins blancs sec plutôt en bas (en général plus froid), les rouges plutôt en haut (en général plus chaud) ;
+* Placer les goulots face au mur pour faciliter la lecture de l'étiquette au moment de choisir un vin, sans avoir à trop remuer ce dernier.
