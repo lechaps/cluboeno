@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-03-10T17:30:22+00:00"
-tags = ["aoc", "ardèche", "cassis", "fleur", "framboise", "hermitage", "marsanne", "miel", "poivre", "roussanne", "saint-joseph", "sols granitiques", "syrah", "vallée du rhône", "volailles"] 
+tags = ["aoc", "ardèche", "cassis", "fleur", "framboise", "hermitage", "marsanne", "miel", "poivre", "roussanne", "saint-joseph", "syrah", "terroir granitique", "vallée du rhône", "volailles"] 
 title = "AOC : Saint-Joseph"
 writer = "LeChaps"
 +++

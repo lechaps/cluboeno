@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-23T17:30:22+00:00"
-tags = ["aoc", "argilo-calcaire", "bergerac", "botrytis", "foie gras", "fraise", "monbazillac", "sud-ouest", "viandes blanches"] 
+tags = ["aoc", "terroir argilo-calcaire", "bergerac", "botrytis", "foie gras", "fraise", "monbazillac", "sud-ouest", "viandes blanches"] 
 title = "AOC : Monbazillac"
 writer = "LeChaps"
 +++

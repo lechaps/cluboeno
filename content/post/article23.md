@@ -1,7 +1,7 @@
 +++
 categories = ["Cave"]
 date = "2019-01-21T17:30:22+00:00"
-tags = ["ennemis du vin", "lumière", "oxydation", "vibration"] 
+tags = ["ennemis du vin", "goût de bouchon", "lumière", "oxydation", "vibration"] 
 title = "Les ennemis dans la conservation du vin"
 writer = "LeChaps"
 +++
@@ -16,6 +16,9 @@ Toutes ces nuissances créent des vibrations qui fatiguent et usent prématurém
 Les vibrations maintiennent en suspension les dépôts du vin et perturbent son processus de vieillissement.  
 Repos et calme absolu sont donc nécessaires à la maturation du vin dans de bonnes conditions.
 
-* **l'air**
+* **l'air**  
 Une fois en bouteille, le vin subit des réactions d'oxydation progressive tout au long de sa garde. Pour que ce phénomène améloire les qualités du vin, il doit être lent et très limité. Si, au contraire, il est accéléré, notamment par une exposition à l'air du contenu des bouteilles à travers un mauvais bouchon, il risque d'altérer votre vin et de favoriser l'apparition de mauvaises odeurs : ce que l'on appelle « l'évent ».  
 Une bonne hygrométrie dans votre cave permet aux bouchons de conserver leur élasticité et étanchéité, et donc de préserver leur pouvoir de protection vis-à-vis de l'oxygène de l'air extérieur.
+
+* **les odeurs**  
+Les odeurs sont capables de s'infiltrer par le bouchon, celui-ci n'étant pas totalement étanches, et contaminer le vin. Les odeurs de pétrole, d'ail, de poireaux, de pommes de terre germée, de cartons humides ou de fromage sont particulièrement puissantes : veuillez donc à ne jamais stocker ce type de produit ou d'aliments aux côtés de vos bouteilles. Sachez aussi que les bois traités (comme le sont certaines caisses de bouteille) sont soupçonnés d'être à l'origine du célèbre goût de bouchons. Une excellente aération de votre local est par ailleurs indispensable pour éviter toute stagnation d'odeur désagréable et dommageable pour votre vin.

@@ -1,10 +1,18 @@
 +++
-categories = ["Savoir boire"]
+categories = ["Vignobles"]
 date = "2019-05-28T17:30:22+00:00"
-tags = ["bourgogne"] 
-title = "Les millésimes par appellation : La Bourgogne"
+tags = ["bourgogne", "pinot noir", "aligoté", "chardonnay", "bourgogne passetoutgrain", "bourgogne aligoté", "bourgogne grand ordinaire"] 
+title = "La Bourgogne"
 writer = "LeChaps"
 +++
+
+La région de Bourgogne propose des vins de renom, souvent associés aux terroirs avec une gastronomie des plus riches. L'histoire des vins de Bourgogne remonte au Moyen-Âge. Ce sont des moines qui, les premiers, cultivèrent la vigne.
+
+* Le principal cépage pour les rouges et le pinot noir. Pour le bourgogne blanc, on utilise l'aligoté et le chardonnay.
+* Quatre appellation en Bourgogne : bourgogne, bourgognepassetoutgrain, bourgogne aligoté, bourgogne grand ordinaire.
+* Spécificités : les vins produits par certaines localités peuvent être vendus sous le nom du village producteur (vougeot, vosne-romanée) ; On peut rencontrer 419 appellations village + lieu-dit ou climats.
+
+## Les millésimes
 
 Le millésime 2007 est très réussi, très minéral, en blanc (très beaux chablis) comme en rouge, ces derniers largement supérieux au 2006.  
 

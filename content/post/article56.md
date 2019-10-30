@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-02-22T17:30:22+00:00"
-tags = ["argilo-calcaire", "auxerrois", "chardonnay", "côtes-de-meuse", "côtes-de-moselle", "côtes-de-toul", "gamay", "lorraine", "pinot noir"] 
+tags = ["terroir argilo-calcaire", "auxerrois", "chardonnay", "côtes-de-meuse", "côtes-de-moselle", "côtes-de-toul", "gamay", "lorraine", "pinot noir"] 
 title = "La Lorraine"
 writer = "LeChaps"
 +++
