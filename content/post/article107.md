@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-02T17:30:22+00:00"
-tags = ["bordeaux", "moulis-en-médoc", "terroir argilo-calcaire", "terroir de grave", "charnu", "suave", "] 
+tags = ["aoc", "bordeaux", "charnu", "moulis-en-médoc", "suave", "terroir argilo-calcaire", "terroir de grave"] 
 title = "AOC : moulis-en-médoc"
 writer = "LeChaps"
 +++

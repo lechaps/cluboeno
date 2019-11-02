@@ -1,7 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-01-16T17:30:22+00:00"
-tags = ["alsace", "terroir argilo-calcaire", "beaujolais", "bordeaux", "brand", "cabernet franc", "calcaro-marneux", "chaleureux", "champagne", "chardonnay", "chenin", "châteauneuf-du-pape", "condrieu", "cornas", "côtes-de-castillon", "eichberg", "espagne", "fronsac", "gamay", "grenache", "hermitage", "merlot", "pomerol", "puissant", "rioja", "saint-joseph", "saint-émilion", "schlossberg", "syrah", "tempranillo", "terroir argilo-graveleux", "terroir crayeux", "terroir de galets roulés", "terroir de grave", "terroir granitique", "terroir schisteux", "val de loire", "vallée du rhône", "viognier"] 
+tags = ["alsace", "beaujolais", "bordeaux", "brand", "cabernet franc", "calcaro-marneux", "chaleureux", "champagne", "chardonnay", "chenin", "châteauneuf-du-pape", "condrieu", "cornas", "côtes-de-castillon", "eichberg", "espagne", "fronsac", "gamay", "grenache", "hermitage", "merlot", "pomerol", "puissant", "rioja", "saint-joseph", "saint-émilion", "schlossberg", "syrah", "tempranillo", "terroir argilo-calcaire", "terroir argilo-graveleux", "terroir crayeux", "terroir de galets roulés", "terroir de grave", "terroir granitique", "terroir schisteux", "val de loire", "vallée du rhône", "viognier"] 
 title = "Les sols favorables à la vigne"
 writer = "LeChaps"
 +++
