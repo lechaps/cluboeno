@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-07-01T17:30:22+00:00"
-tags = ["terroir argilo-calcaire", "bordeaux", "calcaire", "confit d'orange", "miel", "muscadelle", "noisette", "sauternes", "sauvignon", "sémillon", "terroir de grave"] 
+tags = ["bordeaux", "calcaire", "confit d'orange", "miel", "muscadelle", "noisette", "sauternes", "sauvignon", "sémillon", "terroir argilo-calcaire", "terroir de grave"] 
 title = "AOC : sauternes"
 writer = "LeChaps"
 +++
