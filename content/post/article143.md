@@ -1,8 +1,8 @@
 +++
-categories = ["Savoir boire"]
+categories = ["Vignobles"]
 date = "2019-06-07T17:30:22+00:00"
 tags = ["bordeaux", "champignon", "charpenté", "foie gras", "gibier", "médoc", "pauillac", "puissant"] 
-title = "Les millésimes par appellation : Pauillac"
+title = "AOC : Pauillac"
 writer = "LeChaps"
 +++
 
