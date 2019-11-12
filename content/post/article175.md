@@ -1,7 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-07-09T17:30:22+00:00"
-tags = ["système de conduite", "gobelet", "cordon de royat"] 
+tags = ["cordon de royat", "gobelet", "système de conduite"] 
 title = "Les systèmes de conduite"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-07-08T17:30:22+00:00"
-tags = ["aoc", "saint-julien", "haut-médoc"] 
+tags = ["aoc", "haut-médoc", "saint-julien"] 
 title = "AOC : Saint-Julien"
 writer = "LeChaps"
 +++
