@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-13T17:30:22+00:00"
-tags = ["ajaccio", "aleatico", "aneth", "aoc", "aubépine", "barbarossa", "bianco gentile", "camomille", "corse", "fenouil", "floral", "malvoisie", "muscat-du-cap-corse", "muscat à petits grains", "nielluccio", "noisette", "pamplemousse", "patrimonio", "poire", "pomme", "pêche", "sciaccarello", "vermentino", "vin doux naturel"] 
+tags = ["ajaccio", "aleatico", "aneth", "aoc", "aubépine", "barbarossa", "bianco gentile", "camomille", "corse", "fenouil", "floral", "malvoisie", "muscat à petits grains", "muscat-du-cap-corse", "nielluccio", "noisette", "pamplemousse", "patrimonio", "poire", "pomme", "pêche", "sciaccarello", "vermentino", "vin doux naturel"] 
 title = "La Corse"
 writer = "LeChaps"
 +++
