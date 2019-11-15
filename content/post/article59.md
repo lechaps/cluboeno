@@ -1,11 +1,13 @@
 +++
-categories = ["Vignobles"]
+categories = ["Cépages"]
 date = "2019-02-25T17:30:22+00:00"
-tags = ["alsace", "colmar", "effervescent", "haut-koenigsbourg", "moelleux", "pinot noir"] 
-title = "La route des vins d'Alsace : du Haut-Koenigsbourg à Colmar"
+tags = ["acidité", "barbaresco", "barolo", "carafage", "italie", "nebbiolo", "tannins", "états-unis"] 
+title = "Le nebbiolo"
 writer = "LeChaps"
 +++
 
-La route des vins d'Alsace ? Un long ruban de vignes au pied des Vosges, 170 km jalonnées de villages pittoresques. Si le moindre d'entre eux offre un résumé du vignoble, le tronçon central, autour de Colmarn est le plus visité. Dans ce pays de petites propriétés familiales, les producteurs sont souvent enracinés sur leurs terres depuis des siècles.  
-
-De nombreux domaines répertoriés dans les guides vous feront découvrir, à côté de quelques rouges de pinot noir, des vins majoritairement blancs, secs, effervescent ou moelleux, qui portent le nom du cépage dont ils sont issus. Une route que l'on peut découvrir l'hiver, en décembre, au moment des marchés de Noël.
+Cépage italien.  
+Il est chez lui dans les vallées du Piémont, où il donne ses lettres de noblesse au barolo et au barbaresco. Certains pays du Nouveau Monde commence à l'adopter (notamment dans l'État de Virginie, Horto, et Barbourville de la famille Zonin), mais il n'est encore que très peu implanté en dehors de la péninsule.  
+C'est un cépage tardif qui exige une exposition optimal sur des pentes exposées plein sud. Les vendanges se poursuivent jusqu'au mois de novembre !  
+Il a à la fois beaucoup de tannins et d'acidité et, pour les meilleurs spécimens, des arômes parmi les plus complexes et les plus exotiques que l'on trouve dans du vin rouge. Les vins sont d'une intensité de couleur moyenne, et s'oxydent relativement rapidement dans le verre.  
+N'hésitez pas à le carafer, à fin de bien l'aérer, et de permettre aux tannins de se fondre et au bouquet de s'épanouir au mieux.
