@@ -113,3 +113,18 @@ paginate = 50 #frontpage pagination
     github        = ""
     pinterest     = ""
     stackoverflow = ""
+
+    [params.writers."Philippe"]
+    link = ""
+    email = ""
+    avatar = "/img/philippe_icone.jpg"
+    bio = [
+      "Un vin ? Allons jeune homme, vous pouvez faire mieux ! Que dis-je, un nectar, que dis-je une oeuvre d'art, un sommet !"
+    ]
+    facebook      = ""
+    twitter       = ""
+    linkedin      = ""
+    instagram     = ""
+    github        = ""
+    pinterest     = ""
+    stackoverflow = ""
