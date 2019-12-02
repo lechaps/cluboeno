@@ -1,8 +1,8 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-22T17:30:22+00:00"
-tags = ["alsace", "crémant d'alsace", "eau-de-vie", "effervescent", "gewurztraminer", "marc d'alsace", "moelleux", "muscat", "pinot gris", "pinot noir", "pourriture noble", "riesling", "sélection grains nobles", "tokay"] 
-title = "L'Alsace"
+tags = ["alsace", "aoc", "chasselas", "crémant d'alsace", "eau-de-vie", "effervescent", "gewurztraminer", "klevener de Heiligenstein", "marc d'alsace", "moelleux", "muscat ottonel", "muscat", "pinot gris", "pinot noir", "pourriture noble", "riesling", "savagnin rosé", "sylvaner", "sélection grains nobles", "tokay", "traminer rosé"] 
+title = "AOC : l'alsace"
 writer = "LeChaps"
 +++
 
@@ -11,6 +11,11 @@ L'Alsace a quelques privilèges historiques étonnants. C'est ainsi la seule ré
 Les vins produits sont essentiellement des blancs (appellation alsace, alsace grand cru), des mousseux (crémant d'Alsace), quelques rouges et rosés (appellation alsace), une eau-de-vie et le marc d'Alsace.  
 
 Selon des traditions anciennes très présentes, les raisins sont récoltés très murs pour produire des vins puissants aux arômes concentrés et sucrés. L'indication « Sélection Grains Nobles » signale les vins élaborés avec des grains atteints de pourriture noble, aux arômes intenses et complexes.
+
+## Les cépages
+
+En Alsace, privilège exceptionnel et historique, les noms des vins ce sont les noms de leurs cépages. Sur les étiquettes figurent le nom de la variété puis en général la mention AOC alsace ou alsace grand cru.  
+Les cépages blancs et leurs vins associés dominent tels que sylvaner et chasselas. Seuls autorisés dans la fabrication des vins de vendanges tardives dans la plupart des grands crus, les cépages nobles sont nombreux : riesling, gewurztraminer, pinot gris (ancien tokay), pinot noir, muscat (blanc ou rose à petits grains, muscat ottonel), klevener de Heiligenstein (traminer rosé ou savagnin rosé.
 
 ## Les millésimes par appellation
 
