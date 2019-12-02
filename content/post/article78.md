@@ -1,11 +1,11 @@
 +++
-categories = ["Vinification"]
+categories = ["Viticulture"]
 date = "2019-03-16T17:30:22+00:00"
-tags = ["champagne", "effervescent", "foulage", "moût", "rafle", "égrappage", "éraflage"] 
-title = "Foulage - éraflage"
+tags = ["floraison", "vendange"] 
+title = "La vendange"
 writer = "LeChaps"
 +++
 
-* **Le foulage** : Opération traditionnelle qui vise à rompre la peau des fruits pour en faire jaillir le jus. Elle prépare le pressurage en facilitant l'extraction des moûts. Mais les vinification modernes suppriment souvent cette étape et conduisent directement au pressoir les raisins entiers pour obtenir, plus lentement, un moût plus limpide : c'est le cas pour les vins effervescents (notamment le champagne), pour les blancs de grande qualité et pour certains rouges issus de macération carbonique.
-
-* **L'éraflage** : L'égrappage consiste à séparer les baies des tiges rameuses qui constituent le pédoncule de la grappe pour améliorer la qualité gustative et la finesse du vin futur. Il est toujours préférable, pour les vins rouges, de donner davantage de bons tannins par une cuvaison plus longue des raisins bien éraflés, que de mauvais tannins par la présence excessive de rafles.
+La vendange, on récolte des raisins, est une période intense et passionnante pour le vigneron. Le temps des vendanges doit être bien choisi. S'il intervient trop tôt, on risque d'avoir un raisin qui n'a pas atteint sa pleine teneur en sucre. Trop tard et le raisin peut avoir dépassé sa pleine maturité et ne plus offrir tout son potentiel.  
+C'est donc une décision hautement stratégique qui se prend après la dégustation experte des raisins.  
+Dans l'hémisphère nord, les vendanges se déroulent entre juillet et octobre, selon les qualités organoleptiques désirées. Elles ont lieu entre janvier et avril dans l'hémisphère sud. Elles commencent une centaine de jours après la floraison des pieds de vignes.

@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-07-23T17:30:22+00:00"
-tags = ["anthocyane", "assemblage", "débourbage", "décuvage", "embouteillage", "encuvage", "enzymage", "fermentation alcoolique", "fermentation malolactique", "fermentation", "levurage", "macération", "moût", "oeuf pourri", "pigeage", "pressurage", "remontage", "souffre", "soutirage", "sulfitage", "tannins", "vin de goutte", "vin de presse", "écoulage"] 
+tags = ["anthocyane", "assemblage", "champagne", "débourbage", "décuvage", "effervescent", "embouteillage", "encuvage", "enzymage", "fermentation alcoolique", "fermentation malolactique", "fermentation", "foulage", "levurage", "macération", "moût", "oeuf pourri", "pigeage", "pressurage", "rafle", "remontage", "souffre", "soutirage", "sulfitage", "tannins", "vin de goutte", "vin de presse", "écoulage", "égrappage", "éraflage"] 
 title = "Techniques spécifiques : les vins rouges"
 image = "/img/post/article189_1.jpg"
 writer = "Philippe"
@@ -12,6 +12,10 @@ Les étapes de vinification des vins rouges :
 ## 1. Arrivée de la vendange
 
 Tri des raisins, les raisins sont le plus souvent éraflés (ou égrappés) puis foulés.
+
+* **Le foulage** : Opération traditionnelle qui vise à rompre la peau des fruits pour en faire jaillir le jus. Elle prépare le pressurage en facilitant l'extraction des moûts. Mais les vinification modernes suppriment souvent cette étape et conduisent directement au pressoir les raisins entiers pour obtenir, plus lentement, un moût plus limpide : c'est le cas pour les vins effervescents (notamment le champagne), pour les blancs de grande qualité et pour certains rouges issus de macération carbonique.
+
+* **L'éraflage** : L'égrappage consiste à séparer les baies des tiges rameuses qui constituent le pédoncule de la grappe pour améliorer la qualité gustative et la finesse du vin futur. Il est toujours préférable, pour les vins rouges, de donner davantage de bons tannins par une cuvaison plus longue des raisins bien éraflés, que de mauvais tannins par la présence excessive de rafles.
 
 ## 2. Encuvage
 
@@ -82,6 +86,9 @@ Cette opération permet de garantir la limpidité du vin au cours du temps, qual
 
 Avant la mise en bouteille, ultime étape de l'élevage du vin, un certain nombre de paramètres sont contrôlés : limpidité du vin, avec éventuelle correction par filtration, teneur en SO<sub>2</sub> (qui protège le vin que l'on peut ajuster), teneur en CO<sub>2</sub>, pression.  
 L'embouteillage du vin est pris en charge par des chaînes de mise en bouteille : après nettoyage et égouttage, les bouteilles sont remplies progressivement par des becs puis bouchées. Elles sont maintenues verticales dans un premier temps pour laisser au bouchon le temps de s'adapter au boulot. Une bouteille mal bouchée sera dite « couleuse ». Les bouteilles sont ensuite couchée et mises en carton.
+
+Le stockage comporte à la fois la conservation de grand volume de liquide et un certain nombre d'activités : nettoyage et désinfection des cuves ou des fûts, entretien et conservation, addition du dioxyde de soufre, d'acide ascorbique, d'acide tartrique, de gaz inertes, de tanins et d'albumine, ainsi que le mélangeage, collage, filtration et centrifugation. Depuis le 8 février 2012, un texte réglementaire définit les procédés et additifs autorisés dans le cadre de la vinification biologique.
+Certains traitements des vins font intervenir la chaleur ou le froid pour détruire levures et bactéries. D'autres mettent en œuvre du carbone d'autres produits désodorisants, du dioxyde de carbone (CO<sub>2</sub>), etc. Un exemple de ce type d'installation est le système de réfrigération instantané qui stabilise les vins à une température proche du point de congélation. Ce procédé facilite l'élimination des colloïdes, micro-organismes et autres substances.
 
 
 ![photo][1]
