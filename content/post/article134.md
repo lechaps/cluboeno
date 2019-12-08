@@ -1,5 +1,5 @@
 +++
-categories = ["Savoir boire"]
+categories = ["Vinification"]
 date = "2019-05-29T17:30:22+00:00"
 tags = ["barrique", "bordeaux", "châteauneuf-du-pape", "clavelin", "cuve", "foudre", "gaulois", "jura", "vin jaune"] 
 title = "Glossaire du vin : barrique, foudre, cuve, clavelin"

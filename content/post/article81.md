@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-03-19T17:30:22+00:00"
-tags = ["accords mets-vins", "alsace", "anjou", "armagnac", "banyuls", "beaujolais", "bourgogne", "brie", "camembert", "chardonnay", "fromage", "gewurztraminer", "jura", "langres", "liquoreux", "livarot", "macon", "madiran", "marc de bourgogne", "maroilles", "maury", "mont d'or", "montlouis-sur-loire", "munster", "pont-l'évêque", "pouilly-fumé", "rivesaltes", "riveslates", "sancerre", "sauvignon", "savagnin", "souple", "touraine", "val de loire", "vin doux naturel", "époisses"] 
+tags = ["accords mets-vins", "alsace", "anjou", "armagnac", "banyuls", "beaujolais", "beurre", "bourgogne", "brie", "camembert", "chardonnay", "côtes-du-rhône villages", "fromage", "fronton", "gaillac", "gewurztraminer", "jura", "langres", "liquoreux", "livarot", "macon", "madiran", "marc de bourgogne", "maroilles", "maury", "mont d'or", "montlouis-sur-loire", "munster", "noisette", "pont-l'évêque", "pouilly-fumé", "provence", "rivesaltes", "riveslates", "sancerre", "sauvignon", "savagnin", "souple", "touraine", "val de loire", "vin doux naturel", "épice", "époisses"] 
 title = "Les accords mets-vins : les fromages"
 writer = "LeChaps"
 +++
@@ -15,6 +15,12 @@ Camembert ou brie s'associent aux vins rouges légers et souples, voire gouleyan
 
 * **les pâtes molles à croûte lavée**  
 Munster, pont-l'évêque, livarot, époisses, langres, maroilles, mont d'or demandent des blancs puissants, aromatiques et vifs comme un alsace gewurztraminer. Ce dernier équilibre la force du fromage dont la puissance aromatique fait écho au caractère épicé du vin. Goûtez aussi un côte-du-jura savagnin avec un pont-l'évêque ou un livarot et un marc de bourgogne ou un armagnac blanc avec époisses.
+
+* **les pâtes pressées non cuites**
+Ce type de fromage appelle à la fois des vins rouges et des vins blancs. Avec ces textures serrées, les vins rouges charnus et épicés tels que le côtes-du-Rhône villages, gaillac, fronton ou vin rouge de Provence proposerons une harmonie savoureuse.
+
+* **les pâtes pressées cuites**
+Ces fromage appel des vin blancs. Comté, beaufort et emmental se marient avec des vins blancs gras, aux notes de noisettes de beurre, légèrement boisé : les vins issus du cépage chardonnay ou, pour un accord très original, un vin jaune du Jura ou un vin de voile de Gaillac.
 
 * **les fromages de chèvre**
 Les fromages de chèvre sont des fromages de caractère qui demandent des vins blancs vifs et fruités comme ceux issus du cépage sauvignon que produisent le centre Loire ou la Touraine.  

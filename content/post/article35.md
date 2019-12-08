@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-02-01T17:30:22+00:00"
-tags = ["bergerac", "brulhois", "buzet", "béarn", "cabernet franc", "cabernet sauvignon", "cahors", "colombard", "cot", "coteaux du quercy", "côtes-de-bergerac", "côtes-de-duras", "côtes-de-millau", "côtes-du-marmandais", "duras", "entraygues le fel", "estaing", "fer savadou", "fronton", "gaillac", "gaulois", "gros manseng", "irouleguy", "madiran", "malbec", "marcillac", "mauzac", "merlot", "montravel", "négrette", "petit manseng", "pécharmant", "romains", "saint-mont", "saint-sardos", "sauvignon blanc", "sud-ouest", "syrah", "tannat", "tursan"] 
+tags = ["bergerac", "brulhois", "buzet", "béarn", "cabernet franc", "cabernet sauvignon", "cahors", "colombard", "cot", "coteaux du quercy", "côtes-de-bergerac", "côtes-de-duras", "côtes-de-millau", "côtes-du-marmandais", "duras", "entraygues le fel", "estaing", "fer savadou", "fronton", "gaillac", "gaulois", "gros manseng", "irouléguy", "madiran", "malbec", "marcillac", "mauzac", "merlot", "montravel", "négrette", "petit manseng", "pécharmant", "romains", "saint-mont", "saint-sardos", "sauvignon blanc", "sud-ouest", "syrah", "tannat", "tursan"] 
 title = "Le Sud-Ouest"
 writer = "LeChaps"
 +++
