@@ -1,9 +1,15 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-05-10T17:30:22+00:00"
-tags = ["accords mets-vins", "alsace", "crème brulée", "crème caramel", "jurançon", "monbazillac", "vendanges tardives"] 
-title = "Les accords mets-vins : les crèmes caramel et crèmes brulées"
+tags = ["irouléguy", "muscadet sèvre-et-maine", "sud ouest", "val de loire"] 
+title = "Le piège de la sardine à l'huile"
 writer = "LeChaps"
 +++
 
-L'onctuosité et la finesse des crèmes demandent des blancs moelleux de bonne vivacité : un monbazillac, un jurançon ou encore un alsace vendanges tardives qui favoriseront l'équilibre sur la fraîcheur.
+1. Répartissez un bon vin dans deux carafes étiquetées A et B.
+2. Faites goûter le vin A à vos convives.
+3. Faites-leur manger des sardines à l'huile.
+4. Faites leur goûter le vin B et interrogez-les.
+
+La plupart de vos invités vont trouver le 20 B chimique, mauvais, bas de gamme, etc. Ils auront le plus grand mal à vous croire lors ce que vous leur expliquerez qu'il s'agit du même vin.  
+Cela dit, vous pouvez limiter les frais en servant la sardine à huile avec un vin blanc, une cuvée tranchante et pointue telle qu'un muscadet sèvre-et-maine. Les sardines marinées en escabèche se mariera avec un blanc méditerranéen et la sardine grillée au barbecue avec un irouléguy.
