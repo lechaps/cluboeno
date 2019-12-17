@@ -20,7 +20,7 @@ Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your b
 
 ### CI
 
-I use www.forestry.io to continous integration with my host.
+To be defined
 
 ## Hugo Theme : NederburgByLechaps
 
@@ -86,6 +86,10 @@ In order to support multiple writers, an extra key, "writers" is added, in **con
     pinterest     = "full profile url in pinterest"
 ```
 Now you must have an author in the config for the author bio section to be visible. If you have a writer and set it in the markdown file it will override the author in the config. See the exampleSite folder for a working solution.
+
+## cluboeno-tag
+
+Use this script to order tag by alpa-habetic and remove double
 
 ## License
 
