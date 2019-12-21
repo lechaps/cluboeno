@@ -18,7 +18,8 @@ $ hugo server
 ```
 Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your browser.
 
-### CI & deploy [![CircleCI](https://circleci.com/gh/lechaps/cluoeno.svg?style=svg)](https://circleci.com/gh/lechaps/cluboeno)
+### CI & deploy 
+[![CircleCI](https://circleci.com/gh/lechaps/cluboeno.svg?style=svg)](https://circleci.com/gh/lechaps/cluboeno)
 
 Powered by **https://circleci.com**
 
