@@ -21,4 +21,4 @@ jobs:
             hugo
       - run:
           name: Send Via FTP
-          command: lftp ftp://${FTP_USER}:${FTP_PASS}@${FTP_HOST} -e "set ssl:verify-certificate no;mirror -e -R -v --parallel=8 public /; quit"
+          command: lftp ftp://${FTP_USER}:${FTP_PASS}@${FTP_HOST} -e "set ssl:verify-certificate no;mirror -e -R -v --parallel=64 public /; quit"
