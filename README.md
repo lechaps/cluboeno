@@ -18,9 +18,9 @@ $ hugo server
 ```
 Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your browser.
 
-### CI
+### CI & deploy [![CircleCI](https://circleci.com/gh/lechaps/cluoeno.svg?style=svg)](https://circleci.com/gh/lechaps/cluboeno)
 
-To be defined
+Powered by **https://circleci.com**
 
 ## Hugo Theme : NederburgByLechaps
 
