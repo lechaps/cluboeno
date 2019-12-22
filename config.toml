@@ -8,6 +8,9 @@ googleAnalytics = "UA-131487813-1" # Enable Google Analytics by entering your tr
 preserveTaxonomyNames = true
 paginate = 50 #frontpage pagination
 
+[[related.indices]]
+  name = "tags"
+
 [outputs]
   home = ["HTML"]
   section = ["HTML", "json"]
