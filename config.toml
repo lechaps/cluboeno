@@ -8,8 +8,25 @@ googleAnalytics = "UA-131487813-1" # Enable Google Analytics by entering your tr
 preserveTaxonomyNames = true
 paginate = 50 #frontpage pagination
 
-[[related.indices]]
+[markup.goldmark.renderer]
+unsafe= true # permet d'utiliser du HTML dans les articles markdown
+
+[related]
+  threshold = 80.0
+  includeNewer = true
+  toLower = false
+
+  [[related.indices]]
   name = "tags"
+  weight = 70.0
+
+  [[related.indices]]
+  name = "categories"
+  weight = 20.0
+
+  [[related.indices]]
+  name = "writer"
+  weight = 10.0
 
 [outputs]
   home = ["HTML"]

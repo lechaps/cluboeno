@@ -1037,12 +1037,13 @@ a img {
 
 .further-reading span,
 .entry-categories span,
-.entry-tags span {
+.entry-tags span{
   display: block;
 }
 .further-reading a,
 .entry-categories a,
-.entry-tags a {
+.entry-tags a,
+.entry-entry a {
   font-weight: 400;
   color: #8c8c8c;
 }
@@ -1241,8 +1242,9 @@ a img {
     left: -31.8%;
   }
 
-  .entry-meta-bottom.float .entry-tags,
-  .entry-meta-bottom.float .entry-categories {
+  .entry-meta-bottom.float .entry-categories, 
+  .entry-meta-bottom.float .entry-tags {
+
     position: absolute;
     width: 16.66%;
     left: 0;

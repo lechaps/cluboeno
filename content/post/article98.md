@@ -15,4 +15,5 @@ C’est un processus complexe que l’évolution d’un vin, mais pourquoi tous 
 Je n’ai malheureusement pas la réponse à cette question, surement y a-t-il une ribambelle de thèses sur le sujet, les scientifiques ont sans doute des réponses sur les mécanismes moléculaires… Quant à moi, je préfère me dire que la nature est ainsi, c’est quelque part de la magie et c’est toujours une surprise à l’ouverture : c’est ce que j’aime dans le vin, il n’y a pas de certitudes !
 
 ![photo][1]
+
 [1]: /img/post/article_98.jpg

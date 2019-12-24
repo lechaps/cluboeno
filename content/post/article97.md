@@ -14,6 +14,6 @@ C’est le moment de déguster, verdict : tanins arrondis, nez boisé, vanillé
 
 Et pour la petite histoire, j’ai eu plus de chance avec cette bouteille qu’avec mes jetons...
 
-
 ![photo][1]
+
 [1]: /img/post/article_97.jpg

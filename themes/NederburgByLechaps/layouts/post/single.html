@@ -26,18 +26,6 @@
       <div class='entry-header'><h1 class='entry-title'> {{ .Title }}</h1></div>
       <div class="entry-container">
         <div class="entry-content"><article>{{ .Content }}</article></div>
-        
-        <!-- Articles liés (méthode Related Content doit être préférée à celle-ci)
-        <div class="sidebar sidebar-after-post-content" id="sidebar-after-post-content">
-          <section id="text-2" class="widget widget_text">
-            {{ range where .Site.Pages "Params.tags" "intersect" .Params.tags}}
-              <h2 class="widget-title"><a href="{{ .Permalink}}">{{ .Title }}</a></h2>
-            <div class="textwidget"><p>{{ .Summary }}</p></div>
-            {{ end }}
-          </section>
-        </div>
-        -->
-
         <div class='entry-meta-bottom'>
           <nav class="further-reading">
           {{ with .PrevInSection }}
@@ -56,6 +44,12 @@
             </p>
           </div>
           <div class="entry-tags">
+            <p>
+              <span>Articles liés</span>
+                  {{ range .Site.RegularPages.Related . | first 5}}
+                    <a href="{{ .Permalink }}" title="Voir l'article">{{ .Title }}</a>
+                  {{ end }}
+            </p>
             <p>
                 <span>Tags</span>
                 {{ range $index, $name := .Params.tags }}
