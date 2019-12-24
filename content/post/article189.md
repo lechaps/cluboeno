@@ -90,7 +90,6 @@ L'embouteillage du vin est pris en charge par des chaînes de mise en bouteille 
 Le stockage comporte à la fois la conservation de grand volume de liquide et un certain nombre d'activités : nettoyage et désinfection des cuves ou des fûts, entretien et conservation, addition du dioxyde de soufre, d'acide ascorbique, d'acide tartrique, de gaz inertes, de tanins et d'albumine, ainsi que le mélangeage, collage, filtration et centrifugation. Depuis le 8 février 2012, un texte réglementaire définit les procédés et additifs autorisés dans le cadre de la vinification biologique.
 Certains traitements des vins font intervenir la chaleur ou le froid pour détruire levures et bactéries. D'autres mettent en œuvre du carbone d'autres produits désodorisants, du dioxyde de carbone (CO<sub>2</sub>), etc. Un exemple de ce type d'installation est le système de réfrigération instantané qui stabilise les vins à une température proche du point de congélation. Ce procédé facilite l'élimination des colloïdes, micro-organismes et autres substances.
 
-
 ![photo][1]
 
 [1]: /img/post/article189_1.jpg

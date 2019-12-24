@@ -25,6 +25,7 @@ Vous allez me dire :  « seulement deux » ? Hé bien oui ! La qualité est là,
 Il est tant de repartir tranquillement avec pleins de beaux souvenirs en tête mais aussi dans le coffre…
 
 ![photo][2]
+
 [1]: /img/post/article_145_1.jpg
 [2]: /img/post/article_145_2.jpg
 [3]: /img/post/article_145_3.jpg

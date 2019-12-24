@@ -34,6 +34,7 @@ L’apothéose, la dégustation se termine par une petite pépite, un vin empli 
 Il est l’heure de reprendre la route, déjà, la semaine sous le soleil de Toscane, à découvrir ses trésors, restera un souvenir rempli d’émotions.
 
 ![photo][1]
+
 [1]: /img/post/article_99_1.jpg
 [2]: /img/post/article_99_2.jpg
 [3]: /img/post/article_99_3.jpg

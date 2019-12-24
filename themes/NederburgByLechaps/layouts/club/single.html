@@ -51,6 +51,12 @@
           </div>
           <div class="entry-tags">
             <p>
+              <span>Articles liés</span>
+                  {{ range .Site.RegularPages.Related . | first 5}}
+                    <a href="{{ .Permalink }}" title="Voir l'article">{{ .Title }}</a>
+                  {{ end }}
+            </p>
+            <p>
                 <span>Tags</span>
                 {{ range $index, $name := .Params.tags }}
                   <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" title="Voir tous les articles avec le tag {{ $name }}">{{ $name }}</a>
