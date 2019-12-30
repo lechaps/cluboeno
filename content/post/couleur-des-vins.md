@@ -6,7 +6,7 @@ title = "La couleur des vins"
 writer = "LeChaps"
 +++
 
-## Les vins blancs 
+## Les vins blancs
 
 Les vins blancs ne sont pas toujours issus de raisins blancs : ils peuvent provenir aussi de raisins rouges à jus blanc. Mais pour conserver cette couleur blanche du jus, il faut intervenir dès les vendanges en séparant immédiatement le moût (le jus) de la peau du raisin qui a un fort pouvoir pigmentant.  
 

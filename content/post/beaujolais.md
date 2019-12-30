@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-02-03T17:30:22+00:00"
-tags = ["beaujolais", "beaujolais-villages", "brouilly", "chenas", "chiroubles", "fleurie", "gamay", "terroir granitique", "terroir schisteux", "villefranche-sur-saône"] 
+tags = ["beaujolais", "beaujolais-villages", "brouilly", "chardonnay", "morgon", "moulin-à-vent", "chenas", "chiroubles", "fleurie", "gamay", "terroir granitique", "terroir schisteux", "villefranche-sur-saône"] 
 title = "Le Beaujolais"
 writer = "LeChaps"
 +++
@@ -22,4 +22,7 @@ Si le cépage gamay règne partout, la région offre deux visages différents se
 ## les millésimes
 
 En Beaujolais, pour les crus, le 2011 et 2009 sont excellents, 2008 est prometteur, le 2007 a été difficile à maitriser, le 2006 est excellent, le 2005 est très typé, le 2004 et un millésime dense et très aromatique, et le 2003, trop mûr, beaucoup moins intéressant.
- 
+
+## les cépages
+
+Le gamin est le cépage roi du beaujolais. Ce cépage noir à jus blanc abondant occupe 98 % du vignobles. Les terroirs très variés du beaujolais (calcaires, schisteux, magmatiques ou granitiques) permet, à partir du gamay, l'élaboration d'une grande palette de vins aux couleurs des arômes différents. On trouve ainsi des vins léger au sud et les crus complexes, subtiles et de moyenne garde, tels que le morgon ou moulin-à-vent, plus au nord. L'autre cépages présent, chardonnay, entre dans l'élaboration de vin blanc confidentiel.

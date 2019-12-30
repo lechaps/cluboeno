@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-04-01T17:30:22+00:00"
-tags = [" bandol", " bourboulenc", " rolle", "aoc", "barbaroux", "baux de provence", "bellet", "braquet", "brun fourca", "cabernet sauvignon", "calitor", "carignan", "cassis", "castet", "charpenté", "cinsault", "clairette", "coteaux varois en provence", "coteaux-d'aix-en-provence", "côtes-de-provence", "durif", "folle noire", "furmint", "grenache blanc", "grenache", "manosquin", "mourvèdre", "muscat de hambourg", "muscat à petits grains", "palette", "panse du roy rené", "petit brun", "phocéens", "phylloxera", "picardan", "pierrevert", "piquepoul", "provence", "rolle", "romains", "sauvignon", "syrah", "sémillon", "terret gris", "tibouren", "téoulier", "ugni blanc", "vermentino"] 
+tags = [" bourboulenc", " rolle", "aoc", "bandol", "barbaroux", "baux de provence", "bellet", "braquet", "brun fourca", "cabernet sauvignon", "calitor", "carignan", "cassis", "castet", "charpenté", "cinsault", "clairette", "coteaux varois en provence", "coteaux-d'aix-en-provence", "côtes-de-provence", "durif", "folle noire", "furmint", "grenache blanc", "grenache", "manosquin", "mourvèdre", "muscat de hambourg", "muscat à petits grains", "palette", "panse du roy rené", "petit brun", "phocéens", "phylloxera", "picardan", "pierrevert", "piquepoul", "provence", "rolle", "romains", "sauvignon", "syrah", "sémillon", "terret gris", "tibouren", "téoulier", "ugni blanc", "vermentino"] 
 image = "/img/post/article94_1.jpg"
 title = "La provence"
 writer = "LeChaps"
@@ -43,7 +43,7 @@ La région abrite neufs appellations AOC parmi lesquelles :
 * **les baux de provence** : AOC depuis le 20 avril 1995 sur 229 Ha
 * **bandol** : AOC depuis le 11 Novembre 1941 sur 1 500 Ha
 * **palette** : AOC depuis le 28 Avril 1948 sur 43 Ha
-* **cassis** : AOC depuis le 15 Mai 1936 sur 215 Ha (surtout en blanc)
+* **cassis** : AOC depuis le 15 Mai 1936 sur 215 Ha (surtout en blanc) 
 * **bellet** : AOC depuis le 11 Novembre 1941 sur 50 Ha
 * **pierrevert** : AOC depuis le 01 Juillet 1998 sur 338 Ha
 
