@@ -13,9 +13,11 @@ Les étapes de vinification des vins rouges :
 
 Tri des raisins, les raisins sont le plus souvent éraflés (ou égrappés) puis foulés.
 
+* **L'éraflage** : L'égrappage consiste à séparer les baies des tiges rameuses qui constituent le pédoncule de la grappe pour améliorer la qualité gustative et la finesse du vin futur. Il est toujours préférable, pour les vins rouges, de donner davantage de bons tannins par une cuvaison plus longue des raisins bien éraflés, que de mauvais tannins par la présence excessive de rafles.
+
 * **Le foulage** : Opération traditionnelle qui vise à rompre la peau des fruits pour en faire jaillir le jus. Elle prépare le pressurage en facilitant l'extraction des moûts. Mais les vinification modernes suppriment souvent cette étape et conduisent directement au pressoir les raisins entiers pour obtenir, plus lentement, un moût plus limpide : c'est le cas pour les vins effervescents (notamment le champagne), pour les blancs de grande qualité et pour certains rouges issus de macération carbonique.
 
-* **L'éraflage** : L'égrappage consiste à séparer les baies des tiges rameuses qui constituent le pédoncule de la grappe pour améliorer la qualité gustative et la finesse du vin futur. Il est toujours préférable, pour les vins rouges, de donner davantage de bons tannins par une cuvaison plus longue des raisins bien éraflés, que de mauvais tannins par la présence excessive de rafles.
+* **Le pressurage** : L'objectif du pressage est d'extraire le maximum de jus à faible pression : plus la pression est importante, plus les impuretés risque de passer dans le jus. Une fois que le jus ne coule plus, en fonction du résultat attendu, on peut augmenter la pression et reprendre la manœuvre. On laisse ensuite macérer le jus avec les pellicules du raisin (le marc) ce qui donne sa couleur rouge au vin. Parfois, avant passage au pressoir, les viticulteurs choisissent de laisser faire monter les grappes de raisins entiers non écraser pour profiter du poids naturel des raisins et déchirer les peaux des raisins non écrasés.
 
 ## 2. Encuvage
 
