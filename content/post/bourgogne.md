@@ -21,3 +21,8 @@ Les millésimes 2008, 2004, 2003, 2002, 2001, 2000, 1999 sont très savoureux.
 Exceptionnel 2004, dans la lignée du 2000, dans les deux couleurs, qui côtoie donc un 2003 atypique, comme le grand 2005 qui demande la patience.  
 
 Superbes bouteilles en blancs dans les millésimes 2000, 1999, 1995, 1989, alors que les meilleurs rouges développent leur attrait dans les millésimes 1999, 1997, 1989 ou 1985.
+
+## Grands crus et crus classés
+
+Les « crus » correspondent à un terroir délimité pour ses qualités, correspondant selon les régions à un lieu-dit, à une commune ou un domaine viticole.  
+En Bourgogne, le classement en crus concerne uniquement des climats, des terroirs portant le nom d'un lieu-dit, caractérisés par des sols et un microclimat particuliers. Pour les premiers crus, le nom du climat apparaît généralement sur l'étiquette aux côtés de l'appellation communale (vosnes-romanée premier cru les Suchots par exemple). Quant aux grands crus, ce sont des appellations d'origine contrôlée à part entière, situées exclusivement en Côte-d'Or (sauf chabli grand cru)
