@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-03-06T17:30:22+00:00"
-tags = ["aoc", "arbois", "chardonnay", "château-chalon", "crémant-du-jura", "effervescent", "l'étoile", "jura", "liquoreux", "marneux", "méthode traditionnelle", "pinot noir", "poulsard", "savagnin", "vin de paille", "trousseau", "puissant", "côtes-du-jura"] 
+tags = ["aoc", "arbois", "chardonnay", "château-chalon", "crémant-du-jura", "côtes-du-jura", "effervescent", "jura", "l'étoile", "liquoreux", "marneux", "méthode traditionnelle", "pinot noir", "poulsard", "puissant", "savagnin", "trousseau", "vin de paille"] 
 title = "Le jura"
 writer = "LeChaps"
 +++

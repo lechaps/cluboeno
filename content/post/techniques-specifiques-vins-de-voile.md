@@ -2,7 +2,7 @@
 categories = ["Vinification"]
 date = "2019-04-27T17:30:22+00:00"
 tags = ["fermentation alcoolique", "noix", "vin de voile"] 
-title = "Vins de voile"
+title = "Techniques spécifiques : vins de voile"
 writer = "LeChaps"
 +++
 

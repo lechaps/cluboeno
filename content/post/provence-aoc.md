@@ -42,8 +42,8 @@ La région abrite neufs appellations AOC parmi lesquelles :
 * **coteaux varois en provence** : AOC depuis le 26 mars 1993 sur 2 744 Ha (9 coopératives, 70 caves particulières) (rosé majoritaire)
 * **les baux de provence** : AOC depuis le 20 avril 1995 sur 229 Ha
 * **bandol** : AOC depuis le 11 Novembre 1941 sur 1 500 Ha
-* **palette** : AOC depuis le 28 Avril 1948 sur 43 Ha
-* **cassis** : AOC depuis le 15 Mai 1936 sur 215 Ha (surtout en blanc) 
+* **palette** : AOC depuis le 28 Avril 1948 sur 43 Ha <a href="{{< ref "/post/palette" >}}" >lien vers l'article</a>
+* **cassis** : AOC depuis le 15 Mai 1936 sur 215 Ha (surtout en blanc)  <a href="{{< ref "/post/cassis" >}}" >lien vers l'article</a> 
 * **bellet** : AOC depuis le 11 Novembre 1941 sur 50 Ha
 * **pierrevert** : AOC depuis le 01 Juillet 1998 sur 338 Ha
 
