@@ -12,5 +12,5 @@ Un bouchon défectueux et tous les efforts du vigneron, de l'œnologue, du maît
 * Souple et élastique pour ne pas se rétracter trop vite dans le temps ;
 * Neutre : la matière première du bouchon ne doit en aucun cas, même à long terme, modifier les caractères organoleptiques du vin.
 
-L'étanchéité et la neutralité doivent être assurées sur une longue durée pour les grands vins promis à une longue garde.  
+L'étanchéité et la neutralité doivent être assurées sur une longue durée pour les grands vins   romis à une longue garde.  
 Les grands fabricants de bouchons en France sont les maisons Onéo (S sur le bouchon), Bourrassé, Trécases (un magnifique T en écriture romane) ou encore Amorim(la lettre A encerclée).
