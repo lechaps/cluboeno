@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-28T17:30:22+00:00"
-tags = ["aligoté", "bourgogne aligoté", "bourgogne grand ordinaire", "bourgogne passetoutgrain", "bourgogne", "chardonnay", "pinot noir"] 
+tags = ["aligoté", "bourgogne aligoté", "bourgogne grand ordinaire", "bourgogne passetoutgrain", "bourgogne", "chardonnay", "pinot noir", "césar", "gamay", "pinot beurrot", "sauvignon"] 
 title = "La Bourgogne"
 writer = "LeChaps"
 +++
@@ -26,3 +26,18 @@ Superbes bouteilles en blancs dans les millésimes 2000, 1999, 1995, 1989, alors
 
 Les « crus » correspondent à un terroir délimité pour ses qualités, correspondant selon les régions à un lieu-dit, à une commune ou un domaine viticole.  
 En Bourgogne, le classement en crus concerne uniquement des climats, des terroirs portant le nom d'un lieu-dit, caractérisés par des sols et un microclimat particuliers. Pour les premiers crus, le nom du climat apparaît généralement sur l'étiquette aux côtés de l'appellation communale (vosnes-romanée premier cru les Suchots par exemple). Quant aux grands crus, ce sont des appellations d'origine contrôlée à part entière, situées exclusivement en Côte-d'Or (sauf chabli grand cru)
+
+## Cépage
+
+En rouge :
+
+* césar
+* gamay
+* pinot noir
+
+En blanc :
+
+* chardonnay
+* pinot beurrot
+* sauvignon (appellation saint-bris)
+* aligoté
