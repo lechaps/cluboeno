@@ -14,8 +14,18 @@ Selon des traditions anciennes très présentes, les raisins sont récoltés tr�
 
 ## Les cépages
 
-En Alsace, privilège exceptionnel et historique, les noms des vins ce sont les noms de leurs cépages. Sur les étiquettes figurent le nom de la variété puis en général la mention AOC alsace ou alsace grand cru.  
-Les cépages blancs et leurs vins associés dominent tels que sylvaner et chasselas. Seuls autorisés dans la fabrication des vins de vendanges tardives dans la plupart des grands crus, les cépages nobles sont nombreux : riesling, gewurztraminer, pinot gris (ancien tokay), pinot noir, muscat (blanc ou rose à petits grains, muscat ottonel), klevener de Heiligenstein (traminer rosé ou savagnin rosé.
+En Alsace, privilège exceptionnel et historique (loi allemange de 1902), les noms des vins ce sont les noms de leurs cépages. Sur les étiquettes figurent le nom de la variété puis en général la mention AOC alsace ou alsace grand cru.  
+Les cépages blancs et leurs vins associés dominent tels que sylvaner et chasselas. Seuls autorisés dans la fabrication des vins de vendanges tardives dans la plupart des grands crus, les cépages nobles sont nombreux :
+
+* riesling (23% de l'encépagement)
+* pinot blanc (21%)
+* gewurztraminer (18%)
+* sylvaner (12%)
+* pinot gris (ancien tokay) (12%)
+* pinot noir (9%)
+* muscat (blanc ou rose à petits grains, muscat ottonel) (2%)
+* klevener de Heiligenstein (traminer rosé ou savagnin rosé)
+* chardonnay (crément d'Alsace)
 
 ## Les millésimes par appellation
 

@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-06-08T17:30:22+00:00"
-tags = ["afrique du sud", "ardèche", "australie", "californie", "charpenté", "cornas", "crozes-hermitage", "côte-rôtie", "côtes-du-rhône", "floral", "fruits rouges et noirs", "musc", "poivre", "réglisse", "saint-joseph", "savoie", "syrah", "tannins", "truffe", "vallée du rhône", "épice", "états-unis"] 
+tags = ["afrique du sud", "ardèche", "australie", "californie", "charpenté", "cornas", "crozes-hermitage", "cuir", "côte-rôtie", "côtes-du-rhône", "floral", "fruits rouges et noirs", "musc", "mûre", "poivre", "réglisse", "saint-joseph", "savoie", "syrah", "tannins", "truffe", "vallée du rhône", "violette", "épice", "états-unis"] 
 title = "La syrah"
 writer = "LeChaps"
 +++
@@ -11,3 +11,24 @@ Son jus donne des vins colorés, délicats et pourtant charpentés, tanniques ma
 C'est le seul cépage autorisé dans les appellations côtes-du-rhône (nord), cornas, crozes-hermitage, saint-joseph et côte-rôtie.  
 Les vins de syrah ont une robe profonde et puissante, un goût corsé et fort qu'il faut laisser vieillir quelques années en bouteilles.  
 L'Afrique du Sud, l'Australie et la Californie le produisent en grandes quantités.
+
+## Arômes
+
+* Mûre
+* Violette
+* Poivre
+* Réglisse
+* Cuir
+
+## Robe
+
+Pourpre
+
+## Bouche
+
+Vin charpenté. Niveau de tannins 4/5.  
+En un mot : puissance
+
+## Accord mets et vin
+
+Gibier, saint-marcellin.

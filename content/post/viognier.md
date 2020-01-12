@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-05-11T17:30:22+00:00"
-tags = ["abricot", "acacia", "amande", "coing", "complexité", "condrieu", "côte-rôtie", "côtes-du-rhône", "iris", "languedoc", "musc", "noisette", "poire", "pêche", "vallée du rhône", "violette", "épice"] 
+tags = ["abricot", "acacia", "amande", "coing", "complexité", "condrieu", "côte-rôtie", "côtes-du-rhône", "iris", "languedoc", "miel", "musc", "noisette", "poire", "pêche", "vallée du rhône", "violette", "épice"] 
 title = "Le viognier"
 writer = "LeChaps"
 +++
@@ -13,3 +13,13 @@ Et pourtant, il donne des vins blancs à corpulence généreuse, et aux arômes 
 Ce vin sec donne en bouche une étonnant sensation de moelleux. Sa localisation en aoc est circonscrite au nord des Côtes-du-Rhône septentrionales. Il participe discrètement à l'assemblage du côte-rôtie pour lui donner une pointe de violette.  
 
 Quelques suggestions d'accords : le gratin d'huîtres, le gratin de Saint-Jacques ou les Saint-Jacques poêllées.
+
+## Arômes
+
+* Pêche
+* Abricot
+* Epices
+* Miel
+* Violette
+
+En un mot : délicatesse

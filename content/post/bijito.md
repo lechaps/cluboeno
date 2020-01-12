@@ -20,4 +20,4 @@ Atypique en comparaison des boissons habituelles françaises, étrange pour les 
 
 ![photo][1]
 
-[1]: /img/post/article_1.jpg
+[1]: /img/post/bijito.jpg
