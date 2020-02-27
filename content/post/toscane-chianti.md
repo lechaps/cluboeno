@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2019-04-21T17:30:22+00:00"
-image = "img/post/article_99_1.jpg"
+image = "img/post/toscane_1.jpg"
 tags = ["canaiolo", "casasilia", "chardonnay", "chianti", "ciliegiolo", "italie", "malvasia bianca lunga", "mammolo", "merlot", "passerillé", "sangiovese", "toscane", "trebbiano", "vernaccia di san gimignano"] 
 title = "Découverte de la Toscane et du Chianti"
 writer = "Thomas"
@@ -35,6 +35,6 @@ Il est l’heure de reprendre la route, déjà, la semaine sous le soleil de Tos
 
 ![photo][1]
 
-[1]: /img/post/article_99_1.jpg
-[2]: /img/post/article_99_2.jpg
-[3]: /img/post/article_99_3.jpg
+[1]: /img/post/toscane_1.jpg
+[2]: /img/post/toscane_2.jpg
+[3]: /img/post/toscane_3.jpg
