@@ -1,10 +1,10 @@
 +++
 categories = ["Dégustations"]
 date = "2020-05-23T17:30:22+00:00"
-image = "img/post/article_145_2.jpg"
+image = ""
 tags = ["val de loire", "saint-pourçain", "les domaines des terres d'ocres", "domaine grobost-barbara", "terroir argilo-calcaire", "terroir argilo-graveleux", "terroir granitique", "chardonnay", "trésallier", "gamay", "pinot noir"] 
-title = "Découverte de la Clape"
-writer = "Thomas"
+title = "Saint-Pourçain à 100%"
+writer = "Philippe"
 +++
 
 C’était l’exploration post-confinement, celle que nous nous étions promis de faire il y a de longues semaines, celle du **vignoble de Saint-Pourçain**, notre voisin immédiat.  Ce vignoble fait partie du **Val de Loire** (65 appellations), c’est un vieux vignoble de 600 hectares ; comme bien d’autres, le phylloxera a eu raison des vignes puis le vignoble a resurgi, jusqu’à l’AOC en 2009. Le vignoble s’étend sur 19 communes, souvent le long de l’Allier.  
