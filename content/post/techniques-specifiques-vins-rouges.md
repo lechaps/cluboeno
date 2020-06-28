@@ -3,7 +3,7 @@ categories = ["Vinification"]
 date = "2019-07-23T17:30:22+00:00"
 tags = ["anthocyane", "assemblage", "champagne", "débourbage", "décuvage", "effervescent", "embouteillage", "encuvage", "enzymage", "fermentation alcoolique", "fermentation malolactique", "fermentation", "foulage", "levurage", "macération", "moût", "oeuf pourri", "pigeage", "pressurage", "rafle", "remontage", "souffre", "soutirage", "sulfitage", "tannins", "vin de goutte", "vin de presse", "écoulage", "égrappage", "éraflage"] 
 title = "Techniques spécifiques : les vins rouges"
-image = "/img/post/article189_1.jpg"
+image = "/img/post/technique-vin-rouge.jpg"
 writer = "Philippe"
 +++
 
@@ -94,4 +94,4 @@ Certains traitements des vins font intervenir la chaleur ou le froid pour détru
 
 ![photo][1]
 
-[1]: /img/post/article189_1.jpg
+[1]: /img/post/technique-vin-rouge.jpg

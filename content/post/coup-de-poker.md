@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2019-04-04T17:30:22+00:00"
-image = "img/post/article_97.jpg"
+image = "img/post/poker.jpg"
 tags = ["boisé", "margaux", "suave", "tannins arrondis"] 
 title = "Coup de poker !"
 writer = "Thomas"
@@ -16,4 +16,4 @@ Et pour la petite histoire, j’ai eu plus de chance avec cette bouteille qu’a
 
 ![photo][1]
 
-[1]: /img/post/article_97.jpg
+[1]: /img/post/poker.jpg

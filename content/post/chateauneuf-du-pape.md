@@ -3,7 +3,7 @@ categories = ["Vignobles"]
 date = "2019-05-31T17:30:22+00:00"
 tags = ["aoc", "charpenté", "châteauneuf-du-pape", "cinsault", "grenache", "mourvèdre", "syrah", "terroir de galets roulés"] 
 title = "AOC : Châteauneuf-du-pape"
-image = "/img/post/article136_1.jpg"
+image = "/img/post/chateauneuf-du-pape_1.jpg"
 writer = "Philippe"
 +++
 
@@ -61,5 +61,5 @@ Les 8 cépages rouges :
 * Et aussi cinsault, cournoise, muscardin, vaccarèse (10 ha en France, 1,5 aux Fines Roches), terret noir
 Les blancs : Clairette (blanche, rose), roussanne, bouboulenc, picpoul (blanc, gris, noir), picardan
 
-[1]: /img/post/article136_1.jpg
-[2]: /img/post/article136_2.jpg
+[1]: /img/post/chateauneuf-du-pape_1.jpg
+[2]: /img/post/chateauneuf-du-pape_2.jpg
