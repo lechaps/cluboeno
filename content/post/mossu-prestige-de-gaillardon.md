@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2018-12-29T17:30:22+00:00"
-image = "img/post/article_2.jpg"
+image = "img/post/prestige-de-gaillardon.jpg"
 tags = ["françois mossu", "jura"] 
 title = "Prestige de Gaillardon - François Mossu"
 writer = "LeChaps"
@@ -27,4 +27,4 @@ Cette bouteille vient directement du domaine. Une rencontre avec François Mossu
 
 ![photo][1]
 
-[1]: /img/post/article_2.jpg
+[1]: /img/post/prestige-de-gaillardon.jpg

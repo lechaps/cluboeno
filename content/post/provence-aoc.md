@@ -2,7 +2,7 @@
 categories = ["Vignobles"]
 date = "2019-04-01T17:30:22+00:00"
 tags = [" bourboulenc", " rolle", "aoc", "bandol", "barbaroux", "baux de provence", "bellet", "braquet", "brun fourca", "cabernet sauvignon", "calitor", "carignan", "cassis", "castet", "charpenté", "cinsault", "clairette", "coteaux varois en provence", "coteaux-d'aix-en-provence", "côtes-de-provence", "durif", "folle noire", "furmint", "grenache blanc", "grenache", "manosquin", "mourvèdre", "muscat de hambourg", "muscat à petits grains", "palette", "panse du roy rené", "petit brun", "phocéens", "phylloxéra", "picardan", "pierrevert", "piquepoul", "provence", "rolle", "romains", "sauvignon", "syrah", "sémillon", "terret gris", "tibouren", "téoulier", "ugni blanc", "vermentino"] 
-image = "/img/post/article94_1.jpg"
+image = "/img/post/provence-aoc-1.jpg"
 title = "La provence"
 writer = "LeChaps"
 +++
@@ -74,5 +74,5 @@ Le classement de 1955 des crus classés de provence comportait initialement 23 d
 * château Saint-Maur
 * château Sainte-Roseline
 
-[1]: /img/post/article94_1.jpg
-[2]: /img/post/article94_2.jpg
+[1]: /img/post/provence-aoc-1.jpg
+[2]: /img/post/provence-aoc-2.jpg

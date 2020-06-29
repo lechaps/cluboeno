@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2019-06-09T17:30:22+00:00"
-image = "img/post/article_145_2.jpg"
+image = "img/post/la-clape.jpg"
 tags = ["alicante", "amertume", "animal", "bordeaux", "bourboulenc", "carignan", "carthagène", "cazes", "chardonnay", "château champs des soeurs", "château giscours", "château la négly", "château pech redon", "corbières", "cuir", "domaine mire l'étang", "finale épicée", "grenache", "grenadine", "joncas", "la clape", "languedoc", "miel", "mistel", "mourvèdre", "muscat", "rosé", "roussanne", "sirop d'orgeat", "syrah", "tannins", "tavel", "terrasse du larzac", "vin de voile", "viognier", "écorces d’orange"] 
 title = "Découverte de la Clape"
 writer = "Thomas"
@@ -26,6 +26,6 @@ Il est tant de repartir tranquillement avec pleins de beaux souvenirs en tête m
 
 ![photo][2]
 
-[1]: /img/post/article_145_1.jpg
-[2]: /img/post/article_145_2.jpg
-[3]: /img/post/article_145_3.jpg
+[1]: /img/post/gouffre-de-l-oeil.jpg
+[2]: /img/post/la-clape.jpg
+[3]: /img/post/pech-redon.jpg
