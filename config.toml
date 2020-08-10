@@ -109,7 +109,7 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
     email = "lechaps@cluboeno.com"
     avatar = "/img/lechaps_icone.jpg"
     bio = [
-      "Avant de dire qu'un vin est mauvais pensez à ceux qui l'ont fait et à ce qu'il vous a couté. Parce qu'au final, « quoi qu'il arrive, on en boira toujours du plus mauvais » ! "
+      "Avant de dire qu'un vin est mauvais, pensez à ceux qui l'ont fait et à ce qu'il vous a couté. Parce qu'au final, quoi qu'il arrive, on en boira toujours du plus mauvais !"
     ]
     facebook      = "https://www.facebook.com/TheChaps"
     twitter       = "https://www.twitter.com/lechaps"
@@ -155,6 +155,21 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
     avatar = "/img/vince_icone.jpg"
     bio = [
       "Un verre de vin c'est bon pour la santé, le reste de la bouteille c'est bon pour le moral. Suivez la prescription du Docteur."
+    ]
+    facebook      = ""
+    twitter       = ""
+    linkedin      = ""
+    instagram     = ""
+    github        = ""
+    pinterest     = ""
+    stackoverflow = ""
+
+    [params.writers."benoit"]
+    link = ""
+    email = ""
+    avatar = "/img/benoit_icone.jpg"
+    bio = [
+      ""
     ]
     facebook      = ""
     twitter       = ""

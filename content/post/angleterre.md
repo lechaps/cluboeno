@@ -2,7 +2,7 @@
 categories = ["Dégustations"]
 date = "2020-02-27T17:30:22+00:00"
 image = "img/post/angleterre_1.jpg"
-tags = ["royaume-unis", "whisky", "bière", "zind humbrecht", "cuilleron", "poyferré", "mouton rothschild", "hermitage la chapelle", "romanée saint-vivant", "chardonnay"] 
+tags = ["bière", "chardonnay", "cuilleron", "hermitage la chapelle", "mouton rothschild", "poyferré", "romanée saint-vivant", "royaume-unis", "whisky", "zind humbrecht"] 
 title = "London calling"
 writer = "Thomas"
 +++

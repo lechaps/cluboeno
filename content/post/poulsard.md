@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-03-20T17:30:22+00:00"
-tags = ["animal", "fromage", "jura", "poulsard", "viande", "volailles", "animal", "fourrure"] 
+tags = ["animal", "fourrure", "fromage", "jura", "poulsard", "viande", "volailles"] 
 title = "Le poulsard"
 writer = "LeChaps"
 +++

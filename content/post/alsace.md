@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-22T17:30:22+00:00"
-tags = ["alsace", "aoc", "chasselas", "crémant d'alsace", "eau-de-vie", "effervescent", "gewurztraminer", "klevener de Heiligenstein", "marc d'alsace", "moelleux", "muscat ottonel", "muscat", "pinot gris", "pinot noir", "pourriture noble", "riesling", "savagnin rosé", "sylvaner", "sélection grains nobles", "terroir calcaro-marneux", "tokay", "traminer rosé", "vendanges tardives", "floral", "minéralité", "pétrole", "fruits exotiques", "épice", "roussanne"] 
+tags = ["alsace", "aoc", "chasselas", "crémant d'alsace", "eau-de-vie", "effervescent", "floral", "fruits exotiques", "gewurztraminer", "klevener de Heiligenstein", "marc d'alsace", "minéralité", "moelleux", "muscat ottonel", "muscat", "pinot gris", "pinot noir", "pourriture noble", "pétrole", "riesling", "roussanne", "savagnin rosé", "sylvaner", "sélection grains nobles", "terroir calcaro-marneux", "tokay", "traminer rosé", "vendanges tardives", "épice"] 
 title = "AOC : l'alsace"
 writer = "LeChaps"
 +++

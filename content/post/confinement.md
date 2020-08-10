@@ -2,7 +2,7 @@
 categories = ["Cave"]
 date = "2020-05-03T11:30:00+00:00"
 image = "img/post/confinement.jpg"
-tags = ["oenologie", "club oenologie"] 
+tags = ["club oenologie", "oenologie"] 
 title = "Journal d’un confiné"
 writer = "Thomas"
 +++

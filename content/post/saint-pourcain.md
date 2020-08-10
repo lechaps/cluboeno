@@ -2,7 +2,7 @@
 categories = ["Dégustations"]
 date = "2020-05-23T17:30:22+00:00"
 image = "img/post/saint-pourcain-10.jpg"
-tags = ["val de loire", "saint-pourçain", "les domaines des terres d'ocres", "domaine grobost-barbara", "terroir argilo-calcaire", "terroir argilo-graveleux", "terroir granitique", "chardonnay", "trésallier", "gamay", "pinot noir", "phylloxéra", "agriculture biodynamie", "rondeur", "salin", "complexité", "cire", "tension", "fruit rouge", "charpenté", "tannins fondus", "tannins", "pomme", "poire", "soyeux", "élégant", "méthode traditionnelle", "agrume", "équilibre", "pinot gris", "fruits exotiques", "mangue"] 
+tags = ["agriculture biodynamie", "agrume", "chardonnay", "charpenté", "cire", "complexité", "domaine grobost-barbara", "fruit rouge", "fruits exotiques", "gamay", "les domaines des terres d'ocres", "mangue", "méthode traditionnelle", "phylloxéra", "pinot gris", "pinot noir", "poire", "pomme", "rondeur", "saint-pourçain", "salin", "soyeux", "tannins fondus", "tannins", "tension", "terroir argilo-calcaire", "terroir argilo-graveleux", "terroir granitique", "trésallier", "val de loire", "élégant", "équilibre"] 
 title = "Saint-Pourçain à 100%"
 writer = "Philippe"
 +++
@@ -39,12 +39,14 @@ La dégustation d’un Maltotes 2017 et d’un SAS 2015 confirment le potentiel 
 
 Au final, ces deux domaines représentent bien le renouveau de ce vignoble, par une recherche de qualité qui permet aux vins de rivaliser avec de glorieux voisins. Globalement, ce sont les blancs qui m’ont vraiment marqué par leur qualité, même si le plaisir ressenti avec les rouges est grand.
 
+![photo][11]
 ![photo][2]
 ![photo][5]
 ![photo][6]
 ![photo][7]
 ![photo][9]
 ![photo][10]
+
 
 [1]: /img/post/saint-pourcain-01.jpg
 [2]: /img/post/saint-pourcain-02.jpg
@@ -56,3 +58,4 @@ Au final, ces deux domaines représentent bien le renouveau de ce vignoble, par 
 [8]: /img/post/saint-pourcain-08.jpg
 [9]: /img/post/saint-pourcain-09.jpg
 [10]: /img/post/saint-pourcain-10.jpg
+[11]: /img/post/saint-pourcain-11.jpg
