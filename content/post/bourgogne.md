@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-28T17:30:22+00:00"
-tags = ["aligoté", "bourgogne aligoté", "bourgogne grand ordinaire", "bourgogne passetoutgrain", "bourgogne", "chardonnay", "pinot noir", "césar", "gamay", "pinot beurrot", "sauvignon"] 
+tags = ["aligoté", "bourgogne aligoté", "bourgogne grand ordinaire", "bourgogne passetoutgrain", "bourgogne", "chardonnay", "césar", "gamay", "pinot beurrot", "pinot noir", "sauvignon"] 
 title = "La Bourgogne"
 writer = "LeChaps"
 +++

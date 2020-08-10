@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-06-29T17:30:22+00:00"
-tags = ["australie", "bandol", "californie", "cuir", "fruits noirs", "matoro", "mourvèdre", "mûre", "puissant", "réglisse", "tannins", "violette", "chocolat", "caramel"] 
+tags = ["australie", "bandol", "californie", "caramel", "chocolat", "cuir", "fruits noirs", "matoro", "mourvèdre", "mûre", "puissant", "réglisse", "tannins", "violette"] 
 title = "Le mourvèdre"
 writer = "LeChaps"
 +++
