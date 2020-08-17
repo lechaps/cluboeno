@@ -2,7 +2,7 @@
 categories = ["Cépages"]
 date = "2020-08-16T17:30:22+00:00"
 tags = ["charpenté", "complexité", "bourgogne", "allemagne", "alsace", "hongrie", "vendanges tardives", "tokay", "suisse", "valais", "val de loire", "malvoisie", "coteaux-d'ancenis", "reuilly", "italie", "australie", "états-unis", "québec", "canada", "nouvelle-zélande", "crimée", "poire", "pêche"] 
-title = "Le pinot noir"
+title = "Le pinot gris"
 writer = "LeChaps"
 +++
 
