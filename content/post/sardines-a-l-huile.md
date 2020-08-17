@@ -11,5 +11,5 @@ writer = "LeChaps"
 3. Faites-leur manger des sardines à l'huile.
 4. Faites leur goûter le vin B et interrogez-les.
 
-La plupart de vos invités vont trouver le 20 B chimique, mauvais, bas de gamme, etc. Ils auront le plus grand mal à vous croire lors ce que vous leur expliquerez qu'il s'agit du même vin.  
+La plupart de vos invités vont trouver le vin B chimique, mauvais, bas de gamme, etc. Ils auront le plus grand mal à vous croire lors ce que vous leur expliquerez qu'il s'agit du même vin.  
 Cela dit, vous pouvez limiter les frais en servant la sardine à huile avec un vin blanc, une cuvée tranchante et pointue telle qu'un muscadet sèvre-et-maine. Les sardines marinées en escabèche se mariera avec un blanc méditerranéen et la sardine grillée au barbecue avec un irouléguy.

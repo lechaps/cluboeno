@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-02-03T17:30:22+00:00"
-tags = ["beaujolais", "beaujolais-villages", "brouilly", "chardonnay", "chenas", "chiroubles", "fleurie", "gamay", "morgon", "moulin-à-vent", "terroir granitique", "terroir schisteux", "villefranche-sur-saône"] 
+tags = ["beaujolais", "beaujolais-villages", "brouilly", "chardonnay", "chenas", "chiroubles", "fleurie", "gamay", "morgon", "moulin-à-vent", "terroir granitique", "terroir schisteux", "villefranche-sur-saône",  "côte-de-brouilly",  "juliénas", "régnié" , "saint-amour"] 
 title = "Le Beaujolais"
 writer = "LeChaps"
 +++
@@ -12,7 +12,19 @@ Dans le prolongement du Maconnais, jusqu'à la hauteur de Villefranche-sur-Saôn
 
 Le beaujolais est issu d'un cépage unique : le gamay. La vinification beaujolaise traditionnelle est réalisée à partir de raisins mûrs, intacts et non égrappés. Cela donne des arômes dits de vinification : bonbon et banane pour les primeurs.  
 
-Le mot "Village" a été adopté en 1946 pour remplacer la multiplicité des noms de communes qui pouvaient être ajoutés à l'appellation beaujolais : beaujolais, beaujolais-villages, brouilly, chenas, chiroubles, fleurie.
+## Appelation
+
+Le vignoble possède deux appellations d'origine contrôlée régionales et dix communales.
+
+* Beaujolais  
+Au sein du vignoble, l'AOC beaujolais est la plus vaste. Elle comprend tout le vignoble. La majeure partie de la production de cette appellation est commercialisée en primeur sous le nom de beaujolais nouveau.
+
+* Beaujolais-villages  
+Vue aérienne du vignoble du Beaujolais. On perçoit bien la monoculture de la vigne sur des coteaux.
+La partie centrale et la frange nord du vignoble est éligible à l'AOC beaujolais-villages ; sa zone la plus vaste est située entre les vallées de deux rivières, le Nizerand et l'Ardières. Le beaujolais-villages est produit sur 38 communes et représente 25 % de la production beaujolaise : autour de 300 000 hl. Une partie de la production est commercialisée en primeur sous le nom de beaujolais-villages nouveau.
+
+* Appellations communales  
+Dix appellations communales ou locales, appelées « crus du Beaujolais », existent. Il s'agit du brouilly, du chénas, du chiroubles, du côte-de-brouilly, du fleurie, du juliénas, du morgon, du moulin-à-vent, du régnié et du saint-amour. Tous ces crus peuvent être commercialisés sous l'appellation : bourgogne gamay.
 
 ## la route des beaujolais
 

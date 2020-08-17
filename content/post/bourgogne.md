@@ -22,6 +22,8 @@ Exceptionnel 2004, dans la lignée du 2000, dans les deux couleurs, qui côtoie 
 
 Superbes bouteilles en blancs dans les millésimes 2000, 1999, 1995, 1989, alors que les meilleurs rouges développent leur attrait dans les millésimes 1999, 1997, 1989 ou 1985.
 
+Les blancs entre 95 et 04 ont subissent un viellissement prématuré causé par la « mode » du batonnage (remuage des lies pour donner du gras aux vins).
+
 ## Grands crus et crus classés
 
 Les « crus » correspondent à un terroir délimité pour ses qualités, correspondant selon les régions à un lieu-dit, à une commune ou un domaine viticole.  
