@@ -32,7 +32,7 @@ En conclusion voici le trousseau dans ce qu'il peut offrir de mieux en délicate
 Une réussite qui se goûte merveilleusement aujourd’hui, seul pour le moment. Je m'attache à me rapprocher du diner pour mettre ce flacon à l'épreuve de son destin.
 
 ![photo][2]
-Avec le foie, l'acidité des fruits rouges vient manger le gras pour se marier dans une danse envoutante. Certes si pour beaucoup l'accord et moins parfait qu'un vin liquoreux, je ne reste pas du même avis et suis persuadé qu'un vin rouge à la texture fine et legère est préférable à l'épaisseur que représente un liquoreux, le manque de sucre étant comblé par celui des arômes de fruits rouges et noires.
+Avec le foie, l'acidité des fruits rouges vient manger le gras pour se marier dans une danse envoutante. Certes si pour beaucoup l'accord est moins parfait qu'un vin liquoreux, je ne reste pas du même avis et suis persuadé qu'un vin rouge à la texture fine et legère est préférable à l'épaisseur que représente un liquoreux, le manque de sucre étant comblé par celui des arômes de fruits rouges et noires.
 Bref, la première étape étant passée haut la main, je sens le momentum me gagner avant la deuxième épreuve.
 
 ![photo][3]
