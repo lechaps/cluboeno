@@ -98,7 +98,7 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
   facebook      = "https://www.facebook.com/lecluboeno"
   email         = "contact@cluboeno.com"
   twitter       = "https://twitter.com/club_oeno"
-  instagram     = "https://www.instagram.com/cluboeno"
+  instagram     = "https://www.instagram.com/club_oeno"
   github        = "https://github.com/lechaps/cluboeno"
   pinterest     = "https://www.pinterest.fr/lechaps03"
 
