@@ -72,7 +72,7 @@ Méthode artisanale et empirique développée par le patriarche gardée par la f
 
 Le nez a des notes de caramel, sur la sucrosité. ce vin est une vraie liqueur digestive, d'une complexité énorme, opulente mais pas massive, dont on a du mal à dénouer les arômes !
 
-_En résumé cette visite fut l'accueil parfait dont nous avions besoin pour notre séjour. Des vins tout en élégance et en équilibre entre le salin et l'acidité. Et Nicole Dériot, très bienveillante, tâchant que nous transmettre sa passion. Une visite touchante, avec beaucoup d'émotion, notamment quans elle nous a expliqué la genèse et fabrication du secret de montbourgeau, avec une recette issue de son papa._
+_En résumé cette visite fut l'accueil parfait dont nous avions besoin pour notre séjour. Des vins tout en élégance et en équilibre entre le salin et l'acidité. Et Nicole Dériot, très bienveillante, tâchant de nous transmettre sa passion. Une visite touchante, avec beaucoup d'émotion, notamment quand elle nous a expliqué la genèse et fabrication du secret de montbourgeau, avec une recette issue de son papa._
 
 ## 2. Domaine Macle
 
@@ -121,7 +121,7 @@ Nez chocolat à l’orange. Bouche ample, sucrée avec une acidité bien en plac
 Nez signature des château Chalon et Macvin. Entre prune et calva
 ![photo][15]
 
-Après cette dégusation d'une tenue remarquable, une suprise nous attendait avec la visite improvisée de la cave.
+_Après cette dégusation d'une tenue remarquable, une suprise nous attendait avec la visite improvisée de la cave._
 ![photo][8]
 ![photo][9]
 ![photo][12]
@@ -161,7 +161,7 @@ Miellé, vinaigre de cidre, attaque franche, acidité digeste, finale légèreme
 
 Nez doux, sur la figue, sucré. Bouche avec des notes de chocolat, très sucrée.
 
-Le sommet de la dégustation chez Mossu restera la compétition familiale entre le **vin de paille 2015** d’Alexandra, et le **vin de paille 2014** de François, référence absolue du Jura année après année. Les deux sont très bons, peut-être celui d’Alexandra est-il un peu plus fin, mais c’est peut-être un effet millésime.
+_Le sommet de la dégustation chez Mossu restera la compétition familiale entre le **vin de paille 2015** d’Alexandra, et le **vin de paille 2014** de François, référence absolue du Jura année après année. Les deux sont très bons, peut-être celui d’Alexandra est-il un peu plus fin, mais c’est peut-être un effet millésime._
 
 ![photo][19]
 ![photo][20]
