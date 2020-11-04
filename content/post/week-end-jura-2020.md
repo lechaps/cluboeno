@@ -39,7 +39,7 @@ Nez lactique et typique savagnin, sirop de grenadine, noix fraîche. La bouche e
 Assemblage de parcelles.  
 Nez noix-amande, puissant, avec un coté « whisky japonais ». Bouche un peu simple, amande verte, marqué par l'élevage encore. Finale un peu corute sur une trame de bouillon de volaille.
 
-### L’Etoile Banode 2017, parcellaire, assemblage chardonnay / savagnin
+### L’Etoile Banode 2017, parcellaire, assemblage chardonnay/savagnin
 
 Assemblage Chardonnay savagnin, plantés à côté les uns des autres, la parcelle fait le joint entre la fin de la vendange des chardonnays du domaine et le début des savagnins, puisqu'elle est vendangée en même temps.  
 Nez fumé avec des notes de safran, légèrement curry, fait penser un peu à la sauce soja. La bouche est ample marquée par la noix, sur une tension acide avec une finale puissante sur le curry, le tout sur une trame saline.
@@ -77,65 +77,51 @@ _En résumé cette visite fut l'accueil parfait dont nous avions besoin pour not
 ## 2. Domaine Macle
 
 La montée vers Château Chalon est toujours magnifique, avec ces vallons recouverts de vignes.
-![photo][4]  
+![photo][6]  
 
 C’est un tout petit vignoble, 48 ha sont plantés, l’origine est monastique et les vins de Château-Chalon sont connus depuis plusieurs siècles.
-![photo][6]
+![photo][4]
 
 Le domaine Macle date de 1850, fondé par un tonnelier dont deux tonneaux sont toujours utilisés dans la cave, et ce domaine restera agricole (producteur de lait entre autres) jusqu’en 1966, où Jean Macle décide de se consacrer uniquement à la viticulture. Le domaine fait 12 hectares, 8 en Côtes du Jura et 4 en Château-Chalon, argilocalcaire, sur marnes grises et bleues (du Lias), idéales pour le savagnin.
 ![photo][7]
 
 Les vignes sont taillées pour qu'elles ne souffrent pas, en double guyot.
-L’accueil qui nous est réservé par Christelle Macle est chaleureux, dans le cadre austère du caveau, qui reste impressionnant, même pour les habitués de la visite.
+L’accueil dans le cadre austère du caveau reste impressionnant même pour les habitués. Fort heureusement la dégustation est menée chaleureusement par Christelle Macle, avec une bienveillance particulière pour l'habitué Philippe qui l'a « mis en soucis » en ne lui rendant pas visite l'année dernière.
 ![photo][5]
 
-### Côtes du Jura 2015 100% chardonnay, 3 ans sous voile
+### Côtes du Jura 2015
 
-Taille double guyot, le voile formé est un film de l’épaisseur d’une feuille de papier à cigarette, 35 hect/ha
+100% chardonnay, 3 ans sous voile. Taille double guyot, le voile formé est un film de l’épaisseur d’une feuille de papier à cigarette, 35 hect/ha.  
+Nez discret, légèrement floral. Bouche sur la noix séchée, noisette, fine et puissante avec une finale sur des notes épicées, curry.
 
-* Thomas :  Nez discret, peu d’arômes, bouche : noix séchée, noisette, fin et puissant, finale sur des notes épicées, curry
-* Philippe : Floral, puissant
+### Côtes du Jura 2016
 
-### Côtes du Jura 2016 80% chardonnay 20% savagnin
+80% Chardonnay 20% savagnin. Cépages élevés séparément, assemblage 1 mois avant la mise en bouteille.  
+Nez sur la finesse, floral. Bouche avec de la matière, sur des arômes de noix fraîche, fine et puissant avec une finale pleine, ciselé sur le fruit à coque. Très élégant, très rare d’avoir goûté un Côtes-du-Jura plutôt sur la puissance, sauf peut-être le 2009.
 
-Cépages élevés séparément, assemblage 1 mois avant la mise en bouteille
+### Château Chalon 2011
 
-* Thomas : Nez sur la finesse, floral, arômes de noix fraîche, de la mâche en bouche, fin et puissant, finale pleine, ciselé sur le fruit à coque, élégant
-* Philippe : 80% Chardonnay 20% savagnin, élevage séparé puis assemblage un mois avant l'embouteillageÉlégant comme à son habitude, très rare d’avoir goûté un Côtes-du-Jura plutôt sur la puissance, sauf peut-être le 2009
+100% savagnin. Le savagnin est un cousin du gewurztraminer, provenant du Tyrol autrichien.
+25 hect/ha. Passe 9 mois en bouteille avant la vente pour le stabiliser.
 
-### Château Chalon 2011 100% savagnin
-
-Le savagnin est un cousin du gewurztraminer, provenant du Tyrol autrichien
-25 hect/ha. Passe 9 mois en bouteille avant la vente pour le stabiliser
-
-* Thomas
-Nez : notes épicées, sur cumin / curcuma, floral, très complexe, cerneaux de noix
-Bouche : acidité parfaite, finale épices à fond
-* Philippe : Élégance folle, belle puissance, avec des arômes qui sont mêlés et dont aucun ne se démarque réellement (noix mûre, curry, pomme), et plus étonnant, verre vide, on a un côté décoction d'agrumes
+Nez très complexe avec des notes épicées (cumin / curcuma), florales, pommes et cerneaux de noix. Bouche à l'acidité parfaite avec une finale très épicées. D'une élégance folle avec belle puissance et des arômes qui sont mêlés et dont aucun ne se démarque réellement (noix mûre, curry, pomme). Le plus étonnant étant le verre vide avec côté décoction d'agrumes.
 
 ### Château Chalon 2012
 
-* Thomas : Nez plus expressif, suave, sur la fleur blanche
-Attaque + acide, côté fumé, champignonné, côté Whisky, notes salines
-Verre vide, un côté caramel au beurre salé, note de « vieille cave »
-
-* Philippe : Climat plus frais, acidité plus marquée, plus épicé, à oublier, au jour de la dégustation, je préfère le 2011 pour son équilibre.
+Nez expressif, suave, sur la fleur blanche. En bouche l'acidité est plus marquée en attaque, elle laisse place à un côté fumé, champignonné, avec un côté Whisky et des notes salines. Verre vide, un côté caramel au beurre salé est présent avec des notes de « vieille cave ». Ce vin est à oublier, au jour de la dégustation, le 2011 est préféré pour son équilibre.
 
 ### Macvin 2014
 
-* Thomas : Nez chocolat à l’orange, bouche ample, sucrée, acidité bien en place, finale légèrement chocolatée
-Dernier jour des vendanges de chardonnay, utilisation du jus de raisin en moût (2/3) + 1/3 de marc de 2007 – 4 ans au tonneau
-Sols argilo-calcaire, marnes bleues et grises, terre de blancs
-
-* Philippe : On attend le dernier jour des vendanges pour la maturité maximale des jus, 2/3 de jus auquel on ajoute 1/3 de marc, ici jus de 2014 et Marc de 2007 (53°6 degrés après 7 ou 8 ans, par rapport aux 70% d’un marc jeune de 18 mois comme le prévoit a minima l’agrément). Très grande finesse, le vin n’a pas le côté un peu brutal du marc qu’on a parfois sur d’autres
+Dernier jour des vendanges de chardonnay (pour attendre la maturité maximale), utilisation du jus de raisin en moût (2/3) + 1/3 de marc de 2007 (53°6 degrés après 7 ou 8 ans, par rapport aux 70% d’un marc jeune de 18 mois comme le prévoit a minima l’agrément). 4 ans au tonneau
+Sols argilo-calcaire, marnes bleues et grises, terre de blancs.
+Nez chocolat à l’orange. Bouche ample, sucrée avec une acidité bien en place et une finale légèrement chocolatée. Très grande finesse, le vin n’a pas le côté un peu brutal du marc qu’on a parfois sur d’autres
 
 ### Fine du Jura
 
-* Thomas : Nez signature des château Chalon et Macvin
-Entre prune et calva
+Nez signature des château Chalon et Macvin. Entre prune et calva
 ![photo][15]
 
-VISITE DE CAVE !
+Après cette dégusation d'une tenue remarquable, une suprise nous attendait avec la visite improvisée de la cave.
 ![photo][8]
 ![photo][9]
 ![photo][12]
@@ -145,7 +131,8 @@ VISITE DE CAVE !
 
 ## 3. Domaine Mossu
 
-Le coup de volant de trop ? Au pied des vignes de Château-Chalon, à Voiteur, vous gagnerez à faire une halte chez François Mossu, halte qui ne sera pas courte mais qui sera assurément chaleureuse, car le personnage est truculent, amoureux de son métier et de ses vignes ! Sa fille Alexandra le rejoint au domaine depuis peu, encore une relève qui s’assure !
+Il y a des fois où le destin ne tient à rien. La prochaine dégustation est issu d'un coup de volant d'un pilote désirant optimiser son séjour en visite de cave.  
+Au pied des vignes de Château-Chalon, à Voiteur, le voyageur gagne à faire une halte chez François Mossu, halte qui ne sera pas courte mais qui sera assurément chaleureuse, car le personnage est truculent, amoureux de son métier et de ses vignes ! Sa fille Alexandra le rejoint au domaine depuis peu, encore une relève qui s’assure !
 ![photo][17]
 
 Notre échange avec cet amoureux du vin a été cordial, autour des inquiétudes sur le climat, François Mossu n’hésitant pas à nous rappeler que des anomalies climatiques et des années sèches existaient déjà auparavant.
@@ -154,128 +141,92 @@ Notre échange avec cet amoureux du vin a été cordial, autour des inquiétudes
 
 13 cépages
 
-* Thomas : Nez bouquet de fruits, bouche sangria
-
-* Philippe : je retiens que son assemblage rouge m’a paru assez étrange, je n’ai pas aimé, 
+Nez sur le bouquet de fruits. La bouche relève d'une sangria. Cet assemblage rouge apparait assez étrange.  
 
 ### Côtes du Jura savagnin 2016
 
-* Thomas :  Nez curry, noix fraîche, bouche saline, peau de noix verte, finale curry, acidité résiduelle
-* Philippe : Savoureux
+Nez curry et noix fraîche. Bouche saline, peau de noix verte, finale curry, acidité résiduelle. Savoureux.
 
 ### Château Chalon 2013
 
-* Thomas
-Nez sur les baies, essence
-Bouche : un côté amer, acidité bien dosée, résiduel lactique, astringence en fin de bouche, asséchant
-
-* Philippe : Son Château-Chalon 2013*** est comme à l’accoutumée opulent, avec de la finesse mais un corps qui rappelle plus Arbois. 
-
-Le sommet de la dégustation chez Mossu, c’est la compétition familiale entre le vin de paille 2015***d’Alexandra, et le vin de paille 2014*** de François, référence absolue du Jura année après année. Et bien, ils sont très bons, peut-être celui d’Alexandra est-il un peu plus fin, mais c’est peut-être un effet millésime.
+Nez sur les baies, essence. Bouche opulente avec de la finesse mais un corps qui rappelle plus Arbois, quelques notes d'amertume, acidité bien dosée, résiduel lactique, astringence en fin de bouche, asséchant.
 
 ### Vin de paille 2015
 
 Poulsard, chardonnay, savagnin
 
-* Thomas
-Miellé, vinaigre de cidre, attaque franche, acidité digeste, finale légèrement amère sur l’écorce d’agrumes
+Miellé, vinaigre de cidre, attaque franche, acidité digeste, finale légèrement amère sur l’écorce d’agrumes.
 
 ### Vin de paille 2014
 
-* Thomas
-Nez + doux, sur la figue, sucre
-Bouche : notes de chocolat, + de sucre
+Nez doux, sur la figue, sucré. Bouche avec des notes de chocolat, très sucrée.
+
+Le sommet de la dégustation chez Mossu restera la compétition familiale entre le **vin de paille 2015** d’Alexandra, et le **vin de paille 2014** de François, référence absolue du Jura année après année. Les deux sont très bons, peut-être celui d’Alexandra est-il un peu plus fin, mais c’est peut-être un effet millésime.
+
 ![photo][19]
 ![photo][20]
 
 ## 4. Domaine Fumey Chatelain
 
-Domaine de 17 ha à Montigny-les-Arsures, village connu pour ses marnes rouges propices au trousseau et au poulsard, créé après le grand gel de 1991, Raphaël Fumey et Adeline Chatelain sont aujourd’hui rejoints par leur fils Marin au domaine , relève assurée ici aussi !
-Nous avons inscrit ce domaine au programme suite aux dégustations passées de Philippe, qui le connait depuis une dizaine d’années, et pour qui il s’agit d’un des plus beaux rapports prix plaisir du Jura.
+Domaine de 17 ha à Montigny-les-Arsures, village connu pour ses marnes rouges propices au trousseau et au poulsard, créé après le grand gel de 1991, Raphaël Fumey et Adeline Chatelain sont aujourd’hui rejoints par leur fils Marin au domaine. La relève assurée ici encore !
+Nous avons inscrit ce domaine au programme suite aux dégustations passées de Philippe, qui le connait depuis une dizaine d’années, et pour qui il s’agit **d’un des plus beaux rapports prix plaisir du Jura**.
 
 ### Arbois Ploussard 2018
 
-* Thomas : Nez cerise (kriek), bien équilibré, acidulé
-* Philippe : olie structure, une cerise éclatante, acidulé, très plaisant, un vin de plaisir pur !
+Nez cerise (kriek), bien équilibré, acidulé. Bouche autour d'une jolie structure, une cerise éclatante, acidulé, très plaisant, un vin de plaisir pur !
 
 ### Arbois Ploussard 2018 parcellaire Fertans
 
-Grappes entières / parcelle Fertans
-
-* Thomas : Nez cacahouète grillée, un peu réduit, côté vert
-Bouche astringente, finale réglissée, trop jeune
-* Philippe : plus de structure, côté vert de la rafle, on a le côté grillé, un peu réduit, plus minéral, plus de garde 
+Grappes entières / parcelle Fertans.  
+Nez cacahouète grillée, un peu réduit, côté vert. Bouche astringente, avec de la structure, avec à la fois le coté vert de la rafle et le coté grillé avec des notes minérale, pour une finale réglissée. Trop jeune, c'est un assurément un bon vin de garde.  
 
 ### Arbois Trousseau 2018
 
-* Thomas : Nez fruité, floral, pêche de vigne, violette, fruits rouges
-Bouche côté lactique, sur la fleur, un peu rose, longueur réglissée
-* Philippe : Quel fruit ! on a un côté fruits rouges sucrés, violette, côté pêche blanche aussi dit Thomas
+Nez fruité, floral, pêche de vigne, violette, fruits rouges sucrés. Bouche côté lactique, sur la fleur, un peu rose, longueur réglissée.
 
 ### Arbois Trousseau 2017 parcellaire Le Bastard
 
-Trousseau à la dame
-
-* Thomas : Nez cerise, fruits acidulés, fraise des bois, de la fraîcheur en bouche
-* Philippe : Cette variété de trousseau a des grains qui ne se touchent pas, elle sur une parcelle d’argile à chaille, Très beau nez, fruit confit, très belle structure !  Pour avoir bu aussi un 2015 il y a une semaine, on est sur une référence
+Trousseau à la dame (variété de trousseau avec des grains qui ne se touchent pas) sur une parcelle d’argile à chaille.  
+Nez cerise, fruits acidulés, fraise des bois, fruits confits. Bouche avec une belle structure et de la fraîcheur. Dans la ligné de 2015 dégusté précédemment. Il s'agit sans nul doute d'une référence pour le domaine.
 
 ### Arbois Pinot noir 2017
 
-Vinification en cuve inox
-
-* Thomas : Nez légèrement poussiéreux, côté gras de la viande, ça sent le produit transformé type rillettes ou autre
-Bouche attaque agréable, structuré, finale légèrement poivrée, légère astringence pas désagréable
-* Philippe : joli, gourmand, bel équilibre
+Vinification en cuve inox.  
+Nez légèrement poussiéreux, côté gras de la viande (odeur de produit transformé type rillettes ou autre). La bouche a une attaque agréable, structurée avec une finale légèrement poivrée et une légère astringence pas désagréable. En résumé : joli, gourmand, bel équilibre.
 
 ### Arbois Pinot noir 2018 parcellaire remonte en ligne
 
-Vinification en foudres
-
-* Thomas : Nez sur le fruit noir type cassis
-Bouche légère, fraîcheur mentholée
-* Philippe : élevé en foudre des années 50,  fruité et structuré pour une moyenne garde, grenadines, merveille mentholée, juste magnifique ! C’est la première fois qu’un pinot du Jura m’emballe à ce point, et c’est donc, en toute logique, le premier pinot noir que j’y achète !
+Vinification en foudres des années 50.  
+Nez sur le fruit noir type cassis. Bouche légère, fruité et structuré pour une moyenne garde, grenadines, merveille mentholée, juste magnifique !
+C’est la première fois qu’un pinot du Jura emballe Philippe à ce point, et c’est donc, en toute logique, le premier pinot noir qu'il y achète !
 
 ### Arbois chardonnay 2018
 
-* Thomas : Nez pêche de vigne, note citronnée
-Bouche rafraîchissante, reste le fruit jaune, la cire
-Impression de crémant sans bulle
-D’après la vigneronne, il va y avoir une évolution dans le temps à priori comme les bourgognes
-* Philippe : Léger, aérien, très impressionné par la qualité et l'équilibre de ce vin
+Nez pêche de vigne, note citronnée. Bouche rafraîchissante, reste le fruit jaune, la cire. Impression de crémant sans bulle mais un vin léger, aérien, à l'équilibre rare. D’après la vigneronne, il va y avoir une évolution dans le temps à priori comme les bourgognes.
 
 ### Savagnin ouillé 2018
 
-* Thomas : Nez chèvrefeuille, fruit
-Ample en bouche, beurré, puissance, acidité très bien équilibrée, sucre résiduel
-* Romain : Incroyable, on a un nez complexe, pas du tout le côté typé du Jura, belle suavité en bouche, avec une grande longueur
+Nez chèvrefeuille, fruit, complexe. Ample en bouche, suave, , beurré, puissance, acidité très bien équilibrée, sucre résiduel pour une belle longueur. Pas du tout typé Jura.
 
 ### Tradition Non millésimé
 
-Fermentation ouillée puis mise en pièces pour élevage sous voile
-1 cuve représente 10 pièces
-Env. 200 pièces en cave
-Analyse 2 fois / an pour volatiles et tanals
-Assemblage à partir des analyses, les meilleures mises de côté pour l’élevage du vin jaune
+Fermentation ouillée puis mise en pièces pour élevage sous voile.
+1 cuve représente 10 pièces. Env. 200 pièces en cave. Analyse 2 fois / an pour volatiles et tanals.
+Assemblage à partir des analyses, les meilleures mises de côté pour l’élevage du vin jaune.  
+Côté moins salin que Montbourgeau et Macle. Très élégant, idéal pour faire découvrir la Jura, arômes de fruits jaunes, finale tendue.
 
-* Thomas : Côté moins salin que Montbourgeau et Macle, intéressant
-* Philippe : 70/ 30 Chardonnay ouillé et savagnin sous voile , très élégant, super beau vin, idéal pour faire découvrir la Jura, arômes de fruits jaunes, finale tendue
+### Arbois tradition sans millésime
 
-#### Arbois tradition sans millésime
+Assemblage 70% chardonnay ouillé 30% savagnin sous voile.  
+Nez comté. Bouche lactique avec l'acidité enrobée, légère amertume de noix verte, belle sapidité.
 
-Assemblage 70% chardonnay ouillé 30% savagnin sous voile
+### Arbois savagnin sous voile non millésimé (3 ou 4 ans)
 
-* Thomas : Nez comté, Bouche lactique, légère amertume de noix verte
-* Philippe : Belle sapidité, jolie bouche avec une acidité enrobée
-
-#### Arbois savagnin sous voile non millésimé (3 ou 4 ans)
-
-* Thomas : Nez + ciselé, côté citronné qui ressort
-Bouche aérienne, attaque ciselée, sur l’acidité, finale très fine sur la noix verte
+Nez ciselé avec un côté citronné qui ressort. Bouche aérienne à l'attaque ciselée, sur l’acidité, finale très fine sur la noix verte
 
 ### Arbois savagnin 2016
 
-* Thomas : Nez typique, sur la fraîcheur, trame citronnée
-* Philippe : Puissant, opulent, avec toutefois une trame acide qui le rend superbe, avec toutefois un resserrement de la bouche en finale
+Nez typique, sur la fraîcheur avec une trame citronnée. Puissant, opulent, avec toutefois une trame acide qui le rend superbe, avec toutefois un resserrement de la bouche en finale.
 
 ### Arbois vin jaune 2013
 
@@ -284,15 +235,15 @@ Bouche aérienne, attaque ciselée, sur l’acidité, finale très fine sur la n
 
 ### Crémant
 
-Pas goûté
-Philippe : Un peu fermé, peu fruité mais bulle très belle
+Un peu fermé, peu fruité mais bulle très belle.
 
 ### Vin de paille 2015
 
-* Thomas : Nez de Vin Santo, confiture d’abricot, miélé, ciré, Attaque sucrée, acidité pas très marquée mais reste équilibré, notes d’amandes et d’abricot, beaux amers
-* Philippe : Très bon, un peu moins complexe que celui de Montbourgeau ou de Mossu
+Nez de Vin Santo, confiture d’abricot, miélé, ciré. Bouche à l'attaque sucrée, avec une acidité pas très marquée mais qui reste équilibrée, notes d’amandes et d’abricot, beaux amers. Très bon, un peu moins complexe que celui de Montbourgeau ou de Mossu
 
 ![photo][22]
+
+Pour conlure il est difficile de résumer notre WE Jurassien. Cette région mérite le détour à la fois pour la qualité de ses produits que pour la chaleur de l'accueil qui est réservée au dégustateur, qu'il soit amateur ou passionné. Pour avoir fait quelques régions, rarement nous sommes accueillis avec autant de convivialité pour des produits d'une qualité aussi constante, et ce, dans tous les domaines où nous sommes passés. En fait nous n'avons qu'un seul regret, celui de n'avoir pu honorer d'autres domaines à la réputation tout aussi positive (Aviet, Puffeney, etc...). Mais ce choix est assumé car il est indispensable de rendre au vigneron de cette région l'attention qu'ils mettent dans leur accueil. Et si prochainement un amis vous demande « on va dans le jura ? », répondez-lui « Jura où tu iras !»
 
 _A noter que cet article résulte de la mise en commun des notes prises Philippe, Thomas et Lechaps._
 
