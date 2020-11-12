@@ -9,7 +9,7 @@ writer = "Philippe"
 
 C’est la dégustation de ce jour, l’une de mes appellations préférées, Châteauneuf-du-Pape, et vous allez voir qu’il n’est pas toujours facile d’apprécier un vin !
 
-Quelques rappels pour vous échauffer avant de plonger le nez dans le verre : l’appellation fait partie de la vallée du Rhône sud, cette grande région vinicole ne mettant pas les mêmes cépages à l’honneur selon que vous êtes au nord (quasi mono cépage pour schématiser, avec la syrah et le viognier) ou au sud (d’assemblage grenache, syrah, carignan, cinsault, marsanne, roussane, clairette).  (<a href="{{< ref "/post/chateauneuf-du-pape" >}}" >Le lien vers l'article complet concernant l'appellation châteauneuf-du-pape muscadet</a>)  
+Quelques rappels pour vous échauffer avant de plonger le nez dans le verre : l’appellation fait partie de la vallée du Rhône sud, cette grande région vinicole ne mettant pas les mêmes cépages à l’honneur selon que vous êtes au nord (quasi mono cépage pour schématiser, avec la syrah et le viognier) ou au sud (d’assemblage grenache, syrah, carignan, cinsault, marsanne, roussane, clairette).  (<a href="{{< ref "/post/chateauneuf-du-pape" >}}" >Le lien vers l'article complet concernant l'appellation châteauneuf-du-pape</a>)  
 
 Châteauneuf-du-Pape est l’appellation phare du sud, avec une mosaïque de terroirs, un fort ensoleillement et le mistral qui souffle.
 L’assemblage est roi pour l’immense majorité des 300 vignerons (avec quelques brillantes exceptions toutefois), avec 13 variétés de cépages autorisées. Pour les rouges, on est pour la majorité des cuvées autour du grenache, 70% de l’encépagement, de la syrah et du mourvèdre, et c’est le cas de Fortia 2013.
