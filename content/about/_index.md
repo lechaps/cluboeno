@@ -11,15 +11,13 @@ Aujourd’hui nous parcourons la France entière à la découverte de terroirs e
 
 Nous sommes ravis de vous faire partager notre passion et espérons vous revoir très fréquemment ici. Ce site n’a aucune vocation commerciale et pourtant nous tâchons de le maintenir sans publicité, ni dépendance financière afin de garantir notre parfaite impartialité.
 
-
-Suivez nous aussi sur :
+Vous pouvez aussi nous suivre dans nos aventures sur :
 
 * Facebook : https://www.facebook.com/lecluboeno
 * Instagram : https://www.instagram.com/club_oeno/
 
-Vineusement
-
-<i>Le Club oeno</i>
+Vineusement  
+_Le Club oeno_
 
 ![cluboeno][1]
 
