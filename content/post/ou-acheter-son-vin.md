@@ -1,7 +1,7 @@
 +++
 categories = ["Cave"]
 date = "2019-03-03T17:30:22+00:00"
-tags = ["bordeaux", "cave coopérative", "club oenologie", "foire aux vins", "négociant", "pressurage", "salon", "vinification", "élevage", "éleveur"] 
+tags = ["bordeaux", "cave coopérative", "club oenologie", "foire aux vins", "négociant", "pressurage", "salon", "élevage", "éleveur"] 
 title = "Où acheter son vin"
 writer = "LeChaps"
 +++
