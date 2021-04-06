@@ -18,11 +18,6 @@ $ hugo server
 ```
 Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your browser.
 
-### CI & deploy 
-[![CircleCI](https://circleci.com/gh/lechaps/cluboeno.svg?style=svg)](https://circleci.com/gh/lechaps/cluboeno)
-
-Powered by **https://circleci.com**
-
 ## Hugo Theme : NederburgByLechaps
 
 I use a personnal theme, this was ported from Hugo Nederburg (https://github.com/appernetic/hugo-nederburg-theme)
