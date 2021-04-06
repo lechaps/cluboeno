@@ -6,7 +6,8 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches-only: [ master ]
+    branches:
+      - master
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -47,4 +48,3 @@ jobs:
           password: ${{ secrets.REMOTE_PWD }}
           local-dir: "public/"
           dangerous-clean-slate: true
-          
