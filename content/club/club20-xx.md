@@ -1,6 +1,6 @@
 +++
 categories = ["Dégustations"]
-date = "2021-07-01T17:30:22+00:00"
+date = "2022-07-01T17:30:22+00:00"
 tags = ["langeudoc"] 
 title = "Saison 2020/2021 : séance 1XX (Dégustation en terrasses)"
 image = ""
