@@ -36,7 +36,7 @@ jobs:
 
       # Builds the site using the latest version of Hugo
       - name: Build
-        run: hugo
+        run: hugo --minify
     
       # Deploy
       - name: Deploy to Server
