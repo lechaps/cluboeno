@@ -13,4 +13,4 @@ Moins fondant que le mi-cuit, il impose les vins moelleux ou liquoreux et leur o
 Son fondant prononcé et sa pureté aromatique autorisent le service d'un chmpagne demi-sec, sec ou extra-dry, ou encore d'un bourgogne blanc comme un meursault ou un puilly-fuissé.
 
 * **l'escalope de foie gras poêlée**
-Un champagne brut donne un accord tonique. C'est le contracte entre l'onctuosité et l'acidité qui est ici recherché. Il est également possible de servir un vin rouge typé du sud-ouest ou du bordelais (buzet, côtes-de-bergerac, lalande-de-pomerol) : les tannins du vin et l'onctuosité du foie se tempèrent.
+Un champagne brut donne un accord tonique. C'est le contracte entre l'onctuosité et l'acidité qui est ici recherché. Il est également possible de servir un vin rouge typé du sud-ouest ou du bordelais (buzet, côtes-de-bergerac, lalande-de-pomerol) : les tanins du vin et l'onctuosité du foie se tempèrent.

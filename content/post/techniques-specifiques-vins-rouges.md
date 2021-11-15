@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-07-23T17:30:22+00:00"
-tags = ["anthocyane", "assemblage", "champagne", "débourbage", "décuvage", "effervescent", "embouteillage", "encuvage", "enzymage", "fermentation alcoolique", "fermentation malolactique", "fermentation", "foulage", "levurage", "macération", "moût", "oeuf pourri", "pigeage", "pressurage", "rafle", "remontage", "souffre", "soutirage", "sulfitage", "tannins", "vin de goutte", "vin de presse", "écoulage", "égrappage", "éraflage"] 
+tags = ["anthocyane", "assemblage", "champagne", "débourbage", "décuvage", "effervescent", "embouteillage", "encuvage", "enzymage", "fermentation alcoolique", "fermentation malolactique", "fermentation", "foulage", "levurage", "macération", "moût", "oeuf pourri", "pigeage", "pressurage", "rafle", "remontage", "souffre", "soutirage", "sulfitage", "tanins", "vin de goutte", "vin de presse", "écoulage", "égrappage", "éraflage"] 
 title = "Techniques spécifiques : les vins rouges"
 image = "/img/post/technique-vin-rouge.jpg"
 writer = "Philippe"
@@ -13,7 +13,7 @@ Les étapes de vinification des vins rouges :
 
 Tri des raisins, les raisins sont le plus souvent éraflés (ou égrappés) puis foulés.
 
-* **L'éraflage** : L'égrappage consiste à séparer les baies des tiges rameuses qui constituent le pédoncule de la grappe pour améliorer la qualité gustative et la finesse du vin futur. Il est toujours préférable, pour les vins rouges, de donner davantage de bons tannins par une cuvaison plus longue des raisins bien éraflés, que de mauvais tannins par la présence excessive de rafles.
+* **L'éraflage** : L'égrappage consiste à séparer les baies des tiges rameuses qui constituent le pédoncule de la grappe pour améliorer la qualité gustative et la finesse du vin futur. Il est toujours préférable, pour les vins rouges, de donner davantage de bons tanins par une cuvaison plus longue des raisins bien éraflés, que de mauvais tanins par la présence excessive de rafles.
 
 * **Le foulage** : Opération traditionnelle qui vise à rompre la peau des fruits pour en faire jaillir le jus. Elle prépare le pressurage en facilitant l'extraction des moûts. Mais les vinification modernes suppriment souvent cette étape et conduisent directement au pressoir les raisins entiers pour obtenir, plus lentement, un moût plus limpide : c'est le cas pour les vins effervescents (notamment le champagne), pour les blancs de grande qualité et pour certains rouges issus de macération carbonique.
 

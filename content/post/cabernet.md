@@ -12,5 +12,5 @@ Il entre pour 100% dans les appellations de bourgueil, saint-nicolas-de-bourguei
 En assemblage avec les cépages cot et gamay, il produit les vins de Touraine.  
 Aux vins du Bordelais, il amène une part de fraîcheur et un tannin de qualité.  
 
-Il donne des vins très structuré, parfumés, moins riches en tannins que ceux issus du cabernet-sauvignon, permettant ainsi un vieillissement plus rapide.  
+Il donne des vins très structuré, parfumés, moins riches en tanins que ceux issus du cabernet sauvignon, permettant ainsi un vieillissement plus rapide.  
 Les arômes sont riches : cacao, cassis, coing, épices, feuille de lierre, fougère, fruits rouges, notes mentholées, poivre sec, poivron vert, sous-bois, tabac, violette.

@@ -6,7 +6,7 @@ title = "Comment nettoyer les tâches de vin ?"
 writer = "LeChaps"
 +++
 
-Les tannins contenus dans le vin, surtout rouge, imprègnent fortement les tissus.
+Les tanins contenus dans le vin, surtout rouge, imprègnent fortement les tissus.
 
 * N'utilisez surtout pas de sel : contrairement aux idées reçues le sel fixe le tannin
 * Pour absorber le vin, saupoudrez la tâche de talc, de farine ou de Maïzena puis laissez sécher et brossez

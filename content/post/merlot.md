@@ -24,7 +24,7 @@ Violet
 
 ## Bouche
 
-Fondu et enrobé. Niveau de tannins 3/5.  
+Fondu et enrobé. Niveau de tanins 3/5.  
 En un mot : souplesse
 
 ## Accord mets et vin

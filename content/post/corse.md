@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-13T17:30:22+00:00"
-tags = ["ajaccio", "aleatico", "aneth", "aoc", "aubépine", "barbarossa", "bianco gentile", "camomille", "corse", "fenouil", "fleur", "floral", "malvoisie", "maquis", "merlot", "muscat à petits grains", "muscat-du-cap-corse", "nielluccio", "noisette", "pamplemousse", "patrimonio", "poire", "pomme", "pêche", "sciaccarello", "souple", "tannins", "vermentino", "vin doux naturel", "violette", "épice"] 
+tags = ["ajaccio", "aleatico", "aneth", "aoc", "aubépine", "barbarossa", "bianco gentile", "camomille", "corse", "fenouil", "fleur", "floral", "malvoisie", "maquis", "merlot", "muscat à petits grains", "muscat-du-cap-corse", "nielluccio", "noisette", "pamplemousse", "patrimonio", "poire", "pomme", "pêche", "sciaccarello", "souple", "tanins", "vermentino", "vin doux naturel", "violette", "épice"] 
 title = "La Corse"
 writer = "LeChaps"
 +++
@@ -27,7 +27,7 @@ Le muscat à petits grains donne quant à lui un vin doux naturel particulièrem
 L'île de Beauté recèle de nombreux cépages dont certains sont endémiques et donnent aux vins Corse leur caractère si marqué.  
 En rouge, ce sont surtout le nielluccio et le sciaccarello qui traduisent la forte personnalité des vins corses.  
 
-Les baies rouge profond du nielluccio apportent au vin sa couleur profonde, ses tannins, ses arômes de fruits rouge, de violette et cette note boisée teintée de parfums du maquis.  
+Les baies rouge profond du nielluccio apportent au vin sa couleur profonde, ses tanins, ses arômes de fruits rouge, de violette et cette note boisée teintée de parfums du maquis.  
 
 Le sciaccarello produit un vin charpenté, souple et aristocratique, aux senteurs d'épices, de fleurs et de maquis. Il représente une part notable des assemblages.  
 

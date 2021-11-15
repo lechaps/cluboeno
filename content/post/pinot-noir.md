@@ -25,7 +25,7 @@ Rubis
 
 ## Bouche
 
-Vin riche, Frais et souple. Niveau de tannins 2/5.  
+Vin riche, Frais et souple. Niveau de tanins 2/5.  
 En un mot : grande classe
 
 ## Accord mets et vin

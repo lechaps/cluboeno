@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-06-08T17:30:22+00:00"
-tags = ["afrique du sud", "ardèche", "australie", "californie", "charpenté", "cornas", "crozes-hermitage", "cuir", "côte-rôtie", "côtes-du-rhône", "floral", "fruits rouges et noirs", "musc", "mûre", "poivre", "réglisse", "saint-joseph", "savoie", "syrah", "tannins", "truffe", "vallée du rhône", "violette", "épice", "états-unis"] 
+tags = ["afrique du sud", "ardèche", "australie", "californie", "charpenté", "cornas", "crozes-hermitage", "cuir", "côte-rôtie", "côtes-du-rhône", "floral", "fruits rouges et noirs", "musc", "mûre", "poivre", "réglisse", "saint-joseph", "savoie", "syrah", "tanins", "truffe", "vallée du rhône", "violette", "épice", "états-unis"] 
 title = "La syrah"
 writer = "LeChaps"
 +++
@@ -26,7 +26,7 @@ Pourpre
 
 ## Bouche
 
-Vin charpenté. Niveau de tannins 4/5.  
+Vin charpenté. Niveau de tanins 4/5.  
 En un mot : puissance
 
 ## Accord mets et vin

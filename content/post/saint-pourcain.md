@@ -2,7 +2,7 @@
 categories = ["Dégustations"]
 date = "2020-05-23T17:30:22+00:00"
 image = "img/post/saint-pourcain-10.jpg"
-tags = ["agriculture biodynamie", "agrume", "chardonnay", "charpenté", "cire", "complexité", "domaine grobost-barbara", "fruit rouge", "fruits exotiques", "gamay", "les domaines des terres d'ocres", "mangue", "méthode traditionnelle", "phylloxéra", "pinot gris", "pinot noir", "poire", "pomme", "rondeur", "saint-pourçain", "salin", "soyeux", "tannins fondus", "tannins", "tension", "terroir argilo-calcaire", "terroir argilo-graveleux", "terroir granitique", "trésallier", "val de loire", "élégant", "équilibre"] 
+tags = ["agriculture biodynamie", "agrume", "chardonnay", "charpenté", "cire", "complexité", "domaine grobost-barbara", "fruit rouge", "fruits exotiques", "gamay", "les domaines des terres d'ocres", "mangue", "méthode traditionnelle", "phylloxéra", "pinot gris", "pinot noir", "poire", "pomme", "rondeur", "saint-pourçain", "salin", "soyeux", "tanins fondus", "tanins", "tension", "terroir argilo-calcaire", "terroir argilo-graveleux", "terroir granitique", "trésallier", "val de loire", "élégant", "équilibre"] 
 title = "Saint-Pourçain à 100%"
 writer = "Philippe"
 +++

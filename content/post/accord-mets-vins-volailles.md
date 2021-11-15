@@ -1,14 +1,14 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-01-05T17:30:22+00:00"
-tags = ["accords mets-vins", "alsace", "altesse", "argentine", "beaujolais", "bergerac", "bourgogne", "cabardès", "cahors", "chardonnay", "charnus", "corbières", "côtes-du-jura", "fronton", "gaillac", "jasnières", "jura", "languedoc", "macon", "madiron", "malbec", "mercurey", "minervois", "montlouis", "pinot noir", "poulet", "savoie", "sud-ouest", "tannins séveux", "tannins", "val de loire", "vin-de-savoie", "volailles", "volnay"] 
+tags = ["accords mets-vins", "alsace", "altesse", "argentine", "beaujolais", "bergerac", "bourgogne", "cabardès", "cahors", "chardonnay", "charnus", "corbières", "côtes-du-jura", "fronton", "gaillac", "jasnières", "jura", "languedoc", "macon", "madiron", "malbec", "mercurey", "minervois", "montlouis", "pinot noir", "poulet", "savoie", "sud-ouest", "tanins séveux", "tanins", "val de loire", "vin-de-savoie", "volailles", "volnay"] 
 title = "Les accords mets-vins : les volailles"
 writer = "LeChaps"
 +++
 
 ## Rôties
 
-Le poulet rôti offre un accord savoureux avec un vin rouge tendre et fruité, sans excès de tannins. Le cépage pinot noir est mis à l'honneur. Pensez aux bourgognes, aux rouges d'Alsace ou du Centre-Loire, aux beaujolais et aux rouges de Loire. Les amateurs de bordeaux se tourneront vers les appellations régionales ou les vins de côtes. Le caractère festif des chapons et poulardes appelle des rouges fins comme les grands bourgognes et tous les vins raisonnablement tanniques. Pigeon et canard nécessitent des rouges tendres, ronds et aux tannins séveux pour faire échos à la texture de la viande douce et juteuse, comme les vins méridionaux au caractère épicé et aux tanins.  
+Le poulet rôti offre un accord savoureux avec un vin rouge tendre et fruité, sans excès de tanins. Le cépage pinot noir est mis à l'honneur. Pensez aux bourgognes, aux rouges d'Alsace ou du Centre-Loire, aux beaujolais et aux rouges de Loire. Les amateurs de bordeaux se tourneront vers les appellations régionales ou les vins de côtes. Le caractère festif des chapons et poulardes appelle des rouges fins comme les grands bourgognes et tous les vins raisonnablement tanniques. Pigeon et canard nécessitent des rouges tendres, ronds et aux tanins séveux pour faire échos à la texture de la viande douce et juteuse, comme les vins méridionaux au caractère épicé et aux tanins.  
 
 ## Mijotées
 
@@ -16,7 +16,7 @@ Avec un coq au vin par exemple, un vin rouge riche et expressif, comme un volnay
 
 ## Confites
 
-C'est dans le cassoulet que l'on déguste le plus fréquemment les confits de canard et d'oie. La richesse de ce plat demande des vins rouges charnus, aux tannins ronds et moelleux, comme un cahors ou un madiran, qui équilibreront le gras du confit ou la graisse du canard pour un accord par complémentarité gras/tannins.  
+C'est dans le cassoulet que l'on déguste le plus fréquemment les confits de canard et d'oie. La richesse de ce plat demande des vins rouges charnus, aux tanins ronds et moelleux, comme un cahors ou un madiran, qui équilibreront le gras du confit ou la graisse du canard pour un accord par complémentarité gras/tanins.  
 De nombreux vin du Languedoc comme les corbières, minervois ou cabardès peuvent faire merveille ainsi que des appellations telles que fronton, gaillac ou encore bergerac, moelleux bouche.  
 N'hésitez pas à oser également un vin rouge argentin à base de malbec.
 

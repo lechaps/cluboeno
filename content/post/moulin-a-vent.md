@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-03-17T17:30:22+00:00"
-tags = ["aoc", "beaujolais", "fromage", "fruits rouges", "gamay", "moulin à vent", "tannins", "terroir granitique", "viande", "violette", "épice"] 
+tags = ["aoc", "beaujolais", "fromage", "fruits rouges", "gamay", "moulin à vent", "tanins", "terroir granitique", "viande", "violette", "épice"] 
 title = "AOC : moulin à vent"
 writer = "LeChaps"
 +++

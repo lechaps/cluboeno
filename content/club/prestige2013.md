@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2013-01-18T17:30:22+00:00"
-tags = ["agrume", "amande", "ananas", "bois de santal", "boisé", "bordeaux", "bouches-du-rhône", "bourgogne", "cabernet sauvignon", "café", "canelle", "carafage", "cassis", "cerise", "chardonnay", "château lagrange", "clos vougeot grand cru", "clos vougeot", "complexité", "corton-charlemagne", "cuir", "côtes catalanes", "domaine de la pinte", "domaine de trévallon", "domaine gauby", "domaine mongeard-mugneret", "figue", "fleur", "floral", "fourrure", "fruits confits", "fruits rouges et noirs", "gibier", "gras", "grenache blanc", "grenache gris", "grillé", "jura", "languedoc", "louis lequin", "mangue", "merlot", "miel", "minéralité", "mûre", "noix", "pain grillé", "petit verdot", "pinot noir", "poivre", "provence", "raisin sec", "saint-julien troisième grand cru classé", "saint-julien", "salin", "soyeux", "syrah", "tannins", "truffe", "vanille", "violette", "épice"] 
+tags = ["agrume", "amande", "ananas", "bois de santal", "boisé", "bordeaux", "bouches-du-rhône", "bourgogne", "cabernet sauvignon", "café", "canelle", "carafage", "cassis", "cerise", "chardonnay", "château lagrange", "clos vougeot grand cru", "clos vougeot", "complexité", "corton-charlemagne", "cuir", "côtes catalanes", "domaine de la pinte", "domaine de trévallon", "domaine gauby", "domaine mongeard-mugneret", "figue", "fleur", "floral", "fourrure", "fruits confits", "fruits rouges et noirs", "gibier", "gras", "grenache blanc", "grenache gris", "grillé", "jura", "languedoc", "louis lequin", "mangue", "merlot", "miel", "minéralité", "mûre", "noix", "pain grillé", "petit verdot", "pinot noir", "poivre", "provence", "raisin sec", "saint-julien troisième grand cru classé", "saint-julien", "salin", "soyeux", "syrah", "tanins", "truffe", "vanille", "violette", "épice"] 
 title = "Dégustation prestige"
 writer = "LeChaps"
 +++
@@ -23,7 +23,7 @@ Un nez riche en fruits rouges et noirs (cerise, mûre, cassis) en vanille et aut
 * **provence vin de pays des bouches-du-rhône Domaine de Trévallon 2001** (70€/btl)  
 _50% syrah, 50% cabernet sauvignon_
 domaine acheté dans les années 50 par René Dürrbach, ami fidèle de Picasso et de Dali. Son fils Eloi décide d'y planter de la vigne en 1973.  
-Note de truffe, parfums tertiaires, cuir, fourrure, gibier, sauvage, bois de santal. La bouche est pleine et suave avec une finale presque sucrée, longue. Magnifique texture grasse, une certaine douceur qui enrobe les tannins. 2001 est le plus grand millésime de la décennie, un des plus grands vins que le domaine ait produit depuis 1977.
+Note de truffe, parfums tertiaires, cuir, fourrure, gibier, sauvage, bois de santal. La bouche est pleine et suave avec une finale presque sucrée, longue. Magnifique texture grasse, une certaine douceur qui enrobe les tanins. 2001 est le plus grand millésime de la décennie, un des plus grands vins que le domaine ait produit depuis 1977.
 
 * **bordeaux saint-julien 3ème grand cru classé Château Lagrange 2006** (60€/btl)  
 _72% cabernet sauvignon, 26% merlot, 2% petit verdot_  

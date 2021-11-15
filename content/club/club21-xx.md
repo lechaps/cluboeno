@@ -26,11 +26,25 @@ En support de la dégustation :
 
 7. Les vignes oubliées 2018 (15€/btl)
 
+8. Mas Laval Grande Cuvée 2015 (20€/btl)
+
+9. Le clos du serres L'humeur vagabonde 2014 (30€/btl)
+
+10. Mas Lasta 2018 (18€/btl)
+
+11. Domaine Saint-Sylvestre 2017 (22€/btl)
+
+12. Mas Jullien - Lous rougeos 2018 (33€/btl)  LRVF
+
+13. Mas Jullien - Carlan 2018 (33€/btl)
+
+14. Mas Jullien - La brune 2018 (33€/btl)
+
+15. Mas Jullien - Autour de Jonquières 2018 (33€/btl)
+
 ---
 
 * Mas Cal Demoura - Les combariolles 2017 (26€/btl)  
-
-* Mas Jullien - Lous rougeos 2018 (33€/btl)  
 
 * Clos Maïa 2018 (25€/btl)  
 
@@ -44,4 +58,4 @@ En support de la dégustation :
 
 * Domaine Caujolle-Gazet - La coulée douce 2017 (15€/btl)  
 
-* Mas des Quernes - Le querne 2017 (42€/btl) 
+* Mas des Quernes - Le querne 2017 (42€/btl)

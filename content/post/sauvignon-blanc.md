@@ -21,7 +21,7 @@ Il ne doit pas être récoltés à une maturité trop avancée, pour préserver 
 * Agrumes
 * Fruits exotiques
 * Sureau
-* Fruits de la passion
+* Fruit de la passion
 * Herbe coupée
 
 ## Robe

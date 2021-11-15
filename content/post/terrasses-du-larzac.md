@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
-date = "2021-07-01T17:30:22+00:00"
-tags = ["aoc", "languedoc", "grenache", "mourvèdre", "syrah", "cinsautl", "counoise", "lledoner pelut", "morrastel", "terret", "complexité", "fruits rouges", "fruits noirs", "épice", "réglisse", "olive", "violette", "grillé", "garrigue", "cuir", "foin", "tabac", "truffe", "tannins", "vin de garde", "viande", "gibier", "chocolat"] 
+date = "2021-11-01T17:30:22+00:00"
+tags = ["aoc", "languedoc", "grenache", "mourvèdre", "syrah", "cinsautl", "counoise", "lledoner pelut", "morrastel", "terret", "complexité", "fruits rouges", "fruits noirs", "épice", "réglisse", "olive", "violette", "grillé", "garrigue", "cuir", "foin", "tabac", "truffe", "tanins", "vin de garde", "viande", "gibier", "chocolat"] 
 title = "AOC : Terrasses du Larzac"
 writer = "LeChaps"
 +++
@@ -23,7 +23,7 @@ L'identité des vins des terrasses du Larzac est basé sur un assemblage de cép
 
 Si une période minimale d'élevage jusqu'au 15 août de l'année suivant la récolte est obligatoire, les producteurs adapte la durée d'élevage des vins en fonction du millésime à fin de les mettre en circulation au stade le plus équilibré est le plus caractéristique.  
 
-Les vins des terrasses du Larzac sont des vins rouges tranquille, issus de l'assemblage de 3 cépages, dont au moins deux principaux représente au minimum 75 % de l'ensemble. De couleur pourpre ou grenat, avec parfois des reflets noirs, les vins offrent **un nez fin et complexe**. Les arômes dominant de **fruits rouges, fruits noirs et d'épices** sont harmonieusement associés à des notes de réglisse, d'olives noires, de violette ainsi qu'à des notes grillées et des parfums de garrigue, et au cours de leur évolution des notes du **cuir, de foin ou de tabac, voire de truffe**.
+Les vins des terrasses du Larzac sont des vins rouges tranquille, issus de l'assemblage de 3 cépages, dont au moins deux principaux représente au minimum 75 % de l'ensemble. De couleur pourpre ou grenat, avec parfois des reflets noirs, les vins offrent **un nez fin et complexe**. Les arômes dominant de **fruits rouges, fruits noirs et d'épices** sont harmonieusement associés à des notes de **réglisse, d'olives noires, de violette** ainsi qu'à des **notes grillées et des parfums de garrigue**, et au cours de leur évolution des notes du **cuir, de foin ou de tabac, voire de truffe**.
 En bouche, les vins ont du **gras, une bonne structure tanique, un équilibre spécifique entre générosité et fraîcheur**. On retrouve des notes de fruits mûrs et d'épices.  
 Ce sont essentiellement des vins de garde pour lesquelles une période minimale d'élevage est requise, de 3 à 5 ans, certains se révélant après plus de 15 ans.
 La température optimale de service est de 16 à 18°. Ces vins sont parfaits pour accompagner un plat de résistance à base de viande comme un carré d'agneau, une cote de bœuf, des gibiers, des viandes grillées ou des tajines. En dessert, les vins aux notes plus fruitées accompagneront à merveille un dessert à base de chocolat.

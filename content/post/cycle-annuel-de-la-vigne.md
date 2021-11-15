@@ -26,4 +26,4 @@ Ce sont deux étapes extrêmement importantes pour la future charge fruitière. 
 La croissance de la baie peut être divisée en trois étapes :
 
 * **La maturation**  
-C'est la dernière étape essentielle du développement, durant laquelle les acides se dégradent dans les grappes, qui accumulent du sucre et des polyphénols, notamment des pigments, comme l'anthocyanine ou les tannins. Vers la fin de la phase de maturation, les grappes accumulent aussi des précurseurs d'arôme.  
+C'est la dernière étape essentielle du développement, durant laquelle les acides se dégradent dans les grappes, qui accumulent du sucre et des polyphénols, notamment des pigments, comme l'anthocyanine ou les tanins. Vers la fin de la phase de maturation, les grappes accumulent aussi des précurseurs d'arôme.  

@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2014-01-24T17:30:22+00:00"
-tags = ["agrume", "boisé", "bordeaux", "bourgogne", "cabernet franc", "cabernet sauvignon", "cerise", "champagne", "chardonnay", "chenin", "château pichon longueville", "cire", "clos de la coulée de serrant", "coing", "domaine desaunay", "domaine huet", "domaine paul jaboulet ainé", "fruits blancs", "fruits confits", "fumé", "grand échézeaux", "grillote", "hermitage", "menthe", "merlot", "moelleux", "noisette", "noix", "oxydation", "paillac", "petit verdot", "pinot noir", "poire", "poivre", "pomme", "pruneau", "pétrole", "roederer", "résine", "salin", "savennières", "surreau", "syrah", "tabac", "tannins fondus", "tannins", "val de loire", "vallée du rhône", "violette", "vouvray", "épice"] 
+tags = ["agrume", "boisé", "bordeaux", "bourgogne", "cabernet franc", "cabernet sauvignon", "cerise", "champagne", "chardonnay", "chenin", "château pichon longueville", "cire", "vignobles de la coulée de serrant", "coing", "domaine desaunay", "domaine huet", "domaine paul jaboulet ainé", "fruits blancs", "fruits confits", "fumé", "grand échézeaux", "grillote", "hermitage", "menthe", "merlot", "moelleux", "noisette", "noix", "oxydation", "paillac", "petit verdot", "pinot noir", "poire", "poivre", "pomme", "pruneau", "pétrole", "roederer", "résine", "salin", "savennières", "surreau", "syrah", "tabac", "tanins fondus", "tanins", "val de loire", "vallée du rhône", "violette", "vouvray", "épice"] 
 title = "Dégustation prestige"
 writer = "LeChaps"
 +++
@@ -14,7 +14,7 @@ Champagne crée pour le tsar Alexandre II en 1876. Vieillissement 6 ans + 9 mois
 Nez : fruits blancs.  
 Bouche : légèrement agrume. peu de bulle.
 
-* **val de loire savennières clos de la coulée de serrant 1996** (130€/btl)  
+* **val de loire savennières vignobles de la coulée de serrant 1996** (130€/btl)  
 _chenin_  
 La coulée de Serrant a été planté en 1130 ar des moins cisterciens. Elle est toujours resté en vigne depuis. 7 Ha de chenin blanc forte pente orienté sud/sud-est. Biodynamie depuis 1981.  
 Nez : fruit à coques (noisette/noix), oxydatif.  
@@ -33,7 +33,7 @@ Bouche : attaque douce, chaleureuse. Deuxième bouche épicée, boisée. Très b
 * **bordeaux paillac Château Pichon Longueville réserve de la comtesse 2006** (40€/btl)  
 _cabernet franc, cabernet sauvignon, merlot, petit verdot_  
 Nez : tabac, pruneau.  
-Bouche : tannins fondu. Belle longueur.
+Bouche : tanins fondu. Belle longueur.
 
 * **val de loire vouvray moelleux Domaine Huet le Haut Lieu 1996**  
 _chenin_  

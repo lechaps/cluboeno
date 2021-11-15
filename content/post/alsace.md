@@ -32,7 +32,7 @@ Les cépages blancs et leurs vins associés dominent tels que sylvaner et chasse
 
 * riesling (23% de l'encépagement, 3 501 Ha en 2012) : donne des vins secs (floral/minéral) qui vieillissent bien, comme des demi-secs (moelleux) de vendanges tardives (« pétrolant »)
 * pinot blanc (21%, 2 359 Ha en 2012) : une grande partie de la production est destinée à la production du vin mousseux commercialisés sous le nom de crémant d'Alsace.
-* gewurztraminer (18%, 3 209 Ha en 2012) : il a un caractère très marqué. Ce cépage n'est autorisé en France que les trois départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (floral, fruit exotique, épices douces)
+* gewurztraminer (18%, 3 209 Ha en 2012) : il a un caractère très marqué. Ce cépage n'est autorisé en France que les trois départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (floral, fruits exotiques, épices douces)
 * sylvaner (12%, 1 194 Ha en 2012) : abonde dans les zones les moins prestigieuses de la région. Il donne des vins frais et simples. Les surface plantée en sylvaner sont en réduction constante depuis des décénnies.
 * pinot gris (ancien tokay) (12%, 2 463 Ha en 2012) : sous bois / fumé.
 * pinot noir (9%)

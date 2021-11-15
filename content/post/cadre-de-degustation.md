@@ -119,7 +119,7 @@ Cette succession de saveur et de sensations est perçue tout naturellement pour 
   * acidité
   * sucre
   * alcool
-  * tannins
+  * tanins
 * **finale** : correspond au temps durant lequel les arômes continue à se faire sentir après avoir avalé ou recracher le vin
   * inférieur à 5 secondes : court en bouche
   * 5 à 10 secondes : longueur aromatique développée
