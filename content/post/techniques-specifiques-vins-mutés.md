@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2020-08-17T17:30:22+00:00"
-tags = ["vin doux naturel", "vin de liqueur", "maury", "banyuls", "muscat", "porto", "macvin", "pineau des charentes", "macvin", "jura", "floc de gascogne", "grenache", "maccabeu",  "muscat à petits grains", "rancio", "noix", "fromage", "chocolat", "cognac", "armagnac"] 
+tags = ["armagnac", "banyuls", "chocolat", "cognac", "floc de gascogne", "fromage", "grenache", "jura", "maccabeu", "macvin", "maury", "muscat à petits grains", "muscat", "noix", "pineau des charentes", "porto", "rancio", "vin de liqueur", "vin doux naturel"] 
 title = "Techniques spécifiques : les vins mutés"
 writer = "LeChaps"
 +++
