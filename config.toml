@@ -113,7 +113,7 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
     facebook      = "https://www.facebook.com/TheChaps"
     twitter       = "https://www.twitter.com/lechaps"
     linkedin      = "https://www.linkedin.com/in/romainchapon"
-    instagram     = "https://www.instagram.com/lechaps03"
+    instagram     = "https://www.instagram.com/club_oeno"
     github        = "https://github.com/lechaps/cluboeno"
     pinterest     = "https://www.pinterest.fr/lechaps03"
     stackoverflow = ""
@@ -148,7 +148,7 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
     pinterest     = ""
     stackoverflow = ""
 
-    [params.writers."vince"]
+    [params.writers."Vince"]
     link = ""
     email = ""
     avatar = "/img/vince_icone.jpg"
@@ -163,13 +163,27 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
     pinterest     = ""
     stackoverflow = ""
 
-    [params.writers."benoit"]
+    [params.writers."Benoit"]
     link = ""
     email = ""
     avatar = "/img/benoit_icone.jpg"
     bio = [
       ""
     ]
+    facebook      = ""
+    twitter       = ""
+    linkedin      = ""
+    instagram     = ""
+    github        = ""
+    pinterest     = ""
+    stackoverflow = ""
+
+    [params.writers."Alain"]
+    link = ""
+    email = ""
+    avatar = "/img/alain_icone.jpg"
+    bio = [
+      "Je suis heureux et amusé de faire partie d’un groupe d’amateurs éclairés et pointus pour apprécier et découvrir des appellations connues et moins connues, mais de faire vivre la vigne, avec tout le savoir-faire du vigneron à son origine."    ]
     facebook      = ""
     twitter       = ""
     linkedin      = ""

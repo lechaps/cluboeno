@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-01-28T17:30:22+00:00"
-tags = ["amérique du sud", "harriague", "madiran", "sud-ouest", "tannat", "tanins", "uruguay"] 
+tags = ["amérique du sud", "harriague", "madiran", "sud-ouest", "tanins", "tannat", "uruguay"] 
 title = "Le tannat"
 writer = "LeChaps"
 +++
