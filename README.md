@@ -46,14 +46,6 @@ disqusShortname = "your-disqus-short-name"
 ```
 You can disable the comments system by leaving the `disqusShortname` empty.
 
-### Google Analytics
-
-You can optionally enable Google Analytics. Type your tracking code in the ``.
-```toml
-googleAnalytics = "UA-XXXXX-X"
-```
-Leave the `googleAnalytics` key empty to disable it.
-
 ### Make the contact form working
 
 Since this page will be static, you can use [formspree.io](//formspree.io/) as proxy to send the actual email. Each month, visitors can send you up to one thousand emails without incurring extra charges. Begin the setup by following the steps below:

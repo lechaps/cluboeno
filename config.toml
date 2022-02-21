@@ -4,7 +4,6 @@ theme = "NederburgByLechaps"
 languageCode = "fr-FR"
 defaultContentLanguage = "fr"
 disqusShortname = "cluboeno" # Enable comments by entering your Disqus shortname
-googleAnalytics = "UA-131487813-1" # Enable Google Analytics by entering your tracking code
 preserveTaxonomyNames = true
 paginate = 50 #frontpage pagination
 
