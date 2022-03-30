@@ -91,7 +91,13 @@ Presse : Parker : 92/100. Bettane & Desseauve : 16/20. Revue du vin de France : 
 
 ## Mas Lasta 2018 (18€/btl)
 
-## Mas de l'écriture (35€/btl)
+## Mas de l'écriture (45€/btl)
+
+Le vigneron
+Pour Pascal Fulla, c'est l'histoire d'une reconversion engagée en 1998 sur un domaine d'une dizaine d'hectares menés en biodynamie. Il a construit une cave contemporaine et a été rejoint en 2009 par sa fille Léa.
+
+L'avis du Guide Hachette des Vins
+Le thym, le Zan, la tapenade et les fruits rouges agrémentés d'une pointe de minéralité composent un bouquet complexe et racé. La bouche se révèle équilibrée, bien fondue et élégante.
 
 ---
 

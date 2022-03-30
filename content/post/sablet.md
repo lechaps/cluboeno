@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2020-02-04T17:30:22+00:00"
-tags = ["aoc", "cinsault", "côtes-du-rhône villages", "fruits noirs", "fruits secs", "grenache", "mourvèdre", "mûre", "puissance", "sablet", "syrah", "vallée du rhône", "vanille", "violettes", "épice"] 
+tags = ["aoc", "cinsault", "côtes-du-rhône villages", "fruits noirs", "fruits secs", "grenache", "mourvèdre", "mûre", "puissant", "sablet", "syrah", "vallée du rhône", "vanille", "violettes", "épice"] 
 title = "AOC : Sablet"
 writer = "LeChaps"
 +++
