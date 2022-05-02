@@ -26,8 +26,6 @@ L'identité des vins des terrasses du Larzac est basée sur un assemblage de cé
 * **Principaux** : grenache noir, mourvèdre, syrah, carignan; ensemble ils représentent au moins 75% de l'encépagement, chacun ne pouvant être présent à plus de 75 % de l'encépagement. Les cépages mourvèdre et syrah représentent ensemble ou séparement au moins 20 % de l'encépagement.
 * **Accessoires** : cinsautl (moins de 25% de l'ancépagement), counoise, lledoner pelut, morrastel, terret noir (ensemble ou séparément ces derniers représentent moins de 10% de l'encépagement).
 
-
-
 Si une période minimale d'élevage jusqu'au 15 août de l'année suivant la récolte est obligatoire, les producteurs adapte la durée d'élevage des vins en fonction du millésime à fin de les mettre en circulation au stade le plus équilibré est le plus caractéristique.  
 
 Les vins des terrasses du Larzac sont des vins rouges tranquille, issus de l'assemblage de 3 cépages, dont au moins deux principaux représente au minimum 75 % de l'ensemble. De couleur pourpre ou grenat, avec parfois des reflets noirs, les vins offrent **un nez fin et complexe**. Les arômes dominant de **fruits rouges, fruits noirs et d'épices** sont harmonieusement associés à des notes de **réglisse, d'olives noires, de violette** ainsi qu'à des **notes grillées et des parfums de garrigue**, et au cours de leur évolution des notes du **cuir, de foin ou de tabac, voire de truffe**.
