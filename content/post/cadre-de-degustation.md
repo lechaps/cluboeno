@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-02-14T17:30:22+00:00"
-tags = ["amertume", "animale", "arômes primaires", "arômes secondaires", "arômes tertiaire", "banane", "beurre", "dégustation", "empyreumatique", "floral", "fruité", "intensité", "nez", "oeil", "robe", "vin ouvert", "végétale"] 
+tags = ["amertume", "animal", "arômes primaires", "arômes secondaires", "arômes tertiaire", "banane", "beurre", "dégustation", "empyreumatique", "floral", "fruité", "intensité", "nez", "oeil", "robe", "vin ouvert", "végétale"] 
 title = "Le cadre de dégustation"
 writer = "LeChaps"
 +++

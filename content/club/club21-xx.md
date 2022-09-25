@@ -83,7 +83,7 @@ Bouche : Une bouche puissante sur un subtil assemblage de Syrah, Grenache et Cin
 ## 6. Mas Laval - Grande Cuvée 2015 (20€/btl)
 
 Nez : Franc et élégant, sur les fruits noirs et les épices.
-Bouche : Attaque fraîche, longueur structurée avec tannins soyeux. Une fin de bouche gourmande.
+Bouche : Attaque fraîche, longueur structurée avec tanins soyeux. Une fin de bouche gourmande.
 
 Boisé : Chêne, vanille, cèdre  
 Fruits noirs : Cassis, prune, mûres  
