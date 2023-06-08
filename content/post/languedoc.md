@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-07-20T17:30:22+00:00"
-tags = ["aoc", "bourboulenc", "carignan", "cinsault", "clairette", "corbières", "coteaux du languedoc", "côtes-du-roussillon", "faugères", "grenache", "languedoc", "lladoner", "marsanne", "mourvèdre", "piquepoul", "roussanne", "syrah", "vermentino", "vin doux naturel"] 
+tags = ["aoc", "bourboulenc", "carignan", "cinsault", "clairette", "corbières", "coteaux du languedoc", "côtes-du-roussillon", "faugères", "grenache", "languedoc", "limoux", "lladoner", "marsanne", "mourvèdre", "piquepoul", "roussanne", "syrah", "vermentino", "vin doux naturel"] 
 title = "AOC : coteaux du languedoc"
 writer = "LeChaps"
 +++

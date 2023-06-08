@@ -1,0 +1,137 @@
++++
+categories = ["Dégustations"]
+date = "2023-04-01T17:30:22+00:00"
+tags = [] 
+draft = true
+title = "Saison 2022/2023 : séance 6 : Bubulles"
+image = ""
+writer = "Lechaps"
++++
+
+En support de la dégustation :  
+* <a href="{{< ref "/post/techniques-specifiques-vins-effervescents" >}}" >Le lien vers l'article complet concernant les techniques de vins effervescents</a>
+* <a href="{{< ref "/post/champagne" >}}" >Le lien vers l'article complet concernant la champagne</a>
+
+La dégustation se déroule **totalement à l'aveugle** dans l'odre de dégustation suivante : (le résultat du classement est à la fin!)
+
+## 1 - Le Brun de Neuville - Cote Blanche - Champagne (29,90€/btl)
+_100% Chardonnay, base 2018 dont 25% de vins de réserve_  
+_Côte Blanche : assemblage éclairé de Chardonnays pulpeux et solaires, identitaires du terroir de la Côte de Sézanne._  
+_Terroir : côte de Sézanne, exposition: sud-est_  
+_Sol : argile et craie. Âge moyen de la vigne : 45 ans_  
+_Fermentation alcoolique en cuve inox et fût de chêne. Fermentation malolactique partielle. Tirage en Juillet 2019_  
+
+Frais et minérale
+
+## 2 - Château Barbe Maurin - Méthode traditionnelle - Loupiac 
+_Cette propriété installée à Loupiac même compte 18 hectares (10 en rouge, le reste en blanc) sur un sol argilo-calcaire. Le château produit du Bordeaux rouge et du Loupiac. L’encépagement du domaine se compose ainsi : en rouge : 60% Merlot, 40% Cabernet Sauvignon, en blanc : 30% Muscadelle, 60% Sémillon, 10% Sauvignon._
+
+## 3 - Domaine de la Taille aux Loups - Triple 0 – (23,90€/btl)
+_100% Chenin_  
+_Zéro chaptalisation, Zéro liqueur de tirage, Zéro liqueur d’expédition_  
+_Pétillant naturel issu de raisins anormalement mûrs pour la production de vins pétillants, mais dont la richesse naturelle en sucre au moment de la mise en bouteilles (environ 12 g/L) est suffisante pour la seconde fermentation._  
+_Lors du dégorgement, le niveau est effectué avec un vin identique (et non avec la liqueur d’expédition habituellement ajoutée pour les vins issus de la méthode traditionnelle)._  
+
+Un pétillant de Loire avec un nez éblouissant, complexe, d’une élégance telle qu’il faudrait en avoir en permanence dans sa cave pour fêter tous les événements. Une aération lui sera bénéfique.
+A servir entre 10° à 12° (pas à 6° au sortir du frigo), afin de préserver le volume et les arômes en bouche.
+
+## 4 - Antech - Grande cuvée Oubliée 2015 - Crémant de Limoux (18,50€/btl)  
+_chardonnay, chenin, mauzac_  
+_Familiale et indépendante depuis 6 générations, La Maison ANTECH se consacre à l’élaboration de vins effervescents à Limoux, grand terroir de bulles. Précurseur dans son ancrage régional et dans le renouveau des traditions, la maison ANTECH se distingue par un style affirmé, de l’élégance de ses bulles à l’engagement de son action_  
+_Terroir : coteaux et terrasses, argilo-calcaires en pente douce, climat méditerranéen, sous influence océaniques_  
+_Age des vignes : 20 à 40 ans en moyenne, Rendements : inférieurs à 50 Hl/ha_  
+_Vinification : Méthode traditionnelle. Vendanges exclusivement manuelles et pressurage pneumatique immédiat. Après sélection des jus première fermentation en cuverie inox thermo régulée. Assemblage et prise de mousse sur lattes en caves à températures contrôlées. « Oubliée » sur lattes pendant près de 5 ans, la Grande Cuvée se révèle enfin à avec une incroyable fraîcheur et une grande délicatesse. Parée d’un nouvel habillage noir et or et dosée à seulement 5 gr/l._  
+
+Oeil : Belle robe soleil dorée aux bulles fines et délicates.  
+
+Nez : Le nez complexe présente un mélange de souvenirs de parfums d’enfance oubliés. Le caramel accompagne les fruits confits d’un pain épice finement vanillé. 
+
+Bouche : La bouche d’une surprenante jeunesse, complète le nez par des notes d’agrumes tel que le pamplemousse, le zeste d’orange.  
+
+## 5 - Antech - Brut Nature - AOP Blanquette de Limoux (11,80€/btl)  
+_chardonnay, chenin, mauzac_ 
+_Familiale et indépendante depuis 6 générations, La Maison ANTECH se consacre à l’élaboration de vins effervescents à Limoux, grand 
+_Vinification : Méthode traditionnelle. Vendanges exclusivement manuelles et pressurage pneumatique immédiat. Après sélection des jus première fermentation en cuverie inox thermo régulée. Assemblage et prise de mousse sur lattes en caves à températures contrôlées pendant 18 mois en moyenne._  
+
+Oeil : Cette cuvée n’a reçu aucun dosage et laisse ainsi s’exprimer toute la pureté et la vivacité du vin d’un
+jaune cristallin aux reflets dorés, la finesse de ses bulles nous enchante.
+
+Nez : Le nez intense offre des senteurs délicates d’aubépine.
+
+Bouche : Une jolie fraîcheur de bouche aux arômes d’agrumes avec une finale très harmonieuse ou le vin s’exprime pleinement 
+
+## 6 - Caves de Seyssel - Royal Seyssel Brut 2017 - Savoie Seyssel AOC (13,60€/btl)  
+_70 % molette – 30 % altesse_  
+_C’est en 1930 que Les Caves de Seyssel ont été fondées, époque de reconnaissance et de délimitation de la zone d’Appellation d’Origine Contrôlée. Reprise d'abord en 1988 par Gérard Lambert et son épouse Catherine qui ont passé le flambeau en juin 2022 à Régis et Karine Bernard, vignerons dans le Bugey où ils gèrent et développent deux Domaines en Agriculture biologiques, cette maison a connu un nouvel essor, alliant tradition et modernisme._  
+_Fidèles à la sauvegarde du patrimoine et des produits du terroir, ces deux passionnés ont notamment repris à leur actif l’élaboration et la vinification du "Royal Seyssel", fleuron de l’Appellation Seyssel depuis plus d’un siècle._  
+_La cave est aujourd’hui spécialisé dans l’élaboration de Vins de Seyssel en Méthode traditionnelle, mais offre également une large gamme de vins de Seyssel et Savoie._
+
+Oeil : L’effervescence présente des bulles abondantes, elle est plus aérienne que riche, répondant ainsi au caractère vivifiant des arômes d’agrumes, certes un peu confits. Aucun rancio d’évolution, les notes pâtissières étant assez discrètes (comme sur le millésime 2014 commenté il y a 3 ans), alors que le vin a passé 4 années sur lattes !
+
+Nez : Discret au nez, on perçoit toutefois des notes très nettes de tarte au citron dont les accents zestés rafraichissent les papilles, dès la première gorgée.
+
+Bouche : C’est un mousseux sérieusement élaboré, qui n’a rien à envier aux crémants, à découvrir pour ses cépages très rares dans l’univers des bulles. (A noter que les cépages autorisés pour l’appellation Crémant de Savoie sont plus nombreux et différent que l'AOC Seyssel : Jacquère (au moins 40 %), altesse, chardonnay, chasselas, aligoté et mondeuse)
+L’apéritif parfait avec quelques dés de cheddar jeune ou en sortie de table avec un dessert meringué. Les inconditionnels de la fondue au fromage ou de la raclette avec un mousseux, ont ici aussi, le vin adéquat !
+
+
+## 7 - Domaine Barmès-Buecher - Crément brut zéro Dosage 2020 - Crémant d'Alsace (18,00€/btl)  
+_pinot gris, pinot auxerrois, chardonnay_  
+_Au cœur de l’Alsace, à quelques kilomètres de Colmar et Eguisheim, le Domaine Barmès-Buecher a été créé en 1985 par Geneviève Barmès (née Buecher) et François Barmès son époux. Ils unissent les terres de leurs familles respectives, propriétaires de vignes depuis le XVIIème, à Wettolsheim, l’une des plus grandes cités viticoles de la région. Geneviève et François optent pour une culture biodynamique de la vigne prônant une agriculture en accord avec la nature, le vivant et les cycles naturels. En 1998, les 15 hectares du Domaine sont convertis en biodynamie, et certifiés à partir de 2001._  
+_Brut Nature : Trois fois zéro : Zéro chaptalisation du moût, Zéro chaptalisation du vin pour la prise de mousse, Zéro dosage au dégorgement._  
+_Vendanges : Une attention toute particulière esst porté à la maturité des raisins et est très réticent aux interventions en cave. Le raisin récolté pour l’élaboration du Crémant Brut Nature est anormalement mûr pour la production d’un vin effervescent. Le jus de raisin obtenu est beaucoup plus riche que celui habituellement utilisé pour les Crémants. Cela permet ainsi d’éviter toute chaptalisation aussi bien du moût que du vin de base pour sa seconde fermentation en bouteille._  
+_Vinification : Le pressurage se fait très lentement et le jus descend en cave par gravité. La première fermentation se fait en cuves, uniquement à partir de levure indigènes. Le vin de base est arrêté durant sa fermentation par le biais du froid et de quelques soutirages, pour préserver environ 23g  de sucre résiduels, nécessaires à sa prise de mousse en bouteille. Au moment du dégorgement, le niveau est effectué avec un vin sec. La maturité du raisin permet un dégorgement sans liqueur d’expédition, afin de préserver toute la pureté du vin. Par souci de transparence, notre Crémant est toujours millésimé._  
+
+Naturellement frais, subtilement toasté, il s’invite de l’apéritif au dessert en toute simplicité... Ce crémant Brut Nature est élaboré dans un esprit de pureté (zéro artifices), afin d’exalter sa personnalité unique et franche.
+
+LRVF : 94/100 sur le millésime 2012
+LRVF : 91/100 «Pinot gris, auxerrois, et chardonnay, voici un trio, plein de vitalité, épuré. Nous aimons l'expression de son fruit. Non dosé, les six, les par une finale légèrement amère».
+
+## 8 - Domaine Jean-Claude Buecher - Crémant "Sang Froid" Brut Nature 2016 - Crémant d'Alsace (39,00€/btl)  
+_100% pinot noir_  
+_Le domaine Jean-Claude Buecher est né en 1979 grâce à Jean Claude et sa femme Sylviane qui ont tous deux décidé de se lancer dans l’aventure. Ils entreprennent la construction d’un chai afin de produire des crémants d’Alsace. Ce sont les seuls vignerons d’Alsace à ne produire que du crémant. Leur projet est simple : produire les meilleurs crémants possible. La recette de la réussite : un assemblage subtil de cépages issus de terroirs très différents ainsi que grâce à un travail minutieux dans l’étape de le champagnisation du crémant.Le temps sur lattes est poussé à son maximum pour que les vins soient expressifs et dotés d’une bulle très fine. Pour exemple, la cuvée Insomnia a passée plus de 10 ans en cave. En 2005, c’est leur fils, Franck Buecher qui décide de mettre la main à la patte dans le cercle familial. Le jeune vigneron donne encore une dimension supplémentaire à ses crémants en convertissant notamment le domaine en bio. Aujourd’hui, leur expérience et leur savoir faire fait d’eux les vignerons les plus respecté d’Alsace dans l’élaboration de crémants._ 
+_Réalisée à base de pinot noit provenant de 2 Grands Crus différents. Un tiers provient du Grand Cru Hengst de Wintzenheim, un autre tiers du Grand Cru Steingrubler et le dernier tiers provient de Walbach._  
+_Il s'inscrit dans la lignée des grands crémants produits par le domaine avec un élevage d’un peu plus de 5 ans sur lattes_  
+
+Nez : Le vin se montre extrêmement précis et pur. On découvre avec bonheur ce crémant sur des notes de pierre à fusil, de muguet, de fleur d’oranger et de superbe touches grillées complétées de notes pâtissières.
+
+Bouche : La bouche est vive, éclatante et gourmande. Les parfums floraux envoûtant le nez refont surface en bouche. On découvre également de belles touches de pêches bien mûres, de gelée de coing et une pointe de sureau en fin de bouche. Un crémant d’Alsace d’une grande complexité.
+
+LRVF : 93/100 «Joli pinot noir 2016 à la subtile patine oxydative est à la complexité épicé apportée par le passage sous-bois. La bulle assagie amène une matière vineuse riche. Un beau vin pour une poularde.»
+
+## 9 - Rémy Breque -  Cuvée Prestige brut - Crémant de Bordeaux (7,00€/btl)  
+_100% semillon_
+
+LRVF : 88/100 «un jus bien mûr, typique du millésime 2018, se dévoile. Cela confère à cette cuvée, une certaine tendresse. Un semillon original, qu'il faudra servir bien frais.»
+
+## 10 - Domaine Pignier - "L'Autre" - Crémant Du Jura (25,00€/btl)  
+_100% chardonnay_  
+_Le crémant "L’autre" du domaine Pignier est issu d'une base de l’année 2016 qui a vieillie 30 mois sur latte. Aucun intrant n’est ajouté, c’est un crémant totalement sans soufre d’une précision et d’une gourmandise rare. Ce crémant est issu à 100 % du cépage chardonnay dont le rendement est très faible soit moins de 40 hl/ha. Les vignes sont situées sur le terroir du Val de Sorne au sud de Montaigu. Le sol est composé d’argiles et de calcaires rhétiens favorisant une belle maturité du raisin._
+_Vinification : En Demi Muids De 600 Litre Sans Ajout De Soufre. Elevage : 30 Mois Sur Lattes Sans Dosage Ni Soufre Ajouté_
+
+Nez : Les notes de pain toasté, de brioche, de fruits secs, d’abricot et de coriandre fraîche se dévoilent avec une grande netteté. Après une légère oxygénation, on trouve également des notes de pamplemousse rose et de basilic citron. C’est à la fois complexe, gourmand et frais.
+
+Bouche : La bouche est parfaitement liée au nez, on retrouve ces notes pâtissières. En parallèle une superbe acidité qui équilibre l’ensemble. Une pointe de minéralité vient "titiller" le palais et apporte une salinité incroyable. Celle ci donne envie de passer à table ou de continuer l'apéritif.
+
+LRVF : 92 / 100 sur le millésime 2018
+
+## 11 - Bruno Dangin - Prestige de Narcès Extra-Brut 2020 - Crémant de Bourgogne (17,60€/btl) 
+_100% pinot_  
+_Matthieu Dangin et son père Bruno on autrefois produit du champagne. Soucieux de travailler autrement, ils ont quitté le domaine familial il y a 10 ans pour élaborer une bulle bio dans le Châtillonnais, en Bourgogne, sur la même veine calcaire que la côte des Bar. Là où l'hectare de vigne coûte 70 000 € contre 1 million d'euros au Riceys, le village situé seulement 12 km. Père et fils n'ont pas hésité une seule seconde à investir dans 5 ha. « Peux importe l'étiquette, l'essentiel, c'est que ce soit français et bio », lance-t-il. Depuis leur notoriété n'a cessé de croître, en particulier à l'export. Un succès justifié au regard de la personnalité complexe de leurs effervescent._  
+_Une sélection parcellaire pour une cuvée millésimée élaborée uniquement à partir de Pinot Noir ! Ce Crémant de Bourgogne Bio rivalise avec de beaux Champagne : fleurs blanches, agrumes, amandes fraîches et fruits secs. Un Crémant de haute gastronomie !_  
+
+Oeil : Un robe dorée avec des reflets plus clairs.  
+
+Nez : Un nez sur la pomme et les agrumes, qu'on retrouvera également en bouche. 
+
+Bouche : La fraîcheur des agrumes et de la pomme granny smith offre un effervescent équilibré et fin. 
+
+LRVF : 93/100 sur le millésime 2019
+
+## 12 - Dominique Belluard - "Mont-Blanc" Brut Zéro 2016 - Crémant De Savoie (50,00€/btl)  
+_100% Gringet_
+_Le Mont Blanc Brut Zéro 2016 du domaine Belluard est une cuvée culte produite par Dominique Belluard. C’est celle qui a fait connaître le cépage gringet à travers la France et même le monde puisque cette bulle est considérée comme la plus belle de Savoie, mais également l’une des plus rares. Cette cuvée est issue d’une sélection parcellaire de vignes plantées sur des coteaux d’éboulis calcaires très caillouteux sur les terroirs du Massif du Chablais. Les conditions de culture y sont extrêmement compliquées car les pentes atteignent jusqu’à 40 % de dénivelé._
+_Vinification : En ovoïdes, Elevage : 3 ans sur lattes_
+
+Nez : Le vin nous amène sur des aromatiques très sophistiquées entre les notes de fleurs blanches, de noisette torréfiée, des touches d’herbes fraîches et de peau de mandarine. Le bouquet se dévoile avec précision et élégance comme pour toute la gamme des vins de Dominique Belluard.
+
+Bouche : La bouche est remarquable, les bulles sont fines, la matière est dense et crémeuse. L’expression minérale du terroir d’Ayse stimule les papilles et apporte de la persistance en bouche. On retrouve de belles notes d’agrumes et également des touches de poire, de mirabelle ou encore une pointe d’abricots secs. 
