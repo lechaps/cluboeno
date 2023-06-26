@@ -1,7 +1,7 @@
 +++
 categories = ["Cave"]
 date = "2019-01-15T17:30:22+00:00"
-tags = ["alsace", "bag-in-box", "balthazar", "beaujolais", "bordeaux", "bourgogne", "clavelin", "cubitainer", "demi-bouteille", "double magnum", "filette", "flute", "impériale", "jura", "jéroboam", "languedoc", "le pot lyonnais", "magnum", "mathusalem", "mignonette", "réhoboam", "salmanazar", "sancerre", "sud-ouest", "val de Loire", "vallée du rhône", "vin jaune"] 
+tags = ["alsace", "bag-in-box", "balthazar", "beaujolais", "bordeaux", "bourgogne", "clavelin", "cubitainer", "demi-bouteille", "double magnum", "filette", "flute", "impériale", "jura", "jéroboam", "languedoc", "le pot lyonnais", "magnum", "mathusalem", "mignonette", "réhoboam", "salmanazar", "sancerre", "sud-ouest", "val de loire", "vallée du rhône", "vin jaune"] 
 title = "Les contenants du vin"
 writer = "LeChaps"
 +++

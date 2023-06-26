@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-03-26T17:30:22+00:00"
-tags = ["botrytis cinerea", "botrytis", "liquoreux", "moelleux", "velour"] 
+tags = ["botrytis", "liquoreux", "moelleux", "velour"] 
 title = "Techniques spécifiques : les vins moelleux et liquoreux"
 writer = "LeChaps"
 +++

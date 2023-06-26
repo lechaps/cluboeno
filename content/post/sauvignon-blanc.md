@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-03-25T17:30:22+00:00"
-tags = ["afrique du sud", "agrume", "australie", "barsac", "bordeaux", "bourgeon de cassis", "bourgogne", "buis", "coteaux-du-giennois", "entre-deux-mers", "fruit de la passion", "fruits exotiques", "gaillac", "genêt", "graves", "herbe coupée", "liquoreux", "loupiac", "menetou-salon", "montbazillac", "nouvelle-zélande", "pacherenc du vic-bilh", "pamplemousse", "pessac-léognan", "pierre à fusil", "pouilly-fumé", "provence", "quincy", "reuilly", "sancerre", "sauternes", "sauvignon blanc", "sauvignon", "sureau", "syrie", "sémillon", "touraine", "val de loire", "viande rôtie", "vifs", "états-unis"] 
+tags = ["afrique du sud", "agrume", "australie", "barsac", "bordeaux", "bourgeon de cassis", "bourgogne", "buis", "coteaux-du-giennois", "entre-deux-mers", "fruit de la passion", "fruits exotiques", "gaillac", "genêt", "graves", "herbe coupée", "liquoreux", "loupiac", "menetou-salon", "montbazillac", "nouvelle-zélande", "pacherenc-du-vic-bilh", "pamplemousse", "pessac-léognan", "pierre à fusil", "pouilly-fumé", "provence", "quincy", "reuilly", "sancerre", "sauternes", "sauvignon blanc", "sauvignon", "sureau", "syrie", "sémillon", "touraine", "val de loire", "viande rôtie", "vifs", "états-unis"] 
 title = "Le sauvignon blanc"
 writer = "LeChaps"
 +++
@@ -13,7 +13,7 @@ Il produit des vins blancs sec caractérisés vifs et à la puissance aromatique
 
 Cépage blanc qui donne des vins blancs aromatiques, de grande finesse, qui se caractérise sur deux grands terroirs par leur arôme de fumé. c'est le cas pouilly-fumé, du sancerre ou du pouilly-sur-loire.  
 Il a fait ses armes à bordeaux et c'est répandu un peu partout en France et dans le monde entier. C'est le cépage roi en entre-deux-mers et il intervient en complément du sémillon pour les grands liquoreux de bordeaux : sauternes, barsac, loupiac...  
-Il est présent à Gaillac, à Monbazillac. On le retrouve également dans le Val de Loire, en Touraine. Enfin, le sauvignon entre dans le pacherenc du vic-bilh, et on en voit un peu en Provence. Dans les autres pays du monde, il produit des vins disparates.  
+Il est présent à Gaillac, à Monbazillac. On le retrouve également dans le Val de Loire, en Touraine. Enfin, le sauvignon entre dans le pacherenc-du-vic-bilh, et on en voit un peu en Provence. Dans les autres pays du monde, il produit des vins disparates.  
 Il ne doit pas être récoltés à une maturité trop avancée, pour préserver toute sa qualité aromatique.
 
 ## Arômes

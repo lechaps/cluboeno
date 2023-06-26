@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2023-05-15T17:30:22+00:00"
-tags = ["chardonnay", "château-chalon", "crémant du jura", "côtes-du-jura", "domaine de montbourgeau", "philippe vandelle", "domaine macle", "aviet", "overnoy", "jura", "l'étoile", "pinot noir", "poulsard", "savagnin", "trousseau", "vin de voile", "vin jaune", "puffeney"] 
+tags = ["aviet", "chardonnay", "château-chalon", "crémant du jura", "côtes-du-jura", "domaine de montbourgeau", "domaine macle", "jura", "l'étoile", "overnoy", "domaine philippe vandelle", "pinot noir", "poulsard", "jacques puffeney", "savagnin", "trousseau", "vin de voile", "vin jaune"] 
 title = "Un week-end, Jura où tu iras"
 image = "/img/post/jura_vandelle-groupe.jpg"
 writer = "Philippe"
@@ -21,7 +21,7 @@ Ensuite, et c’est l’emblème de cette région aux vins souvent oxydatifs, no
 
 Bien sûr il y a aussi les vins rouges, autour de trois cépages, le trousseau, le poulsard et le pinot noir du voisin bourguignon, qui vont donner des vins peu colorés, très fruités, avec des équilibres en bouche proches de la Bourgogne et du Beaujolais ; les tanins sont là et bien là, dans des bouches équilibrées, les vins sont bons jeunes et vieillissent très bien.
 
-La région ne s’arrête pas là, il y a deux autres vins fantastiques à vous signaler, les **vins de paille**, liquoreux, obtenus après séchage des raisins et pressurage (10 kg de raisins pour 1 litre de vin !) et le **macvin**, un vin muté sur grains qui s’apparente au pineau des Charentes ou au floc de Gascogne, avec la typicité du Jura).
+La région ne s’arrête pas là, il y a deux autres vins fantastiques à vous signaler, les **vins de paille**, liquoreux, obtenus après séchage des raisins et pressurage (10 kg de raisins pour 1 litre de vin !) et le **macvin**, un vin muté sur grains qui s’apparente au pineau des Charentes ou au floc-de-Gascogne, avec la typicité du Jura).
 
 Depuis quelques années, ce qui a fait la réputation mondiale des juras, c’est un binôme magique entre les dérivés du **vin jaune** et les **vins blancs ouillés**, peut-être en effet rebond des soucis bourguignons sur les blancs : les vignerons, et particulièrement la jeune génération, se sont lancés dans l’élevage de grands vins blancs non oxydatifs, et c’est vrai qu’il y a de magnifiques vins !
 

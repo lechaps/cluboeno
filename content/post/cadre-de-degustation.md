@@ -128,7 +128,7 @@ Cette succession de saveur et de sensations est perçue tout naturellement pour 
 ## Comment s'exercer à la dégustation
 
 Il existe dans le commerce des flacons d'arômes qui aident à développer son nez. On peut s'organiser chez soi des séances d'entraînement, avec des jeux de reconnaissance de parfums et dégustation de vins.  
-On apprend beaucoup en comparant : on choisira pour commencer des couples de vins très différents, comme un bourgogne (cépage chardonnay) et un sancerre (cépage sauvignon) en blanc ; un pomerol (dominante de merlot) est un côte-rotie (syrah) en rouge, ou encore un vin boisé.  
+On apprend beaucoup en comparant : on choisira pour commencer des couples de vins très différents, comme un bourgogne (cépage chardonnay) et un sancerre (cépage sauvignon) en blanc ; un pomerol (dominante de merlot) est un côte-rôtie (syrah) en rouge, ou encore un vin boisé.  
 On s'intéressera au goût des aliments ainsi qu'à l'harmonie des vins et des mets.
 
 ![photo][1]

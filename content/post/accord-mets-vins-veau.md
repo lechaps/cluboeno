@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-03-14T17:30:22+00:00"
-tags = [" bourgogne", "accords mets-vins", "beaujolais", "château simone", "châteauneuf-du-pape", "gamay", "palette", "provence", "saint-joseph", "vallée de la loire", "vallée du rhône", "veau"] 
+tags = ["accords mets-vins", "beaujolais", "bourgogne", "château simone", "châteauneuf-du-pape", "gamay", "palette", "provence", "saint-joseph", "vallée de la loire", "vallée du rhône", "veau"] 
 title = "Les accords mets-vins : le veau"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2011-05-11T17:30:22+00:00"
-tags = ["bordeaux", "bourgogne", "cabernet franc", "cabernet sauvignon", "chardonnay", "château calon ségur", "château de beaucastel", "château d’yquem", "château pavie", "châteauneuf-du-pape", "cinsault", "coteaux du languedoc", "counoise", "côte-rotie", "domaine faiveley", "domaine gras", "domaine peyre rose", "grenache", "jean-michel stephan", "languedoc", "merlot", "meursault premier cru", "meursault", "mourvèdre", "pinot noir", "saint-estèphe troisième grand cru classé", "saint-estèphe", "saint-émilion premier grand cru classé", "saint-émilion", "sauternes premier cru supérieur", "sauternes", "sauvignon", "syrah", "sémillon", "vallée du rhône", "volnay premier cru", "volnay", "vosne-romanée premier cru", "vosne-romanée"] 
+tags = ["bordeaux", "bourgogne", "cabernet franc", "cabernet sauvignon", "chardonnay", "château calon ségur", "château de beaucastel", "château d’yquem", "château pavie", "châteauneuf-du-pape", "cinsault", "coteaux du languedoc", "counoise", "côte-rôtie", "domaine faiveley", "domaine gras", "domaine peyre rose", "grenache", "jean-michel stephan", "languedoc", "merlot", "meursault premier cru", "meursault", "mourvèdre", "pinot noir", "saint-estèphe troisième grand cru classé", "saint-estèphe", "saint-émilion premier grand cru classé", "saint-émilion", "sauternes premier cru supérieur", "sauternes", "sauvignon", "syrah", "sémillon", "vallée du rhône", "volnay premier cru", "volnay", "vosne-romanée premier cru", "vosne-romanée"] 
 title = "Dégustation prestige"
 writer = "LeChaps"
 +++
@@ -26,7 +26,7 @@ _syrah_
 * châteauneuf-du-pape Château de Beaucastel 2008 (80€/btl)
 _grenache, cinsault, syrah, mourvèdre, counoise_
 
-* vallée du rhône côte-rotie Jean-Michel Stephan Coteaux de Bassenon "vin nature"
+* vallée du rhône côte-rôtie Jean-Michel Stephan Coteaux de Bassenon "vin nature"
 _syrah_
 
 * bourgogne meursault 1er cru Domaine Faiveley 2004

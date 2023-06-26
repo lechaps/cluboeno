@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-05-16T17:30:22+00:00"
-tags = ["Louis Pasteur", "arbois", "château-chalon", "côtes-du-jura", "jura", "l'étoile", "vin de voile", "vins jaunes"] 
+tags = ["arbois", "château-chalon", "côtes-du-jura", "jura", "l'étoile", "louis pasteur", "vin de voile", "vins jaunes"] 
 title = "Techniques spécifiques : les vins jaunes"
 writer = "LeChaps"
 +++

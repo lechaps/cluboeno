@@ -1,14 +1,14 @@
 +++
 categories = ["Dégustations"]
 date = "2013-01-18T17:30:22+00:00"
-tags = ["agrume", "amande", "ananas", "bois de santal", "boisé", "bordeaux", "bouches-du-rhône", "bourgogne", "cabernet sauvignon", "café", "canelle", "carafage", "cassis", "cerise", "chardonnay", "château lagrange", "clos vougeot grand cru", "clos vougeot", "complexité", "corton-charlemagne", "cuir", "côtes catalanes", "domaine de la pinte", "domaine de trévallon", "domaine gauby", "domaine mongeard-mugneret", "figue", "fleur", "floral", "fourrure", "fruits confits", "fruits rouges et noirs", "gibier", "gras", "grenache blanc", "grenache gris", "grillé", "jura", "languedoc", "louis lequin", "mangue", "merlot", "miel", "minéralité", "mûre", "noix", "pain grillé", "petit verdot", "pinot noir", "poivre", "provence", "raisin sec", "saint-julien troisième grand cru classé", "saint-julien", "salin", "soyeux", "syrah", "tanins", "truffe", "vanille", "violette", "épice"] 
+tags = ["agrume", "amande", "ananas", "bois de santal", "boisé", "bordeaux", "bouches-du-rhône", "bourgogne", "cabernet sauvignon", "café", "canelle", "carafage", "cassis", "cerise", "chardonnay", "château lagrange", "clos vougeot grand cru", "clos vougeot", "complexité", "corton-charlemagne", "cuir", "côtes-catalanes", "domaine de la pinte", "domaine de trévallon", "domaine gauby", "domaine mongeard-mugneret", "figue", "fleur", "floral", "fourrure", "fruits confits", "fruits rouges et noirs", "gibier", "gras", "grenache blanc", "grenache gris", "grillé", "jura", "languedoc", "louis lequin", "mangue", "merlot", "miel", "minéralité", "mûre", "noix", "pain grillé", "petit verdot", "pinot noir", "poivre", "provence", "raisin sec", "saint-julien troisième grand cru classé", "saint-julien", "salin", "soyeux", "syrah", "tanins", "truffe", "vanille", "violette", "épice"] 
 title = "Dégustation prestige"
 writer = "LeChaps"
 +++
 
 Il s'agit d'une dégustation de vin d'exception.
 
-* **languedoc vin de pays des côtes catalanes Domaine Gauby Coume Gineste 2008** (80€/btl)  
+* **languedoc vin de pays des côtes-catalanes Domaine Gauby Coume Gineste 2008** (80€/btl)  
 _50% grenache blanc, 50% grenache gris_  
 vignes de 60 ans exposées plein nord. Rendement d'à peine 15 Hl/Ha. 2 000 bouteilles produites par an bio et biodynamie. Elevage 12 mois fûts de chêne (50% neuf, 50% fût d'un an). Levures indigènes, sans enzymage, sans chaptalisation, sans acidification. Nez d'une grande finesse dévoilant des notes de fruits frais (ananas, mangue) et de fruits confits. Complexe et minéral. 1H30 de carafage.
 

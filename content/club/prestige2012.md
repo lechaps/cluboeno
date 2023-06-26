@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2012-10-13T17:30:22+00:00"
-tags = ["agrume", "amande", "amertume", "aubépine", "bordeaux", "bourgogne", "cabernet franc", "cabernet sauvignon", "chardonnay", "clos-saint-denis grand cru", "complexité", "counoise", "domaine bernard bonin", "domaine cauhapé", "domaine didier daguenau", "domaine pierre amiot", "eau de vie", "floral", "fruits confits", "gras", "jurançon", "la grange des pères", "languedoc", "merlot", "meursault premier cru", "meursault", "miel", "misson haut-brion", "mourvèdre", "orange", "pessac-léognan", "petit manseng", "pinot noir", "pommes", "pouilly-fumé", "sauvignon", "sud-ouest", "syrah", "tension", "truffee", "val de loire", "vin de pays de l'hérault", "végétale", "épice"] 
+tags = ["agrume", "amande", "amertume", "aubépine", "bordeaux", "bourgogne", "cabernet franc", "cabernet sauvignon", "chardonnay", "clos-saint-denis grand cru", "complexité", "counoise", "domaine bernard bonin", "domaine cauhapé", "domaine didier daguenau", "domaine pierre amiot", "eau-de-vie", "floral", "fruits confits", "gras", "jurançon", "domaine de la grange des pères", "languedoc", "merlot", "meursault premier cru", "meursault", "miel", "mission haut-brion", "mourvèdre", "orange", "pessac-léognan", "petit manseng", "pinot noir", "pomme", "pouilly-fumé", "sauvignon", "sud-ouest", "syrah", "tension", "truffe", "val de loire", "vin de pays de l'hérault", "végétale", "épice"] 
 title = "Dégustation prestige"
 writer = "LeChaps"
 +++
@@ -20,12 +20,12 @@ Didier Daguenau a été l'un des plus grands vignerons français connu dans le m
 _pinot noir_  
 Surnommé le Mozart de la côte-de-nuits, le clos-saint-denis joue à la fois sur l'ampleur et la nuance. Le climat est répertorié depuis le 11ème siècle par les chanoines de Vergy. Il se trouve en bas de coteau, le sol est composé de calcaires dépourvus de cailloutis, présence de phosphore comme en chambertin et argile comme sur musigny (alliant puissance et finesse). Les vignes ont été planté en 1980. Production de 900 bouteilles par an.
 
-* **languedoc vin de pays de l'hérault La Grange des Pères 2005**  
+* **languedoc vin de pays de l'hérault Domaine de La Grange des Pères 2005**  
 _syrah (30 à 40%), mourvèdre (35 à 40%), cabernet sauvignon (plantée en 1990 et assemblé à partir du millésime 1994), counoise (5% environ)_  
 Élevage en fûts neufs, d’un vin et de deux vins (1/3 de chaque)  
 IL aurait du s'appeler la Grande des Pères Bénédictins, mais des problèmes de place sur l'étiquette, Laurent Vaillé a préféré raccourcir le nom du domaine. Cet homme est extrèmement discret, voire introverti, il ne fait aucune apparition dans la presse, et refuse systématiquement toute interview ou rencontre. Il a dans sa jeunesse habité Vichy où il a passé son diplôme de masseur kinésithérapeute. La dégustation : bouquet complexe, intense, charmeur, avec des notes fumés, myrtille, herbes aromatiques, garrigue, avec une bouche tout simplement indescriptible, il faut gôuter pour comprendre. Une grand harmonie de texture, grain de tanin aciduté et sapide matière mûre et puissante.
 
-* **bordeaux péssac-léognan Misson Haut-Brion 1986**  
+* **bordeaux péssac-léognan Mission Haut-Brion 1986**  
 _47% cabernet sauvignon, 42,7% merlot, 10,3% cabernet franc_  
 L'origine de domaine remonte au 16ème siècle. Il a été la propriété de la communauté missionnaire des frères lazaristes, ordre fondé par saint-vincent de paul et finalement racheté en 1983 par les propriétaires de Haut-Brion. Les deux domaines conservent et cultivent leurs différences. Quand Haut-Brion joue sur la finesse, la Mission Haut-Brion, elle joue sur la puissance. Elevage de 22 mois en fûts de chêne (80% neuf)
 

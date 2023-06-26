@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-01-25T17:30:22+00:00"
-tags = ["arbois", "chardonnay", "crémant-du-jura", "jura", "macvin", "pinot blanc", "poulsard", "pupillin", "savagnin", "trousseau", "vin de paille", "vin de voile", "vin jaune"] 
+tags = ["arbois", "chardonnay", "crémant du jura", "jura", "macvin", "pinot blanc", "poulsard", "pupillin", "savagnin", "trousseau", "vin de paille", "vin de voile", "vin jaune"] 
 title = "AOC : Arbois"
 writer = "LeChaps"
 +++

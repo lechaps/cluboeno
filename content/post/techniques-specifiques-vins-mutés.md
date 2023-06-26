@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2020-08-17T17:30:22+00:00"
-tags = ["alsace", "armagnac", "banyuls", "chocolat", "cognac", "coteaux du layon", "floc de gascogne", "fromage", "grenache", "jerez", "jura", "jurançon", "maccabeu", "macvin", "madères", "maury", "muscat à petits grains", "muscat", "muscats", "noix", "passerillage", "pineau des charentes", "porto", "rancio", "rasteau", "ratafia", "sauternes", "tokay", "vin de liqueur", "vin doux naturel"] 
+tags = ["alsace", "armagnac", "banyuls", "chocolat", "cognac", "coteaux-du-layon", "floc-de-gascogne", "fromage", "grenache", "jerez", "jura", "jurançon", "macabeu", "macvin", "madères", "maury", "muscat à petits grains", "muscat", "noix", "passerillage", "pineau des charentes", "porto", "rancio", "rasteau", "ratafia", "sauternes", "tokay", "vin de liqueur", "vin doux naturel"] 
 title = "Techniques spécifiques : les vins doux"
 image = "/img/post/vins-doux.jpg"
 writer = "LeChaps"
@@ -26,11 +26,11 @@ La base : La fermentation alcoolique transforme les sucres du rainsi en alcool. 
 La légende raconte qu’à la fin du XVIe, un ouvrier verse un jour, par erreur, du vin nouveau dans un fût contenant encore du Cognac… C’est la naissance du Pineau des Charentes ! Car oui, c’est bien de l’eau-de-vie, comme le Cognac ou l’Armagnac, que l’on ajoute avant ou en cours de fermentation pour obtenir le vin de liqueur.  
 L’élevage, souvent effectué en fût, permet aux arômes de développer tout leur potentiel.  Les VDL exhalent surtout des arômes de fruits, ce qui les rend très gourmands. Proposés en rouge, en blanc et en rosé, ils se savourent aussi bien à l’apéritif qu’avec les desserts.  
 
-Exemple : Pineau des charentes, ratafia, floc de gascogne, macvin
+Exemple : Pineau des charentes, ratafia, floc-de-gascogne, macvin
 
 ### Les vins doux naturels : mutage en cours de fermentation
 
-Qui dit soleil dit raisins gorgés de sucre, c’est pourquoi les VDN sont principalement produits dans les régions chaudes. Élaborés à partir de différents cépages comme le grenache, le maccabeu ou encore le muscat à petits grains, la robe des VDN varie du blanc pâle au rouge ambré.  
+Qui dit soleil dit raisins gorgés de sucre, c’est pourquoi les VDN sont principalement produits dans les régions chaudes. Élaborés à partir de différents cépages comme le grenache, le macabeu ou encore le muscat à petits grains, la robe des VDN varie du blanc pâle au rouge ambré.  
 Une fois la fermentation alcoolique arrêtée avec l’ajout d’un alcool neutre, il existe deux façons de les élever.
 
 * La première consiste à les laisser tranquillement vieillir dans des fûts de chêne, à l’abri de l’air. Les arômes floraux et fruités sont ainsi conservés et leur couleur préservée. Dans la seconde méthode, dite oxydative, le vin est élevé au contact de l’air. On bénéficie alors de belles teintes fauves et ambrées et d’arômes spécifiques comme le rancio, c’est le fameux goût de noix, de praliné, de fruits cuits.

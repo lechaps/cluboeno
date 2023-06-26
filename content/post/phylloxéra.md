@@ -1,7 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-03-21T17:30:22+00:00"
-tags = ["Louis Pasteur", "cicadelle", "flavescence", "mildiou", "oenologie", "phylloxéra", "vitis vinifera"] 
+tags = ["cicadelle", "flavescence", "louis pasteur", "mildiou", "oenologie", "phylloxéra", "vitis vinifera"] 
 title = "Le phylloxéra"
 writer = "LeChaps"
 +++
