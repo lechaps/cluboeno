@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-07-24T17:30:22+00:00"
-tags = ["afrique du seud", "allemagne", "alsace", "ananas", "australie", "californie", "citron", "complexité", "italie", "miel", "moselle", "pétrole", "pêche", "riesling", "russie", "vendanges tardives", "vin de glace", "états-unis"] 
+tags = ["afrique du sud", "allemagne", "alsace", "ananas", "australie", "californie", "citron", "complexité", "italie", "miel", "moselle", "pétrole", "pêche", "riesling", "russie", "vendanges tardives", "vin de glace", "états-unis"] 
 title = "Le riesling"
 writer = "LeChaps"
 +++
