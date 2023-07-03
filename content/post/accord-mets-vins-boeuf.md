@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-01-28T17:30:22+00:00"
-tags = ["anjou", "beaujolais", "beaune", "bordeaux clairet", "bordeaux", "bourgogne", "chinon", "châteauneuf-du-pape", "côtes-du-rhône", "faugères", "gigondas", "jura", "languedoc", "madiran", "margaux", "mercurey", "médoc", "pauillac", "pécharmant", "saint-estèphe", "saint-julien", "sud-ouest", "tanins", "val de loire", "vallée du rhône"] 
+tags = ["anjou", "beaujolais", "beaune", "bordeaux", "bordeaux clairet", "bourgogne", "chinon", "châteauneuf-du-pape", "côtes-du-rhône", "faugères", "gigondas", "jura", "languedoc", "madiran", "margaux", "mercurey", "médoc", "pauillac", "pécharmant", "saint-estèphe", "saint-julien", "sud-ouest", "tanins", "val de loire", "vallée du rhône"] 
 title = "Les accords mets-vins : le boeuf"
 writer = "LeChaps"
 +++

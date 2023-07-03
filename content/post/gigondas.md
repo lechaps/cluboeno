@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-07-06T17:30:22+00:00"
-tags = ["aoc", "charpenté", "côtes-du-rhône villages", "côtes-du-rhône", "gigondas", "puissant", "vallée du rhône", "épice"] 
+tags = ["aoc", "charpenté", "côtes-du-rhône", "côtes-du-rhône villages", "gigondas", "puissant", "vallée du rhône", "épice"] 
 title = "AOC : gigondas"
 writer = "LeChaps"
 +++

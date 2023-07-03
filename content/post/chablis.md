@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-07-13T17:30:22+00:00"
-tags = ["aoc", "bourgogne", "chablis premier cru", "chablis", "chardonnay", "minéralité"] 
+tags = ["aoc", "bourgogne", "chablis", "chablis premier cru", "chardonnay", "minéralité"] 
 title = "AOC : chablis"
 writer = "LeChaps"
 +++

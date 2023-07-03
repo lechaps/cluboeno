@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-01-05T17:30:22+00:00"
-tags = ["accords mets-vins", "alsace", "altesse", "argentine", "beaujolais", "bergerac", "bourgogne", "cabardès", "cahors", "chardonnay", "charnu", "corbières", "côtes-du-jura", "fronton", "gaillac", "jasnières", "jura", "languedoc", "macon", "madiran", "malbec", "mercurey", "minervois", "montlouis", "pinot noir", "poulet", "savoie", "sud-ouest", "tanins séveux", "tanins", "val de loire", "vin-de-savoie", "volaille", "volnay"] 
+tags = ["accords mets-vins", "alsace", "altesse", "argentine", "beaujolais", "bergerac", "bourgogne", "cabardès", "cahors", "chardonnay", "charnu", "corbières", "côtes-du-jura", "fronton", "gaillac", "jasnières", "jura", "languedoc", "macon", "madiran", "malbec", "mercurey", "minervois", "montlouis", "pinot noir", "poulet", "savoie", "sud-ouest", "tanins", "tanins séveux", "val de loire", "vin-de-savoie", "volaille", "volnay"] 
 title = "Les accords mets-vins : les volailles"
 writer = "LeChaps"
 +++

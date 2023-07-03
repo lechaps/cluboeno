@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-01-29T17:30:22+00:00"
-tags = ["bordeaux", "cabernet franc", "cabernet sauvignon", "carménère", "charentes", "charpenté", "cognac", "colombard", "entre-deux-mers", "graves", "haut-médoc", "malbec", "margaux", "mauzac", "merlot blanc", "merlot", "muscadelle", "médoc", "ondenc", "pauillac", "pessac-léognan", "petit verdot", "pomerol", "provence", "saint-estèphe", "saint-julien", "saint-émilion grand cru", "saint-émilion", "sauternes", "sauvignon", "sémillon", "terroir argilo-calcaire", "terroir de grave", "ugni blanc"] 
+tags = ["bordeaux", "cabernet franc", "cabernet sauvignon", "carménère", "charentes", "charpenté", "cognac", "colombard", "entre-deux-mers", "graves", "haut-médoc", "malbec", "margaux", "mauzac", "merlot", "merlot blanc", "muscadelle", "médoc", "ondenc", "pauillac", "pessac-léognan", "petit verdot", "pomerol", "provence", "saint-estèphe", "saint-julien", "saint-émilion", "saint-émilion grand cru", "sauternes", "sauvignon", "sémillon", "terroir argilo-calcaire", "terroir de grave", "ugni blanc"] 
 title = "Le bordelais"
 image = "/img/post/bordelais.jpg"
 writer = "LeChaps"

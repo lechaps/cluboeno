@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2020-10-05T17:30:22+00:00"
-tags = ["chardonnay", "château-chalon", "crémant du jura", "côtes-du-jura", "domaine de montbourgeau", "domaine fumey chatelain", "domaine macle", "françois mossu", "jura", "l'étoile", "pinot noir", "poulsard", "savagnin", "trousseau", "vin de voile", "vin jaune", "jacques puffeney"] 
+tags = ["chardonnay", "château-chalon", "crémant du jura", "côtes-du-jura", "domaine de montbourgeau", "domaine fumey chatelain", "domaine macle", "françois mossu", "jacques puffeney", "jura", "l'étoile", "pinot noir", "poulsard", "savagnin", "trousseau", "vin de voile", "vin jaune"] 
 title = "Un week-end, Jura où tu iras"
 image = "/img/post/jura_macle-vigne_02.png"
 writer = "Philippe"

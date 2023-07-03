@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-07-16T17:30:22+00:00"
-tags = ["blanquette", "bourboulanc", "bourboulanque", "bourboulenc", "châteauneuf-du-pape", "clairette blanche", "clairette dorée", "clairette", "doucilloné", "fleur", "fruits exotiques", "grenache blanc", "provence", "vallée du rhône"] 
+tags = ["blanquette", "bourboulanc", "bourboulanque", "bourboulenc", "châteauneuf-du-pape", "clairette", "clairette blanche", "clairette dorée", "doucilloné", "fleur", "fruits exotiques", "grenache blanc", "provence", "vallée du rhône"] 
 title = "Le bourboulenc"
 writer = "LeChaps"
 +++
