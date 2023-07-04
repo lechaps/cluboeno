@@ -26,8 +26,7 @@ for directory in directories:
                     tag_matches = tag_pattern.search(content)
                     if tag_matches:
                         # Recherche des mots correspondants aux tags existants dans le contenu du fichier
-                        words = re.findall(r'\b\w+\b', content)
-                        matching_tags = [tag for tag in existing_tags if tag in words]
+                        matching_tags = [tag for tag in existing_tags if re.search(r'\b{}\b'.format(re.escape(tag)), content, re.IGNORECASE)]
                         matching_tags.sort()
                         tag_line = 'tags = [{}]'.format(', '.join('"{}"'.format(tag) for tag in matching_tags))
                         content = tag_pattern.sub(tag_line, content)
