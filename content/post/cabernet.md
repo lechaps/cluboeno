@@ -145,4 +145,4 @@ Ici, le cabernet sauvignon est singulièrement absent alors que le cabernet fran
 
 [1]: /img/post/cabernet_01.png
 [2]: /img/post/cabernet_02.png
-[2]: /img/post/cabernet_03.png
+[3]: /img/post/cabernet_03.png
