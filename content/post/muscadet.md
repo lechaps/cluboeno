@@ -18,7 +18,7 @@ Il s’imposa encore plus véritablement après la crise du phylloxéra au débu
 
 On dit qu’un vin est « sur lie » tant qu’il n’a pas reçu de soutirage, une fois la fermentation alcoolique terminée. La méthode traditionnelle consiste à ne soutirer les vins que tardivement (mars). Pour les crus de muscadet, les vins sont conservés sur lies pendant toute la durée d’élevage (6 à 36 mois).
 
-* <a href="{{< ref "/post/techniques-specifiques-vins-blanc" >}}" >Le lien vers l'article complet concernant la technique de vinification des vins blancs</a>
+* <a href="{{< ref "/post/techniques-specifiques-vins-blanc" >}}" target="_blank">Le lien vers l'article complet concernant la technique de vinification des vins blancs</a>
 
 Les lies sont les levures issues de la fermentation alcoolique et débris végétaux résiduels du moût. A quoi ça sert :  
 Les lies se comportent en effet comme un “capteur d’oxygène dissous”. Elles possèdent un pouvoir réducteur très important qui permet aux substances oxydables des vins d’être protégées contre les oxydations. Les levures restées en contact avec le vin après la fermentation alcoolique, possèdent une capacité à consommer de l’oxygène. 

@@ -9,7 +9,7 @@ writer = "Philippe"
 
 En mai dernier, nous sommes repartis dans le Jura, dans un wine trip que nous attendions tous.
 
-Pourquoi en parler maintenant ? Parce que le Jura me manque, malgré les bouteilles qui ont éclairé ces 9 mois ! Vous le savez si vous avez lu d’autres articles de notre blog (<a href="{{< ref "/post/week-end-jura-2020" >}}" >Week-end 2020</a>), le Jura tient une place un peu à part, presque bizarre : les vins de ce petit vignoble de l’est sont atypiques, pas toujours facilement sortables, et pourtant à la mode sur les tables du monde entier.
+Pourquoi en parler maintenant ? Parce que le Jura me manque, malgré les bouteilles qui ont éclairé ces 9 mois ! Vous le savez si vous avez lu d’autres articles de notre blog (<a href="{{< ref "/post/week-end-jura-2020" >}}" target="_blank">Week-end 2020</a>), le Jura tient une place un peu à part, presque bizarre : les vins de ce petit vignoble de l’est sont atypiques, pas toujours facilement sortables, et pourtant à la mode sur les tables du monde entier.
 
 Si vous les ouvrez à l’improviste devant vos amis peu connaisseurs de vins, voire-même devant pas mal d’amateurs, les arômes les bousculent et vous obtenez parfois « c’est madérisé » (alors que personne de ceux qui vous disent ça n’a jamais bu un Madeire de sa vie), parfois « bof », parfois « je ne sais pas trop quoi en penser », ce dernier étant comme une petite victoire, tant ces vins peuvent déstabiliser.
 
@@ -164,4 +164,4 @@ Elixir de la grand-mère : organiser un cambriolage pour ce tonneau d’un litre
 [3]: /img/post/jura_overnoy.jpg
 [4]: /img/post/jura_vandelle-groupe.jpg
 [5]: /img/post/jura_bacchus.jpg
-[6]: /img/post/jura_vandelle..jpg
+[6]: /img/post/jura_vandelle.jpg

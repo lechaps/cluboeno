@@ -18,7 +18,7 @@
       {{ end }}
       <div class="entry-meta">
         <span class="date">{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>	<span> / </span>
-        <span class="author"><a href="{{ "/writer/" | relLangURL }}{{ .Params.writer | urlize }}" title="Servi par {{ .Params.writer | default "" }}" rel="author">{{ .Params.writer | default ""}}</a></span>
+        <span class="author"><a href="{{ "/writer/" | relLangURL }}{{ .Params.writer | urlize }}" title="Servi par {{ .Params.writer | default "" }}" rel="author" >{{ .Params.writer | default ""}}</a></span>
         {{ range .Params.categories }}
           <span class="category"><span> / </span><a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
         {{ end }}
