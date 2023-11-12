@@ -12,6 +12,18 @@ La région de Bourgogne propose des vins de renom, souvent associés aux terroir
 * Quatre appellation en Bourgogne : bourgogne, bourgognepassetoutgrain, bourgogne aligoté, bourgogne grand ordinaire.
 * Spécificités : les vins produits par certaines localités peuvent être vendus sous le nom du village producteur (vougeot, vosne-romanée) ; On peut rencontrer 419 appellations village + lieu-dit ou climats.
 
+## Quelques bases pour un amateur de bourgogne
+
+* Un petit vignoble : 27 000 ha (le neuvième de France), sans lien avec sa renommée
+* 200 km du Nord (Chablis) au sud (Macon), 130 km de Dijon à Mâcon : la zone des grands vins est encore plus limitéé Dijon Chagny 55 km ! Chablis est assez isolé.
+* Un essor à partir du XIIe siècle, avec la fondation de l'abbaye de Cîteaux
+* Un ménage fait dans les cépages par Philippe le Hardi en 1395, avec l'exclusion du « déloyale » gamay, mais 11 cépages sur l'aire régionale ! Les deux cépages nobles sont le pinot noir et le chardonnay, le gamay et l'aligoté sont aussi présents
+* Véritable marqueterie de sol, étonnant de voir la constance des vins avec des sols aussi différent, les sols sont minces et il s'agit pour la plante de coloniser les fentes du sous-sol : la variation de la pente, qui joue sur la répartition de l'eau, est un sujet majeur.
+* Un vignoble aux mains des ordres religieux, jusqu'à la révolution, puis entièrement morcelé, qui va donner aux négociants éleveurs un rôle particulier à la fin du XIXeme, avec un débouché naturel et quasi exclusif, qui s'est grippé dans les années 30, ou les grands domaines ont repris la main et le commerce. Aujourd'hui, les négociants ont environ les deux tiers du marché, et possède 10 % du vignoble.
+* Trois influences climatiques : Maritime par l'ouest, continentale par le nord-est et méditerranéenne par le sud, cette influence étant fortement accentuée par le changement climatique
+* Hiver, froid avec gelées, qui rend l'exposition très importante (exposition sud / sud-est privilégiée pour éviter le vent d'ouest et limiter l'impact des gelées) : un très fort impact des millésimes
+* **Le climat : parcelle de vigne, soigneusement délimité et nommée depuis des siècles, avec des caractéristiques particulières de climat du sol**
+
 ## Les millésimes
 
 Le millésime 2007 est très réussi, très minéral, en blanc (très beaux chablis) comme en rouge, ces derniers largement supérieux au 2006.  
