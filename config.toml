@@ -3,7 +3,6 @@ title = "Cluboeno"
 theme = "NederburgByLechaps"
 languageCode = "fr-FR"
 defaultContentLanguage = "fr"
-disqusShortname = "cluboeno" # Enable comments by entering your Disqus shortname
 preserveTaxonomyNames = true
 paginate = 50 #frontpage pagination
 
