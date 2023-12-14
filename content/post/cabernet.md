@@ -133,12 +133,12 @@ Au nord-est de ce vaste bassin et de façon confidentielle, le cabernet franc es
 
 ## Les petites histoires… (soyons franc)
 
-###Le berton de Jean Carmet
 Qui incarnait le mieux cette soif de berton si ce n’est l’enfant du pays, le comédien Jean Carmet ? Passion qu’il partageait avec son ami et voisin de Tigné en Anjou, Gérard Depardieu.  
 Il resta toute sa vie le meilleur ambassadeur du Bourgueil et du Chinon vinifiés en monocépage. Des noms qui fleurent bon la soif qu’il sut si bien évoquer dans ces quelques lignes :
 > Voilà pourquoi les vins de Loire (issu du breton) sont des vins simples qui s’expriment sans emphase. À condition qu’on les respecte, ils s’ouvrent pour vous offrir toutes les richesses de leur jardin. Ils aiment vous faire des surprises, vous attaquent quand vous les mâchez, vous embarquent dans leurs arômes, se rappellent à votre mémoire et, sans vous abandonner, tapissent votre palais de fraîcheur et de propreté
 
 ## L’ADN du château Cheval Blanc
+
 La grande originalité de Cheval Blanc tient en partie dans son encépagement très atypique du reste de son appellation.  
 Ici, le cabernet sauvignon est singulièrement absent alors que le cabernet franc (ou bouchet) est à hauteur de 60 %. Le merlot, s’il domine généralement à Saint-Emilion tout en régnant en maître sur Pomerol, ne représente ici que 40 % de l’encépagement. Les cabernets francs ont la particularité d’être issus du patrimoine génétique du château. Ils ont été implantés au milieu du XIXe siècle et continuent d’être multipliés et utilisés. Ils produisent de petits raisins qui mûrissent admirablement sur un terroir plutôt précoce. On leur doit complexité aromatique, fraîcheur et cette touche d’élégance liée aux tanins soyeux et veloutés.
 

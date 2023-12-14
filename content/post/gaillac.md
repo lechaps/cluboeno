@@ -1,5 +1,5 @@
 +++
-categories = ["Savoir boire"]
+categories = ["Vignobles"]
 date = "2023-08-01T17:30:22+00:00"
 tags = ["acacia", "aoc", "assemblage", "australie", "bourgeon", "cabernet", "cabernet franc", "calcaire", "cassis", "coing", "complexité", "cépage", "duras", "dégustation", "finesse", "framboise", "france", "fruits confits", "fruits exotiques", "fruits noirs", "fruits secs", "fruité", "gaillac", "gamay", "graves", "igp", "limoux", "liquoreux", "malbec", "maturation", "mauzac", "merlot", "miel", "mousseux", "muscadelle", "méthode ancestrale", "mûre", "oeil", "ondenc", "pays basque", "poire", "pomme", "romains", "réglisse", "sauvignon", "sud-ouest", "syrah", "tanins", "tanins fins", "terroir", "vallée du rhône", "vendanges tardives", "violette"] 
 image = "/img/post/gaillac_01.png"

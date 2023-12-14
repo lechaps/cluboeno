@@ -41,7 +41,7 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
   slogan = "L'oenologie pour tous"
   description = "Cluboeno, votre club oenologie en ligne. Des dégustations, des articles, des informations, tout ce que vous devez savoir si vous aimez l'univer du vin et des spiritueux." # meta description
   copyright = [
-    "&copy; 2022 www.cluboeno.com",
+    "&copy; 2023 www.cluboeno.com",
     "L'alcool est à consommer avec modération...",
   ]
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
@@ -88,8 +88,15 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
 
   [[menu.main]]
   name = "Recherche"
-  url = "tags/"
+  url = "https://www.google.com/search?q=site%3Acluboeno.com"
   weight = 5
+
+  [[menu.main]]
+  name = "Tag"
+  url = "/tags"
+  weight = 6
+
+
 
 # this will also be in author bio if there is no writer.
   [params.social]

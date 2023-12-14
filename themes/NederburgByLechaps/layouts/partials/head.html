@@ -6,8 +6,10 @@
     <title>{{ . }} {{if $.IsHome}}- {{ $.Site.Params.slogan | default "" | safeHTML }}{{ end }}</title>
 {{ end }}
 
-{{ if .Description }}<meta name="description" content="{{ .Description }}" />
-{{ else }}<meta name="description" content="{{ .Site.Params.description }}" />
+{{ if .Description }}
+    <meta name="description" content="{{ .Description }}" />
+{{ else }}
+    <meta name="description" content="{{ .Site.Params.description }}" />
 {{ end }}
 
 
@@ -15,8 +17,14 @@
 <link rel="icon" type="image/png" href="favicon.png">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="all,follow">
-<meta name="googlebot" content="index,follow,snippet,archive">
+{{ if .IsPage }}
+    <meta name="robots" content="all,follow">
+    <meta name="googlebot" content="index,follow,snippet,archive">
+{{ else }}
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="googlebot" content="noindex, nofollow">
+{{ end }}
+
 <link rel="stylesheet" id="ct-tracks-google-fonts-css" href="https://fonts.googleapis.com/css?family=Raleway%3A400%2C700&amp;subset=latin%2Clatin-ext&amp;ver=4.7.2" type="text/css" media="all">
 <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | relURL  }}" type='text/css' media='all'>
 <!-- Theme stylesheet, if possible do not edit this stylesheet -->
