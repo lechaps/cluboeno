@@ -67,34 +67,36 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
 
   # Nav links in the side bar
   [[menu.main]]
-  name = "Les articles"
+  name = "Technique"
   url = "post/"
   weight = 1
 
   [[menu.main]]
-  name = "Le club"
+  name = "Dégustation"
   url = "club/"
   weight = 2
 
   [[menu.main]]
+  name = "Arômes"
+  url = "/wheel"
+  weight = 3
+
+  [[menu.main]]
   name = "Présentation"
   url = "about/"
-  weight = 3
+  weight = 4
 
   [[menu.main]]
   name = "Contact"
   url = "contact/"
-  weight = 4
+  weight = 5
 
   [[menu.main]]
   name = "Recherche"
   url = "https://www.google.com/search?q=site%3Acluboeno.com"
-  weight = 5
-
-  [[menu.main]]
-  name = "Tag"
-  url = "/tags"
   weight = 6
+
+
 
 
 
