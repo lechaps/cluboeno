@@ -4,11 +4,13 @@
   "children": [
     {
       "name": "Défauts",
+      "tag" : "defaut",
       "description": "Défauts du vin",
       "color": "#C4C7CB",
       "children": [
         {
           "name": "Maladie de bouchon",
+          "tag" : "bouchon",
           "description": "Défaut issu du bouchon",
           "color": "#ABBCC1",
           "children": [
@@ -21,6 +23,7 @@
         },
         {
           "name": "Oxydé",
+          "tag" : "oxyde",
           "description": "Altération par l'oxygène",
           "color": "#83CAF2",
           "children": [
@@ -33,11 +36,13 @@
         },
         {
           "name": "Madérisé",
+          "tag" : "maderise",
           "description": "Altération par l'oxygène",
           "color": "#C04732",
           "children": [
             {
               "name": "Madère",
+              "tag" : "madere",
               "description": "Arômes de vin de cuit (Madère)",
               "color": "#C04732"
             }
@@ -45,16 +50,19 @@
         },
         {
           "name": "Acidité volatile",
+          "tag" : "volatile",
           "description": "Acidité exogène du vin",
           "color": "#D55492",
           "children": [
             {
               "name": "Vinaigre",
+              "tag" : "vinaigre",
               "description": "Arômes de vinaigre",
               "color": "#D55492"
             },
             {
               "name": "Dissolvant",
+              "tag" : "dissolvant",
               "description": "Arômes de produit dissolvant/vernis à ongle",
               "color": "#C04C85"
             }
@@ -62,21 +70,25 @@
         },
         {
           "name": "Sulfites",
+          "tag" : "sulfites",
           "description": "Composés utilisés comme conservateurs et antioxydants",
           "color": "#7FAE98",
           "children": [
             {
               "name": "Caoutchouc",
+              "tag" : "caoutchouc",
               "description": "Arômes de caoutchouc",
               "color": "#A1B8A5"
             },
             {
               "name": "Oignon",
+              "tag" : "oignon",
               "description": "Arômes d'oignon",
               "color": "#80AE98"
             },
             {
               "name": "Maïs",
+              "tag" : "mais",
               "description": "Arômes de maïs",
               "color": "#80A08E"
             }
@@ -84,11 +96,13 @@
         },
         {
           "name": "Brett",
+          "tag" : "brett",
           "description": "Abréviation de Brettanomyces, une levure sauvage indésirable",
           "color": "#48764C",
           "children": [
             {
               "name": "Sueur de cheval",
+              "tag" : "sueur de cheval",
               "description": "Arômes de sueur de cheval",
               "color": "#48764C"
             }
@@ -98,26 +112,31 @@
     },
     {
       "name": "Vin blanc fruité",
+      "tag" : "vin-blanc-fruité",
       "description": "Vin blanc aux arômes frais et vifs de fruits ",
       "color": "#FCEE66",
       "children": [
         {
           "name": "Agrumes",
+          "tag" : "agrumes",
           "description": "Arômes d'agrûmes",
           "color": "#F8EF6E",
           "children": [
             {
               "name": "Citron",
+              "tag" : "citron",
               "description": "Arômes de citron",
               "color": "#F4E868"
             },
             {
               "name": "Citron vert",
+              "tag" : "citron-vert",
               "description": "Arômes de citron vert",
               "color": "#EEE96D"
             },
             {
               "name": "Pamplemousse",
+              "tag" : "pamplemousse",
               "description": "Arômes de Pamplemousse",
               "color": "#F9E984"
             }
@@ -125,11 +144,13 @@
         },
         {
           "name": "Baïes blanches",
+          "tag" : "baies-blanches",
           "description": "Arômes de fruits à baïes blanches",
           "color": "#DAD59A",
           "children": [
             {
               "name": "Groseille à maquereau",
+              "tag" : "groseille-a-maquereau",
               "description": "Arômes de groseille",
               "color": "#DBD498"
             }
@@ -137,21 +158,25 @@
         },
         {
           "name": "Fruits à pépins",
+          "tag" : "fruits-a-pepins",
           "description": "Arômes de fruits à pépins",
           "color": "#EEE697",
           "children": [
             {
               "name": "Poire",
+              "tag" : "poire",
               "description": "Arômes de poire",
               "color": "#E4D493"
             },
             {
               "name": "Pomme",
+              "tag" : "pomme",
               "description": "Arômes de pomme",
               "color": "#EEE796"
             },
             {
               "name": "Pomme verte",
+              "tag" : "pomme-verte",
               "description": "Arômes de pomme verte",
               "color": "#E4E893"
             }
@@ -159,11 +184,13 @@
         },
         {
           "name": "Fruits à noyaux",
+          "tag" : "fruits-a-noyaux",
           "description": "Arômes de fruits à noyaux",
           "color":"#F0D47E",
           "children": [
             {
               "name": "Pêche",
+              "tag" : "peche",
               "description": "Arômes de pêche",
               "color": "#F0DD81"
             }
@@ -171,36 +198,43 @@
         },
         {
           "name": "Fruits tropicaux",
+          "tag" : "fruits-tropicaux",
           "description": "Arômes de fruits à tropicaux",
           "color": "#F1D361",
           "children": [
             {
               "name": "Melon",
+              "tag" : "melon",
               "description": "Arômes de melon",
               "color": "#F1D361"
             },
             {
               "name": "Goyave",
+              "tag" : "goyave",
               "description": "Arômes de goyave",
               "color": "#E3C85B"
             },
             {
               "name": "Ananas",
+              "tag" : "ananas",
               "description": "Arômes de ananas",
               "color": "#E3BE62"
             },
             {
               "name": "Fruit de passion",
+              "tag" : "fruit-de-la-passion",
               "description": "Arômes de fruit de la passion",
               "color": "#D0B853"
             },
             {
               "name": "Litchi",
+              "tag" : "litchi",
               "description": "Arômes de litchi",
               "color": "#BCA64C"
             },
             {
               "name": "Banane",
+              "tag" : "banane",
               "description": "Arômes de banane",
               "color": "#D2947E"
             }
@@ -208,16 +242,19 @@
         },
         {
           "name" : "Botrytisé",
+          "tag" : "botrytis",
           "description" : "Arômes de vin dont le raison a été affecté par un champignon noble botrytis cinerea, qui concentre les sucre",
           "color": "#F6C94C",
           "children" : [
             {
               "name": "Abricot sec",
+              "tag" : "abricot",
               "description": "Arômes d'abricot",
               "color": "#F2D24C"
             },
             {
               "name": "Écorce d'organge",
+              "tag" : "ecorce-d-orange",
               "description": "Arômes d'écorce d'orange",
               "color": "#F6C94C"
             }
@@ -227,16 +264,19 @@
     },
     {
       "name" : "Vin rouge fruité",
+      "tag" : "vin-rouge-fruite",
       "description": "Vin blanc aux arômes frais et vifs de fruits ",
       "color": "#C5335D",
       "children": [
         {
           "name": "Fruits tropicaux",
+          "tag" : "fruits-tropicaux",
           "description": "Arômes de fruits à tropicaux",
           "color": "#D2947E",
           "children": [
             {
               "name": "Banane",
+              "tag" : "banane",
               "description": "Arômes de banane",
               "color": "#D2947E"
             }
@@ -244,26 +284,31 @@
         },
         {
           "name": "Baies rouges",
+          "tag" : "baies-rouges",
           "description": "Arômes de fruits à baies rouges",
           "color": "#B52E4C",
           "children": [
             {
               "name": "Framboise",
+              "tag" : "framboise",
               "description": "Arômes de framboise",
               "color": "#9A274C"
             },
             {
               "name": "Cassis",
+              "tag" : "cassis",
               "description": "Arômes de cassis",
               "color": "#C6335C"
             },
             {
               "name": "Fraise",
+              "tag" : "fraise",
               "description": "Arômes de fraise",
               "color": "#B42E4C"
             },
             {
               "name": "Mûres",
+              "tag" : "mures",
               "description": "Arômes de mûres",
               "color": "#8C1E3F"
             }
@@ -271,16 +316,19 @@
         },
         {
           "name": "Fruits à noyau",
+          "tag" : "fruits-a-noyau",
           "description": "Arômes de fruits à noyau",
           "color": "#9A4B73",
           "children": [
             {
               "name": "Cerise",
+              "tag" : "cerise",
               "description": "Arômes de cerise",
               "color": "#844C6A"
             },
             {
               "name": "Prune",
+              "tag" : "prune",
               "description": "Arômes de prune",
               "color": "#70405A"
             }
@@ -288,11 +336,13 @@
         },
         {
           "name": "Fortifié",
+          "tag" : "fortifie",
           "description": "Arômes de vin ayant subi l'adjonction d'alcool",
           "color": "#7C5078",
           "children": [
             {
               "name": "pruneau",
+              "tag" : "pruneau",
               "description": "Arômes de pruneau",
               "color": "#7C5078"
             }
@@ -302,41 +352,49 @@
     },
     {
       "name" : "Floral",
+      "tag" : "floral",
       "description": "Arômes de fleurs",
       "color": "#E6B4CF",
       "children": [
         {
           "name": "Fleurs blanches",
+          "tag" : "fleurs-blanches",
           "description": "Arômes de fleurs blanches",
           "color": "#DAB3C5",
           "children": [
             {
               "name": "Chèvrefeuille",
+              "tag" : "chevrefeuille",
               "description": "Arômes de fleur de chèvrefeuille",
               "color": "#B790A7"
             },
             {
               "name": "Aubépine",
+              "tag" : "aubépine",
               "description": "Arômes de fleur d'aubépine",
               "color": "#B28CA3"
             },
             {
               "name": "Fleur d'oranger",
+              "tag" : "fleur-d'oranger",
               "description": "Arômes de fleur d'oranger",
               "color": "#C096AD"
             },
             {
               "name": "Tilleul",
+              "tag" : "tilleul",
               "description": "Arômes de fleur de tilleul",
               "color": "#D8A8C4"
             },
             {
               "name": "Jasmin",
+              "tag" : "jasmin",
               "description": "Arômes de fleur de jasmin",
               "color": "#C096AF"
             },
             {
               "name": "Acacia",
+              "tag" : "acacia",
               "description": "Arômes de fleur d'acacia",
               "color": "#AA859C"
             }
@@ -344,21 +402,25 @@
         },
         {
           "name": "Fleurs colorées",
+          "tag" : "fleurs-colorees",
           "description": "Arômes de fleurs colorées",
           "color": "#B58EA5",
           "children": [
             {
               "name": "Rose",
+              "tag" : "rose",
               "description": "Arômes de fleur de rose",
               "color": "#8F7082"
             },
             {
               "name": "Lavande",
+              "tag" : "lavande",
               "description": "Arômes de fleur de lavande",
               "color": "#99788D"
             },
             {
               "name": "Violette",
+              "tag" : "violette",
               "description": "Arômes de fleur de violette",
               "color": "#846779"
             }
@@ -368,26 +430,31 @@
     },
     {
       "name" : "Végétal",
+      "tag" : "vegetal",
       "description": "Arômes de végétaux",
       "color": "#579250",
       "children": [
         {
           "name": "Légumes",
+          "tag" : "legume",
           "description": "Arômes de légumes",
           "color": "#8FBA59",
           "children": [
             {
               "name": "Poivron",
+              "tag" : "poivron",
               "description": "Arômes de poivron",
               "color": "#B9CC57"
             },
             {
               "name": "Fenouille",
+              "tag" : "fenouille",
               "description": "Arômes de fenouille",
               "color": "#A6B843"
             },
             {
               "name": "Tomate",
+              "tag" : "tomate",
               "description": "Arômes de tomate",
               "color": "#8F9F41"
             }
@@ -395,31 +462,37 @@
         },
         {
           "name": "Herbes fraïches",
+          "tag" : "herbes-fraiches",
           "description": "Arômes d'herbes fraïches",
           "color": "#5E9578",
           "children": [
             {
               "name": "Herbe coupée",
+              "tag" : "herbe-coupee",
               "description": "Arômes d'herbe coupée",
               "color": "#517A5E"
             },
             {
               "name": "Aneth",
+              "tag" : "aneth",
               "description": "Arômes d'aneth",
               "color": "#669474"
             },
             {
               "name": "Thym",
+              "tag" : "thym",
               "description": "Arômes de thym",
               "color": "#3E604B"
             },
             {
               "name": "Fougère",
+              "tag" : "fougere",
               "description": "Arômes de fougère",
               "color": "#5C8769"
             },
             {
               "name": "Menthe",
+              "tag" : "menthe",
               "description": "Arômes de menthe",
               "color": "#466B53"
             }
@@ -427,21 +500,25 @@
         },
         {
           "name": "Herbes séchées",
+          "tag" : "herbes-sechees",
           "description": "Arômes d'herbes séchées",
           "color": "#6D662E",
           "children": [
             {
               "name": "Foin",
+              "tag" : "foin",
               "description": "Arômes de foin",
               "color": "#82843D"
             },
             {
               "name": "Thé noir",
+              "tag" : "the-noir",
               "description": "Arômes de thé noir",
               "color": "#777837"
             },
             {
               "name": "Tabac",
+              "tag" : "tabac",
               "description": "Arômes de tabac",
               "color": "#6C6E30"
             }
@@ -449,21 +526,25 @@
         },
         {
           "name": "Feuilles",
+          "tag" : "feuille",
           "description": "Arômes de feuilles",
           "color": "#4F7C45",
           "children": [
             {
               "name": "Feuille de cassis",
+              "tag" : "feuille-de-cassis",
               "description": "Arômes de feuille de cassis",
               "color": "#4A7642"
             },
             {
               "name": "Laurier",
+              "tag" : "laurier",
               "description": "Arômes de laurier",
               "color": "#416C3B"
             },
             {
               "name": "Eucalyptus",
+              "tag" : "eucalyptus",
               "description": "Arömes d'eucalyptus",
               "color": "#3B6235"
             }
@@ -473,26 +554,31 @@
     },
     {
       "name" : "Minéral",
+      "tag" : "mineral",
       "description": "Arômes minéraux",
       "color": "#5F83BF",
       "children": [
         {
           "name": "Minéral",
+          "tag" : "mineral",
           "description": "Arômes de légumes",
           "color": "#5F83BF",
           "children": [
             {
               "name": "Kérosène",
+              "tag" : "kerosene",
               "description": "Arômes de kérosène",
               "color": "#586FA8"
             },
             {
               "name": "Silex",
+              "tag" : "silex",
               "description": "Arômes de silex",
               "color": "#52659B"
             },
             {
               "name": "Iode",
+              "tag" : "iode",
               "description": "Arômes d'iode",
               "color": "#5F82C0"
             }
@@ -502,16 +588,19 @@
     },
     {
       "name" : "Levures",
+      "tag" : "levures",
       "description": "Arômes de levures",
       "color": "#D5AE89",
       "children": [
         {
           "name": "levures",
+          "tag" : "levures",
           "description": "Arômes de légumes",
           "color": "#D5AE89",
           "children": [
             {
               "name": "Pain",
+              "tag" : "pain",
               "description": "Arômes de pain",
               "color": "#D5AE89"
             }
@@ -521,16 +610,19 @@
     },
     {
       "name" : "Malolactique",
+      "tag" : "malolactique",
       "description": "Arômes de issu de la fermentation malolactique transformant l'acide malique en acide lactique et adoucissant le vin en développant des arômes crémeux",
       "color": "#FFD8B1",
       "children": [
         {
           "name": "Malolactique",
+          "tag" : "malolactique",
           "description": "Arômes de issu de la fermentation malolactique transformant l'acide malique en acide lactique et adoucissant le vin en développant des arômes crémeux",
           "color": "#FFD8B1",
           "children": [
             {
               "name": "Beurre",
+              "tag" : "beurre",
               "description": "Arômes de beurre",
               "color": "#FFD8B1"
             }
@@ -540,31 +632,37 @@
     },
     {
       "name" : "Élevage fût de chêne",
+      "tag" : "elevage-fut-chene",
       "description": "Arômes de issu de l'élevage du vin en fût de chêne",
       "color": "#8A5C4A",
       "children": [
         {
           "name": "Bois",
+          "tag" : "bois",
           "description": "Arômes de bois",
           "color": "#915827",
           "children": [
             {
               "name": "Pin",
+              "tag" : "pin",
               "description": "Arômes de pin",
               "color": "#B87036"
             },
             {
               "name": "Cèdre",
+              "tag" : "cedre",
               "description": "Arômes de cèdre",
               "color": "#A4642E"
             },
             {
               "name": "Bois de santal",
+              "tag" : "bois-de-santal",
               "description": "Arômes de bois de santal",
               "color": "#834D20"
             },
             {
               "name": "Chêne",
+              "tag" : "chene",
               "description": "Arômes de chêne",
               "color": "#915827"
             }
@@ -572,21 +670,25 @@
         },
         {
           "name": "Noix",
+          "tag" : "noix",
           "description": "Arômes de noix",
           "color": "#E6AD43",
           "children": [
             {
               "name": "Amande",
+              "tag" : "amande",
               "description": "Arômes d'amande",
               "color": "#BB8D41"
             },
             {
               "name": "Noisette",
+              "tag" : "noisette",
               "description": "Arômes de noisette",
               "color": "#D19E49"
             },
             {
               "name": "Noix de coco",
+              "tag" : "noix-de-coco",
               "description": "Arômes de noix de coco",
               "color": "#E6AE52"
             }
@@ -594,36 +696,43 @@
         },
         {
           "name": "Épices",
+          "tag" : "epices",
           "description": "Arômes d'épices",
           "color": "#DF8642",
           "children": [
             {
               "name": "Clou de girofle",
+              "tag" : "clou-de-girofle",
               "description": "Arômes de clou de girofle",
               "color": "#A6632E"
             },
             {
               "name": "Noix de muscade",
+              "tag" : "noix-de-muscade",
               "description": "Arômes de noix de muscade",
               "color": "#B87035"
             },
             {
               "name": "Réglisse",
+              "tag" : "reglisse",
               "description": "Arômes de réglisse/anis",
               "color": "#C97B3C"
             },
             {
               "name": "Cannelle",
+              "tag" : "cannelle",
               "description": "Arômes de canelle",
               "color": "#9C5F2A"
             },
             {
               "name": "Poivre",
+              "tag" : "poivre",
               "description": "Arômes de poivre",
               "color": "#C17638"
             },
             {
               "name": "Vanille",
+              "tag" : "vanille",
               "description": "Arômes de vanille",
               "color": "#DF863D"
             }
@@ -631,41 +740,49 @@
         },
         {
           "name": "Toasté",
+          "tag" : "toaste",
           "description": "Arômes grillés/toastés",
           "color": "#7E5A3E",
           "children": [
             {
               "name": "Goudron",
+              "tag" : "goudron",
               "description": "Arômes de goudron",
               "color": "#8F6749"
             },
             {
               "name": "Fumée",
+              "tag" : "fumee",
               "description": "Arômes de fumée",
               "color": "#9B714E"
             },
             {
               "name": "Bacon",
+              "tag" : "bacon",
               "description": "Arômes de bacon",
               "color": "#62432E"
             },
             {
               "name": "Café",
+              "tag" : "cafe",
               "description": "Arômes de café",
               "color": "#6B4D34"
             },
             {
               "name": "Toast",
+              "tag" : "toast",
               "description": "Arômes de toast",
               "color": "#A77854"
             },
             {
               "name": "Chocolat",
+              "tag" : "chocolat",
               "description": "Arômes de chocolat",
               "color": "#7E5B3E"
             },
             {
               "name": "Caramel",
+              "tag" : "caramel",
               "description": "Arômes de caramel",
               "color": "#745435"
             }
@@ -675,21 +792,25 @@
     },
     {
       "name" : "Vin blanc âgé",
+      "tag" : "vin-blanc-age",
       "description": "Arômes de vin blanc agé",
       "color": "#D5BF78",
       "children": [
         {
           "name" : "Vin blanc âgé",
+          "tag" : "vin-blanc-age",
           "description": "Arômes de vin blanc agé",
           "color": "#D5BF78",
           "children": [
             {
-              "name": "Gelée  de coing",
+              "name": "Gelée de coing",
+              "tag" : "gelle-de-coin",
               "description": "Arômes de gelée de coing",
               "color": "#E4C87B"
             },
             {
               "name": "Miel",
+              "tag" : "miel",
               "description": "Arômes de miel",
               "color": "#D7BE77"
             }
@@ -699,16 +820,19 @@
     },
     {
       "name" : "Vin rouge âgé",
+      "tag" : "vin-rouge-age",
       "description": "Arômes de vin rouge agé",
       "color": "#923946",
       "children": [
         {
           "name" : "Sauce soja",
+          "tag" : "sauce-soja",
           "description": "Arômes de sauce soja",
           "color": "#923946",
           "children": [
             {
               "name" : "Sauce soja",
+              "tag" : "sauce-soja",
               "description": "Arômes de sauce soja",
               "color": "#923946"
             }
@@ -716,16 +840,19 @@
         },
         {
           "name" : "Animal",
+          "tag" : "animal",
           "description": "Arômes de type animal",
           "color": "#976A59",
           "children": [
             {
               "name" : "Cuir",
+              "tag" : "cuir",
               "description": "Arômes de cuir",
               "color": "#935E54"
             },
             {
               "name" : "Jus de viande",
+              "tag" : "jus-de-viande",
               "description": "Arômes de jus de viande",
               "color": "#86534B"
             }
@@ -733,21 +860,25 @@
         },
         {
           "name" : "Sous-bois",
+          "tag" : "sous-bois",
           "description": "Arômes de sous-bois",
           "color": "#786B5C",
           "children": [
             {
               "name" : "Champignon",
+              "tag" : "champignon",
               "description": "Arômes de champignon",
               "color": "#7F715E"
             },
             {
               "name" : "Truffe",
+              "tag" : "truffe",
               "description": "Arômes de truffe",
               "color": "#705951"
             },
             {
               "name" : "Mousse d'arbre",
+              "tag" : "mousse-d-arbre",
               "description": "Arômes de mousse d'arbre",
               "color": "#766958"
             }
