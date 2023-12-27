@@ -1,6 +1,6 @@
 # Cluboeno
 
-Cluboeno is a blog about wines, spirits and other fun stuff
+Cluboeno is a french blog about wines, spirits and other fun stuff
 
 ## Installation
 
@@ -77,8 +77,8 @@ Now you must have an author in the config for the author bio section to be visib
 
 ## Tag management by Python scriptin
 
-- tag-extract.py : use this script to extract all the tag from md
-- tag-write.py : use this script to create the tag line on md from the extract
+- tags-dictionnary.json : contains all the tags research by the script and managed by hugo
+- tag-write.py : uses this script to create the tag line on md files lookinf for tags from dictionnary
 
 ## License
 
@@ -86,7 +86,9 @@ This port is released under the MIT License.
 
 ## Thanks
 
-Thanks to [Steve Francia](https://github.com/spf13) for creating Hugo and the awesome community around the project. And also thanks to [goransv](https://github.com/appernetic) for creating this nice theme.
+- [Steve Francia](https://github.com/spf13) for creating Hugo and the awesome community around the project.
+- [goransv](https://github.com/appernetic) for creating this nice theme.
+- [Joshua Paul Barnard](https://github.com/JoshuaPaulBarnard/) for creating the backbone of the interactive wine aroma wheel
 
 ## Sponsors
 
