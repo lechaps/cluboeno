@@ -31,6 +31,7 @@
 			<div class="entry">
 				<div class="entry-header">
 					<h1 class="entry-title">{{ .Title }}</h1>
+					{{ .Content }}
 				</div>
 				<div id="sunburst-container"></div>
 				<script src="{{ "js/d3.v3.min.js" | absURL }}"></script>
@@ -156,7 +157,7 @@
 							.data(partitioned_data)
 							.enter()
 							.append("a")
- 							.attr("href", function (d) { return "{{ "tags" | absURL }}" + "/" + d.tag })
+							.attr("href", function (d) { return d.tag ? "{{ "tags" | absURL }}" + "/" + d.tag : null; })
 							.append("text")
 							.filter(filter_min_arc_size_text)
 							.attr("transform", function (d) {

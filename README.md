@@ -79,6 +79,7 @@ Now you must have an author in the config for the author bio section to be visib
 
 - tags-dictionnary.json : contains all the tags research by the script and managed by hugo
 - tag-write.py : uses this script to create the tag line on md files lookinf for tags from dictionnary
+- tag-extract.py : use this script to extract and count all the tag from md
 
 ## License
 

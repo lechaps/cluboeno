@@ -16,6 +16,7 @@
           "children": [
             {
               "name": "Bouchonné",
+              "tag": "bouchon",
               "description": "Arômes de bouchon",
               "color": "#ABBCC1"
             }
@@ -36,7 +37,7 @@
         },
         {
           "name": "Madérisé",
-          "tag" : "maderise",
+          "tag" : "madere",
           "description": "Altération par l'oxygène",
           "color": "#C04732",
           "children": [
@@ -62,7 +63,7 @@
             },
             {
               "name": "Dissolvant",
-              "tag" : "dissolvant",
+              "tag" : "Dissolvant",
               "description": "Arômes de produit dissolvant/vernis à ongle",
               "color": "#C04C85"
             }
@@ -96,13 +97,11 @@
         },
         {
           "name": "Brett",
-          "tag" : "brett",
           "description": "Abréviation de Brettanomyces, une levure sauvage indésirable",
           "color": "#48764C",
           "children": [
             {
               "name": "Sueur de cheval",
-              "tag" : "sueur de cheval",
               "description": "Arômes de sueur de cheval",
               "color": "#48764C"
             }
