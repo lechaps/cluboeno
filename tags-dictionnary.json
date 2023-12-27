@@ -1,0 +1,784 @@
+{
+  "tags": [
+    {
+      "tag": "defaut",
+      "children": [
+        {
+          "tag": "bouchon",
+          "search": [
+            "bouchon",
+            "bouchonné"
+          ]
+        },
+        {
+          "tag": "oxyde",
+          "search": [
+            "oxydé",
+            "oxydation"
+          ]
+        },
+        {
+          "tag": "maderise",
+          "children": [
+            {
+              "tag": "madere",
+              "search": [
+                "madère",
+                "madérisation"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "volatile",
+          "search": [
+            "réduction", "volatile"
+          ],
+          "children": [
+            {
+              "tag": "vinaigre",
+              "search": [
+                "vinaigre"
+              ]
+            },
+            {
+              "tag": "dissolvant",
+              "search": [
+                "dissolvant"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "sulfites",
+          "children": [
+            {
+              "tag": "caoutchouc",
+              "search": [
+                "caoutchouc"
+              ]
+            },
+            {
+              "tag": "oignon",
+              "search": [
+                "oignon"
+              ]
+            },
+            {
+              "tag": "mais",
+              "search": [
+                "maïs"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "brett",
+          "search": [
+            "brett"
+          ],
+          "children": [
+            {
+              "tag": "sueur de cheval",
+              "search": [
+                "sueur de cheval"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "vin-blanc-fruité",
+      "children": [
+        {
+          "tag": "agrumes",
+          "children": [
+            {
+              "tag": "citron",
+              "search": [
+                "citron", "citronné"
+              ]
+            },
+            {
+              "tag": "citron-vert",
+              "search": [
+                "citron vert"
+              ]
+            },
+            {
+              "tag": "pamplemousse",
+              "search": [
+                "pamplemousse"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "baies-blanches",
+          "children": [
+            {
+              "tag": "groseille-a-maquereau",
+              "search": [
+                "groseille"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "fruits-a-pepins",
+          "children": [
+            {
+              "tag": "poire",
+              "search": [
+                "poire", "poires"
+              ]
+            },
+            {
+              "tag": "pomme",
+              "search": [
+                "pomme", "pommes"
+              ]
+            },
+            {
+              "tag": "pomme-verte",
+              "search": [
+                "pomme verte", "pommes vertes"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "fruits-a-noyaux",
+          "children": [
+            {
+              "tag": "peche",
+              "search": [
+                "pêche"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "fruits-tropicaux",
+          "children": [
+            {
+              "tag": "melon",
+              "search": [
+                "melon"
+              ]
+            },
+            {
+              "tag": "goyave",
+              "search": [
+                "goyave"
+              ]
+            },
+            {
+              "tag": "ananas",
+              "search": [
+                "ananas"
+              ]
+            },
+            {
+              "tag": "fruit-de-la-passion",
+              "search": [
+                "fruit de la passion"
+              ]
+            },
+            {
+              "tag": "litchi",
+              "search": [
+                "litchi"
+              ]
+            },
+            {
+              "tag": "banane",
+              "search": [
+                "banane"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "botrytis",
+          "children": [
+            {
+              "tag": "abricot",
+              "search": [
+                "abricot"
+              ]
+            },
+            {
+              "tag": "ecorce-d-orange",
+              "search": [
+                "écorce d'orange"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "vin-rouge-fruite",
+      "children": [
+        {
+          "tag": "fruits-tropicaux",
+          "children": [
+            {
+              "tag": "banane",
+              "search": [
+                "banane"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "baies-rouges",
+          "children": [
+            {
+              "tag": "framboise",
+              "search": [
+                "frambroise"
+              ]
+            },
+            {
+              "tag": "cassis",
+              "search": [
+                "cassis"
+              ]
+            },
+            {
+              "tag": "fraise",
+              "search": [
+                "fraise"
+              ]
+            },
+            {
+              "tag": "mures",
+              "search": [
+                "mûre", "mûres"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "fruits-a-noyau",
+          "children": [
+            {
+              "tag": "cerise",
+              "search": [
+                "cerise"
+              ]
+            },
+            {
+              "tag": "prune",
+              "search": [
+                "prune"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "fortifie",
+          "children": [
+            {
+              "tag": "pruneau",
+              "search": [
+                "pruneau"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "floral",
+      "search": [
+        "floral", "florale"
+      ],
+      "children": [
+        {
+          "tag": "fleurs-blanches",
+          "children": [
+            {
+              "tag": "chevrefeuille",
+              "search": [
+                "chèvrefeuille"
+              ]
+            },
+            {
+              "tag": "aubépine",
+              "search": [
+                "aubépine"
+              ]
+            },
+            {
+              "tag": "fleur-d'oranger",
+              "search": [
+                "fleur d'oranger"
+              ]
+            },
+            {
+              "tag": "tilleul",
+              "search": [
+                "tilleul"
+              ]
+            },
+            {
+              "tag": "jasmin",
+              "search": [
+                "jasmin"
+              ]
+            },
+            {
+              "tag": "acacia",
+              "search": [
+                "acacia"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "fleurs-colorees",
+          "children": [
+            {
+              "tag": "rose",
+              "search": [
+                "rose"
+              ]
+            },
+            {
+              "tag": "lavande",
+              "search": [
+                "lavande"
+              ]
+            },
+            {
+              "tag": "violette",
+              "search": [
+                "violette"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "vegetal",
+      "search": [
+        "végétal", "végétale"
+      ],
+      "children": [
+        {
+          "tag": "legume",
+          "search": [
+            "légume", "légumes"
+          ],
+          "children": [
+            {
+              "tag": "poivron",
+              "search": [
+                "poivron"
+              ]
+            },
+            {
+              "tag": "fenouille",
+              "search": [
+                "fenouille"
+              ]
+            },
+            {
+              "tag": "tomate",
+              "search": [
+                "tomate"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "herbes-fraiches",
+          "children": [
+            {
+              "tag": "herbe-coupee",
+              "search": [
+                "herbes", "herbe", "herbe coupée", "herbes coupées"
+              ]
+            },
+            {
+              "tag": "aneth",
+              "search": [
+                "aneth"
+              ]
+            },
+            {
+              "tag": "thym",
+              "search": [
+                "thym"
+              ]
+            },
+            {
+              "tag": "fougere",
+              "search": [
+                "fougère", "fougères"
+              ]
+            },
+            {
+              "tag": "menthe",
+              "search": [
+                "menthe", "menthol", "mentholé", "mentholée"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "herbes-sechees",
+          "search": [
+            "herbes", "herbe", "herbe sèche", "herbes sèches", "herbe séchée", "herbes séchées"
+          ],
+          "children": [
+            {
+              "tag": "foin",
+              "search": [
+                "foin"
+              ]
+            },
+            {
+              "tag": "the-noir",
+              "search": [
+                "thé"
+              ]
+            },
+            {
+              "tag": "tabac",
+              "search": [
+                "tabac"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "feuille",
+          "children": [
+            {
+              "tag": "feuille-de-cassis",
+              "search": [
+                "feuille de cassis"
+              ]
+            },
+            {
+              "tag": "laurier",
+              "search": [
+                "laurier"
+              ]
+            },
+            {
+              "tag": "eucalyptus",
+              "search": [
+                "eucalyptus"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "mineral",
+      "children": [
+        {
+          "tag": "mineral",
+          "search": [
+            "minéral", "minérale"
+          ],
+          "children": [
+            {
+              "tag": "kerosene",
+              "search": [
+                "kérosène"
+              ]
+            },
+            {
+              "tag": "silex",
+              "search": [
+                "silex"
+              ]
+            },
+            {
+              "tag": "iode",
+              "search": [
+                "iode", "iodé", "iodée"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "levures",
+      "children": [
+        {
+          "tag": "levures",
+          "children": [
+            {
+              "tag": "pain",
+              "search": [
+                "pain", "brioche"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "malolactique",
+      "children": [
+        {
+          "tag": "malolactique",
+          "children": [
+            {
+              "tag": "beurre",
+              "search": [
+                "pain", "beurre", "beurré", "beurrée", "lactique"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "elevage-fut-chene",
+      "children": [
+        {
+          "tag": "bois",
+          "search": [
+            "bois", "boisé", "boisée", "boisées"
+          ],
+          "children": [
+            {
+              "tag": "pin",
+              "search": [
+                "pin", "pins"
+              ]
+            },
+            {
+              "tag": "cedre",
+              "search": [
+                "cèdre"
+              ]
+            },
+            {
+              "tag": "bois-de-santal",
+              "search": [
+                "bois de santal"
+              ]
+            },
+            {
+              "tag": "chene",
+              "search": [
+                "chêne"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "noix",
+          "search": [
+            "noix"
+          ],
+          "children": [
+            {
+              "tag": "amande",
+              "search": [
+                "amande", "amandes"
+              ]
+            },
+            {
+              "tag": "noisette",
+              "search": [
+                "noisette", "noisettes"
+              ]
+            },
+            {
+              "tag": "noix-de-coco",
+              "search": [
+                "noix de coco"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "epices",
+          "search": [
+            "épice", "épices", "épicé", "épicés", "épicée", "épicées"
+          ],
+          "children": [
+            {
+              "tag": "clou-de-girofle",
+              "search": [
+                "clou de girofle"
+              ]
+            },
+            {
+              "tag": "noix-de-muscade",
+              "search": [
+                "noix de muscade"
+              ]
+            },
+            {
+              "tag": "reglisse",
+              "search": [
+                "réglisse", "réglissé", "réglissés", "réglissées", "zan"
+              ]
+            },
+            {
+              "tag": "cannelle",
+              "search": [
+                "canelle"
+              ]
+            },
+            {
+              "tag": "poivre",
+              "search": [
+                "poivre", "poivré", "poivrés", "poivrée", "poivrées"
+              ]
+            },
+            {
+              "tag": "vanille",
+              "search": [
+                "vanille", "vanillé", "vanillés", "vanillée", "vanillées"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "toaste",
+          "children": [
+            {
+              "tag": "goudron",
+              "search": [
+                "goudron", "goudroné", "goudronés", "goudronée", "goudronées"
+              ]
+            },
+            {
+              "tag": "fumee",
+              "search": [
+                "fumé", "fumée", "fumés", "fumées"
+              ]
+            },
+            {
+              "tag": "bacon",
+              "search": [
+                "bacon"
+              ]
+            },
+            {
+              "tag": "cafe",
+              "search": [
+                "café", "toréfaction", "toréfié", "toréfiés", "toréfiée", "toréfiées", "moka"
+              ]
+            },
+            {
+              "tag": "toast",
+              "search": [
+                "toast", "toasté", "toastés", "toastée", "toastées"
+              ]
+            },
+            {
+              "tag": "chocolat",
+              "search": [
+                "chocolat", "chocolaté", "chocolatés", "chocolatée", "chocolatées", "cacao"
+              ]
+            },
+            {
+              "tag": "caramel",
+              "search": [
+                "caramel"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "vin-blanc-age",
+      "children": [
+        {
+          "tag": "vin-blanc-age",
+          "children": [
+            {
+              "tag" : "gelee-de-coin",
+              "search": [
+                "gelée de coin", "coing"
+              ]
+            },
+            {
+              "tag": "miel",
+              "search": [
+                "miel", "miellé", "miellés", "miellée", "miellées"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "vin-rouge-age",
+      "children": [
+        {
+          "tag": "sauce-soja",
+          "children": [
+            {
+              "tag": "sauce-soja",
+              "search": [
+                "sauce soja"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "animal",
+          "children": [
+            {
+              "tag": "cuir",
+              "search": [
+                "cuir"
+              ]
+            },
+            {
+              "tag": "jus-de-viande",
+              "search": [
+                "jus de viande", "viandox"
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "sous-bois",
+          "search": [
+            "sous-bois"
+          ],
+          "children": [
+            {
+              "tag": "champignon",
+              "search": [
+                "champignon", "champignons"
+              ]
+            },
+            {
+              "tag": "truffe",
+              "search": [
+                "truffe", "truffes"
+              ]
+            },
+            {
+              "tag": "mousse-d-arbre",
+              "search": [
+                "mousse d'arbre"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
