@@ -1,7 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-02-11T17:30:22+00:00"
-tags = ["bourgeon", "coulure", "débourrement", "floraison", "inflorescence", "labourage", "millerandage", "sarment", "vendange", "viticulteur", "véraison"] 
+tags = ["champignon", "sous-bois", "vin-rouge-age"] 
 title = "Le calendrier du viticulteur"
 writer = "LeChaps"
 +++

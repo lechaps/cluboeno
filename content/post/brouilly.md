@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-03-24T17:30:22+00:00"
-tags = ["aoc", "beaujolais", "brouilly", "côte-de-brouilly", "oïdium", "terroir granitique", "terroir schisteux"] 
+tags = [] 
 title = "AOC : brouilly"
 writer = "LeChaps"
 +++

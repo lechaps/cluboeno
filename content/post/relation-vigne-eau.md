@@ -1,7 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-01-11T17:30:22+00:00"
-tags = ["eau"] 
+tags = ["defaut", "fruits-a-noyaux", "herbes-sechees", "legume", "peche", "the-noir", "tomate", "vegetal", "vin-blanc-fruité", "volatile"] 
 title = "Les relations entre la vigne et l'eau"
 writer = "LeChaps"
 +++

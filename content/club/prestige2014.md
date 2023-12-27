@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2014-01-24T17:30:22+00:00"
-tags = ["agrume", "boisé", "bordeaux", "bourgogne", "cabernet franc", "cabernet sauvignon", "cerise", "cerise griotte", "champagne", "chardonnay", "chenin", "château pichon longueville", "cire", "coing", "domaine desaunay", "domaine huet", "domaine paul jaboulet ainé", "fruits blancs", "fruits confits", "fumé", "grand échézeaux", "hermitage", "menthe", "merlot", "moelleux", "noisette", "noix", "oxydation", "paillac", "petit verdot", "pinot noir", "poire", "poivre", "pomme", "pruneau", "pétrole", "roederer", "résine", "salin", "savennières", "sureau", "syrah", "tabac", "tanins", "tanins fondus", "val de loire", "vallée du rhône", "vignobles de la coulée de serrant", "violette", "vouvray", "épice"] 
+tags = ["bois", "cerise", "elevage-fut-chene", "epices", "fleurs-colorees", "floral", "fortifie", "fruits-a-noyau", "fruits-a-pepins", "fumee", "gelee-de-coin", "herbes-fraiches", "herbes-sechees", "menthe", "noisette", "noix", "pin", "poire", "poivre", "pomme", "prune", "pruneau", "tabac", "toaste", "vegetal", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-fruite", "violette"] 
 title = "Dégustation prestige"
 writer = "LeChaps"
 +++

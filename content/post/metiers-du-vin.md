@@ -1,7 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-01-20T17:30:22+00:00"
-tags = ["caviste", "chef de cave", "chef de culture", "courtier", "labourage", "maître de chai", "négociant", "oenologue", "ouvrier viticole", "palissage", "relevage", "responsable commercial", "sommelier", "ébourgeonnage"] 
+tags = ["defaut", "volatile"] 
 title = "Les métiers du vin"
 writer = "LeChaps"
 +++

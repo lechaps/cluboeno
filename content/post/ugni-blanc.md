@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-02-16T17:30:22+00:00"
-tags = ["cognac", "corse", "italie", "languedoc", "provence", "saint-émilion(cépage)", "ugni blanc"] 
+tags = ["banane", "fruits-tropicaux", "vin-blanc-fruité", "vin-rouge-fruite"] 
 title = "L'ugni blanc"
 writer = "LeChaps"
 +++

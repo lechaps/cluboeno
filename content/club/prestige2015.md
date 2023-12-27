@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2015-07-03T17:30:22+00:00"
-tags = ["abricot", "agawood", "agrume", "amande", "anis", "boisé", "bordeaux", "cabernet franc", "cabernet sauvignon", "cannelle", "carignan", "champagne", "chardonnay", "chocolat", "coing", "complexité", "coteaux du languedoc", "domaine alvaro palacios", "domaine cauhapé", "domaine paul jaboulet ainé", "domaine peyre rose", "espagne", "fenouille", "figue", "floral", "framboise", "fruits rouges et noirs", "garrigue", "girofle", "grenache", "groseille", "hermitage", "jacquesson", "jurançon", "languedoc", "marsanne", "merlot", "miel", "mission haut-brion", "mourvèdre", "méditerranée", "pessac-léognan", "petit manseng", "pinot noir", "pomme", "poussiéreux", "priorato", "prune", "puissant", "raisin sec", "roussanne", "réglisse", "soyeux", "sud-ouest", "syrah", "tabac", "tuilé", "vallée du rhône", "velour", "violette", "épice", "éric verdier"] 
+tags = ["abricot", "amande", "bois", "botrytis", "chocolat", "elevage-fut-chene", "epices", "fenouille", "fleurs-colorees", "floral", "fruits-a-noyau", "fruits-a-pepins", "herbes-sechees", "legume", "miel", "noix", "pin", "pomme", "prune", "reglisse", "rose", "tabac", "toaste", "vegetal", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-fruite", "violette"] 
 title = "Dégustation prestige"
 writer = "LeChaps"
 +++

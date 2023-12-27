@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-04-02T17:30:22+00:00"
-tags = ["anjou", "aubance", "bourgeuil", "breton", "cabernet franc", "charcuterie", "chenin", "chinon", "coteaux-du-layon", "fromage de chèvre", "grolleau", "gros-plant", "liquoreux", "moelleux", "mousseux", "muscadet-sèvre-et-maine", "poisson", "pouilly-fumé", "romorantin", "saint-nicolas-de-bourgueil", "sancerre", "saumur", "saumur-champigny", "sauvignon", "savennières", "tanins", "touraine", "val de loire", "volaille", "vouvray"] 
+tags = ["elevage-fut-chene", "fumee", "toaste"] 
 title = "Le val de loire"
 writer = "LeChaps"
 +++

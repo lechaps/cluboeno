@@ -2,7 +2,7 @@
 categories = ["Histoire"]
 date = "2020-09-19T11:30:00+00:00"
 image = "img/post/foire-vins.jpg"
-tags = ["consommation", "france", "oenologie", "économie"] 
+tags = ["beurre", "levures", "malolactique", "pain"] 
 title = "La foire aux vins"
 writer = "Thomas"
 +++

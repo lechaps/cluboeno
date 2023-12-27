@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-05-15T17:30:22+00:00"
-tags = ["accords mets-vins", "beaujolais", "bergerac", "casse-croûte", "charcuterie", "collioure", "cornas", "côtes-de-bourg", "gigondas", "irancy", "irouléguy", "jambons crus", "jasnières", "lirac", "marcillac", "patrimonio", "quincy", "saint-émilion", "touraine"] 
+tags = ["mineral"] 
 title = "Les accords mets-vins : la charcuterie"
 writer = "LeChaps"
 +++

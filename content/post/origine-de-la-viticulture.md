@@ -1,7 +1,7 @@
 +++
 categories = ["Histoire"]
 date = "2019-01-09T17:30:22+00:00"
-tags = ["viticulture", "vitis vinifera"] 
+tags = ["elevage-fut-chene", "fumee", "herbe-coupee", "herbes-fraiches", "herbes-sechees", "iode", "mineral", "toaste", "vegetal"] 
 title = "Les origines de la viticulture"
 writer = "LeChaps"
 +++

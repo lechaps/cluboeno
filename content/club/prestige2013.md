@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2013-01-18T17:30:22+00:00"
-tags = ["agrume", "amande", "ananas", "bois de santal", "boisé", "bordeaux", "bouches-du-rhône", "bourgogne", "cabernet sauvignon", "café", "canelle", "carafage", "cassis", "cerise", "chardonnay", "château lagrange", "clos vougeot", "clos vougeot grand cru", "complexité", "corton-charlemagne", "cuir", "côtes-catalanes", "domaine de la pinte", "domaine de trévallon", "domaine gauby", "domaine mongeard-mugneret", "figue", "fleur", "floral", "fourrure", "fruits confits", "fruits rouges et noirs", "gibier", "gras", "grenache blanc", "grenache gris", "grillé", "jura", "languedoc", "louis lequin", "mangue", "merlot", "miel", "minéralité", "mûre", "noix", "pain grillé", "petit verdot", "pinot noir", "poivre", "provence", "raisin sec", "saint-julien", "saint-julien troisième grand cru classé", "salin", "soyeux", "syrah", "tanins", "truffe", "vanille", "violette", "épice"] 
+tags = ["amande", "ananas", "animal", "baies-rouges", "beurre", "bois", "bois-de-santal", "cafe", "cannelle", "cassis", "cerise", "chene", "cuir", "elevage-fut-chene", "epices", "fleurs-colorees", "floral", "fruits-a-noyau", "fruits-tropicaux", "levures", "malolactique", "miel", "mineral", "mures", "noix", "pain", "pin", "poivre", "sous-bois", "toaste", "truffe", "vanille", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-age", "vin-rouge-fruite", "violette"] 
 title = "Dégustation prestige"
 writer = "LeChaps"
 +++

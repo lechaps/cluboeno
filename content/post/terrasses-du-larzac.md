@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2022-04-20T17:30:22+00:00"
-tags = ["aoc", "chocolat", "cinsautl", "complexité", "counoise", "cuir", "foin", "fruits noirs", "fruits rouges", "garrigue", "gibier", "grenache", "grillé", "languedoc", "lledoner pelut", "morrastel", "mourvèdre", "olive", "réglisse", "syrah", "tabac", "tanins", "terret", "truffe", "viande", "vin de garde", "violette", "épice"] 
+tags = ["animal", "bois", "chene", "chocolat", "cuir", "elevage-fut-chene", "epices", "fleurs-colorees", "floral", "foin", "herbes-sechees", "iode", "mineral", "reglisse", "sous-bois", "tabac", "toaste", "truffe", "vegetal", "vin-rouge-age", "violette"] 
 title = "AOC : Terrasses-du-Larzac"
 image = "/img/post/terrasse-du-larzac-1.png"
 writer = "LeChaps"

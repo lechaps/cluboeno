@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-05-27T17:30:22+00:00"
-tags = ["accords mets-vins", "alsace", "bourgogne", "chablis", "champagne", "coquillage", "coquille saint-jacques", "côtes-du-rhône", "entre-deux-mers", "faugères", "hermitage", "meursault", "montlouis-sur-loire", "moules", "muscadet", "mâcon", "palette", "pessac-léognan", "petit-chablis", "picpoul-de-pinet", "provence", "reuilly", "rias baixas", "riesling", "sancerre", "savoie", "sylvaner", "val de loire", "val de loire", "vin-de-savoie"] 
+tags = ["bois", "elevage-fut-chene", "iode", "mineral", "pin"] 
 title = "Les accords mets-vins : les coquillages et crustacés"
 writer = "LeChaps"
 +++

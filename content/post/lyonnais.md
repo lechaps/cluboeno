@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-07-03T17:30:22+00:00"
-tags = ["aligoté", "beaujolais", "chardonnay", "coteaux du lyonnais", "pinot blanc"] 
+tags = ["bois", "elevage-fut-chene", "fumee", "pin", "toaste"] 
 title = "Le lyonnais"
 writer = "LeChaps"
 +++

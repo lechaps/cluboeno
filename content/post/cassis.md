@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-06-01T17:30:22+00:00"
-tags = ["aoc", "cassis", "coquillage", "poisson", "viande blanche"] 
+tags = ["baies-rouges", "cassis", "elevage-fut-chene", "fumee", "toaste", "vin-rouge-fruite"] 
 title = "AOC : Cassis"
 writer = "LeChaps"
 +++

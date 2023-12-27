@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-03-27T17:30:22+00:00"
-tags = ["aoc", "banyuls", "collioure", "grenache", "méditerranée", "pyrénées", "terroir schisteux"] 
+tags = [] 
 title = "AOC : Banyuls"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Histoire"]
 date = "2019-01-23T17:30:22+00:00"
-tags = ["bacchus", "dionysos", "grèce", "romains"] 
+tags = ["herbes-sechees", "the-noir", "vegetal"] 
 title = "La figure de Dionysos"
 writer = "LeChaps"
 +++

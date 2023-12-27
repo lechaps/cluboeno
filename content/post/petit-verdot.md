@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-07-15T17:30:22+00:00"
-tags = ["bordeaux", "cabernet sauvignon", "merlot", "médoc", "petit verdot", "syrah", "tanins", "épice"] 
+tags = ["elevage-fut-chene", "epices"] 
 title = "Le petit verdot"
 writer = "LeChaps"
 +++

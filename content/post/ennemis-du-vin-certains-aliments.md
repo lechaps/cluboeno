@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-02-26T17:30:22+00:00"
-tags = ["bourgogne", "bugey", "champagne", "crémant de bourgogne", "ennemis du vin", "gaillac", "saumur", "sud-ouest", "val de loire"] 
+tags = ["champignon", "defaut", "elevage-fut-chene", "epices", "fumee", "legume", "sous-bois", "toaste", "vegetal", "vin-rouge-age", "vinaigre", "volatile"] 
 title = "Les ennemis du vin : certains aliments"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-03-30T17:30:22+00:00"
-tags = ["accords mets-vins", "bourgogne", "chablis", "châteauneuf-du-pape", "languedoc", "minervois", "muscadet", "poisson", "val de loire", "vallée du rhône"] 
+tags = ["elevage-fut-chene", "epices"] 
 title = "Les accords mets-vins : les poissons cuisinés"
 writer = "LeChaps"
 +++

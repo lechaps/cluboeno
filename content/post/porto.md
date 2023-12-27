@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2022-03-23T17:30:22+00:00"
-tags = ["douro", "porto", "tempranillo", "terroir argilo-schisteux", "tinta amarela", "tinta barroca", "tinta cao", "tinta roriz", "touriga franca", "touriga francesca", "touriga nacional", "vin doux naturel", "vinho verde"] 
+tags = ["baies-rouges", "cerise", "elevage-fut-chene", "epices", "fleurs-colorees", "floral", "fruits-a-noyau", "iode", "mineral", "mures", "rose", "vin-rouge-fruite"] 
 image = "/img/post/porto_02.jpg"
 title = "Découverte des portos"
 writer = "Philippe"

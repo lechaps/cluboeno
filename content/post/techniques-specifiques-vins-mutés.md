@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2020-08-17T17:30:22+00:00"
-tags = ["alsace", "armagnac", "banyuls", "chocolat", "cognac", "coteaux-du-layon", "floc-de-gascogne", "fromage", "grenache", "jerez", "jura", "jurançon", "macabeu", "macvin", "madères", "maury", "muscat", "muscat à petits grains", "noix", "passerillage", "pineau des charentes", "porto", "rancio", "rasteau", "ratafia", "sauternes", "tokay", "vin de liqueur", "vin doux naturel"] 
+tags = ["bois", "chene", "chocolat", "elevage-fut-chene", "fruits-tropicaux", "melon", "noix", "toaste", "vin-blanc-fruité"] 
 title = "Techniques spécifiques : les vins doux"
 image = "/img/post/vins-doux.jpg"
 writer = "LeChaps"

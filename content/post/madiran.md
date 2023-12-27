@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-03-29T17:30:22+00:00"
-tags = ["aoc", "cabernet franc", "charnu", "charpenté", "fer savadou", "madiran", "sud-ouest", "tanins", "tannat"] 
+tags = [] 
 title = "AOC : Madiran"
 writer = "LeChaps"
 +++

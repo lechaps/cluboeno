@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2022-04-13T17:30:22+00:00"
-tags = ["ajaccio", "aleatico", "aneth", "aoc", "aubépine", "barbarossa", "bianco gentile", "biancone", "brustianu", "camomille", "carcaghjolu neru", "carcajolo biancu", "codivarta", "corse", "cualtacciu", "fenouil", "fleur", "floral", "genovese", "malvoisie", "maquis", "merlot", "minustellu", "montanaccia", "murescola", "muresconu", "muriscu", "muscat à petits grains", "muscat-du-cap-corse", "muscateddu", "nielluccio", "noisette", "paga debiti", "pamplemousse", "patrimonio", "poire", "pomme", "prumeste", "pêche", "riminese", "romains", "rossula bianca", "sciaccarello", "souple", "tanins", "vermentino", "vin doux naturel", "vintai", "violette", "épice"] 
+tags = ["abricot", "agrumes", "aneth", "aubépine", "bois", "botrytis", "elevage-fut-chene", "epices", "fleurs-blanches", "fleurs-colorees", "floral", "fruits-a-noyaux", "fruits-a-pepins", "herbes-fraiches", "noisette", "noix", "pamplemousse", "peche", "pin", "poire", "pomme", "reglisse", "vegetal", "vin-blanc-fruité", "violette"] 
 title = "La Corse"
 image = "/img/post/corse_01.jpg"
 writer = "LeChaps"

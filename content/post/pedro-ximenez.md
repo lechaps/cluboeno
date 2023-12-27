@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-07-18T17:30:22+00:00"
-tags = ["café", "condado de huelva", "espagne", "liquoreux", "malaga", "montillo-moriles", "pedro ximénez", "xérès"] 
+tags = ["cafe", "elevage-fut-chene", "toaste"] 
 title = "Le pedro ximénez"
 writer = "LeChaps"
 +++

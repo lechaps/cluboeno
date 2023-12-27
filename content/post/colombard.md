@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-07-19T17:30:22+00:00"
-tags = ["agrume", "armagnac", "bordeaux", "cognac", "colombard", "floral", "vin de pays charentais", "vin de pays des côtes-de-gascogne"] 
+tags = [] 
 title = "Le colombard"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-07-14T17:30:22+00:00"
-tags = ["aoc", "cabernet franc", "chenin", "chinon", "minéralité", "tanins", "val de loire"] 
+tags = [] 
 title = "AOC : chinon"
 writer = "LeChaps"
 +++

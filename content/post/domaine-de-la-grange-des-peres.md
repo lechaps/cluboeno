@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-06-13T17:30:22+00:00"
-tags = ["cabernet sauvignon", "counoise", "domaine de la grange des pères", "garrigue", "languedoc", "mourvèdre", "syrah"] 
+tags = ["bois", "chene", "elevage-fut-chene", "feuille", "herbe-coupee", "herbes-fraiches", "herbes-sechees", "laurier", "thym", "vegetal"] 
 title = "Domaine de la Grange des pères"
 writer = "LeChaps"
 +++

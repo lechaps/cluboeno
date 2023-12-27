@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2018-12-30T20:00:22+00:00"
-tags = ["igp", "vdp", "vin de pays"] 
+tags = [] 
 title = "Les vins de pays"
 writer = "LeChaps"
 +++

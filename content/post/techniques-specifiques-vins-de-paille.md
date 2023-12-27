@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-07-25T17:30:22+00:00"
-tags = ["liquoreux", "noisette", "noix", "passerillé", "vin de paille"] 
+tags = ["bois", "elevage-fut-chene", "noisette", "noix"] 
 title = "Techniques spécifiques : les vins de paille"
 writer = "LeChaps"
 +++

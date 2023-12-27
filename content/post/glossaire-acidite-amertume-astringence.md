@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-03-31T17:30:22+00:00"
-tags = ["acidité", "amertume", "astringence"] 
+tags = ["bois", "elevage-fut-chene"] 
 title = "Glossaire du vin : acidité, amertume et astringence"
 writer = "LeChaps"
 +++

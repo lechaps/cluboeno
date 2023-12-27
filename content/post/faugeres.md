@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-07-22T17:30:22+00:00"
-tags = ["agrume", "aoc", "café", "carignan", "cinsault", "faugères", "fruits exotiques", "grenache", "languedoc", "mourvèdre", "réglisse", "syrah", "terroir schisteux", "épice"] 
+tags = ["cafe", "elevage-fut-chene", "epices", "reglisse", "toaste"] 
 title = "AOC : faugères"
 writer = "LeChaps"
 +++

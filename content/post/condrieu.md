@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-03T17:30:22+00:00"
-tags = ["abricot", "aoc", "condrieu", "floral", "poisson", "terroir granitique", "vendanges tardives", "viognier", "violette"] 
+tags = ["abricot", "botrytis", "elevage-fut-chene", "fleurs-colorees", "floral", "fumee", "toaste", "vin-blanc-fruité", "violette"] 
 title = "AOC : Condrieu"
 writer = "LeChaps"
 +++

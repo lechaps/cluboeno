@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-06-04T17:30:22+00:00"
-tags = ["alsace", "aoc", "charpenté", "dessert", "fromage", "gewurztraminer", "moelleux", "épice"] 
+tags = ["bois", "elevage-fut-chene", "epices", "pin"] 
 title = "AOC : Gewurztraminer"
 writer = "LeChaps"
 +++

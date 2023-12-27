@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-02-07T17:30:22+00:00"
-tags = ["aoc", "chenin", "mousseux", "pétillant", "touraine", "val de loire", "vouvray"] 
+tags = ["acacia", "beurre", "elevage-fut-chene", "epices", "fleurs-blanches", "fleurs-colorees", "floral", "gelee-de-coin", "levures", "malolactique", "miel", "pain", "rose", "vin-blanc-age"] 
 title = "AOC Vouvray"
 writer = "LeChaps"
 +++

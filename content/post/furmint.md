@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-01-31T17:30:22+00:00"
-tags = ["acidité", "afrique du sud", "allemagne", "argentine", "autriche", "botrytis", "croatie", "furmint", "hongrie", "macédoine", "palette", "roumanie", "russie", "syrie", "tokaj", "tokay"] 
+tags = [] 
 title = "Le furmint"
 writer = "LeChaps"
 +++

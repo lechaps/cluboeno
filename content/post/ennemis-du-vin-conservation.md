@@ -1,7 +1,7 @@
 +++
 categories = ["Cave"]
 date = "2019-01-21T17:30:22+00:00"
-tags = ["ennemis du vin", "goût de bouchon", "lumière", "oxydation", "vibration"] 
+tags = ["bois", "bouchon", "defaut", "elevage-fut-chene", "fruits-a-pepins", "oxyde", "poire", "pomme", "vin-blanc-fruité"] 
 title = "Les ennemis dans la conservation du vin"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-02-14T17:30:22+00:00"
-tags = ["amertume", "animal", "arômes primaires", "arômes secondaires", "arômes tertiaire", "banane", "beurre", "dégustation", "empyreumatique", "floral", "fruité", "intensité", "nez", "oeil", "robe", "vin ouvert", "végétale"] 
+tags = ["abricot", "acacia", "agrumes", "amande", "ananas", "aneth", "animal", "aubépine", "baies-blanches", "baies-rouges", "banane", "beurre", "bois", "botrytis", "bouchon", "cafe", "cannelle", "caramel", "cassis", "cedre", "cerise", "champignon", "chene", "chevrefeuille", "chocolat", "citron", "citron-vert", "clou-de-girofle", "cuir", "defaut", "elevage-fut-chene", "epices", "eucalyptus", "feuille", "feuille-de-cassis", "fleurs-blanches", "fleurs-colorees", "floral", "foin", "fortifie", "fraise", "fruit-de-la-passion", "fruits-a-noyau", "fruits-a-noyaux", "fruits-a-pepins", "fruits-tropicaux", "fumee", "goudron", "groseille-a-maquereau", "herbe-coupee", "herbes-fraiches", "herbes-sechees", "iode", "jasmin", "lavande", "legume", "levures", "litchi", "malolactique", "melon", "menthe", "miel", "mineral", "mures", "noisette", "noix", "noix-de-muscade", "oxyde", "pain", "pamplemousse", "peche", "pin", "poire", "poivre", "poivron", "pomme", "pomme-verte", "prune", "pruneau", "reglisse", "rose", "silex", "sous-bois", "tabac", "tilleul", "toaste", "tomate", "vanille", "vegetal", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-age", "vin-rouge-fruite", "vinaigre", "violette", "volatile"] 
 title = "Le cadre de dégustation"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Histoire"]
 date = "2019-06-22T17:30:22+00:00"
-tags = ["gaulois", "romains"] 
+tags = ["bouchon", "defaut", "elevage-fut-chene", "epices"] 
 title = "Le vin chez les Romains"
 writer = "LeChaps"
 +++

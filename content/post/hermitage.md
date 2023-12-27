@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-06T17:30:22+00:00"
-tags = ["aoc", "gibier", "hermitage", "tanins", "vallée du rhône", "viande"] 
+tags = ["elevage-fut-chene", "fumee", "toaste"] 
 title = "AOC : Hermitage"
 writer = "LeChaps"
 +++

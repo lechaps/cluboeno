@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-02-17T17:30:22+00:00"
-tags = ["beurot", "bourgogne", "bourgogne-côte-saint-jacques", "marsannay rosé", "pinot gris"] 
+tags = ["abricot", "bois", "botrytis", "elevage-fut-chene", "fumee", "miel", "pin", "sous-bois", "toaste", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-age"] 
 title = "Le Beurot"
 writer = "Thomas"
 +++

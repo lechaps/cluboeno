@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-14T17:30:22+00:00"
-tags = ["aoc", "corse", "fruits noirs", "fruits rouges", "nielluccio", "patrimonio", "vermentino", "épice"] 
+tags = ["elevage-fut-chene", "epices"] 
 title = "AOC : Patrimonio"
 writer = "LeChaps"
 +++

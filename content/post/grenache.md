@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-06-20T17:30:22+00:00"
-tags = ["chypres", "châteauneuf-du-pape", "cuir", "espagne", "fraise", "framboise", "gigondas", "grenache", "grèce", "israël", "italie", "languedoc", "laurier", "mûre", "navarre", "penediès", "poivre", "poivron", "puissant", "rioja", "réglisse", "vallée du rhône", "épice"] 
+tags = ["bois", "elevage-fut-chene", "epices", "feuille", "herbe-coupee", "herbes-fraiches", "herbes-sechees", "laurier", "legume", "poivron", "reglisse", "vegetal"] 
 title = "Le grenache"
 writer = "LeChaps"
 +++

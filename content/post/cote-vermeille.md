@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-01-19T17:30:22+00:00"
-tags = ["banyuls", "collioure", "côte vermeille", "muscat", "rivesaltes"] 
+tags = ["acacia", "fleurs-blanches", "floral", "fruits-a-noyaux", "peche", "vin-blanc-fruité"] 
 title = "La côte vermeille"
 writer = "LeChaps"
 +++

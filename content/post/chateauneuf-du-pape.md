@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-31T17:30:22+00:00"
-tags = ["aoc", "charpenté", "châteauneuf-du-pape", "cinsault", "grenache", "mourvèdre", "syrah", "terroir de galets roulés"] 
+tags = ["baies-rouges", "elevage-fut-chene", "epices", "fleurs-colorees", "floral", "herbes-sechees", "mures", "poivre", "rose", "the-noir", "vegetal", "vin-rouge-fruite"] 
 title = "AOC : Châteauneuf-du-pape"
 image = "/img/post/chateauneuf-du-pape_1.jpg"
 writer = "Philippe"

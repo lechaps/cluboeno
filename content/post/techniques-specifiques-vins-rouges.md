@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-07-23T17:30:22+00:00"
-tags = ["anthocyane", "assemblage", "champagne", "débourbage", "décuvage", "effervescent", "embouteillage", "encuvage", "enzymage", "fermentation", "fermentation alcoolique", "fermentation malolactique", "foulage", "levurage", "macération", "moût", "oeuf pourri", "pigeage", "pressurage", "rafle", "remontage", "souffre", "soutirage", "sulfitage", "tanins", "vin de goutte", "vin de presse", "écoulage", "égrappage", "éraflage"] 
+tags = ["beurre", "bois", "bouchon", "defaut", "elevage-fut-chene", "herbes-sechees", "malolactique", "oxyde", "pin", "the-noir", "vegetal"] 
 title = "Techniques spécifiques : les vins rouges"
 image = "/img/post/technique-vin-rouge.jpg"
 writer = "Philippe"

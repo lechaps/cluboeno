@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-05-10T17:30:22+00:00"
-tags = ["irouléguy", "muscadet-sèvre-et-maine", "sud-ouest", "val de loire"] 
+tags = [] 
 title = "Le piège de la sardine à l'huile"
 writer = "LeChaps"
 +++

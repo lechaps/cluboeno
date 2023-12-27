@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-02-09T17:30:22+00:00"
-tags = ["agrume", "argentine", "beurre", "blanquette de limoux", "bourgogne", "californie", "chili", "crémant", "espagne", "italie", "languedoc", "pain grillé", "pomme", "pêche", "états-unis"] 
+tags = ["beurre", "elevage-fut-chene", "levures", "malolactique", "miel", "noisette", "noix", "pain", "vin-blanc-age"] 
 title = "Le chardonnay"
 writer = "LeChaps"
 +++

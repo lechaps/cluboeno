@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-02-02T17:30:22+00:00"
-tags = ["bordeaux", "café", "californie", "cerise", "cèdre", "frioul", "graves", "italie", "menthe", "merlot", "médoc", "ombrie", "pomerol", "prune"] 
+tags = [] 
 title = "Le merlot"
 writer = "LeChaps"
 +++

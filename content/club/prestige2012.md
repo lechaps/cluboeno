@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2012-10-13T17:30:22+00:00"
-tags = ["agrume", "amande", "amertume", "aubépine", "bordeaux", "bourgogne", "cabernet franc", "cabernet sauvignon", "chardonnay", "clos-saint-denis grand cru", "complexité", "counoise", "domaine bernard bonin", "domaine cauhapé", "domaine de la grange des pères", "domaine didier daguenau", "domaine pierre amiot", "eau-de-vie", "floral", "fruits confits", "gras", "jurançon", "languedoc", "merlot", "meursault", "meursault premier cru", "miel", "mission haut-brion", "mourvèdre", "orange", "pessac-léognan", "petit manseng", "pinot noir", "pomme", "pouilly-fumé", "sauvignon", "sud-ouest", "syrah", "tension", "truffe", "val de loire", "vin de pays de l'hérault", "végétale", "épice"] 
+tags = ["abricot", "amande", "aubépine", "baies-rouges", "bois", "botrytis", "chene", "ecorce-d-orange", "elevage-fut-chene", "epices", "fleurs-blanches", "floral", "fruits-a-pepins", "fumee", "herbe-coupee", "herbes-fraiches", "herbes-sechees", "miel", "mures", "noix", "pin", "pomme", "sous-bois", "the-noir", "toaste", "truffe", "vegetal", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-age", "vin-rouge-fruite"] 
 title = "Dégustation prestige"
 writer = "LeChaps"
 +++

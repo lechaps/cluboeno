@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-01-17T17:30:22+00:00"
-tags = ["abricot", "altesse", "bergeron", "bugey", "chasselas", "effervescent", "fleur blanche", "floral", "gamay", "jacquère", "jura", "miel", "molette", "mondeuse", "méthode ancestrale", "perlant", "pinot noir", "poulsard", "roussanne", "roussette", "roussette-de-savoie", "savoie", "seyssel", "vin-de-savoie", "épice"] 
+tags = ["abricot", "bois", "botrytis", "elevage-fut-chene", "epices", "miel", "pin", "vin-blanc-age", "vin-blanc-fruité"] 
 title = "La Savoie"
 writer = "LeChaps"
 +++

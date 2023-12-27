@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-05-26T17:30:22+00:00"
-tags = ["astringence", "french paradox", "tanins"] 
+tags = [] 
 title = "Les tanins"
 writer = "LeChaps"
 +++

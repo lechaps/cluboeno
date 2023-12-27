@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2020-08-25T17:30:22+00:00"
-tags = ["accords mets-vins", "alsace", "foie gras", "jacques puffeney", "jura", "liquoreux", "monbazillac", "sauternes", "trousseau", "vendanges tardives", "vouvray"] 
+tags = ["baies-rouges", "bois", "cassis", "cerise", "elevage-fut-chene", "epices", "fleurs-colorees", "floral", "fraise", "fruits-a-noyau", "herbe-coupee", "herbes-fraiches", "herbes-sechees", "mineral", "pin", "poivre", "rose", "toast", "toaste", "vegetal", "vin-rouge-fruite"] 
 title = "Au défi : un seul vin pour le foie gras et le carpaccio de boeuf"
 image = "/img/post/foisgras-carpaccio-1.jpg"
 writer = "LeChaps"

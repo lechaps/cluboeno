@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-02-03T17:30:22+00:00"
-tags = ["beaujolais", "beaujolais-villages", "brouilly", "chardonnay", "chenas", "chiroubles", "côte-de-brouilly", "fleurie", "gamay", "juliénas", "morgon", "moulin-à-vent", "régnié", "saint-amour", "terroir granitique", "terroir schisteux", "villefranche-sur-saône"] 
+tags = ["banane", "bois", "elevage-fut-chene", "fruits-tropicaux", "vin-blanc-fruité", "vin-rouge-fruite"] 
 title = "Le Beaujolais"
 writer = "LeChaps"
 +++

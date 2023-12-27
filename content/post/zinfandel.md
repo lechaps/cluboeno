@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-01-18T17:30:22+00:00"
-tags = ["afrique du sud", "australie", "californie", "cassis", "framboise", "italie", "pouille", "zinfandel", "états-unis"] 
+tags = ["baies-rouges", "bois", "cassis", "elevage-fut-chene", "vin-rouge-fruite"] 
 title = "Le zinfandel"
 writer = "LeChaps"
 +++

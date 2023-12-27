@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-03-15T17:30:22+00:00"
-tags = ["barbarossa", "corse", "fruits rouges", "grenache", "nielluccio", "sciaccarello"] 
+tags = ["elevage-fut-chene", "epices", "poivre"] 
 title = "Le sciaccarello"
 writer = "LeChaps"
 +++

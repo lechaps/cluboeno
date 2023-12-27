@@ -2,7 +2,7 @@
 categories = ["Dégustations"]
 date = "2019-04-04T17:30:22+00:00"
 image = "img/post/poker.jpg"
-tags = ["boisé", "margaux", "suave", "tanins arrondis"] 
+tags = ["beurre", "bois", "elevage-fut-chene", "epices", "levures", "malolactique", "pain", "vanille"] 
 title = "Coup de poker !"
 writer = "Thomas"
 +++

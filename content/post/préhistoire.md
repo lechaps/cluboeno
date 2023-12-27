@@ -1,7 +1,7 @@
 +++
 categories = ["Histoire"]
 date = "2019-01-02T17:30:22+00:00"
-tags = ["consommation"] 
+tags = ["bois", "elevage-fut-chene", "miel", "vin-blanc-age"] 
 title = "La préhistoire : la consommation de vin"
 writer = "LeChaps"
 +++

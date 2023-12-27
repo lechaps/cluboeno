@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-07-12T17:30:22+00:00"
-tags = ["aoc", "bonnes-mares", "bourgogne", "chambolle-musigny", "côte-de-nuits", "pinot noir"] 
+tags = ["fleurs-colorees", "floral", "rose"] 
 title = "AOC chambolle-musigny"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-03-16T17:30:22+00:00"
-tags = ["floraison", "vendange"] 
+tags = ["iode", "mineral"] 
 title = "La vendange"
 writer = "LeChaps"
 +++

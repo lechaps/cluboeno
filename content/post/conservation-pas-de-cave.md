@@ -1,7 +1,7 @@
 +++
 categories = ["Cave"]
 date = "2019-03-12T17:30:22+00:00"
-tags = ["armoires"] 
+tags = [] 
 title = "La conservation : vous n'avez pas de cave"
 writer = "LeChaps"
 +++

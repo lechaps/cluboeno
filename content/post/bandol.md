@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-01-26T17:30:22+00:00"
-tags = ["aoc", "bandol", "canelle", "cerise noire", "cinsault", "complexité", "grenache", "mourvèdre", "poivre", "provence", "tanins", "ugni", "vanille", "vendange manuelle"] 
+tags = ["cannelle", "cerise", "elevage-fut-chene", "epices", "fruits-a-noyau", "poivre", "vanille", "vin-rouge-fruite"] 
 title = "AOC : Bandol"
 writer = "LeChaps"
 +++

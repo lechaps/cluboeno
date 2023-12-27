@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-07-11T17:30:22+00:00"
-tags = ["accords mets-vins", "alsace", "beaujolais", "bourgogne", "côtes-du-rhône", "gamay", "gouleyant", "pinot gris", "saint-véran", "vallée du rhône"] 
+tags = ["beurre", "bois", "elevage-fut-chene", "legume", "malolactique", "pin", "toast", "toaste", "vegetal"] 
 title = "Les accords mets-vins : les entrées"
 writer = "LeChaps"
 +++

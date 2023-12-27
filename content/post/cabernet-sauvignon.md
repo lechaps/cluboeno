@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-07-10T17:30:22+00:00"
-tags = ["australie", "bordeaux", "cabernet sauvignon", "californie", "cassis", "cerise", "charpenté", "chili", "cèdre", "graves", "languedoc", "médoc", "mûre", "poivron", "poivron vert", "provence", "réglisse", "saumur", "sud-ouest", "tabac", "tanins", "val de loire"] 
+tags = ["baies-rouges", "bois", "cassis", "cedre", "elevage-fut-chene", "epices", "herbes-sechees", "legume", "poivron", "reglisse", "tabac", "vegetal", "vin-rouge-fruite"] 
 title = "Le cabernet sauvignon"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-05-11T17:30:22+00:00"
-tags = ["abricot", "acacia", "amande", "coing", "complexité", "condrieu", "côte-rôtie", "côtes-du-rhône", "iris", "languedoc", "miel", "musc", "noisette", "poire", "pêche", "vallée du rhône", "violette", "épice"] 
+tags = ["abricot", "acacia", "amande", "botrytis", "elevage-fut-chene", "epices", "fleurs-blanches", "fleurs-colorees", "floral", "fruits-a-noyaux", "fruits-a-pepins", "gelee-de-coin", "noisette", "noix", "peche", "poire", "vin-blanc-age", "vin-blanc-fruité", "violette"] 
 title = "Le viognier"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Histoire"]
 date = "2020-03-03T17:30:22+00:00"
-tags = ["consommation", "france", "économie"] 
+tags = ["bois", "elevage-fut-chene"] 
 title = "La consommation de vin en supermarché"
 image = "/img/post/conso-supermarche-01.jpg"
 writer = "LeChaps"

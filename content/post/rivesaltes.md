@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-08T17:30:22+00:00"
-tags = ["aoc", "cassis", "cesire", "fruits rouges", "grenache", "macabeu", "malvoisie", "muscat", "mûre", "rancio", "tanins", "torréfaction", "vin doux naturel"] 
+tags = ["baies-rouges", "cassis", "cerise", "fruits-a-noyau", "mures", "vin-rouge-fruite"] 
 title = "AOC : Rivesaltes"
 writer = "LeChaps"
 +++

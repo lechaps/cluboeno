@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-07-29T17:30:22+00:00"
-tags = ["goût de bouchon"] 
+tags = ["bouchon", "defaut"] 
 title = "Le goût de bouchon"
 writer = "LeChaps"
 +++

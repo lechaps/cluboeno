@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-02-28T17:30:22+00:00"
-tags = ["accords mets-vins", "animal", "bordeaux", "bourgogne", "cahors", "corbières", "fitou", "fronsac", "fruits confits", "languedoc", "minervois", "médoc", "pic-saint-loup", "saint-joseph", "saint-émilion", "santenay", "tanins", "épice"] 
+tags = ["elevage-fut-chene", "epices"] 
 title = "Les accords mets-vins : le gibier"
 writer = "LeChaps"
 +++

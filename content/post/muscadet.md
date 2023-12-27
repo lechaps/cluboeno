@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2020-10-10T17:30:22+00:00"
-tags = ["aoc", "lie", "melon de bourgogne", "muscadet", "patrimonio", "val de loire", "vermentino", "épice"] 
+tags = ["bois", "defaut", "elevage-fut-chene", "fruits-tropicaux", "iode", "melon", "mineral", "oxyde", "pin", "vin-blanc-fruité"] 
 title = "AOC : Muscadet"
 image = "/img/post/muscadet.jpg"
 writer = "LeChaps"

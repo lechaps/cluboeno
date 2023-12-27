@@ -1,7 +1,7 @@
 +++
 categories = ["Histoire"]
 date = "2019-05-24T17:30:22+00:00"
-tags = ["afrique du sud", "amérique du nord", "amérique du sud", "bordeaux", "californie", "canada", "chili", "mexique", "états-unis"] 
+tags = [] 
 title = "L'expansion dans le nouveau monde"
 writer = "LeChaps"
 +++

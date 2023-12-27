@@ -1,7 +1,7 @@
 +++
 categories = ["Histoire"]
 date = "2019-01-22T17:30:22+00:00"
-tags = ["pharaon", "égypte"] 
+tags = [] 
 title = "Le vin dans l'Egypte ancienne"
 writer = "LeChaps"
 +++

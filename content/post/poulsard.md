@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-03-20T17:30:22+00:00"
-tags = ["animal", "fourrure", "fromage", "jura", "poulsard", "viande", "volaille"] 
+tags = ["defaut", "fruits-a-noyau", "oignon", "prune", "sulfites", "vin-rouge-fruite"] 
 title = "Le poulsard"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-06-17T17:30:22+00:00"
-tags = ["aragon", "cariñena", "catalogne", "espagne", "grenache", "priorato", "rioja", "tanins", "tempranillo"] 
+tags = [] 
 title = "Le cariñena"
 writer = "LeChaps"
 +++

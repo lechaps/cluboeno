@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-06-15T17:30:22+00:00"
-tags = ["abats", "accords mets-vins", "andouillette", "cervelle d'agneau", "crozes-hermitage", "côtes-du-jura", "foie de veau", "jura", "marcillac", "pieds de porc", "ris de veau", "rognons", "sud-ouest", "tanins souples", "tripes", "tête de veau", "vallée du rhône"] 
+tags = ["bois", "elevage-fut-chene"] 
 title = "Les accords mets-vins : les abats"
 writer = "LeChaps"
 +++

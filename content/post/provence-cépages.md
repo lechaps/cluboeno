@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-05-25T17:30:22+00:00"
-tags = ["bourboulenc", "cabernet sauvignon", "carignan", "cinsault", "clairette", "doillon", "grenache", "mourvèdre", "provence", "rolle", "syrah", "sémillon", "tibouren", "ugni blanc", "vermentino"] 
+tags = ["baies-rouges", "cannelle", "cassis", "elevage-fut-chene", "epices", "fleurs-colorees", "floral", "fruits-a-pepins", "legume", "miel", "poire", "poivre", "poivron", "vanille", "vegetal", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-fruite", "violette"] 
 title = "Les cépages de la Provence"
 writer = "LeChaps"
 +++

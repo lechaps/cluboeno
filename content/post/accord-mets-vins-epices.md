@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-06-21T17:30:22+00:00"
-tags = ["accords mets-vins", "afrique du sud", "chenin", "gewurztraminer", "minéralité", "sauvignon", "uruguay", "viognier", "épice"] 
+tags = ["elevage-fut-chene", "epices"] 
 title = "Les accords mets-vins : les épices et le vin"
 writer = "LeChaps"
 +++

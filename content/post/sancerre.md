@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-06-24T17:30:22+00:00"
-tags = ["aoc", "pinot noir", "sancerre", "sauvignon", "val de loire"] 
+tags = ["bois", "elevage-fut-chene", "pin"] 
 title = "AOC : Sancerre"
 writer = "LeChaps"
 +++

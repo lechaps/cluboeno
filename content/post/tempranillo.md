@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-07-07T17:30:22+00:00"
-tags = ["cabernet sauvignon", "espagne", "pinot noir", "rioja", "tanins", "tempranillo"] 
+tags = ["bois", "chene", "elevage-fut-chene", "pin"] 
 title = "Le tempranillo"
 writer = "LeChaps"
 +++

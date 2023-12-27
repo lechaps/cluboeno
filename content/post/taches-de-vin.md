@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-05-04T17:30:22+00:00"
-tags = ["cuir", "eau", "tanins", "vinaigre"] 
+tags = ["animal", "cuir", "defaut", "vin-rouge-age", "vinaigre", "volatile"] 
 title = "Comment nettoyer les tâches de vin ?"
 writer = "LeChaps"
 +++

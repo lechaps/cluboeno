@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-07-04T17:30:22+00:00"
-tags = ["accords mets-vins", "bordeaux", "bourgogne", "côtes-du-roussillon", "entre-deux-mers", "languedoc", "minéralité", "mâcon", "poisson", "pouilly-fumé", "sancerre", "tavel", "val de loire"] 
+tags = ["elevage-fut-chene", "epices", "fleurs-colorees", "floral", "fumee", "mineral", "rose", "toaste"] 
 title = "Les accords mets-vins : les poisson crus et les poissons fumés"
 writer = "LeChaps"
 +++

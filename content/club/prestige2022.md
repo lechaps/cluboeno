@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2022-09-30T17:30:22+00:00"
-tags = ["abricot", "bordeaux", "bourgogne", "chablis", "chablis premier cru", "champagne", "château d’yquem", "château valendraud", "domaine paul jaboulet ainé", "domaine vincent dauvissat", "dégustation", "expressif", "fermentation", "finesse", "floral", "fruits exotiques", "fruits noirs", "fruits rouges", "graphite", "grillé", "herbacé", "hermitage", "menthol", "miel", "minéral", "nez", "oeil", "pierre à fusil", "pinot", "rondeur", "rose de jeanne", "réglisse", "saint-émilion", "saint-émilion premier grand cru classé", "sauternes", "sauternes premier cru supérieur", "sous-bois", "tanins", "tanins fondus", "vallée du rhône", "vanille", "velour", "vin de garage", "élégant", "épice"]
+tags = ["bois", "elevage-fut-chene", "epices", "fleurs-colorees", "floral", "herbes-fraiches", "menthe", "miel", "mineral", "pin", "reglisse", "rose", "vanille", "vegetal", "vin-blanc-age"]
 title = "Dégustation prestige"
 writer = "LeChaps"
 +++

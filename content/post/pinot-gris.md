@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2020-08-16T17:30:22+00:00"
-tags = ["allemagne", "alsace", "australie", "bourgogne", "canada", "charpenté", "complexité", "coteaux-d'ancenis", "crimée", "hongrie", "italie", "malvoisie", "nouvelle-zélande", "poire", "pêche", "québec", "reuilly", "suisse", "tokay", "val de loire", "valais", "vendanges tardives", "états-unis"] 
+tags = ["bois", "elevage-fut-chene", "fruits-a-noyaux", "fruits-a-pepins", "fumee", "iode", "mineral", "peche", "pin", "poire", "sous-bois", "toaste", "vin-blanc-fruité", "vin-rouge-age"] 
 title = "Le pinot gris"
 writer = "LeChaps"
 +++

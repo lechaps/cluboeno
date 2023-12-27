@@ -1,7 +1,7 @@
 +++
 categories = ["Cave"]
 date = "2019-02-18T17:30:22+00:00"
-tags = ["carnet de dégustation", "livre de cave"] 
+tags = [] 
 title = "Carnet de dégustation"
 writer = "Thomas"
 +++

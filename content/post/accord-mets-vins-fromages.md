@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-03-19T17:30:22+00:00"
-tags = ["accords mets-vins", "alsace", "anjou", "armagnac", "banyuls", "beaujolais", "beurre", "bourgogne", "brie", "camembert", "chardonnay", "côtes-du-rhône villages", "fromage", "fronton", "gaillac", "gewurztraminer", "jura", "langres", "liquoreux", "livarot", "macon", "madiran", "marc de bourgogne", "maroilles", "maury", "mont d'or", "montlouis-sur-loire", "munster", "noisette", "pont-l'évêque", "pouilly-fumé", "provence", "rivesaltes", "rivesaltes", "sancerre", "sauvignon", "savagnin", "souple", "touraine", "val de loire", "vin doux naturel", "épice", "époisses"] 
+tags = ["beurre", "bois", "elevage-fut-chene", "epices", "fumee", "malolactique", "noisette", "noix", "toaste"] 
 title = "Les accords mets-vins : les fromages"
 writer = "LeChaps"
 +++

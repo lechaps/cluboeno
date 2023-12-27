@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-21T17:30:22+00:00"
-tags = ["aoc", "cassis", "cerise", "chardonnay", "charpenté", "cuir", "fraise", "gibier", "nuits-saint-georges", "pinot noir", "tanins", "truffe", "équilibre"] 
+tags = ["animal", "baies-rouges", "bois", "cassis", "cerise", "cuir", "elevage-fut-chene", "fraise", "fruits-a-noyau", "pin", "sous-bois", "truffe", "vin-rouge-age", "vin-rouge-fruite"] 
 title = "AOC : Nuits-saint-georges"
 writer = "LeChaps"
 +++

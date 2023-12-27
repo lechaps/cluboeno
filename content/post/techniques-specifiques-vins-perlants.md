@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-03-13T17:30:22+00:00"
-tags = ["alsace", "gaillac", "muscadet", "perlant", "savoie", "sud-ouest", "suisse", "val de loire"] 
+tags = ["bouchon", "defaut"] 
 title = "Techniques spécifiques : les vins perlants"
 writer = "LeChaps"
 +++

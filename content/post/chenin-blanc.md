@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-06-25T17:30:22+00:00"
-tags = ["acacia", "afrique du sud", "ananas", "anjou", "anjou-coteaux de loire", "argentine", "australie", "blanquette de limoux", "bonnezeaux", "botrytis", "boudin blanc", "brioche", "californie", "chaume", "chenin", "chinon", "cognac", "coing", "coteaux de l'aubance", "coteaux de saumur", "coteaux du loir", "coteaux du vendômois", "coteaux-du-layon", "crustacé", "crème fraîche", "crémant de loire", "espagne", "jasnières", "languedoc", "massepain", "miel", "minéralité", "montlouis-sur-loire", "muffin", "nouvelle-zélande", "pineau de loire", "poisson", "pomme", "porto", "prune", "pêche", "ris de veau", "saumur", "saumur mousseaux", "savennières", "sucre d'orge", "sémillon", "touraine amboise", "touraine azay-le-rideau", "touraine mesland", "touraine mousseux", "tête de veau", "val de loire", "vouvray", "xérès", "états-unis"] 
+tags = ["acacia", "ananas", "beurre", "bois", "elevage-fut-chene", "fleurs-blanches", "floral", "fruits-a-noyau", "fruits-a-noyaux", "fruits-a-pepins", "fruits-tropicaux", "gelee-de-coin", "levures", "malolactique", "miel", "mineral", "pain", "peche", "pin", "pomme", "prune", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-fruite"] 
 image = "/img/post/chenin-monde.jpg"
 title = "Le chenin blanc"
 writer = "LeChaps"

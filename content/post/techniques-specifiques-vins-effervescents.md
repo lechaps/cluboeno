@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2023-05-01T17:30:22+00:00"
-tags = ["aligoté", "alsace", "altesse", "auxerrois", "beurre", "bordeaux", "bourgogne", "cabernet franc", "champagne", "chardonnay", "chenin", "clairette", "crémant", "die", "effervescent", "fermentation", "fermentation alcoolique", "gamay", "grolleau", "jacquère", "jura", "limoux", "mauzac", "merlot", "mousseux", "muscat", "méthode ancestrale", "méthode champenoise", "méthode de la cuve close", "noisette", "orbois", "perlant", "pineau d'aunis", "pinot blanc", "pinot gris", "pinot noir", "poulsard", "pétillant", "riesling", "sauvignon", "savagnin", "savoie", "semillon", "trousseau", "vallée de la loire"] 
+tags = ["beurre", "bois", "elevage-fut-chene", "levures", "malolactique", "noisette", "noix", "pain", "pin"] 
 title = "Techniques spécifiques : les vins effervescents et crémants"
 writer = "LeChaps"
 +++

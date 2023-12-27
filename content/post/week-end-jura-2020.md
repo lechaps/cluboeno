@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2020-10-05T17:30:22+00:00"
-tags = ["chardonnay", "château-chalon", "crémant du jura", "côtes-du-jura", "domaine de montbourgeau", "domaine fumey chatelain", "domaine macle", "françois mossu", "jacques puffeney", "jura", "l'étoile", "pinot noir", "poulsard", "savagnin", "trousseau", "vin de voile", "vin jaune"] 
+tags = ["abricot", "agrumes", "amande", "ananas", "baies-rouges", "banane", "beurre", "bois", "botrytis", "caramel", "cassis", "cerise", "champignon", "chevrefeuille", "chocolat", "citron", "defaut", "elevage-fut-chene", "epices", "fleurs-blanches", "fleurs-colorees", "floral", "fraise", "fruits-a-noyau", "fruits-a-noyaux", "fruits-a-pepins", "fruits-tropicaux", "fumee", "gelee-de-coin", "herbes-fraiches", "malolactique", "melon", "menthe", "mineral", "mures", "noisette", "noix", "oxyde", "peche", "pin", "poivre", "pomme", "pomme-verte", "prune", "reglisse", "rose", "sauce-soja", "sous-bois", "toaste", "vegetal", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-age", "vin-rouge-fruite", "vinaigre", "violette", "volatile"] 
 title = "Un week-end, Jura où tu iras"
 image = "/img/post/jura_macle-vigne_02.png"
 writer = "Philippe"

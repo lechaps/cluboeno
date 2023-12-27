@@ -1,7 +1,7 @@
 +++
 categories = ["Histoire"]
 date = "2019-06-12T17:30:22+00:00"
-tags = ["cabernet sauvignon", "californie", "cave de la madeleine", "chardonnay", "château montelena", "jugement de paris", "napa valley", "oenologie", "stag's leap wine cellar", "steven spurrier", "états-unis"] 
+tags = [] 
 title = "Le jugement de Paris"
 writer = "LeChaps"
 +++

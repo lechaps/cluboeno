@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-07-21T17:30:22+00:00"
-tags = ["argentine", "exubérance", "muscat", "torrontes"] 
+tags = [] 
 title = "Le torrontes"
 writer = "LeChaps"
 +++

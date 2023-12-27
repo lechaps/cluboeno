@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2023-05-15T17:30:22+00:00"
-tags = ["aviet", "chardonnay", "château-chalon", "crémant du jura", "côtes-du-jura", "domaine de montbourgeau", "domaine macle", "domaine philippe vandelle", "jacques puffeney", "jura", "l'étoile", "overnoy", "pinot noir", "poulsard", "savagnin", "trousseau", "vin de voile", "vin jaune"] 
+tags = ["agrumes", "amande", "beurre", "bois", "caramel", "cerise", "citron", "defaut", "elevage-fut-chene", "epices", "fleurs-colorees", "floral", "fruits-a-noyau", "fruits-a-pepins", "levures", "malolactique", "mineral", "noisette", "noix", "oxyde", "pain", "pin", "pomme", "rose", "toast", "toaste", "vegetal", "vin-blanc-fruité", "vin-rouge-fruite", "vinaigre", "volatile"] 
 title = "Un week-end, Jura où tu iras"
 image = "/img/post/jura_vandelle-groupe.jpg"
 writer = "Philippe"

@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-03-07T17:30:22+00:00"
-tags = ["bouchon", "carafage", "chambrage", "décantation", "oxydation", "température"] 
+tags = ["bouchon", "defaut", "herbes-sechees", "oxyde", "the-noir", "vegetal"] 
 title = "Les règles du service"
 writer = "LeChaps"
 +++

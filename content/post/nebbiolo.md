@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-02-25T17:30:22+00:00"
-tags = ["acidité", "barbaresco", "barolo", "carafage", "italie", "nebbiolo", "tanins", "états-unis"] 
+tags = [] 
 title = "Le nebbiolo"
 writer = "LeChaps"
 +++

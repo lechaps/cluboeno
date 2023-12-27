@@ -1,7 +1,7 @@
 +++
 categories = ["Viticulture"]
 date = "2019-07-17T17:30:22+00:00"
-tags = ["bourgeon"] 
+tags = [] 
 title = "Gestion de la canopée : trois concepts"
 writer = "LeChaps"
 +++

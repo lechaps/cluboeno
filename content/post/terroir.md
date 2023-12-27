@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-07-28T17:30:22+00:00"
-tags = ["calcaire", "terroir", "terroir argilo-calcaire", "terroir argilo-graveleux", "terroir calcaro-marneux", "terroir crayeux", "terroir granitique", "terroir schisteux"] 
+tags = ["floral", "mineral"] 
 title = "Qu'est-ce que le terroir ?"
 writer = "LeChaps"
 +++

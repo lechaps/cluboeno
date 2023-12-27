@@ -2,7 +2,7 @@
 categories = ["Dégustations"]
 date = "2019-06-09T17:30:22+00:00"
 image = "img/post/la-clape.jpg"
-tags = ["alicante-bouschet", "amertume", "animal", "bordeaux", "bourboulenc", "carignan", "carthagène", "cazes", "chardonnay", "château champs des soeurs", "château giscours", "château la négly", "château pech redon", "corbières", "cuir", "domaine mire l'étang", "finale épicée", "grenache", "grenadine", "joncas", "la clape", "languedoc", "miel", "mistel", "mourvèdre", "muscat", "rosé", "roussanne", "sirop d'orgeat", "syrah", "tanins", "tavel", "terrasses-du-larzac", "vin de voile", "viognier", "écorces d’orange"] 
+tags = ["animal", "cuir", "elevage-fut-chene", "epices", "miel", "vin-blanc-age", "vin-rouge-age"] 
 title = "Découverte de la Clape"
 writer = "Thomas"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Cave"]
 date = "2019-02-12T17:30:22+00:00"
-tags = ["bouchon", "caisse", "carton", "casiers", "cave à vin", "livre de cave", "potentiel de garde"] 
+tags = ["beurre", "bois", "bouchon", "defaut", "elevage-fut-chene", "levures", "malolactique", "pain"] 
 title = "La conservation : ranger ses bouteilles"
 writer = "LeChaps"
 +++

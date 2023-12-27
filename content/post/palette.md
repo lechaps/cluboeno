@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-06-06T17:30:22+00:00"
-tags = ["aoc", "bois de pin", "château simone", "clairette", "palette", "provence", "violette"] 
+tags = ["bois", "elevage-fut-chene", "epices", "fleurs-colorees", "floral", "reglisse", "violette"] 
 title = "AOC Palette"
 writer = "LeChaps"
 +++

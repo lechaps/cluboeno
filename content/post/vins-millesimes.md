@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-07-30T17:30:22+00:00"
-tags = ["banyuls", "champagne", "crémant", "floc-de-gascogne", "macvin", "maury", "pineau des charentes", "rivesaltes", "vin de liqueur", "vin doux naturel", "vouvray"] 
+tags = ["bois", "elevage-fut-chene", "pin"] 
 title = "Tous les vins sont-ils millésimés ?"
 writer = "LeChaps"
 +++

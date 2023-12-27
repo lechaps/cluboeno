@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-03-28T17:30:22+00:00"
-tags = ["clinton", "noa", "noah", "othello", "phylloxéra", "âpres", "états-unis"] 
+tags = [] 
 title = "Le noa ou noah"
 writer = "LeChaps"
 +++

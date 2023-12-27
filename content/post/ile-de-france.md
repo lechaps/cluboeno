@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-06-05T17:30:22+00:00"
-tags = ["chardonnay", "phylloxéra", "pinot noir", "sauvignon", "sémillon", "île de france"] 
+tags = ["bois", "elevage-fut-chene", "pin"] 
 title = "Les vignobles d'Île de France"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Histoire"]
 date = "2019-01-08T17:30:22+00:00"
-tags = ["aoc", "champagne", "vitis sylvetris", "vitis vinifera"] 
+tags = ["bois", "elevage-fut-chene", "iode", "mineral", "pin"] 
 title = "Les origines de la vigne"
 writer = "LeChaps"
 +++

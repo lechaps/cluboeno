@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-06-07T17:30:22+00:00"
-tags = ["bordeaux", "champignon", "charpenté", "foie gras", "gibier", "médoc", "pauillac", "puissant"] 
+tags = ["champignon", "sous-bois", "vin-rouge-age"] 
 title = "AOC : Pauillac"
 writer = "LeChaps"
 +++

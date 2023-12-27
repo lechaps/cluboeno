@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-06-23T17:30:22+00:00"
-tags = ["acacia", "alsace", "charpenté", "espagne", "gewurztraminer", "grains nobles", "italie", "jura", "litchi", "miel", "pêche", "rose", "savagnin", "vendanges tardives", "violette", "épice"] 
+tags = ["acacia", "elevage-fut-chene", "epices", "fleurs-blanches", "fleurs-colorees", "floral", "fruits-tropicaux", "litchi", "rose", "vin-blanc-fruité", "violette"] 
 title = "Le gewurztraminer"
 writer = "LeChaps"
 +++

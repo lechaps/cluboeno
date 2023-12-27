@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2020-10-05T17:30:22+00:00"
-tags = ["débourbage", "embouteillage", "enzymage", "fermentation", "fermentation alcoolique", "fermentation malolactique", "levurage", "moût", "oeuf pourri", "pressurage", "soutirage", "sulfitage"] 
+tags = ["beurre", "bouchon", "defaut", "malolactique", "oxyde"] 
 title = "Techniques spécifiques : les vins blanc"
 image = "/img/post/technique-vin-blanc.jpg"
 writer = "Lechaps"

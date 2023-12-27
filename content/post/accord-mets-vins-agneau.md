@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-07-26T17:30:22+00:00"
-tags = ["accords mets-vins", "bordeaux", "corbières", "côtes-de-provence", "languedoc", "médoc", "provence", "vallée du rhône", "épice"] 
+tags = ["elevage-fut-chene", "epices"] 
 title = "Les accords mets-vins : l'agneau"
 writer = "LeChaps"
 +++

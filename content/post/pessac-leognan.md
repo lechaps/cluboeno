@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-18T17:30:22+00:00"
-tags = ["aoc", "pessac-léognan"] 
+tags = [] 
 title = "AOC : Pessac-léognan"
 writer = "LeChaps"
 +++

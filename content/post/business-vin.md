@@ -1,7 +1,7 @@
 +++
 categories = ["Cave"]
 date = "2019-02-05T17:30:22+00:00"
-tags = ["aquitaine", "champagne", "chiffres business", "consommation", "economie", "languedoc", "paca"] 
+tags = [] 
 title = "Le business du vin"
 writer = "LeChaps"
 +++

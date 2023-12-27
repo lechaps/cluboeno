@@ -2,7 +2,7 @@
 categories = ["Dégustations"]
 date = "2021-01-27T17:30:22+00:00"
 image = "/img/post/douce-musique-vinification.jpg"
-tags = ["batonnage", "biodynamie", "conventionnel", "fermentation", "malolactique", "pressurage", "rafle", "égrappage"] 
+tags = ["beurre", "malolactique"] 
 title = "La douce musique de la vinification"
 writer = "Thomas"
 +++

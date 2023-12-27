@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-03-04T17:30:22+00:00"
-tags = ["accords mets-vins", "alsace", "banyuls", "beaumes-de-venise", "bordeaux", "champagne", "crème brulée", "crème caramel", "dessert", "floc-de-gascogne", "gaillac", "gewurztraminer", "jurançon", "maury", "moelleux", "monbazillac", "muscat", "pacherenc-du-vic-bilh", "pineau des charentes", "riesling", "rivesaltes", "sud-ouest", "val de loire", "vendanges tardives", "vin de liqueur", "vin doux naturel"] 
+tags = ["baies-rouges", "bois", "cafe", "caramel", "chocolat", "elevage-fut-chene", "epices", "fraise", "miel", "pin", "toaste", "vin-blanc-age", "vin-rouge-fruite"] 
 title = "Accords met-vins : les dessert"
 writer = "LeChaps"
 +++

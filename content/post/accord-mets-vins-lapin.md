@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-03-18T17:30:22+00:00"
-tags = ["accords mets-vins", "ajaccio", "bandol", "bordeaux", "bourgogne", "bourgueil", "chinon", "châteauneuf-du-pape", "corse", "côte-du-rhône", "languedoc", "lapin", "moulis-en-médoc", "pommard", "saint-chinian", "saint-émilion", "saumur-champigny", "val de loire", "vallée du rhône"] 
+tags = ["bois", "elevage-fut-chene", "herbes-fraiches", "pin", "thym", "vegetal"] 
 title = "Les accords mets-vins : le lapin, le lapin de garenne, le lièvre"
 writer = "LeChaps"
 +++

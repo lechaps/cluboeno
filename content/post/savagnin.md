@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-07-05T17:30:22+00:00"
-tags = ["château-chalon", "complexité", "jura", "naturé", "passerillé", "puissant", "savagnin", "vin de paille", "vin de voile", "vin jaune"] 
+tags = [] 
 title = "Le savagnin"
 writer = "LeChaps"
 +++

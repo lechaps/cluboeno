@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2019-02-24T17:30:22+00:00"
-tags = ["alsace", "banyuls", "bordeaux", "botrytis", "bourgogne", "bouzy", "champagne", "chardonnay", "fermentation", "maury", "moût", "muscat de beaumes-de-venise", "muscat de frontignan", "muscat de rivesaltes", "pineau", "pinot blanc", "pourriture noble", "provence", "rasteau", "ratafia", "sauternes", "vendanges tardives", "vin de liqueur", "vin doux naturel"] 
+tags = ["baies-blanches", "bois", "champignon", "defaut", "elevage-fut-chene", "fleurs-colorees", "floral", "groseille-a-maquereau", "oignon", "pin", "rose", "sous-bois", "sulfites", "vin-blanc-fruité", "vin-rouge-age"] 
 title = "La couleur des vins"
 writer = "LeChaps"
 +++

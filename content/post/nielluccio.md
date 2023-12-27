@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-01-03T17:30:22+00:00"
-tags = ["chianti", "cinsault", "corse", "grenache", "italie", "malvoisie", "nielluccio", "sangiovese", "tanins fins", "toscane", "trebbiano", "ugni blanc", "vermentino"] 
+tags = [] 
 title = "Le nielluccio"
 writer = "LeChaps"
 +++

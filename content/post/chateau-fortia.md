@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2020-11-11T17:30:22+00:00"
-tags = ["animal", "astringence", "carignan", "champignon", "chocolat", "château fortia", "châteauneuf-du-pape", "clairette", "cuir", "décharné", "eau-de-vie", "exubérance", "finesse", "fourrure", "fruits compotés", "fruits confits", "fruits noirs", "grenache", "humus", "marsanne", "mourvèdre", "puissant", "roussanne", "syrah", "tanins fondus", "vallée du rhône", "viognier", "élégant"] 
+tags = ["animal", "bouchon", "champignon", "chocolat", "cuir", "defaut", "elevage-fut-chene", "epices", "sous-bois", "toaste", "vin-rouge-age"] 
 title = "Châteauneuf-du-Pape Château Fortia 2013 : plaisirs et misères de la dégustation"
 image = "/img/post/chateau-fortia.jpg"
 writer = "Philippe"

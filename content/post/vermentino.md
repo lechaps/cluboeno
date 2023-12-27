@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-05-07T17:30:22+00:00"
-tags = ["amande", "ananas", "aubépine", "cinsault", "corse", "grenache", "malvasia", "malvoisie", "passerillé", "poire", "pomme", "ugni blanc", "vermentino", "épice"] 
+tags = ["amande", "ananas", "aubépine", "baies-rouges", "bois", "elevage-fut-chene", "epices", "fleurs-blanches", "floral", "fruits-a-pepins", "fruits-tropicaux", "mures", "noix", "pin", "poire", "pomme", "vin-blanc-fruité", "vin-rouge-fruite"] 
 title = "Le vermentino"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Histoire"]
 date = "2020-03-01T17:30:22+00:00"
-tags = ["consommation", "france", "économie"] 
+tags = ["iode", "mineral"] 
 title = "La consommation de vin par Internet"
 image = "/img/post/conso-internet-01.jpg"
 writer = "LeChaps"

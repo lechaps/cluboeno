@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-01-06T17:30:22+00:00"
-tags = ["aoc", "auxerrois", "cahors", "calcaire", "cot", "malbec", "merlot", "phylloxéra", "puissant", "réglisse", "tannat", "vanille", "vin de garde"] 
+tags = ["bois", "chene", "elevage-fut-chene", "epices", "reglisse", "vanille"] 
 title = "AOC : Cahors"
 writer = "LeChaps"
 +++

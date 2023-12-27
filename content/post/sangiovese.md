@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-02-15T17:30:22+00:00"
-tags = ["argentine", "brunello", "californie", "chianti", "corse", "italie", "montalcino", "nielluccio", "patrimonio", "sangiovese", "toscane", "états-unis"] 
+tags = ["fleurs-colorees", "floral", "violette"] 
 title = "Le sangiovese"
 writer = "LeChaps"
 +++

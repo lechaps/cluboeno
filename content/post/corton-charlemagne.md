@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-03-01T17:30:22+00:00"
-tags = ["aloxe-corton", "aoc", "bourgogne", "chardonnay", "corton", "corton-charlemagne", "pernand-vergelesses"] 
+tags = [] 
 title = "AOC : Corton-Charlemagne"
 writer = "LeChaps"
 +++

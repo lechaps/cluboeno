@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-03-22T17:30:22+00:00"
-tags = ["alsace", "beurre", "bourgogne", "champagne", "charcuterie", "chardonnay", "crémant", "fruits de mer", "fruité", "jura", "noisette", "pinot blanc", "pinot gris", "poisson", "souple"] 
+tags = ["beurre", "bois", "elevage-fut-chene", "malolactique", "noisette", "noix", "pin"] 
 title = "Le pinot blanc"
 writer = "LeChaps"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-06-14T17:30:22+00:00"
-tags = ["champagne", "chardonnay", "coteaux-champenois", "pinot meunier", "pinot noir", "rosé des riceys", "souple"] 
+tags = ["bois", "elevage-fut-chene", "pin"] 
 title = "AOC : Champagne"
 writer = "LeChaps"
 +++

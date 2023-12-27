@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-03-25T17:30:22+00:00"
-tags = ["afrique du sud", "agrume", "australie", "barsac", "bordeaux", "bourgeon de cassis", "bourgogne", "buis", "coteaux-du-giennois", "entre-deux-mers", "fruit de la passion", "fruits exotiques", "gaillac", "genêt", "graves", "herbe coupée", "liquoreux", "loupiac", "menetou-salon", "montbazillac", "nouvelle-zélande", "pacherenc-du-vic-bilh", "pamplemousse", "pessac-léognan", "pierre à fusil", "pouilly-fumé", "provence", "quincy", "reuilly", "sancerre", "sauternes", "sauvignon", "sauvignon blanc", "sureau", "syrie", "sémillon", "touraine", "val de loire", "viande rôtie", "vifs", "états-unis"] 
+tags = ["agrumes", "baies-rouges", "cassis", "elevage-fut-chene", "fruit-de-la-passion", "fruits-tropicaux", "fumee", "pamplemousse", "toaste", "vin-blanc-fruité", "vin-rouge-fruite"] 
 title = "Le sauvignon blanc"
 writer = "LeChaps"
 +++

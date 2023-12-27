@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-09T17:30:22+00:00"
-tags = ["aoc", "cognac", "pineau des charentes", "vin de liqueur"] 
+tags = ["bois", "elevage-fut-chene", "pin"] 
 title = "AOC pineau des charentes"
 writer = "LeChaps"
 +++
