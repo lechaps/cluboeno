@@ -69,7 +69,7 @@ Vins : Vins blancs, rosés et rouges en IGP Côtes du Tarn.
 #### Muscadelle
 * Origine : Ce cépage est probablement originaire du Sud-Ouest. Aujourd’hui, il est présent dans le gaillacois, le bordelais et dans plusieurs régions du monde.
 * Caractéristiques : Vigoureux et fertile, mais à production toutefois irrégulière. Il est également très sensible à certaines maladies notamment la pourriture grise.
-* Dégustation : Souvent vinifié en doux, il peut donner des vins riches en alcool. Peu acide, il développe des arômes d’acacia, de chevrefeuille, et de fruits exotiques, qui amènent de la fraicheur. Il peut également s’exprimer dans un blanc sec.
+* Dégustation : Souvent vinifié en doux, il peut donner des vins riches en alcool. Peu acide, il développe des arômes d’acacia, de chèvrefeuille, et de fruits exotiques, qui amènent de la fraicheur. Il peut également s’exprimer dans un blanc sec.
 * Assemblage : il est très souvent présenté en assemblage avec d’autres cépages blancs du gaillacois.
 
 #### Autre cépage : Sauvignon
