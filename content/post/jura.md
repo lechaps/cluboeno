@@ -24,3 +24,7 @@ Rouge ou blancs, tous ces cépages peuvent entrer dans la composition du créman
 Le vignoble jurassien jouit d'un climat plus continental, mais les bourguignons **chardonnay** et **pinot noir** résistent à la froidure et se plaisent sur les sols marneux, plus ou moins caillouteux, du piémont jurassien.  
 S'y ajoutent d'anciens cépages franc-comtois qui donnent des produits originaux et le caractère. Le **poulsard**, ou **ploussard**, et un vieil hôte du Revermont, au piémont du Jura. Il s'épanouit en AOC arbois, notamment dans le village de Pupillin. En AOC l'étoile, il est même vinifié en blanc et peut compléter les **savagnin** et **chardonnay**.  
 Le **trousseau**, à l'inverse, et riche en temps et en couleurs. Il donne des vins puissants et de garde, au fruité mûr. Ce cépage exigeant représente une faible part des superficies. Le **pinot noir** produit des vins aux arômes de fruits rouges.
+
+## le clavelin
+
+Le clavelin est une bouteille spéciale, réservé au vin jaune du Jura. Sa contenance est de 0,62 l correspondant au volume résiduel d'un litre de vin après vieillissement obligatoire de six ans en fût de chaîne, soit après évaporation le plus du tiers du volume, à travers le bois de la barrique.

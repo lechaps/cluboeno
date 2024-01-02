@@ -6,7 +6,7 @@ title = "Les ennemis du vin : certains aliments"
 writer = "LeChaps"
 +++
 
-* **les oeufs** : L'omelette nature est le cauchemar du sommelier. On peut contourner le problème en enrichissant ladite omelette de viande ou du champignon et en accommodant le vin à la garniture. Ou Bien tenter les vins effervescents, comme un saumur, un crémant de bourgogne ou un bugey, ou même un champagne en brunch du dimanche !
+* **les oeufs** : L'oeuf, et particulièrement le jaune, a tendance à durcir les tanins de vins rouges et à augmenter la perception de l'amertume. Évitons donc les vins charpentés et même les vins rouges en général. Soit bien sûr avec un oeuf en meurette, recette bourguignonne, absolument délicieuse.L'omelette nature est le cauchemar du sommelier. On peut contourner le problème en enrichissant ladite omelette de viande ou du champignon et en accommodant le vin à la garniture. Ou Bien tenter les vins effervescents, comme un saumur, un crémant de bourgogne ou un bugey, ou même un champagne en brunch du dimanche !
 
 * **le vinaigre** : Partout où les vinaigre est présent (vinaigrette, moutarde, pickles, ...), on devra se contenter de boire de l'eau. Le poulet au vinaigre peut en revanche s'accommoder d'un très bon gaillac rouge.
 

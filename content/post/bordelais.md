@@ -42,6 +42,10 @@ Les saint-émilion grand crus sont classés quant à eux depuis 1955 et ce class
 
 ![photo][1]
 
+## Le format de bouteille
+
+En 1709, le marquis de Lur-Saluces, propriétaire du château Yquem, rencontra à Frontignan, en Languedoc, un maître verrier qui venait de mettre au point un procédé de fabrication de bouteilles cylindrique. Il lui demanda de venir fabriquer ses bouteilles bordelais : c'est ainsi que la « Frontignan » devient la « Bordelaise ».
+
 ## Les millésimes par appellation
   
 * _Margaux_

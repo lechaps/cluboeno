@@ -47,3 +47,7 @@ Contrairement aux autres appellations, le champagne rosé peut également être 
 Les « crus » correspondent à un terroir délimité pour ses qualités, correspondanty selon les régions à un lieu-dit, à une commune ou à un domaine viticole.  
 En Champagne, les marques, c'est-à-dire les maisons de négoce achètent des vins ou des raisins produits par les vignerons pour vinifier, élaborer et commercialiser tout ou partie de leur production. Il en existe plus de 300 en Champagne.  
 Ces raisins sont évalués selon une cotation de la qualité : c'est l'échelle des crus. Sont pris en compte la géologie, les microclimats, l'exposition, l'altitude, les vents dominants et cela sur plusieurs critères (cépages, âge des vignes, vinification etc.). Un cru est caractérisé par un pourcentage compris entre 80 et 100 : Côté 100 %, il a droit au titre de « grands crus » ; côté de 90 à 99 %, il bénéficie de la mention « premier cru ».
+
+## bouteille
+
+C'est en 1662, qu'un brevet définit le modèle des bouteilles, un gros corps et long col. Elles furent vite adopté par les champenois. Sans ce dernier, il n'y aurait pas eu de champagne, car la mousse est produite par une seconde fermentation qui a lieu dans la bouteille même.
