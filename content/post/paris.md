@@ -3,6 +3,7 @@ categories = ["Vignobles"]
 date = "2023-12-30T17:30:22+00:00"
 title = "Les vignobles parisiens"
 writer = "LeChaps"
+tags = ["bois", "elevage-fut-chene", "pin"]
 +++
 
 ## Histoire
