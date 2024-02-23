@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2019-07-26T17:30:22+00:00"
-tags = ["elevage-fut-chene", "epices"] 
+tags = ["elevage-fut-chene", "epices", "herbes-fraiches", "thym", "vegetal"] 
 title = "Les accords mets-vins : l'agneau"
 writer = "LeChaps"
 +++
