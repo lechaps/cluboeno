@@ -13,7 +13,7 @@ En 2007, l'appellation coteaux du languedoc c'est élargie en changeant de nom. 
 
 Six cépages dominent la production de vin rouge (majoritaires) et des rosés : **carignan** et **cinsault** (limités à 40%) **grenache noir**, **syrah**, **lladoner** et **mourvèdre**.  
 
-En blanc, **grenache blanc**, **clairette** et **bourboulenc** sont les principaux cépages, les **marsanne**, **roussanne**, **vermentino**, **chardonnay**, **viognier**, **maccabeu**, **colombard**, **ugni** et **piquepoul** étant également utilisés.
+En blanc, **grenache blanc**, **clairette** et **bourboulenc** sont les principaux cépages, les **marsanne**, **roussanne**, **rolle (ex vermentino)**, **chardonnay**, **viognier**, **maccabeu**, **colombard**, **ugni** et **piquepoul** étant également utilisés.
 
 ## Situation
 

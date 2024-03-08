@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2024-03-02T17:30:22+00:00"
-tags = [] 
+tags = ["elevage-fut-chene", "fumee", "toaste"] 
 title = "AOC : Saint-Chinian"
 writer = "LeChaps"
 +++
