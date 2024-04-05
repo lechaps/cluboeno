@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2023-11-27T17:30:22+00:00"
-tags = []
+tags = ["fleurs-colorees", "floral", "rose"]
 image = "/img/post/fleurie_00.jpg"
 title = "Beaujolais - Fleurie"
 writer = "LeChaps"
