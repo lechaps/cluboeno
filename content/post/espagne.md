@@ -1,6 +1,6 @@
 +++
 categories = ["Vignobles"]
-date = "2022-03-09T17:30:22+00:00"
+date = "2024-11-06T17:30:22+00:00"
 tags = ["amande", "baies-rouges", "bois", "cerise", "chene", "defaut", "elevage-fut-chene", "epices", "fraise", "fruits-a-noyau", "fumee", "iode", "legume", "mineral", "noisette", "noix", "oxyde", "pin", "poivron", "reglisse", "toaste", "vegetal", "vin-rouge-fruite"] 
 title = "L'Espagne"
 image = "/img/post/espagne-region.png"
@@ -9,7 +9,7 @@ writer = "Thomas"
 
 ## Histoire
 
-L’histoire du vin en Espagne remonte à plus de 2000 ans : des romains de l’antiquité à la reconquista, jusqu’aux vins que nous connaissons aujourd’hui.
+L’histoire du vin en Espagne remonte à plus de 2000 ans : des romains de l’antiquité à la reconquista, jusqu’aux vins que nous connaissons aujourd’hui.
 Les premiers vins furent élaborés en Andalousie aux alentours de 1000 ans avant JC par les Phéniciens puis par les Grecs. L'occupation romaine en Espagne en 200 avant JC transforma profondément la viticulture en une industrie qui alimenta les légions de Rome. Durant la domination musulmane du VIIIème au XVème siècle, le secteur viticole fut en déclin à l'exception du xérès qui s'exporta dans toute l'Europe au XIVème siècle. Après 1492 et la Reconquista, l'expansion de l'Empire espagnol permit un accroissement des exportations des vins du pays
 
 Il faut attendre le 19e siècle pour que le vignoble espagnol se structure. En effet, l’arrivée du phylloxéra en Europe, un puceron ravageur, conduit les propriétaires de vignobles bordelais à investir dans la Rioja : région encore épargnée. C’est à ce moment-là que des négociants français permettent aux vins espagnols d’entrer dans une nouvelle dimension grâce à leur expertise des assemblages. Le vin espagnol commença à être vinifié selon la méthode bordelaise, signifiant le début du rioja moderne. Un tel changement permet aux vins espagnols de grandement se développer pendant le siècle suivant.
@@ -18,6 +18,8 @@ Ainsi, à partir des années 1970, les vins de la péninsule ibérique commencen
 
 En conséquence, ce n’est qu’à partir du milieu des années 1980 que des vins de grande qualité se développent. L’adhésion à l’Union européenne de l’Espagne lui permet de recevoir des fonds lui permettant de se développer à coup de grands pas en avant. La période connait également un grand enthousiasme autour des vins espagnols et des domaines apparaissent aux quatre coins du territoire.
 C’est à cette époque que naissent de grands projets tels que la création de vignobles, l’investissement dans un matériel technologique et moderne. Comble de la frénésie que connaissent les vins espagnols, les étiquettes des bouteilles sont alors imaginées et dessinées par les plus grands artistes. Cela étant dit, la frénésie s’est calmée aujourd’hui. Toutefois l’Espagne bénéficie d’un excellent niveau d’équipement au sein de ses vignobles, notamment grâce à ces années de développement. Aujourd’hui, la culture du vin en Espagne est particulièrement répandue.
+
+![photo][4]
 
 ## Géographie (climat – régions – appellations)
 
@@ -214,7 +216,7 @@ Les autres îles productrices : La Gomera, Huerro, Lanzarote où ce sont surtout
 
 ## Classement des vins
 
-Pour comprendre le vin espagnol, il faut d’abord se repérer au milieu des appellations. Ainsi, il faut distinguer quatre niveaux d’appellations. D’abord :
+Pour comprendre le vin espagnol, il faut d’abord se repérer au milieu des appellations. Ainsi, il faut distinguer quatre niveaux d’appellations. D’abord :
 
 * Les **Vino de Mesa** (VdM) sont les premières appellations, proche des Vin de France
 * On trouve ensuite le **Vino de Tierra** (VT) qu’il est possible de rapprocher des IGP françaises
@@ -261,50 +263,66 @@ Un vin qui n'est pas acceptable. Il peut présenter de graves défauts de fabric
 
 * **Albarello** : Aussi appellé Brancello ou Brancellao et parfois Albariño Tinto, c'est un cépage rouge autochtone de Galice et du Portugal. Il est présent sur les appellations Rias Baixas, Ribeiro et Ribeira Sacra. On l'utilise souvent en complément, car peu cultivé, et avec une faible productivité. Il donne des vins de couleur rouge intense, assez structurés avec des arômes épicés, balsamiques et des saveurs de plantes aromatiques.
 
-* **Cabernet-sauvignon** : Cépage rouge originaire de Bordeaux, il est l’un des cépages les plus répandus au monde. On le retrouve sur différents continents et sous différentes latitudes : Canada, Californie ou Argentine. En Espagne, on le plante en Catalogne et en Navarre et les parcelles les plus anciennes sont situées dans La Rioja et la Ribera del Duero. La première caractéristique de ce cépage est sa grande résistance et adaptabilité à tout type de sols et de climats. L’autre trait majeur est son caractère marqué inimitable (notes de poivrons verts). Il donne au vin une couleur profonde ainsi que des tanins denses et affinés. Avec le vieillissement, ses propriétés aromatiques se complexifient.
+* **Cabernet-sauvignon** : Cépage rouge originaire de Bordeaux, il est l’un des cépages les plus répandus au monde. On le retrouve sur différents continents et sous différentes latitudes : Canada, Californie ou Argentine. En Espagne, on le plante en Catalogne et en Navarre et les parcelles les plus anciennes sont situées dans La Rioja et la Ribera del Duero. La première caractéristique de ce cépage est sa grande résistance et adaptabilité à tout type de sols et de climats. L’autre trait majeur est son caractère marqué inimitable (notes de poivrons verts). Il donne au vin une couleur profonde ainsi que des tanins denses et affinés. Avec le vieillissement, ses propriétés aromatiques se complexifient.
 
-* **Callet** Cépage rouge originaire de Majorque (ïles Baléares), qui veut dire "noir" en dialecte mallorquin. De maturité tardive, il est productif et prospère dans les sols argileux et sableux. Il est résistant aux maladies et ne craint pas la sècheresse. Il donne au vin des arômes de fruits rouges (fraises, cerises) et d'épices. Il apporte au vin de la complexité et possède une bonne aptitude à l'élevage en barrique. C’est l'un des principaux cépages utilisés dans les îles Baléares, dans la D.O. Llevant y Pla et la V.T. Mallorca.
+* **Callet** Cépage rouge originaire de Majorque (ïles Baléares), qui veut dire "noir" en dialecte mallorquin. De maturité tardive, il est productif et prospère dans les sols argileux et sableux. Il est résistant aux maladies et ne craint pas la sècheresse. Il donne au vin des arômes de fruits rouges (fraises, cerises) et d'épices. Il apporte au vin de la complexité et possède une bonne aptitude à l'élevage en barrique. C’est l'un des principaux cépages utilisés dans les îles Baléares, dans la D.O. Llevant y Pla et la V.T. Mallorca.
 
-* **Caiño Tinto** Cépage rouge originaire de Galice, il est aussi connu sous le nom de Borraçal au Portugal. Il donne des vins hautement parfumés et marqués par une belle acidité, qui donne de la fraîcheur. C’est l'un des principaux cépages de la D.O. Rias Baixas.
+* **Caiño Tinto** Cépage rouge originaire de Galice, il est aussi connu sous le nom de Borraçal au Portugal. Il donne des vins hautement parfumés et marqués par une belle acidité, qui donne de la fraîcheur. C’est l'un des principaux cépages de la D.O. Rias Baixas.
 
-* **Carignan** (carineña) Cépage rouge d'origine espagnole, de la région aragonaise, il permet d’élaborer des vins robustes mais équilibrés, qui s’assemblent bien à ceux issus du Grenache. Il est très répandu en Catalogne où il est appelé Samsó, dans La Rioja on le connaît sous le nom de Mazuelo. La surface totale plantée en Espagne représente environ 12 000 ha.
+* **Carignan** (carineña) Cépage rouge d'origine espagnole, de la région aragonaise, il permet d’élaborer des vins robustes mais équilibrés, qui s’assemblent bien à ceux issus du Grenache. Il est très répandu en Catalogne où il est appelé Samsó, dans La Rioja on le connaît sous le nom de Mazuelo. La surface totale plantée en Espagne représente environ 12 000 ha.
 
-* **Espadeiro** Cépage rouge originaire de Galice et surtout utilisé dans la D.O. Rias Baixas ainsi qu’au Portugal dans le Douro. Cépage à haut rendement, il se caractérise par une maturation tardive et donne des vins à forte personnalité aux arômes intenses.
+* **Espadeiro** Cépage rouge originaire de Galice et surtout utilisé dans la D.O. Rias Baixas ainsi qu’au Portugal dans le Douro. Cépage à haut rendement, il se caractérise par une maturation tardive et donne des vins à forte personnalité aux arômes intenses.
 
-* **Graciano** Cépage rouge originaire du nord de l’Espagne et plus précisément dans la D.O.C. de La Rioja, connu aussi sous le nom de Morrastel dans le Languedoc-Roussillon. C’est un cépage à faible rendement et surtout utilisé pour ses propriétés aromatiques intenses. Il donnera des vins avec une belle acidité, une couleur profonde ainsi qu’une grande capacité au vieillissement. Il est un excellent complément au Tempranillo.
+* **Graciano** Cépage rouge originaire du nord de l’Espagne et plus précisément dans la D.O.C. de La Rioja, connu aussi sous le nom de Morrastel dans le Languedoc-Roussillon. C’est un cépage à faible rendement et surtout utilisé pour ses propriétés aromatiques intenses. Il donnera des vins avec une belle acidité, une couleur profonde ainsi qu’une grande capacité au vieillissement. Il est un excellent complément au Tempranillo.
 
-* **Grenache** (garnacha tinta) Cépage rouge originaire d’Espagne, il est aussi appelé Garnacha Negra, Aragonés  ou encore Granatxa dans la D.O.C. Priorat. C’est un cépage à fort rendement, très résistant à la sécheresse et au froid. Il apporte au vin de la puissance, du corps et de l’alcool. Pour une meilleure garde, il devra être assemblé avec d’autres cépages. Il est l’un des cépages les plus répandus en Espagne avec une surface plantée d’environ 170 000 ha.
+* **Grenache** (garnacha tinta) Cépage rouge originaire d’Espagne, il est aussi appelé Garnacha Negra, Aragonés  ou encore Granatxa dans la D.O.C. Priorat. C’est un cépage à fort rendement, très résistant à la sécheresse et au froid. Il apporte au vin de la puissance, du corps et de l’alcool. Pour une meilleure garde, il devra être assemblé avec d’autres cépages. Il est l’un des cépages les plus répandus en Espagne avec une surface plantée d’environ 170 000 ha.
 
-* **Grenache poilu** Cépage rouge originaire d’Espagne, issu d’une probable mutation du Grenache Noir. Ces feuilles inférieures sont légèrement poilues. Il est cultivé dans le Sud de La France sous le nom de Lledoner Pelut, ainsi qu’en Catalogne où on le nomme Garnatxa Pelude. Comme son grand frère, le Grenache Poilu apporte aux vins une belle concentration ainsi que des couleurs intenses.
+* **Grenache poilu** Cépage rouge originaire d’Espagne, issu d’une probable mutation du Grenache Noir. Ces feuilles inférieures sont légèrement poilues. Il est cultivé dans le Sud de La France sous le nom de Lledoner Pelut, ainsi qu’en Catalogne où on le nomme Garnatxa Pelude. Comme son grand frère, le Grenache Poilu apporte aux vins une belle concentration ainsi que des couleurs intenses.
 
 * **Listan Noir** (listàn negro) Cépage rouge originaire des îles Canaries et plus particulièrement de la Grande île de Tenerife. Il est souvent utilisé en assemblage afin de donner un meilleur potentiel de vieillissement. C’est un cépage qui apportera des arômes fruités avec peu de tanins.
 
-* **Loudeiro** Cépage rouge très rare, originaire du Portugal, utilisé en Galice et surtout dans la D.O. Rias Baixas, en petites quantités. D’une couleur assez dense, il se caractérise par une maturation tardive et garde une très bonne acidité, il est bien adapté au climat océanique.
+* **Loudeiro** Cépage rouge très rare, originaire du Portugal, utilisé en Galice et surtout dans la D.O. Rias Baixas, en petites quantités. D’une couleur assez dense, il se caractérise par une maturation tardive et garde une très bonne acidité, il est bien adapté au climat océanique.
 
-* **Manto Negro** Cépage rouge originaire des îles Baléares et en particulier de Majorque. Ce cépage riche en sucres et en arôme se distingue par son extraordinaire comportement lors du vieillissement du vin. Il produit des vins chaleureux et veloutés, d’excellente qualité avec une robe d’intensité moyenne à soutenue. C’est l'un des principaux cépages utilisés dans les îles Baléares, dans la D.O. Llevant y Pla et la V.T. Mallorca.
+* **Manto Negro** Cépage rouge originaire des îles Baléares et en particulier de Majorque. Ce cépage riche en sucres et en arôme se distingue par son extraordinaire comportement lors du vieillissement du vin. Il produit des vins chaleureux et veloutés, d’excellente qualité avec une robe d’intensité moyenne à soutenue. C’est l'un des principaux cépages utilisés dans les îles Baléares, dans la D.O. Llevant y Pla et la V.T. Mallorca.
 
-* **Mencía** Cépage rouge d’origine espagnol (Vallée del Duero) qui présente une parenté avec le Cabernet Franc. Il donne un vin aromatique, fruité, riche en alcool, d'une belle couleur rubis brillant, avec des tanins souples et apte à vieillir. C’est un des cépages principaux de la D.O. Bierzo. Surface totale plantée en Espagne est d’environ 9 000 ha.
+* **Mencía** Cépage rouge d’origine espagnol (Vallée del Duero) qui présente une parenté avec le Cabernet Franc. Il donne un vin aromatique, fruité, riche en alcool, d'une belle couleur rubis brillant, avec des tanins souples et apte à vieillir. C’est un des cépages principaux de la D.O. Bierzo. Surface totale plantée en Espagne est d’environ 9 000 ha.
 
 * **Merenzao** Cépage rouge originaire de Galice, qui donne des vins d'une belle couleur pourpre intense, typés, chaleureux, corsés, charpentés et de bonne garde. Sous ce nom, il est utilisé essentiellement dans la D.O. Ribeira Sacra, mais on le retrouve sous d’autres noms comme Maturana Tinta dans La Rioja ou Bastardo au Portugal ou Trousseau en France.
 
-* **Merlot** Cépage rouge originaire de Bordeaux, il est l’un des cépages les plus répandu au monde après le Cabernet-Sauvignon. En Espagne on le retrouve principalement en Catalogne, en Navarre et dans la Ribera del Duero. Il apporte aux vins une certaine texture, de la finesse et une belle complexité aromatique. Il est également utilisé en assemblage pour adoucir certains autres cépages plus tanniques.
+* **Merlot** Cépage rouge originaire de Bordeaux, il est l’un des cépages les plus répandu au monde après le Cabernet-Sauvignon. En Espagne on le retrouve principalement en Catalogne, en Navarre et dans la Ribera del Duero. Il apporte aux vins une certaine texture, de la finesse et une belle complexité aromatique. Il est également utilisé en assemblage pour adoucir certains autres cépages plus tanniques.
 
-* **Monastrel** Cépage rouge d’origine espagnol, plus connu sous le nom de Mourvèdre en France, qui est l’un des plus répandus en Espagne après le Grenache. Cépage à haut rendement, qui produit des vins à la robe profonde et au fort degré d’alcool. Surtout cultivé dans la province de Murcia (52% de la surface totale). Surface totale plantée en Espagne : 109 000 ha.
+* **Monastrel** Cépage rouge d’origine espagnol, plus connu sous le nom de Mourvèdre en France, qui est l’un des plus répandus en Espagne après le Grenache. Cépage à haut rendement, qui produit des vins à la robe profonde et au fort degré d’alcool. Surtout cultivé dans la province de Murcia (52% de la surface totale). Surface totale plantée en Espagne : 109 000 ha.
 
-* **Mouraton** Cépage rouge, originaire de l'appellation d´Arribes del Duero, largement utilisé en Galice et en Castilla y León. Il est de faible teneur en alcool avec une acidité modérée. Sa faible teneur en phénol est utilisée pour la production de vins jeunes (avec macération carbonique). On le connaît aussi sous les noms de Negreda ou Juan Garcia.
+* **Mouraton** Cépage rouge, originaire de l'appellation d´Arribes del Duero, largement utilisé en Galice et en Castilla y León. Il est de faible teneur en alcool avec une acidité modérée. Sa faible teneur en phénol est utilisée pour la production de vins jeunes (avec macération carbonique). On le connaît aussi sous les noms de Negreda ou Juan Garcia.
 
 * **Pinot Noir** Cépage rouge originaire de Bourgogne, où il a fait la réputation de nombreuses appellations bourguignonnes et champenoises. Il est désormais cultivé dans le monde entier, malgré le fait qu’il ne s’adapte pas à tous les sols et climats. C’est un cépage sur lequel il y a énormément d’effets de terroir. Avec ses tanins moyennement corsés, il apportera aux vins du fruité et de l’acidité ainsi qu’une très belle complexité aromatique après vieillissement.
 
 * **Piquepoul noir** (picapoll negro) Cépage rouge originaire du nord de l’Espagne (Catalogne) et bien connu dans le sud de la France (Languedoc-Roussillon). Variante rare du Picpoul blanc, c’est un cépage qui dans la plupart des cas est utilisé en assemblage. De couleur claire, il apporte aux vins de l’acidité, un taux d’alcool assez élevé ainsi qu’une belle complexité aromatique.
 
-* **Souson** Cépage rouge très aromatique, originaire de Galice, et qui a presque disparu au cours des années 70. Il donnera au vin une belle complexité aromatique et une excellente aptitude au vieillissement. Essentiellement utilisé dans les D.O. Riais Baixas et Ribeiro.
+* **Souson** Cépage rouge très aromatique, originaire de Galice, et qui a presque disparu au cours des années 70. Il donnera au vin une belle complexité aromatique et une excellente aptitude au vieillissement. Essentiellement utilisé dans les D.O. Riais Baixas et Ribeiro.
 
 * **Syrah** Cépage rouge, controversé au niveau de ses origines (Rhodannienne, Perse, Phénicienne ou Italienne), à faible rendement mais très adaptable et résistant aux maladies. Il apporte au vin couleur et finesse par son fruité et sa complexité aromatique ainsi qu’une belle acidité. En Espagne, il a été introduit dans les années 80 près de Tolède, mais il est désormais partout et bien implanté dans les régions méditerranéennes.
 
-* **Tempranillo** Cépage rouge originaire de La Rioja, aussi connu sous le nom Tinto Fino, Tinta del Pais ou encore Lull de Lebbre en Catalogne. Il est constitué de baies à peau épaisse avec beaucoup de tanins. Il se caractérise par une maturité précoce et résiste bien aux grandes chaleurs. Il amènera aux vins de la finesse et une belle complexité aromatique. Il est considéré comme l’épine dorsale des vins de La Rioja et de la Ribera del Duero. Un des premiers cépages implantés en Argentine et en Australie, en Espagne il représente environ 33 000 ha.
+* **Tempranillo** Cépage rouge originaire de La Rioja, aussi connu sous le nom Tinto Fino, Tinta del Pais ou encore Lull de Lebbre en Catalogne. Il est constitué de baies à peau épaisse avec beaucoup de tanins. Il se caractérise par une maturité précoce et résiste bien aux grandes chaleurs. Il amènera aux vins de la finesse et une belle complexité aromatique. Il est considéré comme l’épine dorsale des vins de La Rioja et de la Ribera del Duero. Un des premiers cépages implantés en Argentine et en Australie, en Espagne il représente environ 33 000 ha.
 
-* **Tintilla de rota** Cépage rouge originaire de Jerez en Andalousie, il est souvent assimilé au Graciano, qui ont tous deux probablement la même origine. Il est utilisé à la fois dans le vin de Table (V.T. Vino de la Tierra de Cadix) mais aussi dans l’élaboration des vins de Jerez - Xérès – Sherry. C’est un cépage particulièrement bien adapté au sol calcaire et au climat sec andaloue. Comme le Graciano, il est utilisé pour ses propriétés aromatiques intenses.
+* **Tintilla de rota** Cépage rouge originaire de Jerez en Andalousie, il est souvent assimilé au Graciano, qui ont tous deux probablement la même origine. Il est utilisé à la fois dans le vin de Table (V.T. Vino de la Tierra de Cadix) mais aussi dans l’élaboration des vins de Jerez - Xérès – Sherry. C’est un cépage particulièrement bien adapté au sol calcaire et au climat sec andaloue. Comme le Graciano, il est utilisé pour ses propriétés aromatiques intenses.
+
+## Les vins blancs
+
+La particularité du Sud de l’Espagne réside dans la production de vins mutés secs et doux. Certains sont élevés sous voile (la flor), ce qui leur donne un caractère oxydatif.  
+Pour s’y retrouver, voici un schéma simplifié permettant de comprendre les subtilités des vins dit « sherry » :
+
+![photo][5]
+
+### La technique de la solera
+
+Technique très utilisée dans le Sud de l’Espagne, le principe de la solera est une méthode de vieillissement mêlant différents millésimes et permettant ainsi de complexifier les arômes. Voici un schéma simplifié pour l’expliquer.
+
+![photo][6]
 
 [1]: /img/post/espagne-region.png
 [2]: /img/post/espagne-precipitation.png
 [3]: /img/post/espagne-temperature.png
+[4]: /img/post/espagne-histoire.png
+[5]: /img/post/espagne-blanc.png
+[6]: /img/post/espagne-solera.png
