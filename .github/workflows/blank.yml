@@ -26,10 +26,7 @@ jobs:
       
       # Hugo
       - name: Install Hugo
-        run: |
-          wget https://github.com/gohugoio/hugo/releases/download/v$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r .tag_name)/hugo_extended_$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r .tag_name)_Linux-64bit.tar.gz
-          tar -xzf hugo_extended_*.tar.gz
-          sudo mv hugo /usr/local/bin/
+        run: sudo apt install hugo
       
       # Clean and don't fail
       - name: Clean public directory
