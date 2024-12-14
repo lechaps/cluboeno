@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2024-07-09T17:30:22+00:00"
-tags = ["beurre", "elevage-fut-chene", "levures", "malolactique", "miel", "noisette", "noix", "pain", "vin-blanc-age"] 
+tags = ["beurre", "bois", "elevage-fut-chene", "fruits-a-pepins", "levures", "malolactique", "miel", "mineral", "noisette", "noix", "pain", "pin", "pomme", "vin-blanc-age", "vin-blanc-fruité"] 
 title = "Le chardonnay"
 writer = "LeChaps"
 +++
