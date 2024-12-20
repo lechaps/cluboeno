@@ -6,7 +6,7 @@ title = "Techniques spécifiques : les vins effervescents et crémants"
 writer = "LeChaps"
 +++
 
-Au dictionnaire de l'académie française, le terme crémant (participer présent de crémer)</a> possèdent les définitions suivantes : 
+Au dictionnaire de l'académie française, le terme crémant (participer présent de crémer) possèdent les définitions suivantes :
 
 * **Adjectif masculin** : Seulement dans l’expression _Champagne crémant_, vin de Champagne légèrement pétillant, à la mousse peu abondante.
 * **Nom masculin** : Champagne crémant. _Boire une coupe de crémant_. Par extension. Vin mousseux élaboré selon la méthode champenoise, à faible pression. _Un crémant de Loire, de Bourgogne._
