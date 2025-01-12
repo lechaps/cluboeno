@@ -77,7 +77,6 @@ Oeil : Rouge sangria.
 Nez : Alcool, kir et alcool de cerise.  
 Bouche : Épicé, on pourrait presque penser à un rhum...
 
-
 ![photo][1]
 
 [1]: /img/club/pichenette2024.jpg
