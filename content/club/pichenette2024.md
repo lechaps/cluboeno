@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2024-10-20T17:30:22+00:00"
-tags = []
+tags = ["abricot", "agrumes", "amande", "ananas", "animal", "baies-rouges", "beurre", "bois", "botrytis", "cerise", "citron", "elevage-fut-chene", "epices", "fleurs-colorees", "floral", "fraise", "fruits-a-noyau", "fruits-a-noyaux", "fruits-a-pepins", "fruits-tropicaux", "fumee", "gelee-de-coin", "herbes-fraiches", "herbes-sechees", "jus-de-viande", "malolactique", "menthe", "mineral", "noix", "peche", "pomme", "rose", "the-noir", "toaste", "vegetal", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-age", "vin-rouge-fruite"]
 title = "Dégustation Pichenette 2004, on s'étais dit rendez-vous dans 20 ans"
 image = "/img/club/pichenette2024.jpg"
 writer = "LeChaps"
