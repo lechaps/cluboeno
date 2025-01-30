@@ -200,3 +200,17 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
     github        = ""
     pinterest     = ""
     stackoverflow = ""
+
+    [params.writers."Christophe"]
+    link = ""
+    email = ""
+    avatar = "/img/christophe_icone.jpg"
+    bio = [
+      "Un jour, je serai dans le club oeno. En attendant je bois du vin..."    ]
+    facebook      = ""
+    twitter       = ""
+    linkedin      = ""
+    instagram     = ""
+    github        = ""
+    pinterest     = ""
+    stackoverflow = ""
