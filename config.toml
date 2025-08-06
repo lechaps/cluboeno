@@ -50,7 +50,7 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
   authorLink = "."
   avatar = "/img/lechaps_icone.jpg"
   bio = [
-    "Amoureux du vin depuis toujours, LeChaps est le concepteur de ce site à destination du plus grand nombre."
+    "Amoureux du vin depuis toujours, LeChaps est le concepteur de ce site."
   ]
 
   # Contact page
