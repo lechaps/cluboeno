@@ -108,7 +108,7 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
   twitter       = "https://twitter.com/club_oeno"
   instagram     = "https://www.instagram.com/club_oeno"
   github        = "https://github.com/lechaps/cluboeno"
-  pinterest     = "https://www.pinterest.fr/lechaps03"
+  
 
 # Add a writer, then use it in the markdown front matter like this: writer = "the name of the writer"
   [params.writers]
