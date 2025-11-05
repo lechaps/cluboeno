@@ -213,7 +213,7 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
 
   [params.matomo]
   enable = true              # Active/désactive globalement
-  url = "https://analytics.lechaps.com/"  # Termine par /
+  url = "//analytics.lechaps.com/"  # Termine par /
   siteID = 2
 
   # Options utiles
