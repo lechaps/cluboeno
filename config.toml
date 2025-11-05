@@ -213,10 +213,8 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
 
   [params.matomo]
   enable = true              # Active/désactive globalement
-  url = "//analytics.lechaps.com/"  # Termine par /
+  url = "https://analytics.lechaps.com/"
   siteID = 2
-
-  # Options utiles
   respectDNT = true          # Respect du Do Not Track
   disableCookies = true      # Matomo sans cookies (utile en dev / RGPD)
   noscript = true            # Pixel <noscript> en fallback
