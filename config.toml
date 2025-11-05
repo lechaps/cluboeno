@@ -97,10 +97,6 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
   url = "https://www.google.com/search?q=site%3Acluboeno.com"
   weight = 6
 
-
-
-
-
 # this will also be in author bio if there is no writer.
   [params.social]
   facebook      = "https://www.facebook.com/lecluboeno"
@@ -214,3 +210,13 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
     github        = ""
     pinterest     = ""
     stackoverflow = ""
+
+  [params.matomo]
+  enable = true              # Active/désactive globalement
+  url = "https://analytics.lechaps.com/"  # Termine par /
+  siteID = 2
+
+  # Options utiles
+  respectDNT = true          # Respect du Do Not Track
+  disableCookies = true      # Matomo sans cookies (utile en dev / RGPD)
+  noscript = true            # Pixel <noscript> en fallback

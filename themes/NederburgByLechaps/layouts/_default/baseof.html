@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-<head>{{ partial "head.html" . }}</head>
+<head>
+  {{ partial "head.html" . }}
+  {{ if .Site.Params.matomo.enable }}
+    {{ partial "matomo.html" . }}
+  {{ end }}
+</head>
 {{ block "body" . }}
   <body class="home blog ct-body standard">
 {{ end }}
