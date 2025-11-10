@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2019-05-22T17:30:22+00:00"
-tags = ["bois", "defaut", "elevage-fut-chene", "epices", "fleurs-colorees", "floral", "fumee", "mineral", "pin", "rose", "toaste", "volatile"] 
+tags = ["bois", "elevage-fut-chene", "epices", "floral", "fumee", "pin", "sous-bois", "toaste", "vin-rouge-age"] 
 title = "AOC : l'alsace"
 writer = "LeChaps"
 +++

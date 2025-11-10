@@ -1,7 +1,7 @@
 +++
 categories = ["Savoir boire"]
 date = "2025-06-27T17:30:22+00:00"
-tags = [] 
+tags = ["elevage-fut-chene", "fruits-a-noyaux", "fumee", "miel", "mineral", "peche", "sous-bois", "toaste", "truffe", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-age"] 
 title = "Les accords mets-vins : le foie gras"
 writer = "LeChaps"
 +++

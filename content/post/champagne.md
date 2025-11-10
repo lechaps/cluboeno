@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2025-06-14T17:30:22+00:00"
-tags = ["bois", "elevage-fut-chene", "pin"] 
+tags = ["bois", "elevage-fut-chene", "floral", "fumee", "levures", "miel", "mineral", "noisette", "noix", "pain", "pin", "toaste", "vin-blanc-age"] 
 title = "AOC : Champagne"
 writer = "LeChaps"
 +++

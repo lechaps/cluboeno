@@ -1,7 +1,7 @@
 +++
 categories = ["Cépages"]
 date = "2019-04-25T17:30:22+00:00"
-tags = ["acacia", "beurre", "elevage-fut-chene", "fleurs-blanches", "floral", "fruits-a-pepins", "malolactique", "miel", "noix", "pomme", "pomme-verte", "vin-blanc-age", "vin-blanc-fruité"] 
+tags = ["abricot", "acacia", "beurre", "botrytis", "elevage-fut-chene", "epices", "fleurs-blanches", "floral", "fruits-a-pepins", "malolactique", "miel", "noisette", "noix", "pomme", "pomme-verte", "vin-blanc-age", "vin-blanc-fruité"] 
 title = "Le sémillon"
 writer = "LeChaps"
 +++

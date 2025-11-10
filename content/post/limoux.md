@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2024-08-25T17:30:22+00:00"
-tags = []
+tags = ["bois", "bouchon", "defaut", "elevage-fut-chene", "pin"]
 title = "Limoux : berceau du vin pétillant en France"
 writer = "LeChaps"
 +++

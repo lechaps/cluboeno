@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2025-10-06T17:30:22+00:00"
-tags = [] 
+tags = ["baies-rouges", "bois", "bouchon", "cassis", "cerise", "defaut", "elevage-fut-chene", "epices", "fleurs-colorees", "floral", "fortifie", "fraise", "fruits-a-noyau", "fumee", "herbe-coupee", "herbes-fraiches", "herbes-sechees", "iode", "mineral", "mures", "pin", "poivre", "prune", "pruneau", "reglisse", "rose", "sous-bois", "toaste", "truffe", "vanille", "vegetal", "vin-rouge-age", "vin-rouge-fruite", "violette"] 
 title = "L'italie"
 image = "/img/post/italie-region.jpg"
 writer = "Thomas"

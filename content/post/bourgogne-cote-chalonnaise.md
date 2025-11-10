@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2024-05-28T17:30:22+00:00"
-tags = [] 
+tags = ["bois", "elevage-fut-chene", "fumee", "mineral", "pin", "toaste"] 
 title = "Bourgogne : la côte Chalonnaise "
 writer = "LeChaps"
 +++
