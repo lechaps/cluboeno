@@ -1,6 +1,6 @@
 +++
 categories = ["Dégustations"]
-date = "2025-08-08T17:30:22+00:00"
+date = "2024-11-04T23:30:22+00:00"
 tags = ["animal", "baies-rouges", "bois", "bouchon", "cassis", "cerise", "chocolat", "cuir", "defaut", "elevage-fut-chene", "epices", "fruits-a-noyau", "fumee", "herbes-sechees", "iode", "mineral", "pin", "poivre", "sous-bois", "the-noir", "toaste", "vegetal", "vin-rouge-age", "vin-rouge-fruite"]
 title = "Au Crillon avec Xavier Thuizat : quand la Côte-Rôtie sonne l'heure juste"
 image = "/img/club/xavier-thuizat2024-01.jpg"
