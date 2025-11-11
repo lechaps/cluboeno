@@ -75,11 +75,12 @@ In order to support multiple writers, an extra key, "writers" is added, in **con
 ```
 Now you must have an author in the config for the author bio section to be visible. If you have a writer and set it in the markdown file it will override the author in the config. See the exampleSite folder for a working solution.
 
-## Tag management by Python scriptin
+## Tag & wine management by Python scriptin
 
 - tags-dictionnary.json : contains all the tags research by the script and managed by hugo
 - tag-write.py : uses this script to create the tag line on md files lookinf for tags from dictionnary
 - tag-extract.py : use this script to extract and count all the tag from md
+- wine-plus.py : scans all Hugo content to automatically build an article summarizing wines marked with the “PLUS” icon — a personal rating system highlighting wines with the best price-to-pleasure ratio.
 
 ## License
 
