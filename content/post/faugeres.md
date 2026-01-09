@@ -30,4 +30,4 @@ La culture traditionnelle en gobelet est privilégiée, bien que le **pH élevé
 
 ## Domaines Remarquables
 
-Parmi les domaines les plus remarquables de Faugères, on compte le **Mas d’Alezon**, **Leon Barral**, **l’Ancienne Mercerie**, **Bardi d’Alquier**, et **de Lorgeril**, témoignant de la richesse et de la diversité du terroir de Faugères.
+Parmi les domaines les plus remarquables de Faugères, on compte le **Mas d'Alezon**, **Leon Barral**, **l'Ancienne Mercerie**, **Bardi d'Alquier**, et **de Lorgeril**, témoignant de la richesse et de la diversité du terroir de Faugères.

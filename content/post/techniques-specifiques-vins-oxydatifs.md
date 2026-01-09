@@ -10,7 +10,7 @@ Un vin oxydatif est un vin qui a été exposé à l'oxygène de manière contrô
 
 ## Caractéristiques des vins oxydatifs
 
-L’oxydation contrôlée provoque des transformations qui enrichissent le vin en arômes complexes et en profondeur. Au nez, les vins oxydatifs dégagent des notes de noix, noisettes, amandes, fruits sec (raisins secs, figues) et souvent de caramel ou de miel. En bouche, ils sont plus ronds, parfois légèrement amers, et avec une acidité souvent élevée pour soutenir le vieillissement.
+L'oxydation contrôlée provoque des transformations qui enrichissent le vin en arômes complexes et en profondeur. Au nez, les vins oxydatifs dégagent des notes de noix, noisettes, amandes, fruits sec (raisins secs, figues) et souvent de caramel ou de miel. En bouche, ils sont plus ronds, parfois légèrement amers, et avec une acidité souvent élevée pour soutenir le vieillissement.
 
 ## Cépages utilisés dans les vins oxydatifs
 
@@ -36,10 +36,10 @@ Ces différentes méthodes offrent un large éventail de profils aromatiques et 
 Les vins blancs oxydatifs ont des teintes souvent plus intenses et évoluées que les vins classiques :
 
 * Couleurs dorées à ambrées, parfois cuivrées.
-* Avec l’âge, ils peuvent tirer sur le brun noisette ou caramel.
+* Avec l'âge, ils peuvent tirer sur le brun noisette ou caramel.
 * Arômes (au nez et au goût)
 
-L’oxydation confère des arômes souvent complexes et caractéristiques :
+L'oxydation confère des arômes souvent complexes et caractéristiques :
 
 * Fruits secs : Amande, noisette, noix, figue, datte.
 * Fruits mûrs ou confits : Pomme blette, poire cuite, fruits compotés.
@@ -47,16 +47,16 @@ L’oxydation confère des arômes souvent complexes et caractéristiques :
 * Caramel et torréfaction : Caramel, café, cacao, toffee.
 * Notes salines ou umami : Olive, sauce soja, bouillon.
 
-Avec l’âge, les arômes deviennent encore plus prononcés et peuvent inclure :
+Avec l'âge, les arômes deviennent encore plus prononcés et peuvent inclure :
 
-* Rancio (arôme typique des vins de style oxydatif, évoquant le bois, les fruits secs rôtis ou la cire d’abeille).
-* Notes de levures ou florales : Pain toasté, pâte d’amande, fleur séchée.
+* Rancio (arôme typique des vins de style oxydatif, évoquant le bois, les fruits secs rôtis ou la cire d'abeille).
+* Notes de levures ou florales : Pain toasté, pâte d'amande, fleur séchée.
 * Animal ou cuir (surtout dans les rouges) : Fourrure, cuir patiné.
 
 ## Caractères gustatifs
 
 * Texture : Ample, parfois onctueuse.
 * Saveurs : Équilibre entre douceur et amertume, avec des notes salines ou épicées.
-* Finale : Longue, souvent persistante avec des saveurs de fruits secs, de noix ou d’épices.
+* Finale : Longue, souvent persistante avec des saveurs de fruits secs, de noix ou d'épices.
 
-Ces vins se distinguent par leur profil unique, riche et souvent complexe, et s’associent idéalement à des plats gastronomiques ou à des mets aux saveurs intenses.
+Ces vins se distinguent par leur profil unique, riche et souvent complexe, et s'associent idéalement à des plats gastronomiques ou à des mets aux saveurs intenses.

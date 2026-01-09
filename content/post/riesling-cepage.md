@@ -9,7 +9,7 @@ writer = "LeChaps"
 
 ## Origines
 
-Cépages blancs originaire de la vallée du Rhin et de la Moselle. Il remonte à l’époque des Romains qui auraient ramené le gouais blanc de Croatie. D’après l’ADN, le riesling est issu d'un croisement entre le gouais blanc et d’un autre croisement issu du traminer blanc et d'une vigne sauvage (lambrusque). Au moyen âge, le riesling a gagné en popularité dans les régions germanophones, notamment dans les vallées du Rhin et de la Moselle. Il est introduit en France au XVe siècle, principalement dans la région de l'Alsace. Cette région, située juste de l'autre côté du Rhin, est devenue la principale région du Riesling en France.
+Cépages blancs originaire de la vallée du Rhin et de la Moselle. Il remonte à l'époque des Romains qui auraient ramené le gouais blanc de Croatie. D'après l'ADN, le riesling est issu d'un croisement entre le gouais blanc et d'un autre croisement issu du traminer blanc et d'une vigne sauvage (lambrusque). Au moyen âge, le riesling a gagné en popularité dans les régions germanophones, notamment dans les vallées du Rhin et de la Moselle. Il est introduit en France au XVe siècle, principalement dans la région de l'Alsace. Cette région, située juste de l'autre côté du Rhin, est devenue la principale région du Riesling en France.
 
 ## Les styles de Riesling
 
@@ -24,7 +24,7 @@ Les vins produits ont une grande complexité aromatique qui est fonction du terr
 **Sols calcaires**: donnent des vins plus ronds avec des arômes de fruits mûrs.  
 **Sols granitiques** : donnent des vins plus légers et floraux.
 
-## L’évolution et la production de Riesling dans le Monde
+## L'évolution et la production de Riesling dans le Monde
 
 ![photo][1]
 

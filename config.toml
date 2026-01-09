@@ -188,7 +188,7 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
     email = ""
     avatar = "/img/alain_icone.jpg"
     bio = [
-      "Je suis heureux et amusé de faire partie d’un groupe d’amateurs éclairés et pointus pour apprécier et découvrir des appellations connues et moins connues, mais de faire vivre la vigne, avec tout le savoir-faire du vigneron à son origine."    ]
+      "Je suis heureux et amusé de faire partie d'un groupe d'amateurs éclairés et pointus pour apprécier et découvrir des appellations connues et moins connues, mais de faire vivre la vigne, avec tout le savoir-faire du vigneron à son origine."    ]
     facebook      = ""
     twitter       = ""
     linkedin      = ""

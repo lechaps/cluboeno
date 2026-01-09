@@ -11,7 +11,7 @@ writer = "LeChaps"
 Contrairement au vignoble prestigieux de la **Côte-d'Or**, la **Côte chalonnaise** présente un relief moins régulier.  
 Elle se transforme progressivement en une succession de **collines et de vallées**, qui façonnent la diversité de ses terroirs viticoles.  
 
-La région compte une **appellation sous-régionale** – l’**AOC Bourgogne Côte chalonnaise** – et **cinq appellations communales** réputées.  
+La région compte une **appellation sous-régionale** – l'**AOC Bourgogne Côte chalonnaise** – et **cinq appellations communales** réputées.  
 
 ---
 
@@ -49,9 +49,9 @@ Parmi les **16 premiers crus** de bon niveau, certains comme le **Clos Jus** off
 
 ### Montagny  
 
-L’appellation **Montagny** est dédiée exclusivement aux **vins blancs**.  
+L'appellation **Montagny** est dédiée exclusivement aux **vins blancs**.  
 
-- Les vignes poussent sur des coteaux pentus, jusqu’à **400 m d’altitude**, souvent orientés est/sud-est.  
+- Les vignes poussent sur des coteaux pentus, jusqu'à **400 m d'altitude**, souvent orientés est/sud-est.  
 - Les vins sont marqués par une **belle minéralité**, particulièrement dans la partie nord, où affleure le **Kimméridgien**.  
 
 👉 Montagny compte **52 climats classés en premier cru**.  
@@ -60,13 +60,13 @@ L’appellation **Montagny** est dédiée exclusivement aux **vins blancs**.
 
 ### Bouzeron  
 
-**Bouzeron** se distingue par son **cépage unique : l’aligoté**.  
+**Bouzeron** se distingue par son **cépage unique : l'aligoté**.  
 Il donne ici un vin **nerveux, vif et minéral**, reconnu en **AOC communale** depuis 1998.  
 
 ---
 
 ## Conclusion  
 
-La **Côte chalonnaise** reste une terre d’équilibre entre **accessibilité et qualité**, offrant des vins de caractère, souvent plus abordables que ceux de la Côte de Beaune ou de la Côte de Nuits, mais capables de rivaliser en finesse et en authenticité.  
+La **Côte chalonnaise** reste une terre d'équilibre entre **accessibilité et qualité**, offrant des vins de caractère, souvent plus abordables que ceux de la Côte de Beaune ou de la Côte de Nuits, mais capables de rivaliser en finesse et en authenticité.  
 
 👉 Un vignoble à (re)découvrir pour la diversité de ses **rouges fruités** et de ses **blancs minéraux et structurés**.  

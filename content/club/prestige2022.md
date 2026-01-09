@@ -40,7 +40,7 @@ Oeil : Rouge profond
 Nez : Pivoine, frais, graphite, rose, fruits noirs  
 Bouche : Attaque puissante. Bouche harmonieuse, vin élégant, frais avec une finale florale.
 
-## 6 - Château d’Yquem - Bordeaux sauternes premier cru supérieur 1996
+## 6 - Château d'Yquem - Bordeaux sauternes premier cru supérieur 1996
 Oeil : Jaune ambrée  
 Nez : Abricot, miel, réglisse  
 Bouche : Harmonieuse, frâiche avec une finale légèrement alcool sur le calisson et le menthol.

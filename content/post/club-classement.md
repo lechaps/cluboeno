@@ -6,7 +6,7 @@ title = "Le classement officiel des vins du Club Oeno : les “PLUS”"
 writer = "Romain"
 +++
 
-Au fil des dégustations du club et des articles publiés sur le site, certains vins nous ont particulièrement marqué par le **plaisir qu’ils procurent** en regard de leur **prix**. Ils sont indiqué par cet icone rapidement identiable : <i class="fa fa-plus-circle"></i>, les fameux “PLUS”
+Au fil des dégustations du club et des articles publiés sur le site, certains vins nous ont particulièrement marqué par le **plaisir qu'ils procurent** en regard de leur **prix**. Ils sont indiqué par cet icone rapidement identiable : <i class="fa fa-plus-circle"></i>, les fameux “PLUS”
   
 Cette article rassemble ces coups de cœur sous deux niveaux de notation :
   
@@ -14,9 +14,9 @@ Cette article rassemble ces coups de cœur sous deux niveaux de notation :
  - **PLUS (<i class="fa fa-plus-circle"></i>)** — vins offrant un **excellent équilibre entre qualité et prix**, que nous recommandons sans hésiter.
   
 > La sélection est classée par ordre chronologique inversé (les plus récentes dégustations en premier) et distinguée selon leur origine :
-> **les dégustations du club** d’un côté, et **les articles publiés** de l’autre.
+> **les dégustations du club** d'un côté, et **les articles publiés** de l'autre.
 > 
-> Chaque vin est présenté avec un lien vers sa fiche ou son article d’origine, afin de retrouver le contexte complet de la dégustation.
+> Chaque vin est présenté avec un lien vers sa fiche ou son article d'origine, afin de retrouver le contexte complet de la dégustation.
 
 **Récapitulatif :** 185 vins “plussés” — 46 <i class="fa fa-plus-circle"></i><i class="fa fa-plus-circle"></i>, 139 <i class="fa fa-plus-circle"></i>.
 
@@ -78,7 +78,7 @@ _dégusté le : 9 mars 2022_
 
 _100% mencía (alicante bouschet) (bastardo)_  
 _13,5°_  
-_Cette cave est un projet personnel de l’œnologue Leones Raúl Pérez_
+_Cette cave est un projet personnel de l'œnologue Leones Raúl Pérez_
 _Ultereia Saint Jacques est un vin élaboré avec la variété Mencía de vignes très vieilles sur des sols argilo-calcaire. Récolté manuellement, une fois en cave, débute une fermentation en fûts de chêne comprises entre 3000 et 5000 litres, sans contrôle de la température. Puis une crianza en vieille futts usagé de chene françáis ; sans etre filtré ni clarifié._  
 Oeil : Rouge grenat  
 Nez : Solaire, fumé, typé cabernet franc, complexe  
@@ -96,7 +96,7 @@ _dégusté le : 9 mars 2022_
 
 _35% garnacha, 24% syrah, 17% cabernet sauvignon, 11% cariñena, 10% merlot, 3% autres_  
 _14,5°_  
-_Álvaro Palacios est l'un des plus célèbres producteurs de vin en Espagne, un des plus connus internationalement, et la personne qui représente le mieux la révolution œnologique vécue par l'Espagne depuis les années quatre-vingt. Aujourd'hui, il gère son petit royaume viticole au sein de l’emblématique DOQ Priorat, d’où sont issus quelques-uns des labels les plus convoités et les plus prestigieux de notre pays, comme le Finca Dofí, Les Terrasses ou L'Ermita, le fleuron de l’exploitation et l'un des symboles du Priorat dans le monde entier._
+_Álvaro Palacios est l'un des plus célèbres producteurs de vin en Espagne, un des plus connus internationalement, et la personne qui représente le mieux la révolution œnologique vécue par l'Espagne depuis les années quatre-vingt. Aujourd'hui, il gère son petit royaume viticole au sein de l'emblématique DOQ Priorat, d'où sont issus quelques-uns des labels les plus convoités et les plus prestigieux de notre pays, comme le Finca Dofí, Les Terrasses ou L'Ermita, le fleuron de l'exploitation et l'un des symboles du Priorat dans le monde entier._
 _Vin rouge élevé pendant 8 mois en fûts de chêne français._  
 Oeil : Rouge aux reflets violacés.  
 Nez : Fruits rouges, solaire, complexe.  
@@ -137,7 +137,7 @@ Bouche : pleine, complexe, équilibre. Juteux, acidité, tanins.
 ### coteaux-d'aix-en-provence Domaine les Béates rouges Les Béatines 2017 (9€/btl)
 _dégusté le : 13 mars 2019_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2018/2019 : séance n°7 (la provence)](/club/club18-07/)
 
@@ -146,7 +146,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### muscadet-sèvre-et-maine sur lie Domaine de la Bretonnière 2012
 _dégusté le : 14 novembre 2018_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2018/2019 : séance n°3 (les mals aimés)](/club/club18-03/)
 
@@ -162,7 +162,7 @@ _dégusté le : 18 septembre 2018_
 ### Domaine Pétillat Bellevue 2016 (7€/btl)
 _dégusté le : 3 mai 2018_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2017/2018 : séance n°8 (le vignoble de saint-pourçain)](/club/club17-08/)
 
@@ -171,7 +171,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### Domaine Ray Cuvée des Gaumes2005 (6€/btl)
 _dégusté le : 3 mai 2018_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2017/2018 : séance n°8 (le vignoble de saint-pourçain)](/club/club17-08/)
 
@@ -217,7 +217,7 @@ Bouche : tabac, puissant, équlibre.
 ### Stakus Kozuba
 _dégusté le : 16 mars 2017_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2016/2017 : séance n°7 (gin et vodka et verticale de Sotanum)](/club/club16-07/)
 
@@ -482,7 +482,7 @@ Bouche : beurrée, progressivement épicée. Quelle longueur !
 ### saint-pourçain Domaine Courtinat
 _dégusté le : 16 mai 2013_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2012/2013 : séance n°9 (à l'aveugle)](/club/club12-09/)
 
@@ -536,7 +536,7 @@ Tout en équilibre (carafage 72H)
 ### Argentine Garguantua del diablo 2007 (10€/btl)
 _dégusté le : 22 novembre 2012_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2012/2013 : séance n°2 (3ème guerre mondiale la france contre le reste du monde)](/club/club12-02/)
 
@@ -545,7 +545,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### Champagne Delamotte brut (30€/btl)
 _dégusté le : 25 octobre 2012_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2012/2013 : séance n°1 (Souvenir de vacances)](/club/club12-01/)
 
@@ -554,16 +554,16 @@ _Extrait d’une liste — pas de notes détaillées._
 ### minervois Sylla Borie de Maurel 1999 (25€/btl)
 _dégusté le : 25 octobre 2012_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2012/2013 : séance n°1 (Souvenir de vacances)](/club/club12-01/)
 
 **1 vins répertoriés dans les articles** (dernier ajout : 15 mai 2023)
 
-### Savagnin 2016 : parcelle sur marnes rouges affleurantes, élevage béton de deux ans en cuve ovoïde de 30 hl, on a des arômes grillés , empyreumatiques, un côté caillouteux aussi, la bouche est florale, légère, sous-tendue par des amers élégants : l’acidité est plus marquée que sur le chardonnay, mais le très gros volume de l’œuf fait qu’il n’y a aucune trace oxydative.
+### Savagnin 2016 : parcelle sur marnes rouges affleurantes, élevage béton de deux ans en cuve ovoïde de 30 hl, on a des arômes grillés , empyreumatiques, un côté caillouteux aussi, la bouche est florale, légère, sous-tendue par des amers élégants : l'acidité est plus marquée que sur le chardonnay, mais le très gros volume de l'œuf fait qu'il n'y a aucune trace oxydative.
 _dégusté le : 15 mai 2023_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Un week-end, Jura où tu iras](/post/week-end-jura-2022/)
 
@@ -616,7 +616,7 @@ B : Attaque vive, jolie tension. Un très beau vin, à attendre 3/4 ans.
 
 ---
 
-### IGP Pays D’Oc - Anne de Joyeuse - Gargantuavis 2022 (9€/btl)
+### IGP Pays D'Oc - Anne de Joyeuse - Gargantuavis 2022 (9€/btl)
 _dégusté le : 10 avril 2025_
 
 
@@ -633,7 +633,7 @@ B : Équilibre et rondeur. Une très jolie bouche mais avec une finale serrée.
 
 ---
 
-### Terrasses du Larzac - Castelbarry - Les raisins d’y croire 2020 (10€/btl)
+### Terrasses du Larzac - Castelbarry - Les raisins d'y croire 2020 (10€/btl)
 _dégusté le : 10 avril 2025_
 
 
@@ -657,10 +657,10 @@ _dégusté le : 10 avril 2025_
 
 <a href="https://boutique.marrenon.fr/" target="_blank">Marrenon</a>  
 __70% syrah, 30% grenache noir_  
-_Parcelles sélectionnées sur le terroir caractéristique du Luberon, composées de sols argilo- calcaires et d’éboulis caillouteux. Les vignes ont plus de 30 ans._  
+_Parcelles sélectionnées sur le terroir caractéristique du Luberon, composées de sols argilo- calcaires et d'éboulis caillouteux. Les vignes ont plus de 30 ans._  
 _Récolte fin septembre, la vendange est totalement égrappée et non foulée._  
 _Cuvaisons longues : de 3 à 5 semaines selon les parcelles._  
-_Elevage sans soutirage dans des barriques de chêne français, pour 30% neuves, pour 70% d’1 vin et au delà entre 8 et 12 mois._
+_Elevage sans soutirage dans des barriques de chêne français, pour 30% neuves, pour 70% d'1 vin et au delà entre 8 et 12 mois._
 
 C : Rouge profond.  
 N : Épicé, complexe, très concentré, cassis, nez superbe.  
@@ -695,7 +695,7 @@ _dégusté le : 30 janvier 2025_
 
 
 _Grenache gris complanté de quelques souches de maccabeu._  
-_Le domaine des Schistes, qui tient son nom du terroir (roches multicolores à la structure feuilletée), est dirigé par Jacques et Mickaël Sire. Ce domaine, de 55 ha, est situé dans le Roussillon à environ 25 km de Perpignan autour des communes d’Estagel, de Tautavel et de Maury. Situées sur les dernières terrasses soulevées par l'émergence du massif calcaire des Corbières, les vignes sont principalement sur des terres en pentes. La vigne s'accroche sur des coteaux pauvres en matière organique et éléments minéraux, à faible capacité de rétention d'eau. Jacques et Mickaël Sire travaillent dans le respect de la vigne et de l'environnement : la récolte est manuelle et les engrais chimiques ont été abandonnés il y a plus de 10 ans. En ce qui concerne le travail à la vigne, un gros travail d'ébourgeonnage est effectué durant la période végétative. Ce qui consiste à supprimer des organes verts inutiles à la maturation et sensibles aux maladies._  
+_Le domaine des Schistes, qui tient son nom du terroir (roches multicolores à la structure feuilletée), est dirigé par Jacques et Mickaël Sire. Ce domaine, de 55 ha, est situé dans le Roussillon à environ 25 km de Perpignan autour des communes d'Estagel, de Tautavel et de Maury. Situées sur les dernières terrasses soulevées par l'émergence du massif calcaire des Corbières, les vignes sont principalement sur des terres en pentes. La vigne s'accroche sur des coteaux pauvres en matière organique et éléments minéraux, à faible capacité de rétention d'eau. Jacques et Mickaël Sire travaillent dans le respect de la vigne et de l'environnement : la récolte est manuelle et les engrais chimiques ont été abandonnés il y a plus de 10 ans. En ce qui concerne le travail à la vigne, un gros travail d'ébourgeonnage est effectué durant la période végétative. Ce qui consiste à supprimer des organes verts inutiles à la maturation et sensibles aux maladies._  
 _Estagel – Pyrénées-Orientales_
 _16°_
 
@@ -1074,7 +1074,7 @@ _dégusté le : 27 octobre 2021_
 
 
 _Sols argilo-calcaire / tuffeau_
-_Vignes 35 ans – plus ancien domaine de l’AOC (1907) domaine 25 Ha_
+_Vignes 35 ans – plus ancien domaine de l'AOC (1907) domaine 25 Ha_
 _Elevage 4 mois en fûts  
 Nez : Sucrée, poire, beurré, floral, miel  
 Bouche : Attaque fraîche, floral, bel équilibre, tension, suscré résiduel.
@@ -1089,7 +1089,7 @@ _dégusté le : 17 juin 2021_
 
 
 
-_Trousseau à la dame (variété de trousseau avec des grains qui ne se touchent pas) sur une parcelle d’argile à chaille._  
+_Trousseau à la dame (variété de trousseau avec des grains qui ne se touchent pas) sur une parcelle d'argile à chaille._  
 Nez :  Grillé, violette, floral  
 Bouche : Equilibre acidité-fruit avec une belle longueur épicée.
 
@@ -1146,7 +1146,7 @@ _dégusté le : 15 janvier 2020_
 
 
 _Klevener de heiligenstein_  
-_Nature du sol : galets, sable et d’argile_  
+_Nature du sol : galets, sable et d'argile_  
 _Situation : exposition Est/Sud-Est_  
 _Vinification : lies fines 3 mois , soutiré , filtré , mise en bouteille_  
 Oeil : Or vert  
@@ -1208,7 +1208,7 @@ Bouche : Attaque sur les fruits compotés. Puissant, équilibre en tanins et aci
 ### IGP pays d'oc Maison Ventenac 2018 (6€/btl)
 _dégusté le : 12 juin 2019_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2018/2019 : séance 10 (à l'aveugle)](/club/club18-10/)
 
@@ -1217,7 +1217,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### côtes-du-rhône village Château Maucoil 1895 2014 (13€/btl)
 _dégusté le : 12 juin 2019_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2018/2019 : séance 10 (à l'aveugle)](/club/club18-10/)
 
@@ -1226,7 +1226,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### languedoc côtes-du-roussillon villages Cazes 2015 (14€/btl)
 _dégusté le : 12 juin 2019_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2018/2019 : séance 10 (à l'aveugle)](/club/club18-10/)
 
@@ -1259,7 +1259,7 @@ Bouche : structuré (acidité+tanins), équilibre. tanins soyeux.
 ### côtes-de-provence Charmes des demoiselles rosé 2018 (10€/btl)
 _dégusté le : 13 mars 2019_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2018/2019 : séance n°7 (la provence)](/club/club18-07/)
 
@@ -1268,7 +1268,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### coteaux-d'aix-en-provence Domaine les Béates blanc (14€/btl)
 _dégusté le : 13 mars 2019_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2018/2019 : séance n°7 (la provence)](/club/club18-07/)
 
@@ -1313,7 +1313,7 @@ Bouche : équilibré (acide, amer, gras).
 ### coteaux-du-lyonnais Domaine Mazille-Descotes 2016 (7€/btl)
 _dégusté le : 14 novembre 2018_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2018/2019 : séance n°3 (les mals aimés)](/club/club18-03/)
 
@@ -1322,7 +1322,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### vin de france Domaine Pierre Cros Les Mal aimés 2012 (13,5€/btl)
 _dégusté le : 14 novembre 2018_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2018/2019 : séance n°3 (les mals aimés)](/club/club18-03/)
 
@@ -1331,7 +1331,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### vallée du rhône saint-joseph Cave de Tain Esprit de granit 2011 (15€/btl)
 _dégusté le : 8 juin 2018_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2017/2018 : séance 9 (à l'aveugle)](/club/club17-09/)
 
@@ -1340,7 +1340,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### Domaine Gardien Harmonie du bois Jarry 2016 (6€/btl)
 _dégusté le : 3 mai 2018_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2017/2018 : séance n°8 (le vignoble de saint-pourçain)](/club/club17-08/)
 
@@ -1568,7 +1568,7 @@ Bouche : tension, équilibre, épicée.
 ### Blanche de Bruxelles
 _dégusté le : 9 juin 2016_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2015/2016 : séance n°10 (les bières)](/club/club15-10/)
 
@@ -1577,7 +1577,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### Anostéké Indian Pale Ale
 _dégusté le : 9 juin 2016_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2015/2016 : séance n°10 (les bières)](/club/club15-10/)
 
@@ -1586,7 +1586,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### Rodenbach
 _dégusté le : 9 juin 2016_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2015/2016 : séance n°10 (les bières)](/club/club15-10/)
 
@@ -1631,7 +1631,7 @@ Bouche : facile avec une longueur correcte.
 ### Blended Hankey ballister (20€/btl)
 _dégusté le : 11 février 2016_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2015/2016 : séance n°6 (whisky)](/club/club15-06/)
 
@@ -1985,7 +1985,7 @@ Bouche : végétal, tout en équilibre
 ### Vin de table L'arbre Blanc Les petites orgues (15€/btl)
 _dégusté le : 13 juin 2013_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2012/2013 : séance n°10](/club/club12-10/)
 
@@ -1994,7 +1994,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### côtes-du-roussillon Domaine La Rourède l'équilibriste 2010 (8,5€/btl)
 _dégusté le : 16 mai 2013_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2012/2013 : séance n°9 (à l'aveugle)](/club/club12-09/)
 
@@ -2003,7 +2003,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### menetou-salon Philippe Gilbert La renardière 2007 (20€/btl)
 _dégusté le : 16 mai 2013_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2012/2013 : séance n°9 (à l'aveugle)](/club/club12-09/)
 
@@ -2134,7 +2134,7 @@ _100% pinot noir_
 ### pauillac La rose Pauillac 2006 (23€/btl)
 _dégusté le : 22 novembre 2012_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2012/2013 : séance n°2 (3ème guerre mondiale la france contre le reste du monde)](/club/club12-02/)
 
@@ -2143,7 +2143,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### Mexique LA Cetto 2008 (8€/btl)
 _dégusté le : 22 novembre 2012_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2012/2013 : séance n°2 (3ème guerre mondiale la france contre le reste du monde)](/club/club12-02/)
 
@@ -2152,7 +2152,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### IGP coteaux-du-libron Domaine de Valjulius 2010 (10€/blt)
 _dégusté le : 25 octobre 2012_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2012/2013 : séance n°1 (Souvenir de vacances)](/club/club12-01/)
 
@@ -2161,7 +2161,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### IGP coteaux-du-libron Domaine de Valjulius 2011 (9€/blt)
 _dégusté le : 25 octobre 2012_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2012/2013 : séance n°1 (Souvenir de vacances)](/club/club12-01/)
 
@@ -2170,7 +2170,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### bandol Château Pradeaux 99
 _dégusté le : 14 juin 2012_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2011/2012 : séance n°9](/club/club11-09/)
 
@@ -2179,7 +2179,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### savoie François Perrin 2009 Mondeuse
 _dégusté le : 14 juin 2012_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2011/2012 : séance n°9](/club/club11-09/)
 
@@ -2188,7 +2188,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### coteaux-du-languedoc Domaine Peyre Rose Syrah Léone 2003
 _dégusté le : 24 mai 2012_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2011/2012 : séance n°8](/club/club11-08/)
 
@@ -2197,7 +2197,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### côtes-du-roussillon Domaine Mas Crémat L'envie 2010
 _dégusté le : 19 avril 2012_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2011/2012 : séance n°7](/club/club11-07/)
 
@@ -2206,7 +2206,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### châteauneuf-du-pape Vieux Télégraphe 2009
 _dégusté le : 19 avril 2012_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2011/2012 : séance n°7](/club/club11-07/)
 
@@ -2215,7 +2215,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### lirac Domaine Maby La fermade 2006
 _dégusté le : 19 avril 2012_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2011/2012 : séance n°7](/club/club11-07/)
 
@@ -2224,7 +2224,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### Thierry Lebas 2006
 _dégusté le : 15 mars 2012_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2011/2012 : séance n°6](/club/club11-06/)
 
@@ -2233,16 +2233,16 @@ _Extrait d’une liste — pas de notes détaillées._
 ### Mas du Novi 2005
 _dégusté le : 12 janvier 2012_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2011/2012 : séance n°4](/club/club11-04/)
 
 **8 vins répertoriés dans des dégustations du club** (dernier ajout : 15 mai 2023)
 
-### L’assemblage 2020 : il s’agit d’un sous-produit de la parcelle dite la Banode, le nez est proche du crémant, très aérien, équilibré, en bouche on a à la fois une sensation acidulée, citronnée et le terroir, avec une finale saline qui termine bien la bouche
+### L'assemblage 2020 : il s'agit d'un sous-produit de la parcelle dite la Banode, le nez est proche du crémant, très aérien, équilibré, en bouche on a à la fois une sensation acidulée, citronnée et le terroir, avec une finale saline qui termine bien la bouche
 _dégusté le : 15 mai 2023_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Un week-end, Jura où tu iras](/post/week-end-jura-2022/)
 
@@ -2251,7 +2251,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### Vin jaune 2015 : quelle puissance, là aussi, un vin qui fait saliver, les arômes sont floraux, sur la noix jeune aussi (pas encore mure, laiteuse, blanche), des notes grillées aussi, et verre vide , on a le côté curry qui ressort
 _dégusté le : 15 mai 2023_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Un week-end, Jura où tu iras](/post/week-end-jura-2022/)
 
@@ -2260,7 +2260,7 @@ _Extrait d’une liste — pas de notes détaillées._
 ### Chardonnay tradition 2019 18 mois de tonneau, avec un peu de voile, le nez est floral, avec de suite les amandes grillées, un très joli vin à la finale saline et de belle longueur, un très beau prix-plaisir !
 _dégusté le : 15 mai 2023_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Un week-end, Jura où tu iras](/post/week-end-jura-2022/)
 
@@ -2269,42 +2269,42 @@ _Extrait d’une liste — pas de notes détaillées._
 ### Vin jaune 2015 : très beau jaune, digeste, belle tension !
 _dégusté le : 15 mai 2023_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Un week-end, Jura où tu iras](/post/week-end-jura-2022/)
 
 ---
 
-### Chardonnay savagnin 2016 : 5 ans d’élevage, 80% chardonnay ouillé en petit volume (pièce bois), pas de tendance oxydative, le vin est toasté, a des arômes de brioche beurrée : pour EH, le chardonnay donne la rondeur et le savagnin le tranchant, les deux sont vinifiés séparément : les arômes de pomme cuite apparaissent au deuxième nez et en finale
+### Chardonnay savagnin 2016 : 5 ans d'élevage, 80% chardonnay ouillé en petit volume (pièce bois), pas de tendance oxydative, le vin est toasté, a des arômes de brioche beurrée : pour EH, le chardonnay donne la rondeur et le savagnin le tranchant, les deux sont vinifiés séparément : les arômes de pomme cuite apparaissent au deuxième nez et en finale
 _dégusté le : 15 mai 2023_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Un week-end, Jura où tu iras](/post/week-end-jura-2022/)
 
 ---
 
-### Savagnin 2001 : il s’agit d’un vieux savagnin ouillé, au nez de caramel, 19 ans de tonneau, au nez on pense à un vin de paille évolué, c’est sec, complètement hallucinant : c’est toujours en fut.
+### Savagnin 2001 : il s'agit d'un vieux savagnin ouillé, au nez de caramel, 19 ans de tonneau, au nez on pense à un vin de paille évolué, c'est sec, complètement hallucinant : c'est toujours en fut.
 _dégusté le : 15 mai 2023_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Un week-end, Jura où tu iras](/post/week-end-jura-2022/)
 
 ---
 
-### Trousseau Ruzard Rosières 2020 : une tuerie, l’équilibre est incroyable entre les arômes et la structure
+### Trousseau Ruzard Rosières 2020 : une tuerie, l'équilibre est incroyable entre les arômes et la structure
 _dégusté le : 15 mai 2023_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Un week-end, Jura où tu iras](/post/week-end-jura-2022/)
 
 ---
 
-### Savagnin 2015 : fantastique : épicé, riche, équilibré, c’est un choix du vigneron de le déclasser pour manque de complexité, et verre vide, on a des arômes confits de vin de paille
+### Savagnin 2015 : fantastique : épicé, riche, équilibré, c'est un choix du vigneron de le déclasser pour manque de complexité, et verre vide, on a des arômes confits de vin de paille
 _dégusté le : 15 mai 2023_
 
-_Extrait d’une liste — pas de notes détaillées._
+_Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Un week-end, Jura où tu iras](/post/week-end-jura-2022/)

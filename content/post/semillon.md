@@ -8,21 +8,21 @@ writer = "LeChaps"
 
 ## Origines et zones de production  
 
-Le **sémillon** est l’un des grands cépages blancs du **Bordelais** et du **Sud-Ouest**, aux côtés du **sauvignon blanc**.  
-On le retrouve également à l’étranger, notamment en **Australie**, en **Californie**, au **Chili**, en **Argentine** et en **Afrique du Sud**.  
+Le **sémillon** est l'un des grands cépages blancs du **Bordelais** et du **Sud-Ouest**, aux côtés du **sauvignon blanc**.  
+On le retrouve également à l'étranger, notamment en **Australie**, en **Californie**, au **Chili**, en **Argentine** et en **Afrique du Sud**.  
 
 ---
 
 ## Caractéristiques du cépage  
 
 Le sémillon est un cépage **productif** et surtout utilisé en **assemblage**.  
-Sa particularité majeure : il accueille très favorablement la **pourriture noble** (*Botrytis cinerea*), qui permet l’élaboration de grands vins **blancs liquoreux**.  
+Sa particularité majeure : il accueille très favorablement la **pourriture noble** (*Botrytis cinerea*), qui permet l'élaboration de grands vins **blancs liquoreux**.  
 
 Il apporte :  
 
 - du **gras**, de la **richesse** et de la **rondeur**,  
 - une belle **aptitude au vieillissement**,  
-- des **arômes complexes** : miel, fruits secs grillés, beurre frais, fleurs d’acacia, figue, agrumes confits, pomme verte, noix fraîche, cire d’abeille.  
+- des **arômes complexes** : miel, fruits secs grillés, beurre frais, fleurs d'acacia, figue, agrumes confits, pomme verte, noix fraîche, cire d'abeille.  
 
 ---
 
@@ -41,7 +41,7 @@ Récolté par **tries successives**, il donne des vins concentrés, puissants et
 
 - grains rôtis,  
 - agrumes confits,  
-- cire d’abeille,  
+- cire d'abeille,  
 - miel et fruits secs.  
 
 Ces vins liquoreux, souvent très longs en bouche, peuvent vieillir plusieurs décennies en développant une complexité unique.  
@@ -59,13 +59,13 @@ Associé au **sauvignon blanc**, il apporte :
 - structure,  
 - et un **potentiel de garde** remarquable.  
 
-Elevé en barrique, il développe avec le temps des arômes de fleurs blanches, de noisette et de cire d’abeille, gagnant en élégance et en complexité.  
+Elevé en barrique, il développe avec le temps des arômes de fleurs blanches, de noisette et de cire d'abeille, gagnant en élégance et en complexité.  
 
 ---
 
 ## Évolution et place actuelle  
 
-Longtemps dominant, le sémillon est aujourd’hui le **cinquième cépage blanc français en surface**, avec environ **11 000 hectares**, principalement à Bordeaux et dans le Sud-Ouest.  
+Longtemps dominant, le sémillon est aujourd'hui le **cinquième cépage blanc français en surface**, avec environ **11 000 hectares**, principalement à Bordeaux et dans le Sud-Ouest.  
 Cependant, il régresse au profit du **sauvignon blanc**, plus aromatique, frais et immédiat.  
 
 Pourtant, le sémillon produit de **grands vins blancs de garde**, qui nécessitent du temps pour révéler tout leur potentiel.  
@@ -74,19 +74,19 @@ Pourtant, le sémillon produit de **grands vins blancs de garde**, qui nécessit
 
 ## Conclusion  
 
-Le **sémillon** est un cépage d’exception, capable de donner :  
+Le **sémillon** est un cépage d'exception, capable de donner :  
 
 - des **liquoreux mythiques** (Sauternes, Barsac, Monbazillac…),  
 - mais aussi des **blancs secs de grande classe** (Pessac-Léognan, Graves).  
 
-Gras, riche, aromatique et taillé pour la garde, il reste l’un des piliers de la viticulture bordelaise et du Sud-Ouest, tout en s’illustrant avec succès sous d’autres latitudes comme l’**Australie** ou l’**Afrique du Sud**.  
+Gras, riche, aromatique et taillé pour la garde, il reste l'un des piliers de la viticulture bordelaise et du Sud-Ouest, tout en s'illustrant avec succès sous d'autres latitudes comme l'**Australie** ou l'**Afrique du Sud**.  
 
 ## FAQ : Tout savoir sur le sémillon
 
 ### Quelle est la différence entre le sémillon et le sauvignon blanc ?  
 
-Le **sémillon** apporte du gras, de la rondeur et une belle capacité de vieillissement, avec des arômes de miel, cire d’abeille et fruits secs.  
-Le **sauvignon blanc**, plus aromatique et vif, exprime des notes d’agrumes, de buis et de fruits exotiques.  
+Le **sémillon** apporte du gras, de la rondeur et une belle capacité de vieillissement, avec des arômes de miel, cire d'abeille et fruits secs.  
+Le **sauvignon blanc**, plus aromatique et vif, exprime des notes d'agrumes, de buis et de fruits exotiques.  
 En assemblage (notamment à **Pessac-Léognan** et dans les **Graves**), le sauvignon donne la fraîcheur et le sémillon la richesse : un mariage idéal.  
 
 ---
@@ -103,12 +103,12 @@ Il permet donc de produire les plus grands vins **moelleux et liquoreux**, comme
 Le sémillon développe une palette aromatique riche et évolutive :  
 
 - **Jeune** : agrumes, pomme verte, fleurs blanches.  
-- **En liquoreux** : miel, fruits confits, abricot sec, cire d’abeille, figue, fruits secs grillés.  
-- **Avec l’âge** : noisette, beurre frais, notes rôties et épicées.  
+- **En liquoreux** : miel, fruits confits, abricot sec, cire d'abeille, figue, fruits secs grillés.  
+- **Avec l'âge** : noisette, beurre frais, notes rôties et épicées.  
 
 ---
 
-### Quels mets s’accordent avec un vin de sémillon ?  
+### Quels mets s'accordent avec un vin de sémillon ?  
 
 - En **blanc sec** (Pessac-Léognan, Graves) : poissons nobles, volailles à la crème, fromages affinés (comté, beaufort).  
 - En **liquoreux** (Sauternes, Barsac, Monbazillac) : foie gras, fromages bleus (roquefort), desserts aux fruits exotiques ou aux agrumes.  
@@ -117,7 +117,7 @@ Le sémillon développe une palette aromatique riche et évolutive :
 
 ### Où trouve-t-on du sémillon en dehors de Bordeaux ?  
 
-Outre le **Sud-Ouest de la France**, le sémillon s’épanouit aussi à l’international :  
+Outre le **Sud-Ouest de la France**, le sémillon s'épanouit aussi à l'international :  
 
 - en **Australie** (Hunter Valley, célèbres vins blancs secs de garde),  
 - en **Afrique du Sud**,  
@@ -128,7 +128,7 @@ Outre le **Sud-Ouest de la France**, le sémillon s’épanouit aussi à l’int
 
 ### Le sémillon vieillit-il bien ?  
 
-Oui, c’est même l’une de ses grandes forces !  
+Oui, c'est même l'une de ses grandes forces !  
 
 - En liquoreux, un grand **Sauternes** peut se garder plusieurs décennies.  
 - En blanc sec, les meilleurs **Pessac-Léognan** et **Graves** gagnent en complexité après 5 à 15 ans de garde.  

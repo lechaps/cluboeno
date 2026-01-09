@@ -6,11 +6,11 @@ title = "Le gamay"
 writer = "LeChaps"
 +++
 
-Ce cépage originaire de Bourgogne résulterait, d’après les analyses génétiques publiées, d’un croisement entre le Pinot noir et le Gouais blanc. Quand on pense gamay on pense en forcément beaujolais...mais aussi du val de Loire. Il représente 98% de l'encépagement en Beaujolais. On en retrouve en Touraine, en Ardèche et à Gaillac. Il fleurit sans problèmes, ses grappes assez petites résistent bien aux maladies.  
-Le Gamay est un cépage peu vigoureux, faible mais fertile. Sa production doit être maîtrisée car il a tendance à s’épuiser (en particulier en conditions trop fertiles sous des climats chauds). C’est un cépage précoce, sensible aux risques de grillage.  
+Ce cépage originaire de Bourgogne résulterait, d'après les analyses génétiques publiées, d'un croisement entre le Pinot noir et le Gouais blanc. Quand on pense gamay on pense en forcément beaujolais...mais aussi du val de Loire. Il représente 98% de l'encépagement en Beaujolais. On en retrouve en Touraine, en Ardèche et à Gaillac. Il fleurit sans problèmes, ses grappes assez petites résistent bien aux maladies.  
+Le Gamay est un cépage peu vigoureux, faible mais fertile. Sa production doit être maîtrisée car il a tendance à s'épuiser (en particulier en conditions trop fertiles sous des climats chauds). C'est un cépage précoce, sensible aux risques de grillage.  
 Pour le reconnaître :
 
-- à l’extrémité du jeune rameau qui présente une densité faible à moyenne des poils couchés,
+- à l'extrémité du jeune rameau qui présente une densité faible à moyenne des poils couchés,
 - aux jeunes feuilles de couleur jaune à plages bronzées,
 - aux rameaux herbacés avec des entre-nœuds de couleur rouge,
 - aux feuilles adultes orbiculaires, entières ou à cinq lobes, avec un sinus pétiolaire ouvert en V, des dents courtes par rapport à leur largeur à la base, à côtés rectilignes, un limbe involuté et à la face inférieure, une densité très faible des poils couchés et des poils dressés,

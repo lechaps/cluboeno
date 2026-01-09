@@ -8,7 +8,7 @@ writer = "LeChaps"
 
 Au dictionnaire de l'académie française, le terme crémant (participer présent de crémer) possèdent les définitions suivantes :
 
-* **Adjectif masculin** : Seulement dans l’expression _Champagne crémant_, vin de Champagne légèrement pétillant, à la mousse peu abondante.
+* **Adjectif masculin** : Seulement dans l'expression _Champagne crémant_, vin de Champagne légèrement pétillant, à la mousse peu abondante.
 * **Nom masculin** : Champagne crémant. _Boire une coupe de crémant_. Par extension. Vin mousseux élaboré selon la méthode champenoise, à faible pression. _Un crémant de Loire, de Bourgogne._
 
 Avant tout, il semble utile de rappeler quelques notions essentielles au sujet du crémant. Il est, bien entendu, produit en dehors de la Champagne. Huit régions françaises revendiquent une appellation d'origine crémant : **l'Alsace, Bordeaux, la Bourgogne, Die, le Jura, la vallée de la Loire, Limoux, et depuis 2015, la Savoie**. Toutes respectent un cahier des charges qu'il leur est propre : cépages, vendange  à la main, seconde fermentation en bouteille, neufs mois de vieillissement sur lattes minimum... La superficie total consacrée au crémant dans l'Hexagone représente 11 000 ha pour une production de 96,6 millions de bouteilles par ans contre 320 millions en champagne.

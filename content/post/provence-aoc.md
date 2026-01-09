@@ -13,7 +13,7 @@ Les Phocéens, débarqués à Marseille en 600 av. J-C, puis les Romains, les mo
 Sur un terroir de près de 30 000 ha aux reliefs et sols très variés, la Provence bénéficie d'un climat particulièrement favorable à la vigne. Pour tout un chacun, c'est un pays de vacances, où il fait toujours soleil et où les gens à l'accent chantant prennent le temps de vivre. Pour les vignerons aussi, c'est un pays de soleil, qui brille 3000 heures par an. Les pluies ils sont rares mais violente, ils vont fougueux et le relief tourmenté. La structure du vignoble est souvent morcelée, la géologie étant très diversifiée par les reliefs offrant des zones contrastées, tant au niveau des sols que des microclimats, ce qui explique que près de la moitié de la production soit établie en cave coopérative.  
 En Provence, l'influence des millésimes est beaucoup moins marquée et l'on peut estimer une très bonne série, de 2008 à 2003 (2002 étant nettement en dessous). Les blancs sont souvent remarquables, et les rosés reviennent à la tête de ce type de vin (2007 et 2005 superbes).
 
-Le vignoble s’étant principalement sur 3 départements : Var, les Bouches du Rhône et les Alpes Maritimes. (26 130 ha)  
+Le vignoble s'étant principalement sur 3 départements : Var, les Bouches du Rhône et les Alpes Maritimes. (26 130 ha)  
 
 ![photo][1]
 
@@ -29,7 +29,7 @@ Les rouges sont puissants et charpentés, les rosés frais, vifs et savoureux et
 
 ## Appelations
 
-Les IGP représentent 1/3 de la production. On retrouve les IGP Alpilles, les IGP du Mont-Caume, des Maures, d’Argens, des Coteaux du Verdon, et de la Ste Baume.
+Les IGP représentent 1/3 de la production. On retrouve les IGP Alpilles, les IGP du Mont-Caume, des Maures, d'Argens, des Coteaux du Verdon, et de la Ste Baume.
 
 La région abrite neufs appellations AOC parmi lesquelles :
 

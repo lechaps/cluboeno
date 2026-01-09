@@ -17,16 +17,16 @@ Les vignes de Champagne se trouvent principalement sur :
 La **vendange est toujours manuelle** : les raisins ne doivent pas être éclatés afin de préserver la qualité des jus.  
 Particularité champenoise : une partie des vins est produite à partir de **raisins rouges à jus blanc** (pinot noir et pinot meunier).  
 
-L’élaboration passe d’abord par la vinification d’un **vin tranquille** (non effervescent), avant de devenir un vin pétillant grâce à la **seconde fermentation en bouteille**.  
+L'élaboration passe d'abord par la vinification d'un **vin tranquille** (non effervescent), avant de devenir un vin pétillant grâce à la **seconde fermentation en bouteille**.  
 
 ---
 
 ## Les millésimes  
 
-Vin des rois et des princes, devenu symbole de toutes les fêtes, le **champagne** doit sa réputation autant à son **histoire** qu’à son **élaboration unique**.  
+Vin des rois et des princes, devenu symbole de toutes les fêtes, le **champagne** doit sa réputation autant à son **histoire** qu'à son **élaboration unique**.  
 
 - La maturation dure en moyenne **3 ans** (et beaucoup plus pour les millésimés).  
-- Les caves champenoises stockent plus d’**1 milliard de bouteilles** !  
+- Les caves champenoises stockent plus d'**1 milliard de bouteilles** !  
 
 👉 Ne vous fiez pas uniquement au millésime (rarement indiqué) mais à la **signature des maisons** et à la qualité des raisins.  
 
@@ -41,27 +41,27 @@ Quelques repères :
 ## La Route des vins de Champagne  
 
 La **Montagne de Reims** est un des berceaux de la viticulture champenoise.  
-C’est le royaume du **pinot noir**, qui donne des champagnes charpentés et, plus rarement, des vins tranquilles appelés **coteaux-champenois** (parfois rouges).  
+C'est le royaume du **pinot noir**, qui donne des champagnes charpentés et, plus rarement, des vins tranquilles appelés **coteaux-champenois** (parfois rouges).  
 
-Géographiquement, il s’agit de la **côte orientale du bassin parisien**.  
+Géographiquement, il s'agit de la **côte orientale du bassin parisien**.  
 
 - Le versant nord est la **Grande Montagne**.  
 - Le versant sud, qui borde la Marne, appartient à la **Grande Vallée de la Marne**.  
 
-Au sud, un haut-lieu incontournable : **l’abbaye d’Hautvillers**, où Dom Pérignon perfectionna l’art du champagne.  
+Au sud, un haut-lieu incontournable : **l'abbaye d'Hautvillers**, où Dom Pérignon perfectionna l'art du champagne.  
 
 ---
 
 ## Décrypter les étiquettes de champagne  
 
-Sur les bouteilles figurent de **petites lettres suivies d’un numéro**. Elles révèlent le **statut du producteur** :  
+Sur les bouteilles figurent de **petites lettres suivies d'un numéro**. Elles révèlent le **statut du producteur** :  
 
 - **NM** : Négociant manipulant (achète des raisins et vinifie).  
 - **RM** : Récoltant manipulant (le vigneron élabore son propre champagne).  
 - **CM** : Coopérative de manipulation (champagnise la production de ses adhérents).  
 - **SR** : Société de récoltants (plusieurs propriétaires associés).  
 - **RC** : Récoltant coopérateur (le vin est champagnisé en coopérative, puis dégorgé et étiqueté par le vigneron).  
-- **MA** : Marque d’acheteur (marques de distributeurs ou d’enseignes, souvent à éviter).  
+- **MA** : Marque d'acheteur (marques de distributeurs ou d'enseignes, souvent à éviter).  
 
 👉 En règle générale, privilégiez **RM** et **NM** pour garantir traçabilité et qualité.  
 
@@ -87,12 +87,12 @@ Les AOC en Champagne :
 
 ## Grands crus et crus classés  
 
-En Champagne, les raisins sont classés selon l’**échelle des crus** (80 à 100 %).  
+En Champagne, les raisins sont classés selon l'**échelle des crus** (80 à 100 %).  
 
 - **100 %** : Grands Crus (17 villages)  
 - **90 à 99 %** : Premiers Crus (44 villages)  
 
-Cette classification tient compte de la géologie, des microclimats, de l’exposition, de l’âge des vignes et du savoir-faire.  
+Cette classification tient compte de la géologie, des microclimats, de l'exposition, de l'âge des vignes et du savoir-faire.  
 
 ---
 
@@ -105,8 +105,8 @@ Adoptée par les Champenois, elle permit la naissance du champagne : sans elle, 
 
 ## Conclusion  
 
-Le **champagne** est bien plus qu’un vin effervescent : c’est une alliance unique de **terroirs, savoir-faire et histoire**.  
-Chaque bouteille reflète le travail d’une région entière, où traditions et innovations se côtoient pour donner naissance à l’un des vins les plus célèbres du monde.  
+Le **champagne** est bien plus qu'un vin effervescent : c'est une alliance unique de **terroirs, savoir-faire et histoire**.  
+Chaque bouteille reflète le travail d'une région entière, où traditions et innovations se côtoient pour donner naissance à l'un des vins les plus célèbres du monde.  
 
 ## FAQ sur le Champagne
 
@@ -126,7 +126,7 @@ Le champagne évolue magnifiquement en cave grâce à :
 
 - son **acidité naturelle** qui le protège,  
 - la **prise de mousse en bouteille**, qui enrichit sa texture,  
-- l’élevage prolongé sur lies, qui apporte complexité et arômes de brioche, miel, noisette.  
+- l'élevage prolongé sur lies, qui apporte complexité et arômes de brioche, miel, noisette.  
 
 👉 Certains **millésimés** peuvent se conserver 20 à 30 ans !  
 
@@ -134,14 +134,14 @@ Le champagne évolue magnifiquement en cave grâce à :
 
 ### Quelle est la différence entre un champagne millésimé et non-millésimé ?  
 
-- Un **champagne non-millésimé (NM)** est un assemblage de plusieurs années. Il représente le style constant d’une maison.  
-- Un **champagne millésimé** provient d’une seule année exceptionnelle, avec un vieillissement plus long et une personnalité unique.  
+- Un **champagne non-millésimé (NM)** est un assemblage de plusieurs années. Il représente le style constant d'une maison.  
+- Un **champagne millésimé** provient d'une seule année exceptionnelle, avec un vieillissement plus long et une personnalité unique.  
 
 ---
 
 ### Quelles sont les meilleures associations mets et champagne ?  
 
-Le champagne n’est pas réservé à l’apéritif ! Quelques accords parfaits :  
+Le champagne n'est pas réservé à l'apéritif ! Quelques accords parfaits :  
 
 - **Champagne brut** : huîtres, fruits de mer, sushi, fromages de chèvre.  
 - **Blanc de blancs (100 % chardonnay)** : poissons nobles, carpaccio de saint-jacques.  
@@ -152,9 +152,9 @@ Le champagne n’est pas réservé à l’apéritif ! Quelques accords parfaits 
 
 ### Le champagne donne-t-il mal à la tête ?  
 
-Ce n’est pas le champagne lui-même, mais **l’alcool et les excès** qui provoquent le mal de tête.  
-Les sulfites, souvent accusés, sont présents en quantités réglementées, bien inférieures à d’autres vins tranquilles ou moelleux.  
-👉 Un champagne de qualité, consommé avec modération, n’a pas plus d’effet secondaire que tout autre vin.  
+Ce n'est pas le champagne lui-même, mais **l'alcool et les excès** qui provoquent le mal de tête.  
+Les sulfites, souvent accusés, sont présents en quantités réglementées, bien inférieures à d'autres vins tranquilles ou moelleux.  
+👉 Un champagne de qualité, consommé avec modération, n'a pas plus d'effet secondaire que tout autre vin.  
 
 ---
 
@@ -169,5 +169,5 @@ Les sulfites, souvent accusés, sont présents en quantités réglementées, bie
 ### Comment servir le champagne ?  
 
 - Température idéale : **8 à 10 °C** (jamais glacé, pour préserver les arômes).  
-- Verre conseillé : une **flûte tulipe** ou un **verre à vin blanc** (plus adapté qu’une coupe).  
+- Verre conseillé : une **flûte tulipe** ou un **verre à vin blanc** (plus adapté qu'une coupe).  
 - Évitez le seau trop glacé : préférez un rafraîchissement progressif au réfrigérateur.  

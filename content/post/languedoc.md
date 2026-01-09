@@ -6,7 +6,7 @@ title = "AOC : coteaux du languedoc"
 writer = "LeChaps"
 +++
 
-En 30 ans le vignoble du Languedoc est passée de 450 000 ha à 218 000 ha grâce au travail et à l’interprétation d’une nouvelle génération de vignerons, réinventant l’identité des terroirs.  
+En 30 ans le vignoble du Languedoc est passée de 450 000 ha à 218 000 ha grâce au travail et à l'interprétation d'une nouvelle génération de vignerons, réinventant l'identité des terroirs.  
 En 2007, l'appellation coteaux du languedoc c'est élargie en changeant de nom. L'ancienne AOC a fait place, à partir du millésime 2006, à une vaste appellation régionale incluant toutes les aires d'appellation du Languedoc et du Roussillon, jusqu'à la frontière espagnole, à l'exception de Malepère : près de 500 communes. Les AOC sous-régionales (corbières, faugères, saint-chinian, côtes-du-roussillon, etc...) subsistent, à l'exception de l'AOC coteaux du languedoc qui peut toutefois figurer sur les étiquettes jusqu'en 2012.  
 
 ## Cépages

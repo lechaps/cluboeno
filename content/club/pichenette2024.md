@@ -11,7 +11,7 @@ Il s'agit d'une dégustation de vin d'exception dite « Pichenette » puisque ce
 
 ## 1 - Champagne - Perrier Jouet Belle Époque 2004
 
-Oeil : Jaune or, peu d’effervescence, bulle fine.  
+Oeil : Jaune or, peu d'effervescence, bulle fine.  
 Nez : Beurré, citronné, florale.  
 Bouche : Harmonieuse, élégante.  
 
@@ -31,19 +31,19 @@ Bouche : Ample, harmonieuse.
 
 Oeil : Rouge rubis, framboise.  
 Nez : Animal, notes éthérées, rose, floral.  
-Bouche : Vin très élégant, aux tanins soyeux. L’apogée du fruit est passée. Un très grand vin. Une magnifique rose.
+Bouche : Vin très élégant, aux tanins soyeux. L'apogée du fruit est passée. Un très grand vin. Une magnifique rose.
 
 ## 5 - Saint-Émilion premier grand cru classé Château Figeac 2004
 
 Oeil : Rouge foncé.  
-Nez : Tuyaux d’arrosage, alcool, jus de viande, sanguin.  
+Nez : Tuyaux d'arrosage, alcool, jus de viande, sanguin.  
 Bouche : Fumé, boisé exotique (cave à cigare).
 
 ## 6 - Bordeaux Pauillac Château Lynch Moussas 2004
 
 Oeil : Rouge profond violacé.  
 Nez : Boisé, fruits noirs.  
-Bouche : Bois pas totalement digéré. Finale sur l’amertume et l’astringence.  
+Bouche : Bois pas totalement digéré. Finale sur l'amertume et l'astringence.  
 
 ## 7 - Californie birichino 2021
 
@@ -57,7 +57,7 @@ Bouche : Élégante.
 
 Oeil : Jaune profond.  
 Nez : La noix fraîche et le curry, la pomme cuite et pire fraîche.  
-Bouche : Bouche épicée. Neutralité sur l’amande et la fleur blanche.  
+Bouche : Bouche épicée. Neutralité sur l'amande et la fleur blanche.  
 
 ## 9 - Bourgogne Meursault Michel Picard 2004
 

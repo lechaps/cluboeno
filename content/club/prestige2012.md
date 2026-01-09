@@ -22,7 +22,7 @@ Surnommé le Mozart de la côte-de-nuits, le clos-saint-denis joue à la fois su
 
 * **languedoc vin de pays de l'hérault Domaine de La Grange des Pères 2005**  
 _syrah (30 à 40%), mourvèdre (35 à 40%), cabernet sauvignon (plantée en 1990 et assemblé à partir du millésime 1994), counoise (5% environ)_  
-Élevage en fûts neufs, d’un vin et de deux vins (1/3 de chaque)  
+Élevage en fûts neufs, d'un vin et de deux vins (1/3 de chaque)  
 IL aurait du s'appeler la Grande des Pères Bénédictins, mais des problèmes de place sur l'étiquette, Laurent Vaillé a préféré raccourcir le nom du domaine. Cet homme est extrèmement discret, voire introverti, il ne fait aucune apparition dans la presse, et refuse systématiquement toute interview ou rencontre. Il a dans sa jeunesse habité Vichy où il a passé son diplôme de masseur kinésithérapeute. La dégustation : bouquet complexe, intense, charmeur, avec des notes fumés, myrtille, herbes aromatiques, garrigue, avec une bouche tout simplement indescriptible, il faut gôuter pour comprendre. Une grand harmonie de texture, grain de tanin aciduté et sapide matière mûre et puissante.
 
 * **bordeaux péssac-léognan Mission Haut-Brion 1986**  

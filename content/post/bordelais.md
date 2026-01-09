@@ -66,7 +66,7 @@ Et 2007 est très classique et charmeur. Beaux millésimes 2008 (un ton en desso
 
 ## Rive gauche
 
-A l’origine marécages / plaines
+A l'origine marécages / plaines
 
 * Histoire
   * Moyen âge Pauillac et Margaux élevage de mouton et culture du blé.
@@ -77,7 +77,7 @@ A l’origine marécages / plaines
 * Cépage
   * Majoritairement cabernet sauvignon
 * Terroir
-  * Sédiment de grave et poche d’argile sur sous-sol calcaire
+  * Sédiment de grave et poche d'argile sur sous-sol calcaire
   * Sol et sous-sol offre un environnement pauvre qui limite le rendement et sous sol perméable permet à la vigne de descendre à 4 ou 5 m
 
 A partir du 17ème siècle Bordeaux entre dans la course à la qualité. Il s'organise et se professionnalise, fait l'objet d'études et de classements. Très rapidement, la notion de cru gagne du terrain. Elle est employée par les Anglais pour les vins de Lafite (Pauillac), Latour (Pauillac) et Margaux (Margaux.
@@ -90,7 +90,7 @@ Sauternes et de Barsac : 27 Blancs premier et second Cru Classé, avec YQUEM en
 99 crus bourgeois supérieurs
 247 crus bourgeois
 
-En 1936, les Vins de Bordeaux sont décrétés Appellation d’Origine Contrôlée
+En 1936, les Vins de Bordeaux sont décrétés Appellation d'Origine Contrôlée
 
 1973 : Premier Cru Classé confirmé pour les châteaux, Lafite-Rothschild, Latour, Margaux, Mouton-Rothschild et Haut Brion
 1973 : premier classement des Graves avec 16 Grands Crus Classés Pessac-Léognan, dont 8 en vin blanc sec.
@@ -101,7 +101,7 @@ Pentes boisées
 
 * Histoire
   * Moyen âge Bourg et Blaye : port viticole
-  * Couronne d’Angleterre, en 1154, Henri II Plantagenêt, époux d'Alienor d'Aquitaine, monte sur le trône d'Angleterre
+  * Couronne d'Angleterre, en 1154, Henri II Plantagenêt, époux d'Alienor d'Aquitaine, monte sur le trône d'Angleterre
   * La vigne gagne du terrain dans les faubourgs de la ville, conquiert les "palus" des vallées et investit les ceintures des bourgades de Fronsac, Saint-Émilion, Cadillac, Saint Macaire, Langon, Barsac...
   * En 1303, 102 724 tonneaux (1 tonneau = 900 L (soit 4 barriques bordelaises de 225 litres) sont exportés, un record qui ne sera égalé qu'en 1950.
   * Bordeaux redevient français en 1453 après 3 siècles de gouvernement anglais
@@ -111,7 +111,7 @@ Majoritairement merlot
 
 * Terroir
   * Bourg et Blaye : Sol argilo calcaire
-  * Pommerol : Sol argilo sablonneux avec sous d’Alios (crasse de fer)  
+  * Pommerol : Sol argilo sablonneux avec sous d'Alios (crasse de fer)  
   * Saint Émilion : Plateau calcaire versant argilo-calcaire
 
 1811 est un millésime de légende avec ses "vins de la comète"

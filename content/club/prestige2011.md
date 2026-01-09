@@ -32,5 +32,5 @@ _syrah_
 * bourgogne meursault 1er cru Domaine Faiveley 2004
 _chardonnay_
 
-* sauternes 1er Cru Supérieur Château d’Yquem 1996
+* sauternes 1er Cru Supérieur Château d'Yquem 1996
 _75% sémillon, 25% sauvignon_

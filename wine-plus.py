@@ -121,7 +121,7 @@ def latest_dt_str(seq):
 
 
 def _count_icons(s: str) -> int:
-    """Compte les occurrences exactes de l’icône dans une ligne."""
+    """Compte les occurrences exactes de l'icône dans une ligne."""
     return len(re.findall(re.escape(ICON_HTML), s, flags=re.IGNORECASE))
 
 
@@ -132,7 +132,7 @@ def extract_sections_with_icon(content, source_url, source_title, src_dt):
       sections_double: [markdown_section, ...] pour 2+ icônes
     - Titres transformés en ### et nettoyés de 'X - / X – / X —'
     - Ajoute la ligne '_dégusté le : …_'
-    - Lien en bas de bloc vers l’article source (texte = titre Hugo)
+    - Lien en bas de bloc vers l'article source (texte = titre Hugo)
     """
     sections_single = []
     sections_double = []
@@ -147,7 +147,7 @@ def extract_sections_with_icon(content, source_url, source_title, src_dt):
 
     content_len = len(content)
 
-    # 1) Sections dont le titre contient l’icône
+    # 1) Sections dont le titre contient l'icône
     for i, (start, end, level, title, full_line) in enumerate(headers):
         icon_count = _count_icons(full_line)
         if icon_count == 0:
@@ -172,7 +172,7 @@ def extract_sections_with_icon(content, source_url, source_title, src_dt):
         section_md = normalized_header + date_line + ("\n\n" + body if body else "") + link_line
         (sections_double if icon_count >= 2 else sections_single).append(section_md.strip())
 
-    # 2) Lignes non-titres avec l’icône (mini-sections)
+    # 2) Lignes non-titres avec l'icône (mini-sections)
     seen = set()
     for raw_line in content.splitlines():
         icon_count = _count_icons(raw_line)
@@ -193,7 +193,7 @@ def extract_sections_with_icon(content, source_url, source_title, src_dt):
         date_line = f"\n_dégusté le : {format_date_for_display(src_dt)}_"
         section = (
             f"### {line}{date_line}\n\n"
-            "_Extrait d’une liste — pas de notes détaillées._\n\n"
+            "_Extrait d'une liste — pas de notes détaillées._\n\n"
             f"[Lien vers {source_title}]({source_url})"
         )
         (sections_double if icon_count >= 2 else sections_single).append(section.strip())
@@ -202,7 +202,7 @@ def extract_sections_with_icon(content, source_url, source_title, src_dt):
 
 
 def build_frontmatter_toml(date_iso):
-    """Front matter fixe pour l’article généré."""
+    """Front matter fixe pour l'article généré."""
     return (
         "+++\n"
         'categories = ["Dégustations"]\n'
@@ -287,7 +287,7 @@ def main():
 
     # ===== TITRE + INTRODUCTION =====
     parts += [
-        f"Au fil des dégustations du club et des articles publiés sur le site, certains vins nous ont particulièrement marqué par le **plaisir qu’ils procurent** en regard de leur **prix**. Ils sont indiqué par cet icone rapidement identiable : {ICON_HTML}, les fameux “PLUS”",
+        f"Au fil des dégustations du club et des articles publiés sur le site, certains vins nous ont particulièrement marqué par le **plaisir qu'ils procurent** en regard de leur **prix**. Ils sont indiqué par cet icone rapidement identiable : {ICON_HTML}, les fameux “PLUS”",
         "  ",
         "Cette article rassemble ces coups de cœur sous deux niveaux de notation :",
         "  ",
@@ -295,9 +295,9 @@ def main():
         f" - **PLUS ({ICON_HTML})** — vins offrant un **excellent équilibre entre qualité et prix**, que nous recommandons sans hésiter.",
         "  ",
         "> La sélection est classée par ordre chronologique inversé (les plus récentes dégustations en premier) et distinguée selon leur origine :",
-        "> **les dégustations du club** d’un côté, et **les articles publiés** de l’autre.",
+        "> **les dégustations du club** d'un côté, et **les articles publiés** de l'autre.",
         "> ",
-        "> Chaque vin est présenté avec un lien vers sa fiche ou son article d’origine, afin de retrouver le contexte complet de la dégustation.",
+        "> Chaque vin est présenté avec un lien vers sa fiche ou son article d'origine, afin de retrouver le contexte complet de la dégustation.",
         "",
         f"**Récapitulatif :** {count_all} vins “plussés” — "
         f"{count_double_total} {ICON_HTML}{ICON_HTML}, {count_single_total} {ICON_HTML}.",

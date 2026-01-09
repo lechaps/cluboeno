@@ -14,7 +14,7 @@ Les vins blancs de Saint-Chinian sont principalement élaborés à partir de **r
 
 ## Aire Géographique et Production
 
-- **Saint-Chinian**, situé au sud de Faugères et jusqu’à l'appellation Minervois, couvre une aire de 3100 hectares en AOC sur un total d'environ 6000 hectares.
+- **Saint-Chinian**, situé au sud de Faugères et jusqu'à l'appellation Minervois, couvre une aire de 3100 hectares en AOC sur un total d'environ 6000 hectares.
 - La région compte **100 domaines particuliers** et **9 caves coopératives**, avec une appellation communale spéciale pour **Berlou** et **Roquebrun**.
 - Les sols sont schisteux au nord de l'appellation et plus argilo-calcaires au sud.
 
