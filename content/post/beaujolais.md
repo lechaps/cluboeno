@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2025-12-10T17:30:22+00:00"
-tags = ["banane", "bois", "elevage-fut-chene", "fruits-tropicaux", "vin-blanc-fruité", "vin-rouge-fruite"]
+tags = ["banane", "bois", "elevage-fut-chene", "fleurs-colorees", "floral", "fruits-tropicaux", "rose", "vin-blanc-fruité", "vin-rouge-fruite"]
 image = "/img/post/beaujolais.jpg"
 title = "Le Beaujolais"
 writer = "LeChaps"
