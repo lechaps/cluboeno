@@ -1,7 +1,7 @@
 +++
 categories = ["Vignobles"]
 date = "2026-01-10T17:30:22+00:00"
-tags = ["abricot", "bois", "botrytis", "defaut", "elevage-fut-chene", "epices", "iode", "miel", "mineral", "pin", "vin-blanc-age", "vin-blanc-fruité", "volatile"] 
+tags = ["abricot", "bois", "botrytis", "defaut", "elevage-fut-chene", "epices", "iode", "miel", "mineral", "pin", "poivre", "vegetal", "vin-blanc-age", "vin-blanc-fruité", "volatile"] 
 image = "/img/post/savoie.jpg"
 title = "La Savoie"
 writer = "LeChaps"
