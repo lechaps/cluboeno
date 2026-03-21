@@ -17,7 +17,7 @@ Extraction des contenus marqués par <i class="fa fa-plus-circle"></i> dans des 
   date = <ISO UTC actuelle>
   tags = []
   title = "Le classement officiel des vins du Club Oeno : les “PLUS”"
-  writer = "Romain"
+  writer = "LeChaps"
 
 - Structure du rendu :
   ## La partie DOUBLE PLUS (compteur)
@@ -209,7 +209,7 @@ def build_frontmatter_toml(date_iso):
         f'date = "{date_iso}"\n'
         "tags = []\n"
         'title = "Le classement officiel des vins du Club Oeno : les “PLUS”"\n'
-        'writer = "Romain"\n'
+        'writer = "LeChaps"\n'
         "+++\n"
     )
 

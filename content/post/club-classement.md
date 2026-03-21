@@ -1,9 +1,9 @@
 +++
 categories = ["Dégustations"]
-date = "2025-11-11T12:31:22Z"
+date = "2026-03-21T07:41:23Z"
 tags = ["abricot", "acacia", "agrumes", "amande", "ananas", "aubépine", "baies-blanches", "baies-rouges", "beurre", "bois", "bois-de-santal", "botrytis", "cafe", "cannelle", "caramel", "cassis", "cedre", "cerise", "champignon", "chene", "chevrefeuille", "chocolat", "citron", "defaut", "elevage-fut-chene", "epices", "fleur-d'oranger", "fleurs-blanches", "fleurs-colorees", "floral", "fortifie", "fraise", "fruit-de-la-passion", "fruits-a-noyau", "fruits-a-noyaux", "fruits-a-pepins", "fruits-tropicaux", "fumee", "gelee-de-coin", "groseille-a-maquereau", "herbes-fraiches", "herbes-sechees", "iode", "jasmin", "levures", "litchi", "malolactique", "melon", "menthe", "miel", "mineral", "mures", "noix", "oignon", "pain", "pamplemousse", "peche", "pin", "poire", "poivre", "pomme", "prune", "pruneau", "reglisse", "rose", "sous-bois", "sulfites", "tabac", "the-noir", "tilleul", "toast", "toaste", "truffe", "vanille", "vegetal", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-age", "vin-rouge-fruite", "violette"]
 title = "Le classement officiel des vins du Club Oeno : les “PLUS”"
-writer = "Romain"
+writer = "LeChaps"
 +++
 
 Au fil des dégustations du club et des articles publiés sur le site, certains vins nous ont particulièrement marqué par le **plaisir qu'ils procurent** en regard de leur **prix**. Ils sont indiqué par cet icone rapidement identiable : <i class="fa fa-plus-circle"></i>, les fameux “PLUS”
@@ -18,7 +18,7 @@ Cette article rassemble ces coups de cœur sous deux niveaux de notation :
 > 
 > Chaque vin est présenté avec un lien vers sa fiche ou son article d'origine, afin de retrouver le contexte complet de la dégustation.
 
-**Récapitulatif :** 185 vins “plussés” — 46 <i class="fa fa-plus-circle"></i><i class="fa fa-plus-circle"></i>, 139 <i class="fa fa-plus-circle"></i>.
+**Récapitulatif :** 186 vins “plussés” — 46 <i class="fa fa-plus-circle"></i><i class="fa fa-plus-circle"></i>, 140 <i class="fa fa-plus-circle"></i>.
 
 ## Les <i class="fa fa-plus-circle"></i><i class="fa fa-plus-circle"></i> : vins au rapport prix/plaisir exceptionnel
 
@@ -569,7 +569,22 @@ _Extrait d'une liste — pas de notes détaillées._
 
 ## Les <i class="fa fa-plus-circle"></i> : vins avec un excellent équilibre entre qualité et prix
 
-**131 vins répertoriés dans des dégustations du club** (dernier ajout : 6 novembre 2025)
+**132 vins répertoriés dans des dégustations du club** (dernier ajout : 15 janvier 2026)
+
+### Cahors - Cosse maisonneuve - La fage - 2020 (22€/btl)
+_dégusté le : 15 janvier 2026_
+
+
+
+_Cépage : Malbec_  
+
+O : Rouge violacé.  
+N : Souplesse, typique merlot.  
+B : Belle bouche, suave avec un touché soyeux. Trace lactique.
+
+[Lien vers Saison 2025/2026 : séance 4 : Les tanniques du sud-ouest](/club/club25-04/)
+
+---
 
 ### Primitivo IGP (Puglia) - Tenuta Viglione - Vigne della Mansio 2022 (17€/blt)
 _dégusté le : 6 novembre 2025_
