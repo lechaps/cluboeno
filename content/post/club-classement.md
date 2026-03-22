@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
-date = "2026-03-21T07:41:23Z"
-tags = ["abricot", "acacia", "agrumes", "amande", "ananas", "aubépine", "baies-blanches", "baies-rouges", "beurre", "bois", "bois-de-santal", "botrytis", "cafe", "cannelle", "caramel", "cassis", "cedre", "cerise", "champignon", "chene", "chevrefeuille", "chocolat", "citron", "defaut", "elevage-fut-chene", "epices", "fleur-d'oranger", "fleurs-blanches", "fleurs-colorees", "floral", "fortifie", "fraise", "fruit-de-la-passion", "fruits-a-noyau", "fruits-a-noyaux", "fruits-a-pepins", "fruits-tropicaux", "fumee", "gelee-de-coin", "groseille-a-maquereau", "herbes-fraiches", "herbes-sechees", "iode", "jasmin", "levures", "litchi", "malolactique", "melon", "menthe", "miel", "mineral", "mures", "noix", "oignon", "pain", "pamplemousse", "peche", "pin", "poire", "poivre", "pomme", "prune", "pruneau", "reglisse", "rose", "sous-bois", "sulfites", "tabac", "the-noir", "tilleul", "toast", "toaste", "truffe", "vanille", "vegetal", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-age", "vin-rouge-fruite", "violette"]
+date = "2026-03-22T12:25:05Z"
+tags = ["abricot", "acacia", "agrumes", "amande", "ananas", "animal", "aubépine", "baies-blanches", "baies-rouges", "beurre", "bois", "bois-de-santal", "botrytis", "cafe", "cannelle", "caramel", "cassis", "cedre", "cerise", "champignon", "chene", "chevrefeuille", "chocolat", "citron", "defaut", "elevage-fut-chene", "epices", "fleur-d'oranger", "fleurs-blanches", "fleurs-colorees", "floral", "fortifie", "fraise", "fruit-de-la-passion", "fruits-a-noyau", "fruits-a-noyaux", "fruits-a-pepins", "fruits-tropicaux", "fumee", "gelee-de-coin", "groseille-a-maquereau", "herbes-fraiches", "herbes-sechees", "iode", "jasmin", "jus-de-viande", "levures", "litchi", "malolactique", "melon", "menthe", "miel", "mineral", "mures", "noix", "oignon", "pain", "pamplemousse", "peche", "pin", "poire", "poivre", "pomme", "prune", "pruneau", "reglisse", "rose", "sous-bois", "sulfites", "tabac", "the-noir", "tilleul", "toast", "toaste", "truffe", "vanille", "vegetal", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-age", "vin-rouge-fruite", "violette"]
 title = "Le classement officiel des vins du Club Oeno : les “PLUS”"
 writer = "LeChaps"
 +++
@@ -18,7 +18,7 @@ Cette article rassemble ces coups de cœur sous deux niveaux de notation :
 > 
 > Chaque vin est présenté avec un lien vers sa fiche ou son article d'origine, afin de retrouver le contexte complet de la dégustation.
 
-**Récapitulatif :** 186 vins “plussés” — 46 <i class="fa fa-plus-circle"></i><i class="fa fa-plus-circle"></i>, 140 <i class="fa fa-plus-circle"></i>.
+**Récapitulatif :** 187 vins “plussés” — 46 <i class="fa fa-plus-circle"></i><i class="fa fa-plus-circle"></i>, 141 <i class="fa fa-plus-circle"></i>.
 
 ## Les <i class="fa fa-plus-circle"></i><i class="fa fa-plus-circle"></i> : vins au rapport prix/plaisir exceptionnel
 
@@ -569,18 +569,50 @@ _Extrait d'une liste — pas de notes détaillées._
 
 ## Les <i class="fa fa-plus-circle"></i> : vins avec un excellent équilibre entre qualité et prix
 
-**132 vins répertoriés dans des dégustations du club** (dernier ajout : 15 janvier 2026)
+**133 vins répertoriés dans des dégustations du club** (dernier ajout : 19 mars 2026)
+
+### Irouléguy - Domaine Bordaxuria - 2020 (19€/btl)
+_dégusté le : 19 mars 2026_
+
+
+
+_Sortis de la coopérative en 2014, Elorri Reca et Brice Robelet dirigent avec passion ce petit domaine dont le nom signifie “petite ferme blanche” en basque, implanté sur le grès rouge de la montagne de l'Arradoy, en face de Saint-Jean-Pied-de-Port. Le vignoble, certifié bio en 2018, s'étire sur plus de 350 mètres de dénivelé, dont 80 % en terrasses. Chaque année, les cuvées s’approfondissent. Le soin apporté aux vignes de ce terroir particulier, si riche en fer, a rapidement installé le rouge parmi les meilleurs du vignoble basque. Les blancs ne sont pas en reste, affichant une signature particulièrement énergique et raffinée._  
+_La cuvée : Irouléguy 2020 : Pour cette cuvée, le tannat rejoint le cabernet-franc (55/45), en bio, sur un sol de grès rouge, très riche en fer, reposant sur un socle de roche dure. les vignes sont exposées au midi, apportant de très belles maturités. Les baies vendangées à la main sont triées minutieusement, éraflées, puis macèrent un mois environ, avant un élevage de douze mois en cuves béton. 
+RVF (2022): « Sur un millésime 2020 qui fonctionne bien, les tannins déjà souples, le fruit éclatant, le domaine Bordaxuria parvient à nous rendre accessible une appellation réputée rugueuse sur la jeunesse. A boire sans attendre, car ce 2020 se montre déjà merveilleux de fruits rouges et d’épices douces, cuvée parfumée de violette, de fruits noirs et rouges, soulignés de notes balsamiques. Corsée, la bouche affiche une matière dense et profonde qui conserve une belle fraîcheur»
+Guide vert 2024« Parmi les rouges, très homogènes, nous continuons à aimer autant (et même peut-être à préférer) le “froid” 2021 longiligne, cendreux et sanguin au 2020, plus mûr, plus avenant mais aussi plus linéaire ». Une belle réussite.
+90/100_  
+
+_Cépage : Tannat, Cabernet franc_  
+
+O : Carmin violacé.  
+N : Un peu alcoleux. Fruits noirs. Coté sous-bois.  
+B : Bouche puissante avec une finale amer sur des tanins cacao.  
+
+48h après : nez plus cacao, kirsh, les notes résineuses ont disparu, le vin s'est allongé, la bouche est plus cassis et cerise noire, j'essaierais bien sûr un gâteau basque aux cerises, les tanins sont soyeux et accompagnent doucement la finale, gros rapport/qualité/prix
+
+[Lien vers Saison 2025/2026 : séance 4 : Les tanniques du sud-ouest](/club/club25-04/)
+
+---
 
 ### Cahors - Cosse maisonneuve - La fage - 2020 (22€/btl)
-_dégusté le : 15 janvier 2026_
+_dégusté le : 19 mars 2026_
 
 
+
+_Le domaine Cosse Maisonneuve est né en 1999 de l'association de Matthieu Cosse, qui dirige aussi le célèbre Château La Coste en Provence, et Catherine Maisonneuve.
+Les 28 hectares sont plantés en malbec, mais aussi merlot, gamay et cabernet franc. En cave, le travail se fait dans la même lignée que dans les vignes, les vinifications sont le plus naturelles possible, avec levures indigènes, sans collage ni filtration et de longs élevages bien maîtrisés. Le Style des vins du duo Cosse-Maisonneuve fonde le rayonnement contemporain du malbec, plaçant le cahors au Panthéon des grands rouges de France.
+La gamme se définit par un équilibre irréprochable, révélateur de fruits à la juste maturité. La nature préservée par la biodynamie depuis de longues années favorise la maturation lente et sereine des raisins, renforcée par la vision des vignerons, la confiance qu’ils ont dans leurs terroirs et leur aptitude à dénicher la parcelle d’exception, de celles que l’on reconnaît dans La Marguerite et Sidérolithe.
+L'ensemble de la gamme possède une identité particulière qui tient autant à la précision des maturités qu’à un terroir remarquable._  
+
+_La cuvée : La fage 2020 : La Fage est un malbec élaboré à partir de vignes trentenaires cultivées sur des sols d'argile et de cailloux, vendanges à la main et baies triées,  la vinification est tout aussi soignée avec un élevage de 14 mois en barriques vieilles d'un vin. Après une dizaine d'années de garde, il dévoile une superbe concentration aux notes fruitées, florales et légèrement boisées. 
+RVF 2026 « Bien plus ouvert qu'il y a un an, La Fage signe de ses calcaires un nez juteux presque sanguin où le grain du raisin et la pulpe du fruit s'étoffent en bouche sur un tanin d'une grande fraîcheur et belle énergie ; si 2018 est presque prêt (parfum floral et tanins gracieux qui s'exposent juteux et texturés par les calcaires du sol),  2020, lui, est encore dans l'antichambre de son évolution : arômes de jus de viande, floral, épices et tanins moelleux. »
+93/100_  
 
 _Cépage : Malbec_  
 
 O : Rouge violacé.  
 N : Souplesse, typique merlot.  
-B : Belle bouche, suave avec un touché soyeux. Trace lactique.
+B : Belle bouche, suave avec un touché soyeux. Notes lactiques. Magnifique
 
 [Lien vers Saison 2025/2026 : séance 4 : Les tanniques du sud-ouest](/club/club25-04/)
 
