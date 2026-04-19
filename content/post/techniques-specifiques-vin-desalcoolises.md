@@ -1,7 +1,7 @@
 +++
 categories = ["Vinification"]
 date = "2026-04-10T17:30:22+00:00"
-tags = ["acidite", "defaut", "distillation", "membranes", "osmose-inverse", "sous-vide", "vin-blanc-fruité", "vin-rouge-fruité"]
+tags = ["bois", "defaut", "elevage-fut-chene", "oxyde", "pin", "vegetal", "volatile"]
 title = "Techniques spécifiques : les vins désalcoolisés"
 writer = "LeChaps"
 +++
