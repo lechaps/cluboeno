@@ -1,7 +1,7 @@
 +++
 categories = ["Histoire"]
 date = "2026-05-15T17:30:22+00:00"
-tags = [] 
+tags = ["animal", "bouchon", "cuir", "defaut", "elevage-fut-chene", "epices", "herbes-sechees", "the-noir", "vegetal", "vin-rouge-age"] 
 title = "Sans alcool, sans âme — ou comment j'ai failli trahir Bacchus un jeudi soir"
 writer = "LeChaps"
 +++
