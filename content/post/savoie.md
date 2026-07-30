@@ -48,31 +48,31 @@ Le tournant des années 2000 marque toutefois le début d'une véritable reconqu
 
 ## Les cépages de Savoie
 
-Le vignoble savoyard se distingue par une grande diversité de cépages, mêlant variétés locales anciennes et cépages plus largement répandus. L’encépagement est strictement réglementé par le cahier des charges de l’appellation, avec des adaptations selon les dénominations géographiques (Savoie, Haute-Savoie, Isère).
+Le vignoble savoyard se distingue par une grande diversité de cépages, mêlant variétés locales anciennes et cépages plus largement répandus. L'encépagement est strictement réglementé par le cahier des charges de l'appellation, avec des adaptations selon les dénominations géographiques (Savoie, Haute-Savoie, Isère).
 
 ### Les cépages blancs
 
 Les vins blancs représentent la majorité de la production savoyarde. Ils se caractérisent par leur fraîcheur, leur vivacité et leur forte expression du terroir alpin.
 
 * **La jacquère** est le cépage blanc emblématique de la Savoie. Elle fournit près des trois quarts des vins blancs en AOC Vin de Savoie. Elle donne des vins secs, légers et vifs, aux arômes de fleurs blanches et de fruits frais, destinés à être bus jeunes.
-* **L’altesse**, également appelée **roussette**, produit des vins plus structurés et complexes, aptes à une courte garde. En AOC *Roussette de Savoie*, elle développe des notes de fruits secs, de miel et parfois de fleurs. À Seyssel, elle entre dans l’élaboration de vins tranquilles et effervescents.
+* **L'altesse**, également appelée **roussette**, produit des vins plus structurés et complexes, aptes à une courte garde. En AOC *Roussette de Savoie*, elle développe des notes de fruits secs, de miel et parfois de fleurs. À Seyssel, elle entre dans l'élaboration de vins tranquilles et effervescents.
 * **La mondeuse blanche** (ou mondeuse B) est un cépage ancien et rare, donnant des vins aromatiques, fins et originaux.
 * **Le chasselas**, surtout présent en Haute-Savoie, produit des vins légers et souples, parfois légèrement perlants.
-* **Le gringet**, cépage autochtone longtemps assimilé à tort au savagnin ou à la famille des traminers, est principalement cultivé dans la vallée de l’Arve, notamment sur le vignoble d’Ayze (AOC). Il est utilisé pour des vins tranquilles et effervescents.
-* **La roussanne**, appelée localement **bergeron**, donne des vins riches et puissants, aux arômes d’abricot, de miel et d’épices.
-* **La molette**, cépage discret, est utilisée principalement dans l’élaboration des vins effervescents en AOC Seyssel et Bugey.
-* D’autres cépages blancs autorisés complètent l’encépagement : **aligoté**, **chardonnay**, **marsanne**, **verdesse**, **pinot gris**, **veltliner rouge précoce**, ainsi que des cépages accessoires comme la **petite sainte-Marie** ou le **bia**.
+* **Le gringet**, cépage autochtone longtemps assimilé à tort au savagnin ou à la famille des traminers, est principalement cultivé dans la vallée de l'Arve, notamment sur le vignoble d'Ayze (AOC). Il est utilisé pour des vins tranquilles et effervescents.
+* **La roussanne**, appelée localement **bergeron**, donne des vins riches et puissants, aux arômes d'abricot, de miel et d'épices.
+* **La molette**, cépage discret, est utilisée principalement dans l'élaboration des vins effervescents en AOC Seyssel et Bugey.
+* D'autres cépages blancs autorisés complètent l'encépagement : **aligoté**, **chardonnay**, **marsanne**, **verdesse**, **pinot gris**, **veltliner rouge précoce**, ainsi que des cépages accessoires comme la **petite sainte-Marie** ou le **bia**.
 
 ### Les cépages rouges
 
 Les rouges et rosés savoyards offrent des profils variés, allant de vins légers et fruités à des cuvées plus charpentées et épicées.
 
-* **La mondeuse noire** est le grand cépage rouge local. Elle donne des vins structurés, avec de la mâche, une belle acidité et des arômes complexes de fruits noirs, de poivre et d’épices. Les meilleures cuvées gagnent à vieillir entre deux et six ans.
+* **La mondeuse noire** est le grand cépage rouge local. Elle donne des vins structurés, avec de la mâche, une belle acidité et des arômes complexes de fruits noirs, de poivre et d'épices. Les meilleures cuvées gagnent à vieillir entre deux et six ans.
 * **Le gamay**, largement implanté, apporte fruité et souplesse. Il est utilisé seul ou en assemblage.
-* **Le pinot noir**, bien que d’origine bourguignonne, a trouvé sa place en Savoie et contribue à des vins élégants et fins.
-* **Le persan**, originaire de la vallée de la Maurienne, est un cépage ancien remis à l’honneur. Il produit des vins colorés, tanniques et aromatiques.
-* **Le poulsard**, cépage jurassien, entre notamment dans l’élaboration du **Cerdon du Bugey**, un effervescent rosé délicat élaboré selon la méthode ancestrale.
-* En Isère, on retrouve également des cépages plus confidentiels comme **l’étraire de la Dui**, **le servanin** ou **le joubertin**.
-* Des cépages accessoires (VIFA) sont autorisés à titre d’adaptation : **corbeau**, **dousset**, **hibou noir** et **mondeuse grise**.
+* **Le pinot noir**, bien que d'origine bourguignonne, a trouvé sa place en Savoie et contribue à des vins élégants et fins.
+* **Le persan**, originaire de la vallée de la Maurienne, est un cépage ancien remis à l'honneur. Il produit des vins colorés, tanniques et aromatiques.
+* **Le poulsard**, cépage jurassien, entre notamment dans l'élaboration du **Cerdon du Bugey**, un effervescent rosé délicat élaboré selon la méthode ancestrale.
+* En Isère, on retrouve également des cépages plus confidentiels comme **l'étraire de la Dui**, **le servanin** ou **le joubertin**.
+* Des cépages accessoires (VIFA) sont autorisés à titre d'adaptation : **corbeau**, **dousset**, **hibou noir** et **mondeuse grise**.
 
 [1]: /img/post/savoie.jpg
