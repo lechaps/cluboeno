@@ -4,7 +4,7 @@ date = "2025-06-23T17:30:22+00:00"
 tags = ["abricot", "agrumes", "ananas", "baies-blanches", "bois", "botrytis", "champignon", "chocolat", "citron", "defaut", "elevage-fut-chene", "epices", "fleurs-colorees", "floral", "fruits-a-noyaux", "fruits-a-pepins", "fruits-tropicaux", "groseille-a-maquereau", "herbes-fraiches", "herbes-sechees", "menthe", "miel", "noix", "oxyde", "peche", "pin", "pomme", "rose", "sous-bois", "the-noir", "toaste", "vanille", "vegetal", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-age", "violette"] 
 title = "Le week-end du Jura" 
 image = "/img/post/jura2025-vandelle.jpg"
-writer = "Romain"
+writer = "LeChaps"
 +++
 
 Et oui, encore une fois, nous sommes repartis en wine trip dans le Jura, cette région qui ne cesse jamais de surprendre. Ce n'est pas seulement un voyage de dégustation, c'est aussi un retour à un vignoble où les vins ont cette capacité singulière de bousculer les repères, parfois à la première gorgée, parfois après plusieurs minutes de réflexion. Entre les paysages, les vignerons et les bouteilles, le Jura garde une vraie identité, faite de fraîcheur, d'oxydation maîtrisée, de salinité et de charme un peu mystérieux.
