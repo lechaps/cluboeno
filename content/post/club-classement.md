@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
-date = "2026-07-30T22:27:33Z"
-tags = ["abricot", "acacia", "agrumes", "amande", "ananas", "animal", "aubépine", "baies-blanches", "baies-rouges", "beurre", "bois", "bois-de-santal", "botrytis", "cafe", "cannelle", "caramel", "cassis", "cedre", "cerise", "champignon", "chene", "chevrefeuille", "chocolat", "citron", "defaut", "elevage-fut-chene", "epices", "fleur-d'oranger", "fleurs-blanches", "fleurs-colorees", "floral", "fortifie", "fraise", "fruit-de-la-passion", "fruits-a-noyau", "fruits-a-noyaux", "fruits-a-pepins", "fruits-tropicaux", "fumee", "gelee-de-coin", "groseille-a-maquereau", "herbes-fraiches", "herbes-sechees", "iode", "jasmin", "jus-de-viande", "levures", "litchi", "malolactique", "melon", "menthe", "miel", "mineral", "mures", "noix", "oignon", "oxyde", "pain", "pamplemousse", "peche", "pin", "poire", "poivre", "pomme", "prune", "pruneau", "reglisse", "rose", "sous-bois", "sulfites", "tabac", "the-noir", "tilleul", "toast", "toaste", "truffe", "vanille", "vegetal", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-age", "vin-rouge-fruite", "violette"]
+date = "2026-07-31T13:33:33Z"
+tags = []
 title = "Le classement officiel des vins du Club Oeno : les “PLUS”"
 writer = "LeChaps"
 +++
@@ -18,7 +18,7 @@ Cette article rassemble ces coups de cœur sous deux niveaux de notation :
 > 
 > Chaque vin est présenté avec un lien vers sa fiche ou son article d'origine, afin de retrouver le contexte complet de la dégustation.
 
-**Récapitulatif :** 190 vins “plussés” — 46 <i class="fa fa-plus-circle"></i><i class="fa fa-plus-circle"></i>, 144 <i class="fa fa-plus-circle"></i>.
+**Récapitulatif :** 196 vins “plussés” — 46 <i class="fa fa-plus-circle"></i><i class="fa fa-plus-circle"></i>, 150 <i class="fa fa-plus-circle"></i>.
 
 ## Les <i class="fa fa-plus-circle"></i><i class="fa fa-plus-circle"></i> : vins au rapport prix/plaisir exceptionnel
 
@@ -2302,7 +2302,74 @@ _Extrait d'une liste — pas de notes détaillées._
 
 [Lien vers Saison 2011/2012 : séance n°4](/club/club11-04/)
 
-**10 vins répertoriés dans des dégustations du club** (dernier ajout : 23 juin 2025)
+**16 vins répertoriés dans des dégustations du club** (dernier ajout : 23 juin 2026)
+
+### Clos de Venise 2024
+_dégusté le : 23 juin 2026_
+
+
+
+Jaune clair, légèrement beurré et empyreumatique. La bouche joue joliment entre acidité et amertume, avec cette petite belle humeur qui donne envie de prendre un second verre juste pour voir si l'on n'a pas été trop hâtif dans le jugement.
+
+[Lien vers Le week-end dans la loire](/post/week-end-loire-2026/)
+
+---
+
+### Haut de la Butte 2023
+_dégusté le : 23 juin 2026_
+
+
+
+Douze mois d'élevage, rouge rubis, violette, poivron mûr, fruits rouges. La bouche est harmonieuse, fraîche, avec une seconde bouche poivrée et une finale agréable, ce qui est déjà beaucoup pour un vin qui arrive avec l'allure d'un jeune homme de bonne famille.
+
+[Lien vers Le week-end dans la loire](/post/week-end-loire-2026/)
+
+---
+
+### Le Mont sec 2024
+_dégusté le : 23 juin 2026_
+
+
+
+Nez de fruit blanc, petit fruit jaune, saké. En bouche, attaque douce, puis une seconde bouche sur l'amertume, avec des notes de gingembre.
+
+[Lien vers Le week-end dans la loire](/post/week-end-loire-2026/)
+
+---
+
+### Clos du Bourg demi-sec 2023
+_dégusté le : 23 juin 2026_
+
+
+
+Parfait pour la cuisine asiatique, ou sur un foie gras.
+Nez expressif, foin, amande fraîche, minéral, floral. La bouche attaque franchement, la texture crayeuse tapisse la bouche d'une petite poudre tannique très agréable, puis la finale s'allonge sur un dialogue entre sucre et amertume.
+
+[Lien vers Le week-end dans la loire](/post/week-end-loire-2026/)
+
+---
+
+### Clos moelleux 2025
+_dégusté le : 23 juin 2026_
+
+
+
+Potentialité de millésime mythique. 61g de sucre résiduel. Nez floral, saké, badiane, bouche magnifique d'équilibre, qui vous dit, sans même vous regarder : « laisse-moi le temps, et je te donnerai plus. »
+
+[Lien vers Le week-end dans la loire](/post/week-end-loire-2026/)
+
+---
+
+### Soleil de Coulaine
+_dégusté le : 23 juin 2026_
+
+
+
+Rosé de presse, saumon, nez de vinaigre de framboise, bouche fraîche, simple, fruitée, efficace, parce que parfois il faut savoir être utile avant d'être grand.
+
+[Lien vers Le week-end dans la loire](/post/week-end-loire-2026/)
+
+---
 
 ### Cuvée tradition 2021 (17€/btl)
 _dégusté le : 23 juin 2025_
