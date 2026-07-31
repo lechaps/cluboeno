@@ -264,7 +264,6 @@ Ce weekend dans le Jura 2025 n'a pas été seulement un moment de dégustation :
 ![photo][2]
 ![photo][7]
 
-
 [1]: /img/post/jura2025-aviet.jpg
 [2]: /img/post/jura2025-chateau-chalon.jpg
 [3]: /img/post/jura2025-comte.jpg
