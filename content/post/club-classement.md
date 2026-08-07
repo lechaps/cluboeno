@@ -1,7 +1,7 @@
 +++
 categories = ["Dégustations"]
 date = "2026-07-31T13:33:33Z"
-tags = []
+tags = ["abricot", "acacia", "agrumes", "amande", "ananas", "animal", "aubépine", "baies-blanches", "baies-rouges", "beurre", "bois", "bois-de-santal", "botrytis", "cafe", "cannelle", "caramel", "cassis", "cedre", "cerise", "champignon", "chene", "chevrefeuille", "chocolat", "citron", "defaut", "elevage-fut-chene", "epices", "fleur-d'oranger", "fleurs-blanches", "fleurs-colorees", "floral", "foin", "fortifie", "fraise", "fruit-de-la-passion", "fruits-a-noyau", "fruits-a-noyaux", "fruits-a-pepins", "fruits-tropicaux", "fumee", "gelee-de-coin", "groseille-a-maquereau", "herbes-fraiches", "herbes-sechees", "iode", "jasmin", "jus-de-viande", "legume", "levures", "litchi", "malolactique", "melon", "menthe", "miel", "mineral", "mures", "noix", "oignon", "oxyde", "pain", "pamplemousse", "peche", "pin", "poire", "poivre", "poivron", "pomme", "prune", "pruneau", "reglisse", "rose", "sous-bois", "sulfites", "tabac", "the-noir", "tilleul", "toast", "toaste", "truffe", "vanille", "vegetal", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-age", "vin-rouge-fruite", "vinaigre", "violette", "volatile"]
 title = "Le classement officiel des vins du Club Oeno : les “PLUS”"
 writer = "LeChaps"
 +++
