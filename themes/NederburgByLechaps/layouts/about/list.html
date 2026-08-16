@@ -1,20 +1,171 @@
 {{ define "body" }}
-	<body class="page-template-default page ct-body singular singular-page not-front standard">
+
+<body class="page-template-default page ct-body singular singular-page not-front standard about-page">
+
 {{ end }}
 
+
 {{ define "main" }}
-	<div id="main" class="main" role="main">
-		<div id="loop-container" class="loop-container">
-			<div class="entry">
-				<div class="entry-header">
-					<h1 class="entry-title">{{ .Title }}</h1>
-				</div>
-				<div class="entry-container">
-					<div class="entry-content">
-						<article>{{ .Content }}</article>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+
+<div id="main" class="main" role="main">
+
+    <div id="loop-container" class="loop-container">
+
+        <div class="entry">
+
+            <div class="entry-header">
+
+                <h1 class="entry-title">{{ .Title }}</h1>
+
+                <p class="about-tagline">
+                    Une joyeuse troupe de passeurs
+                </p>
+
+            </div>
+
+
+            {{ with .Params.hero }}
+
+            <figure class="about-hero">
+
+                <img
+                    src="{{ . | relURL }}"
+                    alt="Les membres du Club Oeno"
+                    loading="eager"
+                >
+
+            </figure>
+
+            {{ end }}
+
+
+            <div class="entry-container">
+
+                <div class="entry-content">
+
+                    <article class="about-content">
+
+                        {{ .Content }}
+
+                    </article>
+
+
+                    {{ with .Params.team }}
+
+                    <section class="about-team-section" aria-labelledby="about-team-title">
+
+                        <header class="about-section-header">
+
+                            <h2 id="about-team-title">La troupe</h2>
+
+                            <p>
+                                Des palais, des expériences et des personnalités différentes.
+                                Une même curiosité pour ce qu'il y a dans le verre.
+                            </p>
+
+                        </header>
+
+
+                        <div class="about-team">
+
+                            {{ range . }}
+
+                                {{ $memberName := . }}
+                                {{ $member := index $.Site.Params.writers $memberName }}
+
+                                {{ with $member }}
+
+                                <article class="about-member">
+
+                                    {{ with .avatar }}
+
+                                    <img
+                                        class="about-member-avatar"
+                                        src="{{ . | relURL }}"
+                                        alt="Portrait de {{ $memberName }}"
+                                        loading="lazy"
+                                        width="140"
+                                        height="140"
+                                    >
+
+                                    {{ end }}
+
+                                    <h3 class="about-member-name">
+                                        {{ $memberName }}
+                                    </h3>
+
+                                    {{ with .bio }}
+
+                                    <div class="about-member-bio">
+
+                                        {{ range . }}
+
+                                            {{ if . }}
+                                                <p>{{ . }}</p>
+                                            {{ end }}
+											{{ $writerURL := printf "writer/%s/" ($memberName | urlize) | relURL }}
+											{{ $writerPages := where $.Site.RegularPages "Params.writer" $memberName }}
+											{{ $articleCount := len $writerPages }}
+										
+											<p class="about-member-articles">
+
+												<a href="{{ $writerURL }}">
+
+													{{ if eq $articleCount 1 }}
+														Voir son article
+													{{ else }}
+														Voir ses {{ $articleCount }} articles
+													{{ end }}
+
+													<span aria-hidden="true">→</span>
+
+												</a>
+
+											</p>
+
+                                        {{ end }}
+
+                                    </div>
+
+                                    {{ end }}
+
+                                </article>
+
+                                {{ end }}
+
+                            {{ end }}
+
+                        </div>
+
+                    </section>
+
+                    {{ end }}
+
+
+                    <nav class="about-links" aria-label="Continuer la découverte">
+
+                        <a href="{{ "club/" | relURL }}">
+                            Nos dégustations
+                        </a>
+
+                        <a href="{{ "post/" | relURL }}">
+                            Nos articles
+                        </a>
+
+                        <a href="{{ "contact/" | relURL }}">
+                            Nous contacter
+                        </a>
+
+                    </nav>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
 {{ end }}

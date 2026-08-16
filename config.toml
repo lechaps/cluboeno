@@ -40,7 +40,7 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
 [params]
   #usepostimgfolder = true # Unmark to use post folder for images. Default is static folder.
   slogan = "L'oenologie pour tous"
-  description = "Cluboeno, votre club oenologie en ligne. Des dégustations, des articles, des informations, tout ce que vous devez savoir si vous aimez l'univer du vin et des spiritueux." # meta description
+  description = "Club Oeno est une joyeuse troupe d’amateurs et de passeurs de vin. Dégustations, découvertes, rencontres et escapades dans les vignobles." # meta description
   copyright = [
     "&copy; 2024 www.cluboeno.com",
     "L'alcool est à consommer avec modération...",
@@ -83,7 +83,7 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
   weight = 3
 
   [[menu.main]]
-  name = "Présentation"
+  name = "Le Club"
   url = "about/"
   weight = 4
 
@@ -158,7 +158,7 @@ unsafe= true # permet d'utiliser du HTML dans les articles markdown
     email = ""
     avatar = "/img/vince_icone.jpg"
     bio = [
-      "Un verre de vin c'est bon pour la santé, le reste de la bouteille c'est bon pour le moral. Suivez la prescription du Docteur."
+      "Toujours prêt à prescrire une nouvelle dégustation. Pour le reste, demandez plutôt conseil au docteur."
     ]
     facebook      = ""
     twitter       = ""

@@ -245,7 +245,7 @@ Nez de Vin Santo, confiture d'abricot, miélé, ciré. Bouche à l'attaque sucr�
 
 Pour conlure il est difficile de résumer notre WE Jurassien. Cette région mérite le détour à la fois pour la qualité de ses produits que pour la chaleur de l'accueil qui est réservée au dégustateur, qu'il soit amateur ou passionné. Pour avoir fait quelques régions, rarement nous sommes accueillis avec autant de convivialité pour des produits d'une qualité aussi constante, et ce, dans tous les domaines où nous sommes passés. En fait nous n'avons qu'un seul regret, celui de n'avoir pu honorer d'autres domaines à la réputation tout aussi positive (Aviet, Puffeney, etc...). Mais ce choix est assumé car il est indispensable de rendre au vigneron de cette région l'attention qu'ils mettent dans leur accueil. Et si prochainement un amis vous demande « on va dans le jura ? », répondez-lui « Jura où tu iras !»
 
-_A noter que cet article résulte de la mise en commun des notes prises Philippe, Thomas et Lechaps._
+_A noter que cet article résulte de la mise en commun des notes prises Philippe, Thomas et LeChaps._
 
 [1]: /img/post/jura_etoile-terrain.png
 [2]: /img/post/jura_montbourgeau-vigne_01.png

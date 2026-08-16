@@ -4,7 +4,7 @@ date = "2020-10-05T17:30:22+00:00"
 tags = ["beurre", "bouchon", "defaut", "malolactique", "oxyde"] 
 title = "Techniques spécifiques : les vins blanc"
 image = "/img/post/technique-vin-blanc.jpg"
-writer = "Lechaps"
+writer = "LeChaps"
 +++
 
 Les étapes de vinification des vins blancs :

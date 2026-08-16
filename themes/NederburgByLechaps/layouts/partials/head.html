@@ -17,13 +17,39 @@
 <link rel="icon" type="image/png" href="favicon.png">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
-{{ if .IsPage }}
-    <meta name="robots" content="all,follow">
-    <meta name="googlebot" content="index,follow,snippet,archive">
-{{ else }}
-    <meta name="robots" content="noindex, nofollow">
-    <meta name="googlebot" content="noindex, nofollow">
-{{ end }}
+{{/* =====================================================
+     ROBOTS / INDEXATION
+     Par défaut : toutes les pages sont indexables.
+     Exceptions : taxonomies, termes et contact.
+     Une valeur définie dans le front matter reste prioritaire.
+     ===================================================== */}}
+
+{{- $robots := "index,follow,max-image-preview:large" -}}
+
+{{/* Pages racines des taxonomies : non indexées */}}
+{{- if eq .Kind "taxonomy" -}}
+    {{- $robots = "noindex,follow" -}}
+{{- end -}}
+
+{{/*
+    Termes tags/categories : non indexés.
+    Les pages auteurs /writer/... restent indexables.
+*/}}
+{{- if and (eq .Kind "term") (ne .Data.Plural "writer") -}}
+    {{- $robots = "noindex,follow" -}}
+{{- end -}}
+
+{{/* Page Contact : utile à l'utilisateur mais peu pertinente dans l'index */}}
+{{- if eq .Section "contact" -}}
+    {{- $robots = "noindex,follow" -}}
+{{- end -}}
+
+{{/* Override manuel depuis le front matter */}}
+{{- with .Params.robots -}}
+    {{- $robots = . -}}
+{{- end -}}
+
+<meta name="robots" content="{{ $robots }}">
 
 <link rel="stylesheet" id="ct-tracks-google-fonts-css" href="https://fonts.googleapis.com/css?family=Raleway%3A400%2C700&amp;subset=latin%2Clatin-ext&amp;ver=4.7.2" type="text/css" media="all">
 <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | relURL  }}" type='text/css' media='all'>
