@@ -4,7 +4,7 @@ title = "Le Club Oeno"
 description = "Club Oeno est une joyeuse troupe d'amateurs et de passeurs de vin. Dégustations, découvertes, rencontres et escapades dans les vignobles."
 hero = "/img/about/club.jpg"
 robots = "index,follow"
-team = ["LeChaps", "Thomas", "Philippe", "Vince", "Christophe"]
+team = ["LeChaps", "Thomas", "Philippe", "Vince", "Benoit", "Christophe",]
 +++
 
 ## Une joyeuse troupe de passeurs
