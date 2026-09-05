@@ -1,6 +1,6 @@
 +++
 categories = ["Dégustations"]
-date = "2026-07-31T13:33:33Z"
+date = "2026-08-05T11:26:17Z"
 tags = ["abricot", "acacia", "agrumes", "amande", "ananas", "animal", "aubépine", "baies-blanches", "baies-rouges", "beurre", "bois", "bois-de-santal", "botrytis", "cafe", "cannelle", "caramel", "cassis", "cedre", "cerise", "champignon", "chene", "chevrefeuille", "chocolat", "citron", "defaut", "elevage-fut-chene", "epices", "fleur-d'oranger", "fleurs-blanches", "fleurs-colorees", "floral", "foin", "fortifie", "fraise", "fruit-de-la-passion", "fruits-a-noyau", "fruits-a-noyaux", "fruits-a-pepins", "fruits-tropicaux", "fumee", "gelee-de-coin", "groseille-a-maquereau", "herbes-fraiches", "herbes-sechees", "iode", "jasmin", "jus-de-viande", "legume", "levures", "litchi", "malolactique", "melon", "menthe", "miel", "mineral", "mures", "noix", "oignon", "oxyde", "pain", "pamplemousse", "peche", "pin", "poire", "poivre", "poivron", "pomme", "prune", "pruneau", "reglisse", "rose", "sous-bois", "sulfites", "tabac", "the-noir", "tilleul", "toast", "toaste", "truffe", "vanille", "vegetal", "vin-blanc-age", "vin-blanc-fruité", "vin-rouge-age", "vin-rouge-fruite", "vinaigre", "violette", "volatile"]
 title = "Le classement officiel des vins du Club Oeno : les “PLUS”"
 writer = "LeChaps"
@@ -18,7 +18,7 @@ Cette article rassemble ces coups de cœur sous deux niveaux de notation :
 > 
 > Chaque vin est présenté avec un lien vers sa fiche ou son article d'origine, afin de retrouver le contexte complet de la dégustation.
 
-**Récapitulatif :** 196 vins “plussés” — 46 <i class="fa fa-plus-circle"></i><i class="fa fa-plus-circle"></i>, 150 <i class="fa fa-plus-circle"></i>.
+**Récapitulatif :** 200 vins “plussés” — 46 <i class="fa fa-plus-circle"></i><i class="fa fa-plus-circle"></i>, 154 <i class="fa fa-plus-circle"></i>.
 
 ## Les <i class="fa fa-plus-circle"></i><i class="fa fa-plus-circle"></i> : vins au rapport prix/plaisir exceptionnel
 
@@ -569,7 +569,52 @@ _Extrait d'une liste — pas de notes détaillées._
 
 ## Les <i class="fa fa-plus-circle"></i> : vins avec un excellent équilibre entre qualité et prix
 
-**134 vins répertoriés dans des dégustations du club** (dernier ajout : 4 juin 2026)
+**138 vins répertoriés dans des dégustations du club** (dernier ajout : 4 septembre 2026)
+
+### Etna - Tornatore - Etnia bianco (18€/btl)
+_dégusté le : 4 septembre 2026_
+
+
+
+_Cépage : caricante_  
+
+O : Jaune brillant.  
+N : Expressif, agrume, caustique, vieux fût.  
+B : Très buvable, harmonieux, acidité maîtrisée. Finale pleine et magnifique.
+
+[Lien vers Saison 2025/2026 : Soirée entre Friends, Va Fa Napoli](/club/club25-07/)
+
+---
+
+### Dolomite - Fontanasanta - Foradoli (23€/btl)
+_dégusté le : 4 septembre 2026_
+
+
+
+_Cépage : Manzoni bianco_  
+
+O : Jaune or brillant.  
+N : Coing, poire, miel, coco et fruits exotiques. Notes lactiques et poussiéreuses, encore marquées par l’élevage. Le nez s’affine à l’aération, mais reste déroutant.  
+B : Structure d’un jeune vin, arômes d’un vin vieux. Bouche tendue et fruitée, sur l’orange amère, avec la matière d’un vin orange. Belle longueur. Juste magnifique.
+
+[Lien vers Saison 2025/2026 : Soirée entre Friends, Va Fa Napoli](/club/club25-07/)
+
+---
+
+### Calabria - Barone e Bolaro - Passito 2023 (17€/btl)
+_dégusté le : 4 septembre 2026_
+
+
+
+_Cépage : greco bianco_  
+
+O : Jaune ambré.  
+N : Nez éthéré, évoquant un alcool. Fruits secs, amande, abricot sec et rôti, figue, coing. Orange amère et confite, pamplemousse, miel et bois précieux. Quelle élégance !  
+B : Bouche élégante, sur l’abricot et le bois précieux. Sucrosité fine. Magnifique équilibre entre tension et sucre.
+
+[Lien vers Saison 2025/2026 : Soirée entre Friends, Va Fa Napoli](/club/club25-07/)
+
+---
 
 ### Weingut - Hildegardishof 1990 (11€/btl)
 _dégusté le : 4 juin 2026_
@@ -837,6 +882,23 @@ Nez :  Discret, légèrement miéllé, zeste de citron, poussiéreux, 2ème nez 
 Bouche : Attaque franche sur l'amertume. Aciduté avec une trame saline. Bouche tendu mais agréable avec une finale plutôt longue. Un joli vin de repas.
 
 [Lien vers Saison 2024/2025 : séance 1 : Le tour d'Espagne (te gusta el sabor del blanco ?)](/club/club24-01/)
+
+---
+
+### Poussard blanc L'Étoile 2023 (11€/btl)
+_dégusté le : 13 juillet 2024_
+
+
+
+Blanc de noir.
+
+La robe est blanche, sans vraiment laisser deviner l'origine du cépage.
+
+Le nez est assez surprenant, mêlant des notes iodées, florales et exotiques, avec une touche de vanille qui apporte un peu de rondeur à l'ensemble.
+
+La bouche confirme cette impression avec beaucoup de finesse et un fruit exotique assez inhabituel. C'est finalement surtout en finale que le Jura revient vraiment, avec des notes de pomme et de noix verte.
+
+[Lien vers Dégustation surprise du Jura](/club/surprisejura2024/)
 
 ---
 

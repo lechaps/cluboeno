@@ -25,7 +25,7 @@ Au fil des bouteilles, chacun a apporté ses découvertes, ses coups de cœur, s
 
 C'est de cette curiosité collective qu'est né Club Oeno.
 
-## Nous n'avons pas le même palais. Et c'est tant mieux.
+## Nous n'avons pas le même palais. Et c'est tant mieux
 
 Chez Club Oeno, il y a l'amateur à la mémoire encyclopédique, le gourmand, le collectionneur, le chasseur de bonnes affaires, le prudent, le bavard, le fantaisiste, le gastronome…
 
@@ -39,7 +39,7 @@ Nos expériences différentes donnent naissance à des avis argumentés, bienvei
 
 Et c'est généralement lorsque nous ne sommes pas d'accord que la dégustation devient la plus intéressante.
 
-## Dans la vie, faut être curieux !
+## Dans la vie, faut être curieux
 
 Une appellation inconnue, un cépage oublié, un millésime improbable ou un domaine dont personne n'a entendu parler ?
 
@@ -119,4 +119,4 @@ Et surtout…
 
 Vineusement,
 
-**Le Club Oeno**
+_Le Club Oeno_
